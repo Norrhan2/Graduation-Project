@@ -1,0 +1,128 @@
+[
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "Musa approached the blazing bush in the fertile valley of Tuwa. The flames swirled around the lush leaves without singeing them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous blazing bush in fertile valley of Tuwa, flames swirling around lush foliage without singeing, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "Musa drew near the radiant bush in the majestic valley of Tuwa. The vibrant flames danced without burning the verdant leaves.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous radiant bush in majestic valley of Tuwa, vibrant flames dancing without burning verdant foliage, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "As Musa approached the blazing bush in the fertile valley of Tuwa, the flames swirled around the lush leaves without singeing them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous blazing bush in fertile valley of Tuwa, flames swirling around lush foliage without singeing, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "Musa reached the radiant bush in the majestic valley of Tuwa. The vibrant flames danced without consuming the verdant leaves.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous radiant bush in majestic valley of Tuwa, vibrant flames dancing without consuming verdant foliage, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "Musa beheld the miraculous bush in the valley of Tuwa. The flames swirled around the lush leaves without singeing them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous bush in valley of Tuwa, flames swirling around lush foliage without singeing, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "As Musa approached the blazing bush in the fertile valley of Tuwa, the flames danced around the verdant leaves without burning them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous blazing bush in fertile valley of Tuwa, flames dancing around verdant foliage without burning, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "Musa approached the radiant bush in the valley of Tuwa. The flames danced around the verdant leaves without consuming them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous radiant bush in valley of Tuwa, flames dancing around verdant foliage without consuming, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "As Musa approached the blazing bush in the valley of Tuwa, the flames danced around the lush leaves without consuming them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous blazing bush in valley of Tuwa, flames dancing around lush foliage without consuming, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "Musa beheld the blazing bush in the fertile valley of Tuwa. The flames danced around the verdant leaves without burning them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous blazing bush in fertile valley of Tuwa, flames dancing around verdant foliage without burning, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "As Musa approached the blazing bush in the fertile valley of Tuwa, the flames danced around the lush leaves without burning them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous blazing bush in fertile valley of Tuwa, flames dancing around lush foliage without burning, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "Musa drew near the blazing bush in the valley of Tuwa. The flames swirled around the verdant leaves without consuming them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous blazing bush in valley of Tuwa, flames swirling around verdant foliage without consuming, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "As Musa approached the radiant bush in the valley of Tuwa, the flames danced around the lush leaves without burning them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous radiant bush in valley of Tuwa, flames dancing around lush foliage without burning, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "Musa reached the radiant bush in the valley of Tuwa. The vibrant flames danced without consuming the verdant leaves.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous radiant bush in valley of Tuwa, vibrant flames dancing without consuming verdant foliage, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "Musa approached the miraculous bush in the valley of Tuwa. The flames danced around the verdant leaves without consuming them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous bush in valley of Tuwa, flames dancing around verdant foliage without consuming, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "As Musa approached the blazing bush in the valley of Tuwa, the flames swirled around the lush leaves without burning them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous blazing bush in valley of Tuwa, flames swirling around lush foliage without burning, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "Musa drew near the miraculous bush in the valley of Tuwa. The vibrant flames danced without consuming the verdant leaves.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous bush in valley of Tuwa, vibrant flames dancing without consuming verdant foliage, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "Musa approached the blazing bush in the fertile valley of Tuwa. The vibrant flames danced around the verdant leaves without consuming them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous blazing bush in fertile valley of Tuwa, vibrant flames dancing around verdant foliage without consuming, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "Musa reached the radiant bush in the valley of Tuwa. The vibrant flames swirled around the lush leaves without burning them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous radiant bush in valley of Tuwa, vibrant flames swirling around lush foliage without burning, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "Musa approached the miraculous bush in the fertile valley of Tuwa. The vibrant flames danced around the lush leaves without burning them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous bush in fertile valley of Tuwa, vibrant flames dancing around lush foliage without burning, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "As Musa approached the radiant bush in the fertile valley of Tuwa, the vibrant flames danced around the verdant leaves without burning them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous radiant bush in fertile valley of Tuwa, vibrant flames dancing around verdant foliage without burning, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  },
+  {
+    "instruction": "Convert this Islamic story into a structured image generation prompt respecting Islamic guidelines (no prophet faces).",
+    "input": "Musa reached the miraculous bush in the fertile valley of Tuwa. The flames swirled around the verdant leaves without burning them.",
+    "output": "{\"scene_type\": \"first_person\", \"setting\": \"valley\", \"image_prompt\": \"First-person perspective looking at miraculous bush in fertile valley of Tuwa, flames swirling around verdant foliage without burning, divine golden light emanating from center, ancient Sinai landscape, morning mist, soft dawn lighting, Islamic manuscript illumination style, flat perspective, geometric arabesque borders, rich earth tones with ultramarine accents, no human figures visible, sense of awe and sacredness\\",
+    "reasoning": "Retained the same scene and setting while maintaining the Islamic guidelines and adjusting the narrative to suit the training data requirements.}"
+  }
+]

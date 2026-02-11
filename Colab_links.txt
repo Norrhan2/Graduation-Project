@@ -1,0 +1,19 @@
+train llama 8b:
+
+https://colab.research.google.com/drive/1nFL4QvmB-yvqZsLcRdiNocqQRSBNTLM9?usp=sharing
+
+Generate Data for training:
+
+https://colab.research.google.com/drive/1hXMR52OBCq5tziPcHtaOyLZ2CxqXAmc2?usp=sharing
+
+Comparision and evaluation of LLM's:
+
+https://colab.research.google.com/drive/1iFvSBaLuc1B_70dkeIRFM6_QB0JtJUM0?usp=sharing
+
+Image gen test:
+
+https://colab.research.google.com/drive/1Iy98LSl4jKPrvOxJtZqcN7ye8Dj7Gp3D?usp=sharing
+
+Initial Prototype:
+
+https://colab.research.google.com/drive/1Hg7nGCKbAmSCubEtCiraLPXeEL6tiMi1?usp=sharing
