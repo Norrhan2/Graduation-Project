@@ -1,0 +1,105 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Tariikhna Panel Schema v2 (Simplified)",
+  "description": "One scene description in, one panel out. Character descriptions included for consistency when chaining panels.",
+
+  "type": "object",
+  "required": ["scene_title", "era", "region", "characters", "moral_lesson", "narrative_text", "compliance", "image_prompt"],
+
+  "properties": {
+    "scene_title": {
+      "type": "string",
+      "example": "Abu Bakr Prepares for the Hijra"
+    },
+    "era": {
+      "type": "string",
+      "enum": ["pre_islamic_prophets", "ancient_prophets", "pre_prophetic", "early_makkah", "late_makkah", "madinah_early", "madinah_late"],
+      "description": "Historical era - informs clothing, architecture, and setting details."
+    },
+    "region": {
+      "type": "string",
+      "enum": ["makkah", "madinah", "arabian_desert", "egypt_ancient", "levant_ancient", "sinai", "abyssinia", "other"],
+      "description": "Geographic setting."
+    },
+    "source_reference": {
+      "type": "string",
+      "example": "Ibn Hisham, Al-Sira Al-Nabawiyya, Vol. 2"
+    },
+
+    "characters": {
+      "type": "array",
+      "description": "Every character visible in this panel. Each defined with fixed appearance details for consistency.",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "role", "depiction_rule", "appearance"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "example": "abu_bakr"
+          },
+          "name": {
+            "type": "string",
+            "example": "Abu Bakr al-Siddiq"
+          },
+          "role": {
+            "type": "string",
+            "enum": ["prophet", "sahabi", "family_of_prophet", "antagonist", "supporting", "crowd"]
+          },
+          "depiction_rule": {
+            "type": "string",
+            "enum": ["NO_FACE", "FROM_BEHIND", "SILHOUETTE", "FULL"],
+            "description": "Prophets MUST be NO_FACE, FROM_BEHIND, or SILHOUETTE. Sahaba and others can be FULL."
+          },
+          "appearance": {
+            "type": "string",
+            "description": "Complete physical description in one paragraph: age, skin tone, build, facial hair, clothing with colors, distinguishing features. Must be historically accurate.",
+            "example": "Late 40s, light olive skin, slender build. Thin grey-streaked beard with slight henna tint. Wearing an off-white cotton thobe, plain brown woolen cloak, white cloth head wrap. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+          }
+        }
+      }
+    },
+
+    "moral_lesson": {
+      "type": "string",
+      "description": "The Islamic moral or value this scene teaches.",
+      "example": "Preparation and trust in Allah go hand in hand."
+    },
+
+    "narrative_text": {
+      "type": "string",
+      "description": "Simple, age-appropriate story text (for children 6-12) to display alongside the panel image.",
+      "example": "Abu Bakr had been waiting for this moment. He had already prepared two strong camels for the journey, feeding them carefully for months!"
+    },
+
+    "compliance": {
+      "type": "object",
+      "required": ["prophet_check", "modesty_check", "child_safe"],
+      "properties": {
+        "prophet_check": {
+          "type": "string",
+          "enum": ["NO_PROPHET_IN_SCENE", "PROPHET_FROM_BEHIND", "PROPHET_SILHOUETTE", "PROPHET_NOT_VISIBLE"],
+          "description": "How is any prophet handled? Must never show face."
+        },
+        "modesty_check": {
+          "type": "string",
+          "enum": ["COMPLIANT", "NEEDS_REVIEW"]
+        },
+        "child_safe": {
+          "type": "string",
+          "enum": ["APPROPRIATE", "NEEDS_REVIEW"]
+        },
+        "notes": {
+          "type": "string",
+          "description": "Any specific compliance notes.",
+          "example": "Prophet shown from behind with green cloak. Abu Bakr face visible - permissible for Sahaba."
+        }
+      }
+    },
+
+    "image_prompt": {
+      "type": "string",
+      "description": "THE FINAL OUTPUT. A detailed 80-120 word visual description to send directly to the image generation model. Must include: art style, setting, character appearances (pulled from characters array), lighting, composition, and explicit 'no modern objects' note.",
+      "example": "Children's watercolor illustration. A small walled mud-brick courtyard in 7th century Makkah, late afternoon. A slender older Arab man with light olive skin, thin grey-streaked beard with henna tint, wearing off-white thobe and brown woolen cloak, standing beside two healthy camels with simple rope halters. His hand rests gently on the nearest camel's neck. Warm golden-orange sunlight from the left casting long shadows. Wooden feeding trough and clay water basin near the wall. Wide shot, eye level. Warm sand and brown palette. No modern objects."
+    }
+  }
+}

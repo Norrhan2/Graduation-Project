@@ -1,0 +1,163 @@
+[
+  {
+    "training_id": "ex_001",
+    "input": "Abu Bakr wept with joy when the Prophet told him he would be his companion on the journey to Madinah. Abu Bakr had already prepared two camels, feeding them for months in anticipation of this moment.\nSource: Ibn Hisham, Al-Sira Al-Nabawiyya, Vol. 2; Al-Bukhari, Hadith 3905",
+    "output": {
+      "scene_title": "Abu Bakr Learns He Will Accompany the Prophet",
+      "era": "late_makkah",
+      "region": "makkah",
+      "source_reference": "Ibn Hisham, Al-Sira Al-Nabawiyya, Vol. 2; Al-Bukhari, Hadith 3905",
+      "characters": [
+        {
+          "id": "prophet_muhammad",
+          "name": "Prophet Muhammad (PBUH)",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+        },
+        {
+          "id": "abu_bakr",
+          "name": "Abu Bakr al-Siddiq",
+          "role": "sahabi",
+          "depiction_rule": "FULL",
+          "appearance": "Late 40s, light olive skin, slender build, slightly shorter than average. Thin grey-streaked beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders from humility."
+        }
+      ],
+      "moral_lesson": "True friendship means being ready to sacrifice everything for the sake of Allah and those you love.",
+      "narrative_text": "When the Prophet told Abu Bakr that he would be his companion on the journey, Abu Bakr cried tears of joy. He had been preparing for this day — he had already bought two strong camels and fed them well for months!",
+      "compliance": {
+        "prophet_check": "PROPHET_FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Prophet shown from behind, backlit by doorway light. Abu Bakr shown with full face, tears of joy visible. Scene is warm and emotional, fully appropriate for children."
+      },
+      "image_prompt": "Children's watercolor illustration. Interior of a modest 7th century Makkah mud-brick home. A man in white thobe and green cloak, white turban, seen entirely from behind, standing at an open doorway with warm golden afternoon sunlight streaming in behind him creating a gentle silhouette. Inside, a slender older Arab man with light olive skin, thin grey-streaked beard with henna tint, off-white thobe and brown cloak, sitting on a woven mat looking up with tears of joy, one hand on his chest. Simple mud-brick walls, clay water jug in the corner, small oil lamp. Medium shot, eye level. Warm golden palette. No modern objects."
+    }
+  },
+  {
+    "training_id": "ex_002",
+    "input": "Asma bint Abu Bakr prepared food provisions for the travelers heading to Madinah. She tore her belt into two pieces to tie the food bundles, earning her the title 'Dhat al-Nitaqayn' (She of the Two Belts).\nSource: Ibn Hisham, Al-Sira Al-Nabawiyya, Vol. 2",
+    "output": {
+      "scene_title": "Asma Tears Her Belt to Tie the Provisions",
+      "era": "late_makkah",
+      "region": "makkah",
+      "source_reference": "Ibn Hisham, Al-Sira Al-Nabawiyya, Vol. 2",
+      "characters": [
+        {
+          "id": "asma_bint_abu_bakr",
+          "name": "Asma bint Abu Bakr",
+          "role": "family_of_prophet",
+          "depiction_rule": "FULL",
+          "appearance": "Young woman, approximately 27 years old. Light olive skin, similar to her father. Average build, upright determined posture. Wearing a long loose dark blue jilbab covering to wrists, lighter blue khimar covering hair neck and shoulders. Brown leather belt around waist (key story item). Simple leather sandals barely visible under dress."
+        }
+      ],
+      "moral_lesson": "Even small acts of resourcefulness and sacrifice can earn a person great honor. Asma used what she had without hesitation.",
+      "narrative_text": "Asma, Abu Bakr's brave daughter, quickly prepared bread and dates for the journey. When she needed something to tie the bundles, she tore her own belt in two! People would always remember her courage and call her 'She of the Two Belts.'",
+      "compliance": {
+        "prophet_check": "NO_PROPHET_IN_SCENE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Only Asma in scene. She is fully covered in jilbab and khimar, hands and face visible. Belt tearing is not violent. Scene is empowering and age-appropriate."
+      },
+      "image_prompt": "Children's watercolor illustration. Interior of a 7th century Makkah mud-brick home at night. A young Arab woman with light olive skin wearing a dark blue loose jilbab and lighter blue khimar, kneeling on a woven mat. She grips a brown leather belt with both hands, pulling it apart with determination. Before her on the mat: rounds of flat bread, clusters of dates, dried meat, and cloth wrapping pieces. A clay oil lamp on the floor casts warm flickering orange glow with dancing shadows on the walls. Her expression is focused and resolute. Medium-close shot from slightly above, focused on her hands tearing the belt. Warm brown and orange palette. No modern objects."
+    }
+  },
+  {
+    "training_id": "ex_003",
+    "input": "The Prophet and Abu Bakr set out from Makkah under cover of night, heading south to the Cave of Thawr to hide before continuing their journey north to Madinah.\nSource: Ibn Hisham, Al-Sira Al-Nabawiyya, Vol. 2; Bukhari",
+    "output": {
+      "scene_title": "The Prophet and Abu Bakr Depart Makkah by Night",
+      "era": "late_makkah",
+      "region": "arabian_desert",
+      "source_reference": "Ibn Hisham, Al-Sira Al-Nabawiyya, Vol. 2; Bukhari",
+      "characters": [
+        {
+          "id": "prophet_muhammad",
+          "name": "Prophet Muhammad (PBUH)",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+        },
+        {
+          "id": "abu_bakr",
+          "name": "Abu Bakr al-Siddiq",
+          "role": "sahabi",
+          "depiction_rule": "FULL",
+          "appearance": "Late 40s, light olive skin, slender build, slightly shorter than average. Thin grey-streaked beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders from humility."
+        }
+      ],
+      "moral_lesson": "Tawakkul means trusting in Allah while also taking every practical step. The Prophet planned carefully AND relied on Allah.",
+      "narrative_text": "As the stars filled the night sky, the Prophet and Abu Bakr quietly left Makkah. They trusted in Allah's protection as they set out on the long and dangerous journey ahead.",
+      "compliance": {
+        "prophet_check": "PROPHET_FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Both figures shown from behind riding away. Prophet distinguished by green cloak. Wide shot naturally obscures facial details. Night sky emphasizes Allah's creation."
+      },
+      "image_prompt": "Children's watercolor illustration. Vast desert landscape at night south of 7th century Makkah. Two figures on camels moving away from the viewer into open desert. Lead rider in white thobe with distinctive green cloak and white turban, dignified upright posture, seen entirely from behind. Second rider slightly behind, slender older man in off-white thobe and brown cloak, also from behind. Camels carry tied bundles of provisions. Rocky terrain with low desert shrubs. Dark silhouette of Makkah's buildings on distant hills. Deep dark blue sky filled with bright stars and thin crescent moon. Cool blue-silver moonlight on the landscape. Extreme wide shot, low angle. No modern objects or lights."
+    }
+  },
+  {
+    "training_id": "ex_004",
+    "input": "Suhayb was chased by a group from Makkah as he tried to emigrate. When they caught up to him, he offered them all his wealth in exchange for letting him go. They agreed and took everything he had. When Suhayb arrived in Madinah with nothing, the Prophet said: 'Suhayb has made a profitable deal.'\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 14",
+    "output": {
+      "scene_title": "Suhayb Sacrifices His Wealth to Emigrate",
+      "era": "late_makkah",
+      "region": "arabian_desert",
+      "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 14",
+      "characters": [
+        {
+          "id": "suhayb",
+          "name": "Suhayb al-Rumi",
+          "role": "sahabi",
+          "depiction_rule": "FULL",
+          "appearance": "Middle-aged man, around 40. Reddish-tan skin (known for lighter complexion among Arabs, of Roman descent). Strong stocky build. Short reddish-brown beard. Wearing a simple sandy-colored thobe, now dusty from travel. Leather sandals. Determined fierce expression. Standing firm, arms slightly raised in a stance of defiance."
+        }
+      ],
+      "moral_lesson": "Worldly wealth means nothing compared to faith. Suhayb gave up everything he owned and the Prophet called it a profitable deal — because he gained something far more valuable.",
+      "narrative_text": "When the men from Makkah caught up to Suhayb, he made them an offer: 'Take all my money, just let me go.' They agreed and took everything. Suhayb arrived in Madinah with empty hands but a full heart. The Prophet smiled and said: 'Suhayb has made a very profitable deal!'",
+      "compliance": {
+        "prophet_check": "NO_PROPHET_IN_SCENE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Only Suhayb shown in this panel (the confrontation scene). No violence depicted, just a tense standoff. Prophet's quote appears in narrative text only."
+      },
+      "image_prompt": "Children's watercolor illustration. Rocky desert road outside 7th century Makkah, harsh midday sun. A stocky middle-aged man with reddish-tan skin and short reddish-brown beard, wearing a dusty sandy-colored thobe, standing alone on the road facing away from the viewer toward the direction of Madinah. Behind him on the ground, scattered bags of coins and goods he has left behind. His posture is upright and determined, walking forward with empty hands but confident stride. Harsh bright sunlight casting sharp shadows on the rocky ground. Distant barren hills. Wide shot, slightly low angle emphasizing his solitary determined figure. Warm harsh desert palette. No modern objects."
+    }
+  },
+  {
+    "training_id": "ex_005",
+    "input": "Hagar was running between the hills of al-Safa and al-Marwah, searching desperately for water for her infant son Ishmael. After running back and forth seven times, she heard a voice. Turning toward her child, she saw water gushing from the ground near his feet. She rushed to build a barrier around the spring.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 2, based on Ibn Hisham",
+    "output": {
+      "scene_title": "The Spring of Zamzam Appears",
+      "era": "ancient_prophets",
+      "region": "makkah",
+      "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 2, based on Ibn Hisham",
+      "characters": [
+        {
+          "id": "hagar",
+          "name": "Hagar",
+          "role": "family_of_prophet",
+          "depiction_rule": "FULL",
+          "appearance": "Young woman in her 20s, dark brown skin (Egyptian origin). Slim build showing exhaustion from running. Wearing a long simple undyed linen dress reaching ankles, a beige headscarf covering hair and draping over shoulders. Barefoot on the desert sand. Face shows exhaustion turning to shock and joy. Hands outstretched reaching toward the water."
+        },
+        {
+          "id": "baby_ismail",
+          "name": "Ishmael (infant)",
+          "role": "prophet",
+          "depiction_rule": "NO_FACE",
+          "appearance": "Infant baby, swaddled in simple white cloth. Only the swaddled form visible, face obscured by cloth or angle. Lying on sandy ground near where water is emerging."
+        }
+      ],
+      "moral_lesson": "Allah never abandons those who trust in Him. Hagar did not give up — she kept running and searching. Her effort combined with Allah's mercy brought the miracle of Zamzam.",
+      "narrative_text": "Hagar had run back and forth between the two hills seven times, searching for help. Just when she felt most desperate, she saw something amazing — water was bubbling up from the ground right next to baby Ishmael! She rushed down to protect the precious water.",
+      "compliance": {
+        "prophet_check": "PROPHET_NOT_VISIBLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Baby Ishmael (a prophet) is shown as a swaddled bundle only, face not visible. Hagar is modestly dressed in full-length garment and head covering. The scene shows hope and divine mercy, fully child-appropriate."
+      },
+      "image_prompt": "Children's watercolor illustration. Barren desert valley of ancient Makkah, bright harsh daylight. A young Egyptian woman with dark brown skin, wearing a long undyed linen dress and beige headscarf, running down a sandy slope toward a small infant swaddled in white cloth lying on the ground. Water is bubbling and gushing up from the sandy earth near the baby, catching the sunlight and sparkling. The woman's face shows exhaustion transforming into amazement and joy, hands reaching forward. The baby is a swaddled bundle, face not visible. Dry rocky hills of al-Safa and al-Marwah in the background. Bright blue sky, intense desert sun. Medium-wide shot. Sandy beige and bright water-blue palette. No modern objects."
+    }
+  }
+]
