@@ -1,0 +1,45 @@
+{
+  "training_id": "passage_0175",
+  "input": "The Prophet, however, was keenly aware that any internal trouble or dispute had better be resolved with speed and minimum bloodshed. Muslims are never keen to fight and shed blood anyway. Since the Jews were prepared to leave, the Prophet was ready to let them go under new terms of evacuation. The new terms were that they would have safe conduct to leave Madinah with their women and children. Each of them could have a camel load of his belongings but no arms were allowed.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 22: Vulnerability and Treachery",
+  "output": {
+    "scene_title": "The Prophet Resolves to Let the Jews Leave",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 22: Vulnerability and Treachery",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "jewish_leader",
+        "name": "Jewish Leader",
+        "role": "antagonist",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Late 40s, darker olive skin tone, robust build, dark beard. Wearing dark brown woolen cloak, simple white or beige thobe. No head covering. Distinguished by stern facial expression in shade, dark beard."
+      }
+    ],
+    "moral_lesson": "Compassion and mercy can be the greatest weapons against injustice and violence.",
+    "narrative_text": "The Prophet wanted to resolve the problem with the Jews who were causing trouble in Madinah. He decided to let them leave with their families and belongings, but not with their arms. This way, there would be no bloodshed and the Muslims could live in peace.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, and the Jewish leader is shown as a silhouette to maintain respect and dignity. The scene is peaceful and non-violent, suitable for children."
+    },
+    "image_prompt": "Illustration in a soft, muted color palette. An open courtyard in early Madinah, with a few mud-brick houses in the background. The Prophet, seen entirely from behind, stands in the center, wearing a green cloak over a white thobe and white turban. He gestures with one hand, as if explaining a point. A dark silhouette of a man, the Jewish leader, stands opposite him, with a few of his companions in the background. The atmosphere is calm and respectful, with a hint of sadness. Medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 22,
+    "chapter_title": "Vulnerability and Treachery",
+    "scene_types": [
+      "battle",
+      "journey",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

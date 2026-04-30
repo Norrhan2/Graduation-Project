@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0236",
+  "input": "They would abandon all their claims over their land, money, horses and arms. To these conditions, which were voluntarily offered by the Jews, the Prophet added: “But all guarantees given you would be abrogated if you withhold anything from me.” Thus all Khaybar fell to the Muslims, who were now in possession of all its wealth and land. When the peace agreement was made, the people of Khaybar started to have second thoughts about leaving their land. Hence, they came to the Prophet, requesting him to allow them to stay and work in the farms and orchards.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 29: Back on the Move",
+  "output": {
+    "scene_title": "Khaybar Residents Seek Permission to Stay",
+    "era": "madinah_late",
+    "region": "khaybar",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 29: Back on the Move",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown without face, distinguished by subtle warm light."
+      },
+      {
+        "id": "khaybar_resident",
+        "name": "Khaybar Resident",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium olive skin, athletic build, dark hair with short beard. Wearing a worn white linen thobe, simple woolen cloak, brown leather headband. Worn leather sandals. Slightly anxious expression, hand gestures."
+      }
+    ],
+    "moral_lesson": "It's not always easy to adjust to change, but sometimes it's necessary for the greater good.",
+    "narrative_text": "After the Muslims took control of Khaybar, the residents had second thoughts about leaving their homes and farms. They asked the Prophet if they could stay and continue working, and the Prophet agreed.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown without face, backlit by sunlight. Khaybar resident shown with full face, slightly anxious expression. Scene conveys sense of uncertainty and negotiation, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration. Exterior of a Khaybar farm or orchard, with a few palm trees and a mud-brick wall in the background. A dignified older man in white thobe and brown cloak, turban with tail between shoulder blades, stands in the shade, faceless, looking at a group of younger men. One of the men, in worn white thobe and simple brown headband, stands with hands on hips, looking anxious, while another man gestures with open hands. Warm sunny day with soft blue sky. Medium shot, eye level. Earthy tones, No modern objects."
+  },
+  "metadata": {
+    "chapter": 29,
+    "chapter_title": "Back on the Move",
+    "scene_types": [
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

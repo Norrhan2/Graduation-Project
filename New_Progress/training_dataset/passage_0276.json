@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0276",
+  "input": "He therefore decided to send them an envoy to assure them that his objective was only to worship at the Kaʿbah, not to pick a fight with anyone. His envoy was Kharrāsh ibn Umayyah of the tribe of Khuzaʿah. As soon as Kharrāsh arrived in Makkah, however, his camel was wounded by the Quraysh people, who also wanted to kill him. He was saved by the Ḥabshi tribe, whose master al-Ḥulays was one of the Quraysh’s envoys to the Prophet.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 28: Peace in the Making",
+  "output": {
+    "scene_title": "The Prophet Sends Kharrash to Makkah",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 28: Peace in the Making",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "kharrash_ibn_umayyah",
+        "name": "Kharrash ibn Umayyah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark skin tone typical of Khuza'ah tribe, athletic build. Black beard with faint henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Alert expression, slight air of caution."
+      },
+      {
+        "id": "al_hulays",
+        "name": "al-Hulays ibn al-Qarit",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, medium olive skin, robust build, tall stature. Thick black beard with red henna tint, neatly kept. Wearing off-white cotton thobe, richly embroidered brown woolen cloak, white cloth wrapped as loose head covering. Ornate leather sandals. Confident expression, air of authority."
+      }
+    ],
+    "moral_lesson": "Patience and kindness can overcome even the greatest of obstacles, and that sometimes, the kindness of strangers can lead to unexpected alliances.",
+    "narrative_text": "The Prophet decided to send Kharrash ibn Umayyah to Makkah as an envoy to assure the Quraysh people that his intention was to worship at the Ka'bah, not to fight with them. However, upon arrival, Kharrash's camel was wounded by the Quraysh, and he was saved by the Ḥabshi tribe, whose master al-Ḥulays was actually an envoy of the Quraysh to the Prophet.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, Kharrash and al-Ḥulays shown with full faces. Brief scene of camel attack shown through dust cloud, no graphic violence. Historical setting, no anachronisms."
+    },
+    "image_prompt": "Children's oil painting. Makkah's narrow alleys, 7th century mud-brick architecture. A dignified man in white thobe and green cloak, white turban, seen entirely from behind, standing in an alleyway. Nearby, a wounded camel, distant Quraysh men throwing stones or sticks, seen only as dark silhouettes. In the background, a group of Ḥabshi men, one of whom is al-Ḥulays, wearing richly embroidered cloak, helping the wounded camel. Warm golden palette, soft brushstrokes. No modern objects."
+  },
+  "metadata": {
+    "chapter": 28,
+    "chapter_title": "Peace in the Making",
+    "scene_types": [
+      "journey",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

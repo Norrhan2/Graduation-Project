@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0125",
+  "input": "The moat was too wide and too deep for any horseman to jump over. The rubble and sand left over from digging the moat were piled in a parapet which formed an additional barrier between the Muslims and their enemies. Women and children were guarded in fortified buildings. The Prophet and his fighting forces encamped at the foot of Mount Silʿ with their backs to the mountain. The Quraysh and the confederate Arab tribes which joined the army of unbelievers which marched towards Madinah had a clear motive and a definite aim.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+  "output": {
+    "scene_title": "Madinah Siege: The Prophet and His Men Prepare",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "sahabi_leader",
+        "name": "Ali ibn Abi Talib (Leader of the Sahaba)",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, dark olive skin, athletic build, strong facial features. Thick black beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident expression, slight smile."
+      },
+      {
+        "id": "sahabi_soldier",
+        "name": "An Anonymous Sahabi Soldier",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, light olive skin, average build, rugged facial features. Short black beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Determined expression, slight scowl."
+      }
+    ],
+    "moral_lesson": "Courage and resilience are key to overcoming adversity, especially in the face of overwhelming odds.",
+    "narrative_text": "As the siege of Madinah began, the Prophet and his men prepared to defend their city. The moat and rubble made it difficult for the enemy to approach, and the women and children were safely guarded in fortified buildings. The Prophet and his fighting forces took up positions at the foot of Mount Silʿ, ready to face whatever lay ahead.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by sunlight. Sahaba shown with full faces, determined expressions. No graphic violence or disturbing imagery."
+    },
+    "image_prompt": "Children's watercolor illustration. A rugged 7th century Madinah landscape. A man in white thobe and green cloak, white turban, seen entirely from behind, standing on a rocky outcropping at the foot of Mount Silʿ, with the city walls and moat behind him. In the distance, two men in off-white cotton thobes, plain brown woolen cloaks, white cloth wrapped as loose head covering, standing on a parapet, looking out at the enemy. A small cluster of women and children are seen in a fortified building in the background. Medium shot, eye level. Muted earthy palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 25,
+    "chapter_title": "A Fresh Storm Gathers",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

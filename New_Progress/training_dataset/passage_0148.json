@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0148",
+  "input": "This suggests that the Jews were already settled in Madinah when the Aws and the Khazraj arrived. The Aws clans occupied the southern and eastern areas of Madinah, which were known as the Upper Part, while the Khazraj inhabited the Lower Part in the central and northern areas. There were four clans branching out from the Khazraj, all of whom belonged to Banū al-Najjār, who lived in the central area around the mosque which was later to be built by the Prophet.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 15: Madinah",
+  "output": {
+    "scene_title": "The Aws and Khazraj Arrive in Madinah",
+    "era": "early_makkah",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 15: Madinah",
+    "characters": [
+      {
+        "id": "sahabah_aws",
+        "name": "Aws Sahabi",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s to early 30s, medium to dark olive skin, athletic build. Short beard with slight curl, neatly trimmed. Wearing light brown woolen cloak, off-white cotton thobe, simple head cloth tied at the back. Well-groomed hair, no facial hair apart from short beard. Sandaled feet, slightly dusty from travel."
+      },
+      {
+        "id": "sahabah_khazraj",
+        "name": "Khazraj Sahabi",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s to early 30s, medium olive skin, lean build. Short beard with slight wave, neatly trimmed. Wearing dark brown woolen cloak, off-white cotton thobe, simple head cloth tied at the back. Well-groomed hair, no facial hair apart from short beard. Sandaled feet, slightly dusty from travel."
+      }
+    ],
+    "moral_lesson": "Allah's House is a place of unity, not division. True believers work together to build a strong community, just like the Aws and Khazraj did.",
+    "narrative_text": "Long ago, two tribes, the Aws and the Khazraj, arrived in Madinah. The Aws settled in the southern and eastern parts of the city, while the Khazraj lived in the central and northern areas. They worked together to build a strong community, just like the Prophet would later do.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The scene focuses on the arrival of the Aws and Khazraj in Madinah, without any depiction of the Prophet or graphic content."
+    },
+    "image_prompt": "Miniature watercolor illustration of a 7th century Madinah settlement. The scene depicts two groups of Arab men, Aws and Khazraj, dressed in light and dark brown woolen cloaks, off-white cotton thobes, and simple head cloths. They are standing near a mud-brick wall, with the mosque area in the background. The Aws are shown in the southern area, while the Khazraj are in the central area. The atmosphere is peaceful, with a few palm trees and a simple clay water jug in the corner. The illustration should capture the sense of unity and cooperation between the two tribes. No modern objects."
+  },
+  "metadata": {
+    "chapter": 15,
+    "chapter_title": "Madinah",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

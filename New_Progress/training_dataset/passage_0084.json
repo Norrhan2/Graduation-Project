@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0084",
+  "input": "When the Prophet felt that Abū Lubābah had been gone a long time, he wondered: “Has Abū Lubābah not finished his consultations with his allies?” He was informed of Abū Lubābah’s action and decision. The Prophet said: “Had he come back to me, I would have prayed to God to forgive him. Now that he has done this, I am not the one to release him until God has pardoned him.” For six days Abū Lubābah remained tied to the post in the mosque, eating and drinking almost nothing.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+  "output": {
+    "scene_title": "Abu Lubaba Ties Himself to the Mosque Post",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Mid 50s, medium build, dignified upright posture. Wearing a simple white thobe with a light brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by light brown cloak and subtle warm light."
+      },
+      {
+        "id": "abu_lubabah",
+        "name": "Abū Lubābah ibn Abd al-Mundhir",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, medium olive skin, lean build, slightly taller than average. Thick grey-bearded, neatly kept. Wearing off-white cotton thobe, plain dark brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong features, focused expression."
+      }
+    ],
+    "moral_lesson": "Sincere remorse and willingness to suffer are essential for true forgiveness.",
+    "narrative_text": "The Prophet wondered if Abū Lubābah had finished talking to his friends. He learned what Abū Lubābah had done and was sad. He said that if Abū Lubābah came back, he would pray for his forgiveness. But since Abū Lubābah had chosen to tie himself to the mosque post, the Prophet wouldn't let him go until God forgave him. For six days, Abū Lubābah stayed there, eating almost nothing.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by sunlight. Abū Lubābah shown with full face, expression of determination. Simple scene, easy to understand for children."
+    },
+    "image_prompt": "Watercolor illustration of a typical 7th century Makkah mosque interior. A man in white thobe and light brown cloak, white turban, seen entirely from behind, standing in the doorway of the mosque with warm sunlight streaming in. Inside, a lean Arab man with medium olive skin, thick grey beard, off-white thobe and dark brown cloak, sitting on a woven mat with hands tied to a wooden pillar. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 26,
+    "chapter_title": "An Account to Settle",
+    "scene_types": [
+      "dialogue"
+    ],
+    "generation_warnings": null
+  }
+}

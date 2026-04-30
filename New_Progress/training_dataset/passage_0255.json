@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0255",
+  "input": "I will close in these two mountains over them if you wish me to do so.” The Prophet answered: “I would rather leave them a while in the hope that God will make their offspring people who worship Him alone and do not ascribe Divinity to anyone other than Him.” Now the Prophet still hoped that the Thaqīf would come round. One of his companions suggested that he should pray to God to destroy them, but the Prophet prayed for them in these words: “My Lord, guide the Thaqīf to the truth and relieve us of their burden.” We will see later on that the Prophet’s prayers were answered.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 36: Grouping for a Final Assault",
+  "output": {
+    "scene_title": "The Prophet's Mercy towards Thaqīf",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 36: Grouping for a Final Assault",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "sahabi_1",
+        "name": "Companion of the Prophet",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium skin tone, athletic build, short beard. Wearing a plain brown thobe, white cloth wrapped around head. Simple leather sandals. Expressive eyes, slight frown of concern."
+      }
+    ],
+    "moral_lesson": "Mercy and compassion are essential qualities of a true believer, and they please Allah.",
+    "narrative_text": "The Prophet showed mercy to the Thaqīf people by not wanting to destroy them, but instead prayed for them to be guided to the truth. He hoped that one day they would be grateful servants of Allah.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, concerned companion shown with full face. Warm emotional scene, appropriate for children."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century Makkah landscape with two distant mountains in the background. The Prophet, in white thobe and green cloak, white turban, stands looking out at the mountains with his back to the viewer. A companion, in plain brown thobe and white cloth around head, stands beside him looking concerned. Warm sunlight filters through the landscape. Medium shot, eye level. Earthy palette with soft colors. No modern objects."
+  },
+  "metadata": {
+    "chapter": 36,
+    "chapter_title": "Grouping for a Final Assault",
+    "scene_types": [
+      "dialogue",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

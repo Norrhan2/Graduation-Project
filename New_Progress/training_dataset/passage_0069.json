@@ -1,0 +1,45 @@
+{
+  "training_id": "passage_0069",
+  "input": "When we arrive at Ṣirār, we will have some camels slaughtered and we will celebrate. Your wife will then hear that we have celebrated her marriage and she will put her cushions.” (Putting up cushions was apparently a sign of celebrating a happy occasion.) Jābir said: “But we have no cushions, Messenger of God.” The Prophet said, “But you will have. When you arrive at Madinah you should arrange a good feast.” When the Muslim army arrived at Ṣirār, which was only about five kilometres from Madinah, the Prophet had a number of camels slaughtered and cooked.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 23: Consolidation",
+  "output": {
+    "scene_title": "Preparing a Wedding Feast for Aisha",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 23: Consolidation",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "jahir_bin_abdullah_al_anshari",
+        "name": "Jabir ibn Abdullah al-Ansari",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, light brown skin, athletic build, slightly taller than average. Clean-shaven, short dark beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Bright inquisitive eyes, direct posture."
+      }
+    ],
+    "moral_lesson": "A good host should always provide the best for his guests.",
+    "narrative_text": "The Prophet Muhammad planned a big feast to celebrate the marriage of Aisha. He told Jabir and the others to slaughter some camels and cook them when they arrived at Madinah. Jabir asked, \"But we don't have any cushions, Messenger of God. How will we celebrate?\"",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by sunlight. Jabir shown with full face, inquisitive expression. Warm scene, suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Open sunny day in a 7th century Makkah landscape with palm trees and distant mud-brick homes. A man in white thobe and green cloak, white turban, seen entirely from behind, standing with hands on hips, looking out at the distant landscape. In the foreground, a young Arab man with light brown skin, short dark beard, off-white thobe and brown cloak, white cloth wrapped as head covering, looking up at the Prophet with a questioning expression, hands on hips. Simple desert landscape, few scattered palm leaves, sun shining down. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 23,
+    "chapter_title": "Consolidation",
+    "scene_types": [
+      "dialogue",
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

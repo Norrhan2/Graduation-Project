@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0200",
+  "input": "He chose forty of his companions who walked in double file from the house of al-Arqam to the Kaʿbah, with his uncle Ḥamzah at the head of one file and ʿUmar at the head of the other. They offered a congregational prayer at the Kaʿbah and dispersed. That demonstration gave the Quraysh a clear signal that Islam was there to stay. Its followers might be few in number, particularly after many of them had left for Abyssinia, but they had strength of character and powerful new converts.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 11: Hope and Despair",
+  "output": {
+    "scene_title": "The Prophet Leads His Companions to the Ka'bah",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 11: Hope and Despair",
+    "characters": [
+      {
+        "id": "umar",
+        "name": "ʿUmar ibn al-Khattab",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark skin, athletic build, strong facial features. Thick beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident, assertive posture."
+      },
+      {
+        "id": "hamzah",
+        "name": "Ḥamzah ibn ʿAbd al-Muṭṭalib",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Mid 30s, medium skin tone, stocky build, rugged facial features. Short beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong, determined posture."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Unity and perseverance are key to success in spreading any new idea or message.",
+    "narrative_text": "The Prophet chose forty of his closest friends to walk with him from the house of al-Arqam to the Ka'bah. They prayed together at the Ka'bah and showed everyone that Islam was not going away.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind. Umar and Hamzah shown with full faces. Congregational prayer scene, suitable for children."
+    },
+    "image_prompt": "Colorful illustration of a group of early companions walking in double file, with their leader seen from behind. Medium shot, eye level. The Ka'bah in the background. Umar and Hamzah shown at the head of their respective files, confident and strong. The companions are wearing traditional 7th century Arab clothing, with simple leather sandals and head coverings. A sense of unity and purpose among them. Warm, sunny day, with the Ka'bah's white marble glowing in the sunlight. No modern objects."
+  },
+  "metadata": {
+    "chapter": 11,
+    "chapter_title": "Hope and Despair",
+    "scene_types": [
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "training_id": "passage_0186",
+  "input": "Desperate to be reassured, Hagar shouted to him: was he abandoning them there on God’s orders? When he answered in the affirmative, she said: “He who has ordered you to do that will not abandon us.” Travelling back on his long, lonely journey, Abraham must have experienced all the feelings of an old father abandoning his only child, very young, alone with his young mother in the desert. As a firm believer in God’s wisdom, however, he felt that he could nevertheless entrust them to the care of God.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 1: A Glance Back in History",
+  "output": {
+    "scene_title": "Hagar Trusts in Allah's Plan",
+    "era": "pre_islamic_prophets",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 1: A Glance Back in History",
+    "characters": [
+      {
+        "id": "hagar",
+        "name": "Hagar (wife of Ibrahim)",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, dark brown skin, athletic build, carrying a water skin on her shoulder. Wearing a simple long-sleeved light brown robe, tied at the waist with a leather cord, and a head covering of a white cloth wrapped around her hair. Sandals on her feet, with a small leather bag hanging from her shoulder strap. Her face is calm, yet determined."
+      },
+      {
+        "id": "ibrahim",
+        "name": "Ibrahim (Prophet)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, strong and dignified posture. Wearing a simple, long-sleeved brown robe, tied at the waist with a leather cord. A beige head covering, wrapped around his head, and a simple leather belt around his waist. His build is imposing, yet calm, conveying a sense of trust in Allah's plan."
+      }
+    ],
+    "moral_lesson": "Faith in Allah's wisdom is the greatest comfort in the face of adversity.",
+    "narrative_text": "When Ibrahim told Hagar that she and her son would be left in the desert, Hagar trusted in Allah's plan and reassured herself that He would not abandon them. She remembered Ibrahim's faith and felt calm, knowing that Allah would take care of them.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Ibrahim shown without a face, conveying a sense of spiritual presence. Hagar shown with full face, calm and determined. The scene is set in the desert, with a focus on the trust in Allah's plan."
+    },
+    "image_prompt": "A watercolor illustration of the desert landscape with a single, isolated palm tree in the distance. Hagar, a young woman with dark brown skin, is shown from the front, wearing a simple long-sleeved robe and a head covering, carrying a water skin and a small leather bag. Behind her, a man in a simple brown robe is shown from behind, his face obscured. The sun is setting, casting a warm golden light on the scene. The atmosphere is calm and peaceful, with a sense of trust in Allah's plan."
+  },
+  "metadata": {
+    "chapter": 1,
+    "chapter_title": "A Glance Back in History",
+    "scene_types": [
+      "dialogue",
+      "journey",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

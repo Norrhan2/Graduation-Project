@@ -1,0 +1,64 @@
+{
+  "training_id": "passage_0222",
+  "input": "The Hāshimites and, more particularly, the smaller clan of ʿAbd al-Muṭṭalib had no option but to extend their support to their man, Muhammad. After all, Arabian tribes fought fierce and long wars to protect or avenge their sons for matters which were much less important than that. Indeed, even when a tribesman committed a crime, his tribe gave him protection. Abū Lahab continued with his hostility. He took immediate action to demonstrate his disavowal of his nephew. His two sons, ʿUtbah and ʿUtaybah, were married to the Prophet’s two daughters, Ruqayyah and Umm Kulthūm.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 7: The Call to Islam Goes Public",
+  "output": {
+    "scene_title": "Abu Lahab's Disavowal: Protecting Family Honor",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 7: The Call to Islam Goes Public",
+    "characters": [
+      {
+        "id": "abu_lahab",
+        "name": "Abu Lahab",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Middle 50s, heavy built, stern facial expression. Dark beard with few streaks of grey, neatly trimmed. Wearing a dark brown thobe with a beige cloak draped over shoulders, white turban with a small knot at the top. Simple leather sandals. Distinguished by dark beard and stern facial expression."
+      },
+      {
+        "id": "utbah",
+        "name": "Utbah ibn Abi Lahab",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Early 30s, dark skin, muscular build, tall. Dark beard with no grey, neatly trimmed. Wearing a dark brown thobe, beige cloak draped over shoulders, white turban with a small knot at the top. Simple leather sandals. Distinguished by dark beard and muscular build."
+      },
+      {
+        "id": "utaybah",
+        "name": "Utaybah ibn Abi Lahab",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Early 30s, dark skin, athletic build, slightly shorter than Utbah. Dark beard with no grey, neatly trimmed. Wearing a dark brown thobe, beige cloak draped over shoulders, white turban with a small knot at the top. Simple leather sandals. Distinguished by dark beard and athletic build."
+      },
+      {
+        "id": "ruqayyah",
+        "name": "Ruqayyah bint Muhammad",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late teens, light skin, slender build, wearing a dark brown thobe, white head covering with a small veil. Simple leather sandals. Distinguished by light skin and youthful age."
+      },
+      {
+        "id": "umm_kulthum",
+        "name": "Umm Kulthum bint Muhammad",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Early 20s, light skin, slender build, wearing a dark brown thobe, white head covering with a small veil. Simple leather sandals. Distinguished by light skin and slender build."
+      }
+    ],
+    "moral_lesson": "The importance of standing by one's family and community, even when faced with adversity and opposition.",
+    "narrative_text": "Abu Lahab's sons, Utbah and Utaybah, were married to the Prophet's daughters, Ruqayyah and Umm Kulthum. Their father was not pleased with this union and took immediate action to distance himself from the Prophet.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Abu Lahab's family members are shown with full faces, adhering to Islamic depiction rules."
+    },
+    "image_prompt": "Children's watercolor illustration. A 7th century Makkah street scene. Abu Lahab, a middle-aged man with a heavy build, dark beard, and stern facial expression, stands in the center, wearing a dark brown thobe and beige cloak. His sons, Utbah and Utaybah, stand beside him, wearing dark brown thobes and beige cloaks. The Prophet's daughters, Ruqayyah and Umm Kulthum, stand across from them, wearing dark brown thobes and white head coverings. Simple mud-brick buildings and clay pots in the background. Warm golden palette. Medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 7,
+    "chapter_title": "The Call to Islam Goes Public",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

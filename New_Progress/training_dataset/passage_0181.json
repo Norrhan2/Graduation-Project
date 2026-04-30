@@ -1,0 +1,52 @@
+{
+  "training_id": "passage_0181",
+  "input": "It was God’s will that Abū Sufyān ibn Ḥarb, the leader of the Quraysh, went out that night in the company of Ḥakīm ibn Ḥizām and Budayl ibn Warqā’, to gather intelligence and to try to find some traveller who might have some news or some other information. I was still going on my way, riding the Prophet’s mule, when I heard a conversation between Abū Sufyān and Budayl ibn Warqā’. Abū Sufyān said: “I have never seen such fire and such a great army.” Budayl ibn Warqā’ answered him: “This must be the tribe of Khuzāʿah with the fire of war urging them from within.” [This was a reference to the raid launched on the Khuzāʿah, the Prophet’s allies, which started all these events.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+  "output": {
+    "scene_title": "Abu Sufyan's Nighttime Gathering",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+    "characters": [
+      {
+        "id": "abu_sufyan",
+        "name": "Abu Sufyan ibn Harb",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Mid 40s, fair olive skin, tall and slender build. Dark beard with slight brownish tint. Wearing a luxurious black woolen cloak with gold trim, white cotton thobe underneath, black woolen turban with a golden pin."
+      },
+      {
+        "id": "budayl_bin_warqa",
+        "name": "Budayl ibn Warqa'",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Mid 50s, dark skin, lean build, prominent nose. Dark beard with slight grey tint. Wearing a simple grey woolen cloak, beige cotton thobe underneath, white cloth wrapped as head covering."
+      },
+      {
+        "id": "tariq_bin_kiadan",
+        "name": "Tariq bin Kiadan",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Mid 40s, dark skin, medium build. Wearing a simple beige thobe, white turban with tail between shoulder blades. Simple leather sandals."
+      }
+    ],
+    "moral_lesson": "Even in darkness, God is guiding us towards His will.",
+    "narrative_text": "Late at night, Abu Sufyan and his friends, Hakim and Budayl, were out gathering information. They saw a huge fire and army. Budayl thought it was the Khuzaa tribe, but it was actually the Prophet's army, getting ready to fight.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No prophets in scene, all characters shown with modest clothing. Dark nighttime setting with minimal details, suitable for children."
+    },
+    "image_prompt": "Children's pencil illustration. Dark nighttime Makkah street scene. A tall, slender Arab man with fair olive skin, dark beard and luxurious black cloak, standing with two other men. One has dark skin, lean build, prominent nose and simple grey cloak; the other is seen from behind, wearing a simple beige thobe and white turban. A large fire and army silhouette in the distance. Medium shot, low angle. Dark charcoal palette with warm golden highlights. No modern objects."
+  },
+  "metadata": {
+    "chapter": 34,
+    "chapter_title": "A Long Conflict Draws to a Close",
+    "scene_types": [
+      "dialogue",
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

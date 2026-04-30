@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0245",
+  "input": "When he arrived at the place where the act of treachery was actually committed, the Liḥyān tribesmen realized that the Prophet aimed to attack them. They fled and sought refuge in the nearby mountains. When the Prophet arrived at the Liḥyān quarters he found nobody there. He encamped there for a couple of days and sent several detachments of his forces in all directions, looking for the Liḥyān, but they could discover nothing. Trying to make the most of his expedition, the Prophet suggested to his companions: “If we can go as far as ʿAsafān and encamp there, the Quraysh would realize that we have reached Makkah itself.” He then led his companions until they arrived at ʿAsafān.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+  "output": {
+    "scene_title": "Prophet's Expedition to Liḥyān and the Plains of ʿAsafān",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 26",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a brown bisht draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown bisht and subtle warm light."
+      },
+      {
+        "id": "sahabi_companions",
+        "name": "Companions of the Prophet",
+        "role": "sahabi",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Group of 5-7 men, varying ages, light olive skin, wearing white thobes and brown bisht cloaks, white turbans, leather sandals. Distinguishable by varying facial hair and postures, but never shown with distinctive features."
+      }
+    ],
+    "moral_lesson": "Patience and perseverance are necessary to achieve success in any endeavor.",
+    "narrative_text": "The Prophet arrived at the Liḥyān quarters, but found no one there. He spent a few days searching for them, but they were nowhere to be found. He then suggested a new plan to his companions, to go to the plains of ʿAsafān.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by desert sunlight. Companions shown as silhouettes in the distance. A peaceful desert landscape with a few palm trees and distant mountains."
+    },
+    "image_prompt": "Illustration in a classic Islamic art style. A serene desert landscape with a few palm trees and distant mountains. The Prophet, shown from behind, walks in the distance, wearing a white thobe and brown bisht. His companions, shown as silhouettes, walk alongside him, wearing white thobes and brown bisht. A warm golden light illuminates the scene. In the foreground, a few rocks and desert plants. No modern objects."
+  },
+  "metadata": {
+    "chapter": 26,
+    "chapter_title": "An Account to Settle",
+    "scene_types": [
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

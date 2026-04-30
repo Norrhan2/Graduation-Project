@@ -1,0 +1,37 @@
+{
+  "training_id": "passage_0054",
+  "input": "We have already mentioned that ʿUmar did not wish to interfere with any people other than those who were identified to him by the Prophet as troublemakers. An example of the discipline which was the mark of these expeditions may be given by relating what happened to a man who was instructed to gather intelligence for his commander, Ghālib ibn ʿAbdullāh, during his expedition to attack the people of the Mulawwaḥ in a place called al-Kadīd. He says that they arrived there before sunset.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 30: Peace in the Desert",
+  "output": {
+    "scene_title": "Gathering Intelligence for the Expedition",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 30: Peace in the Desert",
+    "characters": [
+      {
+        "id": "ghaliib_ibn_abdullah",
+        "name": "Ghālib ibn ʿAbdullāh",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium brown skin, athletic build. Short beard with slight reddish henna tint. Wearing white cotton thobe, simple brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident, strong presence."
+      }
+    ],
+    "moral_lesson": "Gathering information and being cautious is crucial in times of uncertainty.",
+    "narrative_text": "Ghālib ibn ʿAbdullāh was tasked with gathering intelligence for his commander. He arrived at the location before sunset, but the details of what happened next are not mentioned in this passage.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No prophets or graphic content, appropriate for children."
+    },
+    "image_prompt": "Watercolor illustration in a desert landscape with a few palm trees in the background. A young Arab man in white thobe and brown cloak, wearing a simple white cloth head covering, standing in front of a sandy dune, looking around cautiously, early evening sunlight casting long shadows. Medium shot, eye level. Warm beige and sandy brown colors. No modern objects."
+  },
+  "metadata": {
+    "chapter": 30,
+    "chapter_title": "Peace in the Desert",
+    "scene_types": [
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

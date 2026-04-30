@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0136",
+  "input": "Take up our pledges, for we are the children of war and the best people with arms.” The distinguished figure of Abū al-Haitham ibn al-Tayyihān intervened here: “We have relations with the Jews which are now bound to be severed. If we live up to our pledges and God grants you victory, would you, Messenger of God, leave us then to return to your people?” Smiling, the Prophet assured him that he would not do that. He said: “I belong to you as you belong to me.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 13: A Major Breakthrough",
+  "output": {
+    "scene_title": "Abu al-Haitham Asks the Prophet About Loyalty",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 13: A Major Breakthrough",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "abu_al_haitham",
+        "name": "Abu al-Haitham ibn al-Tayyihan",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, medium olive skin, muscular build, slightly taller than average. Thick dark beard with slight wave, neatly kept. Wearing off-white linen thobe, simple woolen cloak, dark grey turban wrapped tightly around head. Worn leather sandals. Confident, authoritative demeanor."
+      }
+    ],
+    "moral_lesson": "True loyalty means standing by your friends and community through thick and thin, no matter what challenges come your way.",
+    "narrative_text": "Abu al-Haitham asked the Prophet if he would leave him and the others to return to their people if they lived up to their pledges and won the war. Smiling, the Prophet reassured him that he would never do that.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. Abu al-Haitham shown with full face, confident expression. Serious but reassuring conversation, appropriate for children."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century Makkah meeting. A dignified man in white thobe and green cloak, white turban, seen entirely from behind, stands at an open doorway with warm golden afternoon sunlight streaming behind him. Inside, a slightly taller Arab man with medium olive skin, thick dark beard, off-white thobe and simple woolen cloak, dark grey turban, sitting on a woven mat looking up with a confident expression, one hand on his chest. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 13,
+    "chapter_title": "A Major Breakthrough",
+    "scene_types": [
+      "dialogue",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

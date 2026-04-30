@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0282",
+  "input": "When the Prophet had finished the business of sharing out the spoils of war, he entered into the state of consecration in order to offer an ʿUmrah. There was soon something else to satisfy the Anṣār. When the Prophet had done his ʿUmrah and no more trouble lay ahead, the Anṣār whispered to one another: “Now that God has given His Messenger his own land and his own city, do you think that he will settle here?” At that moment, the Prophet was praying to God at the top of the hill of al-Ṣafā.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 37: Generous Gifts to Old Foes",
+  "output": {
+    "scene_title": "The Prophet's ʿUmrah and Anṣār's Speculation",
+    "era": "madinah_early",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 37: Generous Gifts to Old Foes",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      },
+      {
+        "id": "anṣār_leader",
+        "name": "Anṣār Leader (unnamed)",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium olive skin, athletic build, tall. Thick dark beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Distinguished by confident posture and strong facial features."
+      },
+      {
+        "id": "other_anṣār",
+        "name": "Other Anṣār (unnamed)",
+        "role": "crowd",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Young to middle-aged men, medium to dark olive skin, varying builds. Wearing off-white cotton thobes, plain brown woolen cloaks, white cloth wrapped as loose head coverings. Worn leather sandals. Gathered around Anṣār Leader, whispering amongst themselves."
+      }
+    ],
+    "moral_lesson": "Patience and trust in Allah's plan are essential for success and prosperity.",
+    "narrative_text": "The Prophet finished his ʿUmrah and then the Anṣār wondered if he would settle in Madinah. They thought to themselves, ‘Now that God has given His Messenger his own land and city, do you think he will settle here?’ At that moment, the Prophet was praying on the hill of al-Ṣafā.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by sunlight. Anṣār Leader shown with full face, while other Anṣār are silhouettes, adding to the sense of speculation and mystery."
+    },
+    "image_prompt": "Simple line drawing. A large group of young Arab men, off-white thobes and brown cloaks, gathered around a tall man with a dark beard, off-white thobe and brown cloak, in a Makkah courtyard. Behind them, a silhouette of a man in white thobe and brown cloak, praying on a hill in the distance. Warm afternoon sunlight, simple mud-brick buildings. Medium shot, eye level. Earthy palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 37,
+    "chapter_title": "Generous Gifts to Old Foes",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

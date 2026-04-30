@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0065",
+  "input": "Muhammad ibn Maslamah went ahead with his horses until he arrived at a place called Marr al-Ẓahrān, which was only about one day’s travel, on camel’s back, from Makkah. He found there a few men from the Quraysh who questioned him about his mission and why he had so many horses with him. His answer was: “God’s Messenger (peace be upon him) will encamp here tomorrow, God willing.” They also noticed that Bashīr ibn Saʿd had a large quantity of arms with him.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+  "output": {
+    "scene_title": "Muhammad Ibn Maslamah Arranges Meeting in Makkah",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+    "characters": [
+      {
+        "id": "muhammad_ibn_maslamah",
+        "name": "Muhammad ibn Maslamah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Mid 30s, medium olive skin, athletic build. Dark brown beard, neatly trimmed. Wearing off-white tunic, beige woolen cloak, plain red head cloth. Worn leather sandals. Confident, calm expression."
+      },
+      {
+        "id": "bashir_ibn_saad",
+        "name": "Bashir ibn Sa'd",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, darker skin tone, lean build. Short dark beard, no hint of grey. Wearing simple white tunic, plain brown cloak, white cloth wrapped as a turban. Worn leather sandals. Dignified, serious expression."
+      }
+    ],
+    "moral_lesson": "The path to success often requires careful planning and secrecy.",
+    "narrative_text": "Muhammad ibn Maslamah arrived at Marr al-Ẓahrān, near Makkah, with a group of horses. When some Quraysh men asked about his mission, he told them that the Prophet would be camping there the next day. Meanwhile, Bashir ibn Sa'd had a large quantity of arms with him.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Scene takes place away from the Prophet, so no depiction rule is required for him."
+    },
+    "image_prompt": "Whimsical illustration of a 7th century Makkah desert landscape. Muhammad ibn Maslamah, a slender man in his mid-30s with dark brown beard and off-white tunic, rides a horse with a group of others. In the distance, a group of older Arab men in simple white tunics and brown cloaks, one with a large quantity of arms, are seen speaking and questioning him. Sunlight casts long shadows across the desert. Medium shot, eye level. Earthy tones. No modern objects."
+  },
+  "metadata": {
+    "chapter": 32,
+    "chapter_title": "A Second Trip to Makkah",
+    "scene_types": [
+      "journey",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

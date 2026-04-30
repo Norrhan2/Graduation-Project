@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0171",
+  "input": "At dawn after the 50th night I prayed at the top of one of our houses. I was still in that condition which I have described: the world seemed to me suffocatingly small and I did not recognize myself any more. As I sat down after dawn prayers, however, I heard a voice from the direction of Mount Silaʿ saying: “Kaʿb ibn Mālik! Rejoice!” I realized that my hardship was over, and I prostrated myself in gratitude to God. What happened was that the Prophet informed the congregation after finishing the dawn prayer that God had pardoned us.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 40: Failure by True Believers",
+  "output": {
+    "scene_title": "Ka'b ibn Mālik Receives Good News",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 40: Failure by True Believers",
+    "characters": [
+      {
+        "id": "ka_b_ibn_malik",
+        "name": "Ka'b ibn Mālik",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 30s, medium build, rugged features. Dark brown skin, small beard, neat and trimmed. Wearing off-white cotton thobe, simple brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 40s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown without face, distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Patience and trust in Allah can lead to great rewards and blessings.",
+    "narrative_text": "Ka'b ibn Mālik was overjoyed when he heard the good news from the Prophet after the dawn prayer. The Prophet had announced that God had pardoned them, and Ka'b felt a huge weight lift off his shoulders.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown without face, Ka'b shown with full face, looking relieved and happy. Scene set in a simple 7th century Makkah home, no distractions."
+    },
+    "image_prompt": "Watercolor illustration of a simple 7th century Makkah home, with a middle-aged Arab man with dark brown skin, small beard, and off-white thobe and brown cloak, sitting on a woven mat looking relieved and happy. Behind him, a man in a simple white thobe and green cloak, white turban, without a face, standing in the doorway with warm golden morning sunlight streaming behind him. Clay water jug and woven mat in the corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 40,
+    "chapter_title": "Failure by True Believers",
+    "scene_types": [
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

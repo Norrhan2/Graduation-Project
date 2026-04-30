@@ -1,0 +1,52 @@
+{
+  "training_id": "passage_0040",
+  "input": "Write down: ‘In your name, Our Lord’.” The Prophet told ʿAlī to write the phrase Suhayl proposed. He continued with his dictation: “These are the terms of the peace agreement negotiated between Muhammad, God’s Messenger, and Suhayl ibn ʿAmr.” Again, Suhayl interrupted: “Had I accepted that you are God’s messenger, I would not have fought you. You have to write down your name and your father’s name.” The Prophet accepted Suhayl’s point and revised his dictation, telling ʿAlī to write: These are the terms of the peace agreed by Muhammad ibn ʿAbdullāh and Suhayl ibn ʿAmr. • Both have agreed to a complete truce for a period of ten years, during which all people will enjoy peace and security and will not attack one another. • Moreover, if anyone from the Quraysh joins Muhammad without permission from his guardian or chief, he shall be returned to the Quraysh. • If anyone from those in the camp of Muhammad joins the Quraysh, they are not required to return him. • Both sides agree that they harbour good intentions towards each other. • No theft or treachery shall be condoned. • Whoever wishes to enter into an alliance with Muhammad may do so, and whoever wants to enter into an alliance with the Quraysh may do so. • It is further agreed that you, Muhammad, shall return home this year without entering Makkah.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 28: Peace in the Making",
+  "output": {
+    "scene_title": "The Prophet Dictates the Terms of Peace",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 28: Peace in the Making",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "suhayl_ibn_amr",
+        "name": "Suhayl ibn ʿAmr",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, medium olive skin, tall and slender, athletic build. Short black beard, neatly trimmed. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong, stern facial expression, raised eyebrow."
+      },
+      {
+        "id": "ali_ibn_abi_talib",
+        "name": "ʿAlī ibn Abī Ṭālib",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, light olive skin, lean build, slightly younger-looking than average. Dark hair, short beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Inquisitive, attentive eyes, slight smile."
+      }
+    ],
+    "moral_lesson": "Humility and flexibility are essential in achieving peace and resolving conflicts.",
+    "narrative_text": "The Prophet dictated the terms of peace to ʿAlī, including the agreement to a complete truce for ten years. Suhayl proposed changes, which the Prophet accepted to ensure a lasting peace.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, while Suhayl and ʿAlī are shown with full faces. The scene depicts a respectful and peaceful atmosphere."
+    },
+    "image_prompt": "Children's watercolor illustration. Interior of a modest 7th century Makkah mud-brick home, late afternoon sunlight streaming through an open doorway. A man in white thobe and green cloak, white turban, seen entirely from behind, standing at a low table with ʿAlī sitting on a woven mat, quill in hand, writing on a clay tablet. Suhayl stands beside them, tall and imposing, wearing off-white thobe and brown cloak, looking at the Prophet with a stern expression. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 28,
+    "chapter_title": "Peace in the Making",
+    "scene_types": [
+      "battle",
+      "emotional",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

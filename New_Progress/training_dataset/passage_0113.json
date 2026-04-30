@@ -1,0 +1,52 @@
+{
+  "training_id": "passage_0113",
+  "input": "He went quickly towards the mosque. I thought that he went to give the Prophet the news of our arrival. I was proved right. We stopped for a short while at the old volcanic area outside Madinah, where we put on our best clothes. When the mid-afternoon prayer, ʿaṣr, was called for, we went on until we arrived at the mosque to meet the Prophet. His face was beaming with pleasure and all the Muslims were pleased when they learnt that we had adopted Islam.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+  "output": {
+    "scene_title": "The Prophet Smiles at Saeed's News",
+    "era": "madinah_late",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+    "characters": [
+      {
+        "id": "saheed_bin_al_as",
+        "name": "Saheed bin al-As",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Young adult, medium build, bright dark skin. Thick black beard with slight reddish tint, neatly kept. Wearing a simple white thobe, plain beige woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Bright warm smile, energetic eyes."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Always shown as a dark silhouette, face never visible. Standing in a doorway or against a wall, surrounded by warm golden light."
+      },
+      {
+        "id": "muslim_crowd",
+        "name": "Muslim Crowd",
+        "role": "crowd",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "A group of dark silhouettes, faces not visible, standing and smiling in the mosque."
+      }
+    ],
+    "moral_lesson": "Islam brings happiness and unity to those who accept it.",
+    "narrative_text": "When Saheed arrived in Madinah, he went to the mosque to tell the Prophet the good news of their arrival. The Prophet was overjoyed, and all the Muslims were happy when they learned that they had adopted Islam.",
+    "compliance": {
+      "prophet_check": "PROPHET_SILHOUETTE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown as a dark silhouette, faces of crowd not visible. Warm joyful scene, suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. A late afternoon scene in the mosque of Madinah. A young Arab man with bright dark skin, thick black beard, simple white thobe, beige cloak, and loose head covering, walking towards a dark silhouette of the Prophet Muhammad, standing against a wall in the doorway, surrounded by warm golden light. The Prophet's face is not visible. In the background, a group of dark silhouettes, faces not visible, are smiling and standing in the mosque. Simple mud-brick walls, wooden pillars, and clay water jug in the corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 32,
+    "chapter_title": "A Second Trip to Makkah",
+    "scene_types": [
+      "battle",
+      "journey",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

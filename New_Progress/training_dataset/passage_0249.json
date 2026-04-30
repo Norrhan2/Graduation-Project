@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0249",
+  "input": "Muslims from various tribes joined the army in large numbers. There were, for example, from the tribe of Sulaym. Some reports put the figure of Sulaym soldiers at 1,000. There were also 1, from the tribe of Muzaynah. Each tribe formed a unit of the army. All the Muhājirīn and the Anṣār responded to the Prophet’s call and joined up. None of them was left behind. When the Prophet reached a place called ʿAsafān, not far from Madinah, he asked for a jug of water.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+  "output": {
+    "scene_title": "Army of Muslims Gather at Asafan",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by simple attire and subtle warm light."
+      },
+      {
+        "id": "sahabi_sulaym",
+        "name": "Sulaym Soldier",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Young adult, light olive skin, athletic build, slightly tanned from outdoors. Short beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Bright inquisitive eyes, confident posture."
+      },
+      {
+        "id": "sahabi_muzaynah",
+        "name": "Muzaynah Soldier",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Young adult, medium brown skin, muscular build, slightly shorter than average. Thicker beard with slight grey tint, neatly trimmed. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong determined eyes, broad shoulders."
+      }
+    ],
+    "moral_lesson": "Unity and cooperation are essential in achieving great goals.",
+    "narrative_text": "As the Prophet gathered his army at Asafan, soldiers from various tribes joined in. Some, like the Sulaym and Muzaynah, came in large numbers. The Muhājirīn and Anṣār also responded to the Prophet's call, and soon the entire army was assembled.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, not visible in this scene. Soldiers shown with full faces, modest clothing. Unity and cooperation emphasized, suitable for children."
+    },
+    "image_prompt": "Simple line drawing of a 7th century desert landscape. A group of young adult Arab men, some with beards, wearing off-white thobes, plain brown cloaks, and white head coverings, standing near a palm tree, looking at a man in simple white attire standing behind them. The man in white is not visible, but his presence is implied by the attention of the soldiers. In the background, a distant view of the Madinah hills. Earthy colors, warm sunlight. No modern objects."
+  },
+  "metadata": {
+    "chapter": 34,
+    "chapter_title": "A Long Conflict Draws to a Close",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

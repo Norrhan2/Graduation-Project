@@ -1,0 +1,46 @@
+{
+  "training_id": "passage_0231",
+  "input": "Although ʿUmar moved only by night, those people of Hawāzin received intelligence of his approach and fled. When ʿUmar arrived at their place, he found no one around. He, therefore, started on his journey back home. His guide asked him whether, having missed his target, he wished to attack a group of the Khathʿam who were travelling in the area. ʿUmar told him that the Prophet did not order him to attack anyone other than Hawāzin. Hence, he left them alone.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 30: Peace in the Desert",
+  "output": {
+    "scene_title": "ʿUmar's Encounter with Hawāzin",
+    "era": "late_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 30: Peace in the Desert",
+    "characters": [
+      {
+        "id": "umar",
+        "name": "ʿUmar ibn al-Khattab",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, dark olive skin, athletic build, prominent facial features. Thick black beard, neatly kept. Wearing a plain dark brown woolen cloak, off-white cotton thobe, simple head cloth tied in a neat knot. Worn leather sandals. Authoritative gaze, confident posture."
+      },
+      {
+        "id": "guide",
+        "name": "Guide to ʿUmar",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, weathered skin, rugged features. Long black beard, worn head cloth. Wearing a simple beige woolen cloak, worn leather sandals. Wise, experienced look, gentle nod."
+      }
+    ],
+    "moral_lesson": "A true leader only acts according to the guidance of their faith and their leader.",
+    "narrative_text": "'ʿUmar moved at night, trying to catch the Hawāzin by surprise. But they had heard about him and fled. When ʿUmar arrived, he found no one around. He was told about a group of Khathʿam traveling nearby, but ʿUmar refused to attack them since the Prophet had only ordered him to target Hawāzin.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Scene depicts ʿUmar and his guide in a desert setting, no graphic violence. ʿUmar shown with full face, guide shown with full face as well."
+    },
+    "image_prompt": "Children's watercolor illustration. A desert landscape under starry night sky. A middle-aged Arab man with dark skin, athletic build, black beard, wearing dark brown cloak and off-white thobe, sitting on a camel looking around cautiously. Another man with weathered skin, rugged features, long black beard, worn head cloth, simple beige cloak, standing nearby, pointing in a different direction. Desert landscape with few palm trees, vast dunes. Medium shot, eye level. Cool blue and green palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 30,
+    "chapter_title": "Peace in the Desert",
+    "scene_types": [
+      "dialogue",
+      "battle",
+      "journey",
+      "emotional"
+    ],
+    "generation_warnings": null
+  }
+}

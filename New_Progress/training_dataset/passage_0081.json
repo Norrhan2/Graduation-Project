@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0081",
+  "input": "They realized that this was accomplished through no effort of their own, except their demonstration that they were prepared to give any sacrifice they were called on to give. As said earlier, it was accomplished by Divine Providence. The departure of the Quraysh and the Ghaṭafān did not settle matters completely. Another score had to be settled: with the Qurayẓah. That morning the Prophet and all the Muslims went back to Madinah and put down their arms for the first time in nearly a month.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+  "output": {
+    "scene_title": "The Prophet and Muslims Return to Madinah",
+    "era": "madinah_early",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "umar_ibn_al_khattab",
+        "name": "Umar ibn al-Khattab",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, dark olive skin, robust build, slightly taller than average. Thick black beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident stern expression, broad shoulders, determined stride."
+      }
+    ],
+    "moral_lesson": "Trust in Allah's Providence and Timing in All Situations",
+    "narrative_text": "The Prophet and the Muslims returned to Madinah, finally putting down their arms after a long month. They knew that their success was not due to their own efforts, but to Allah's guidance and protection.",
+    "compliance": {
+      "prophet_check": "PROPHET_SILHOUETTE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown as a silhouette, emphasizing his leadership and humility. Umar is shown with full face, conveying confidence and determination. The scene is set in a neutral background, avoiding any potential triggers for children."
+    },
+    "image_prompt": "Watercolor illustration. A simple, serene landscape of the Madinah plain, with distant mud-brick homes and palm trees. In the foreground, a tall, dark-haired man with a robust build, thick black beard, off-white thobe, and brown cloak, walks with purpose, looking up at the horizon. Behind him, a figure in a white thobe and green cloak is seen as a silhouette, walking with a gentle stride, face not visible. The sun casts a warm golden light on the scene. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 26,
+    "chapter_title": "An Account to Settle",
+    "scene_types": [
+      "miracle"
+    ],
+    "generation_warnings": null
+  }
+}

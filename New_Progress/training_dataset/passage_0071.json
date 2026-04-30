@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0071",
+  "input": "As has already been related, at the Battle of Badr Abū al-ʿĀṣ took part in the battle as a soldier of the Quraysh, against the Muslims. He was taken prisoner and he received the same treatment as the rest of the Quraysh prisoners who were invited to buy their release. Zaynab sent the due ransom and included in it a necklace which her late mother, Khadījah, had given her to wear on her wedding night. When he saw the necklace, the Prophet was deeply touched and said to his companions: “If you feel it proper to release her husband for her and refund her money, you may do so.” Thus Abū al-ʿĀṣ was released for no ransom.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 27: Family Matters",
+  "output": {
+    "scene_title": "The Prophet's Compassion for Abū al-ʿĀṣ",
+    "era": "madinah_late",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 27: Family Matters",
+    "characters": [
+      {
+        "id": "abu_al_aas",
+        "name": "Abū al-ʿĀṣ ibn al-Rabīʿ",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, medium build, athletic build. Short black beard with few grey hairs, neatly trimmed. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong facial features, confident posture."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Late 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "zaynab_bint_jahsh",
+        "name": "Zaynab bint Jahsh",
+        "role": "family_of_prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 30s, medium build, modest posture. Wearing a long, loose-fitting dark brown robe with intricate golden embroidery, white head covering with a small golden pin. Simple leather sandals. Hair covered, only dark hair visible from under head covering. Soft, gentle features."
+      }
+    ],
+    "moral_lesson": "Compassion and mercy are essential qualities of a true leader, especially when dealing with those in need.",
+    "narrative_text": "When Abū al-ʿĀṣ, a soldier of the Quraysh, was taken prisoner by the Prophet's companions, his wife Zaynab sent a necklace her late mother had given her to buy his freedom. The Prophet, moved by the necklace and the story behind it, ordered his companions to release Abū al-ʿĀṣ without any ransom.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, as is customary. Zaynab and Abū al-ʿĀṣ are shown with their faces visible, in accordance with Islamic depiction rules."
+    },
+    "image_prompt": "Colorful illustration in the style of 7th century Islamic art. A simple, serene background of a 7th century Mādīnah mud-brick home. A man in off-white thobe and brown cloak, white head covering, sitting on a woven mat, looking down with a mix of sadness and gratitude. Behind him, a woman in a dark brown robe with golden embroidery, white head covering, standing with her hands clasped together in prayer. The Prophet, seen entirely from behind, white thobe and green cloak, stands at a short distance, looking at the scene with a gentle, compassionate smile. Simple mud-brick walls, clay water jug in corner. Warm, muted palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 27,
+    "chapter_title": "Family Matters",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

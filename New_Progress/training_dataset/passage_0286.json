@@ -1,0 +1,53 @@
+{
+  "training_id": "passage_0286",
+  "input": "He moved fast and changed his route, taking the coastal way, in the hope of avoiding the Muslims. A Dream Warning of Immediate Danger Three days before the arrival of Ḍamḍam in Makkah, ʿĀtikah bint ʿAbd al-Muṭṭalib, the Prophet’s paternal aunt who still lived in Makkah, had a significant dream. She sent for her brother al-ʿAbbās and told him that in her dream she saw a man riding a camel coming to a place in Makkah called al-Abṭaḥ, where he stood and shouted: “Rise, you people, and move to your deaths in three days’ time.” People gathered round him and followed him as he moved towards the mosque, where he repeated his warning.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 17: Badr: The First Major Battle",
+  "output": {
+    "scene_title": "Aunt's Dream Warns of Danger",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 17: Badr: The First Major Battle",
+    "characters": [
+      {
+        "id": "aunt_atikah",
+        "name": "ʿĀtikah bint ʿAbd al-Muṭṭalib",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, medium build, dignified posture. Wearing a loose-fitting black thobe, wrapped in a simple white headscarf, dark leather sandals. Soft, gentle features, slight smile."
+      },
+      {
+        "id": "abbas",
+        "name": "al-ʿAbbās ibn ʿAbd al-Muṭṭalib",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, strong build, dignified posture. Wearing a simple off-white thobe, white turban, dark leather sandals. Strong features, kind eyes."
+      },
+      {
+        "id": "camel_rider",
+        "name": "Unknown",
+        "role": "antagonist",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Tall, dark figure, riding a camel, wearing a black cloak, shrouded in shadows."
+      }
+    ],
+    "moral_lesson": "Allah can warn us of impending dangers through various means, including dreams.",
+    "narrative_text": "Three days before Ḍamḍam's arrival, ʿĀtikah bint ʿAbd al-Muṭṭalib had a dream. She saw a man warning people of their deaths in three days' time. He stood in al-Abṭaḥ, shouting to the people to rise and move towards their deaths.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No prophets or idols shown. Aunt Atikah and Abbas shown with full faces. The camel rider is shown as a silhouette, avoiding any potential depiction of the Prophet."
+    },
+    "image_prompt": "Watercolor illustration. Nighttime scene in Makkah. A middle-aged woman, ʿĀtikah, sits on a woven mat, wearing a loose-fitting black thobe and simple white headscarf, looking concerned. Her brother al-ʿAbbās stands beside her, wearing a simple off-white thobe and white turban. In the background, a tall dark figure, riding a camel, is seen as a silhouette, wearing a black cloak. The scene is set against a dark blue night sky with stars. Medium shot, eye level. Muted colors. No modern objects."
+  },
+  "metadata": {
+    "chapter": 17,
+    "chapter_title": "Badr: The First Major Battle",
+    "scene_types": [
+      "dialogue",
+      "battle",
+      "journey",
+      "emotional"
+    ],
+    "generation_warnings": null
+  }
+}

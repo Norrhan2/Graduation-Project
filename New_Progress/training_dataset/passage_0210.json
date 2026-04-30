@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0210",
+  "input": "He lived, however, and was able to fight another battle with the Prophet which took place about a year later when he achieved martyrdom. The Survivors Two men from among the Muslims had been sent earlier with their cattle to graze. They went quite a long way and did not witness the horrible events of the day. They suspected that something serious had happened when they saw a large number of birds concentrating on the spot where they had left their people.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 22: Vulnerability and Treachery",
+  "output": {
+    "scene_title": "Birds Sense the Tragedy at Badr",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 22: Vulnerability and Treachery",
+    "characters": [
+      {
+        "id": "sahabi_1",
+        "name": "One of the Two Muslim Men",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, medium build, dark skin tone. Short beard, neat and trimmed. Wearing simple beige thobe, off-white khimar head covering, worn leather sandals. Distinguishing feature: plain leather belt around waist."
+      },
+      {
+        "id": "sahabi_2",
+        "name": "The Other Muslim Man",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 30s, athletic build, dark skin tone. Longish beard with slight reddish tint. Wearing simple beige thobe, off-white khimar head covering, worn leather sandals. Distinguishing feature: small tattoo on left hand, visible as a small dark spot."
+      },
+      {
+        "id": "birds",
+        "name": "Birds of Prey",
+        "role": "supporting",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "A flock of dark silhouetted birds in the sky, gathered around the spot where the people had left their cattle. The birds are shown in various sizes and poses, with their wings spread and some flying towards the ground."
+      }
+    ],
+    "moral_lesson": "Even when we are far away, we can sense the sorrow and tragedy that has befallen our loved ones.",
+    "narrative_text": "Two Muslim men had been sent to graze their cattle in a distant area. When they saw a large number of birds concentrating on the spot where they had left their people, they suspected that something serious had happened.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No graphic violence shown. Focus on the birds sensing the tragedy from a distance."
+    },
+    "image_prompt": "Watercolor illustration of the Arabian Desert landscape. A distant view of two men, one with a short beard and the other with a long beard, standing in the shade, looking worried. In the foreground, a flock of dark silhouetted birds flying towards the ground, gathered around the spot where the people had left their cattle. The sun is setting in the background, casting a warm orange glow. The atmosphere is tense and suspenseful. No modern objects."
+  },
+  "metadata": {
+    "chapter": 22,
+    "chapter_title": "Vulnerability and Treachery",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

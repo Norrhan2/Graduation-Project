@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0015",
+  "input": "Indeed, we have received highly disturbing reports about their attitude. You see what these strong winds are doing to us. We cannot stay much longer in these conditions, and my advice to you is to go back home where I am going.” He then mounted his camel, which was tied to a peg. He hit the camel, which jumped to its feet, and released itself as it stood up. Had it not been for the Prophet’s clear instructions to me that I must not do anything serious before I went back, I could have killed Abū Sufyān with my arrow.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+  "output": {
+    "scene_title": "The Prophet's Warning to His Companions",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Late 40s, medium build, dignified upright posture. Wearing a simple white thobe with a dark brown cloak draped over shoulders, beige turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by dark brown cloak and worn leather belt."
+      },
+      {
+        "id": "abu_sufyan",
+        "name": "Abū Sufyān ibn Harb",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, fair skin, athletic build, strong facial features. Dark beard with slight grey tint, neatly kept. Wearing off-white cotton thobe, plain dark brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident, assertive expression, hands on hips."
+      }
+    ],
+    "moral_lesson": "Patience and trust in Allah’s guidance are essential in difficult situations.",
+    "narrative_text": "The Prophet gave his companions some disturbing news, then mounted his camel, instructing them to stay safe and return home. He warned them that they couldn't stay longer in those harsh conditions.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by setting sun. Abu Sufyan shown with full face, expression confident and assertive. Scene depicts a warning, but no violence, suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Harsh desert landscape with strong winds and dust storms. A man in white thobe and dark brown cloak, white turban, seen entirely from behind, standing near a tied camel, one hand on its back. In the distance, a fair-skinned, athletic Arab man with dark beard and off-white thobe, watching him, arms crossed. A worn leather water bag and a staff in the corner. Medium shot, eye level. Muted desert colors. No modern objects."
+  },
+  "metadata": {
+    "chapter": 25,
+    "chapter_title": "A Fresh Storm Gathers",
+    "scene_types": [
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

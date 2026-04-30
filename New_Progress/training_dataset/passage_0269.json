@@ -1,0 +1,45 @@
+{
+  "training_id": "passage_0269",
+  "input": "He gives it whomever He wills.” The man said: “Are we expected to fight the whole of Arabia to support you, then when victory is achieved, we hand power over to others? We will do no business with you.” When their delegation arrived back home they related to their elders, as usual, the events of their journey. When they told them about their encounter with the Prophet and their reply to him, an old man who enjoyed much respect among them raised his hand to his head in disappointment and said: “Is there any way to rectify this mistake?\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 13: A Major Breakthrough",
+  "output": {
+    "scene_title": "The Leaders of Makkah Refuse to Support the Prophet",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 13: A Major Breakthrough",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "senior_leader",
+        "name": "An Older Man of Makkah",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 60s, darker olive skin, robust build, taller than average. Thick dark beard with faint grey streaks, neatly kept. Wearing dark brown woolen cloak, off-white cotton thobe, simple white headscarf. Worn leather sandals. Firm, stern expression, hands clasped behind back."
+      }
+    ],
+    "moral_lesson": "Humility is key. We must learn to admit our mistakes and correct them in order to succeed.",
+    "narrative_text": "The leaders of Makkah were worried that if they supported the Prophet, they would have to give up power after he won. They told him, 'We will do no business with you.' When they got back home, they told their elders about the Prophet's message and their reply. An old man among them was disappointed and asked, 'Is there any way to fix this mistake?'",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. The older man shown with full face, hands clasped behind back. Serious expression, but no graphic content."
+    },
+    "image_prompt": "Children's watercolor illustration. Exterior of a 7th century Makkah mud-brick home with a flat roof. A man in white thobe and green cloak, white turban, seen entirely from behind, standing in a doorway with warm afternoon sunlight streaming behind him. In the distance, a group of darker-skinned men in dark brown cloaks and off-white thobes, with one older man standing out, looking disappointed and worried. Simple mud-brick walls, clay water jug in a corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 13,
+    "chapter_title": "A Major Breakthrough",
+    "scene_types": [
+      "dialogue",
+      "journey",
+      "emotional"
+    ],
+    "generation_warnings": null
+  }
+}

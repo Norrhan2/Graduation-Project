@@ -1,0 +1,36 @@
+{
+  "training_id": "passage_0221",
+  "input": "Some of the Prophet’s companions queried this method of equal distribution. Saʿd said to him: “Do you, Messenger of God, give the horseman who causes havoc among the enemy the same as you give to a weak person?” The Prophet answered: “Do you think that you are given victory except for the sake of the weak among you?” The Prophet’s answer indicates that might on its own is not a guarantee of victory. Cooperation, unity and the exertion of maximum collective effort are also essential for the achievement of victory.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 18: In Madinah After Badr",
+  "output": {
+    "scene_title": "The Prophet Explains the Importance of Unity",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 18: In Madinah After Badr",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Unity and cooperation are essential for achieving victory and success.",
+    "narrative_text": "Some of the Prophet’s companions were worried that the method of equal distribution wasn’t fair. They thought the horsemen who fought bravely should get more than the weak ones. But the Prophet reminded them that everyone plays a role in their victory.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, no graphic details. Focus on the message and unity."
+    },
+    "image_prompt": "Children’s watercolor illustration. Exterior scene of a 7th century Madinah mud-brick home. A man in white thobe and green cloak, white turban, seen entirely from behind, standing in the doorway with warm sunlight behind him. In the background, a group of men in simple thobes and turbans sitting on a woven mat, engaged in conversation. Simple mud-brick walls, palm trees in the distance. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 18,
+    "chapter_title": "In Madinah After Badr",
+    "scene_types": [
+      "dialogue"
+    ],
+    "generation_warnings": null
+  }
+}

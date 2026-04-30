@@ -1,0 +1,45 @@
+{
+  "training_id": "passage_0172",
+  "input": "His wound healed temporarily while the siege of the Qurayẓah went on. When it was over, he was chosen to arbitrate in their case. When his verdict was carried out Saʿd was taken back to the mosque where he was being nursed. During the night, his wound opened up and he bled heavily. There are several reports which, taken together, confirm that the Angel Gabriel came to the Prophet that night and asked: “Muhammad, who is this dead man for whom the gates of the heavens have opened up and for whom God’s throne has stirred?” The Prophet hurried from his rooms to the tent where Saʿd was being nursed to find that he was dead.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+  "output": {
+    "scene_title": "The Prophet Receives News of Saʿd's Death",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "saud_bin_muadh",
+        "name": "Saʿd bin Muadh",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, medium build, with some grey in his dark hair. Olive complexion, with some stubble. Wearing simple dark grey thobe, off-white woolen cloak, and white khamiyya. Worn leather sandals. Serious expression with tired eyes."
+      }
+    ],
+    "moral_lesson": "Death is a natural part of life, and it is how we live that truly matters.",
+    "narrative_text": "The Prophet received news of Saʿd's death in the mosque, and he hurried to his bedside. When he arrived, he found that Saʿd had passed away, and the gates of heaven had opened for him.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, with a serious expression. Saʿd shown as a serious and tired man. The scene is calm and respectful, suitable for children."
+    },
+    "image_prompt": "Whimsical ink illustration. A simple 7th century Madinah mosque interior at dusk, with warm golden light streaming in through the windows. The Prophet, seen entirely from behind, stands at the entrance, looking towards the back of the mosque with a concerned expression. Near the back, an older Arab man in a simple dark grey thobe, off-white woolen cloak, and white khamiyya, lies on a mat, surrounded by candles and a few simple belongings. Angels, represented as soft white lights, are shown hovering above the man's body. Simple, muted color palette. Calm and peaceful atmosphere. No modern objects."
+  },
+  "metadata": {
+    "chapter": 26,
+    "chapter_title": "An Account to Settle",
+    "scene_types": [
+      "miracle",
+      "dialogue",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

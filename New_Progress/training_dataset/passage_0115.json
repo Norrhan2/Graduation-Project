@@ -1,0 +1,37 @@
+{
+  "training_id": "passage_0115",
+  "input": "I did not have enough milk to satisfy him. Our camel was hopeless, but we still hoped for rain and better days. Because my mule was also weak, I kept falling behind my companions. I gave them so much trouble because of our weakness. When we arrived in Makkah every woman of us was offered Muhammad to nurse. When she learnt that he was an orphan, she declined. We simply hoped for gifts and presents from the baby’s father. Hence, we always replied when we were offered him: “An orphan!\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 2: The Early Years",
+  "output": {
+    "scene_title": "A Mother's Hardship in Makkah",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 2: The Early Years",
+    "characters": [
+      {
+        "id": "asma_bint_abul_as",
+        "name": "Asma' bint Abul As",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late teens, medium build, dark brown skin with subtle freckles. Dark brown hair tied back, simple white cloth wrapped as loose head covering. Wearing a long off-white thobe with a dark brown cloak draped over shoulders. Simple leather sandals. Kind gentle eyes, worried expression."
+      }
+    ],
+    "moral_lesson": "Being strong is not just about physical endurance, but also about resilience and accepting help when you need it.",
+    "narrative_text": "Asma' bint Abul As was a young mother who struggled to care for her son, who would later become the Prophet Muhammad. She had to rely on her community for support when her camel and mule were weak. When offered to nurse Muhammad, she politely declined, considering him an orphan.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is not visible in this scene, and Asma' is shown with her hair and face covered. The scene focuses on her hardship and the community's support."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century Makkah scene. A young Arab woman with dark brown skin, medium build, and dark brown hair tied back, wearing a long off-white thobe and dark brown cloak, standing in front of a mud-brick home. She looks worried and holds a clay water jug. In the background, a weak camel and mule are seen, with a few palm trees and a distant mountain range. Warm golden palette. Medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 2,
+    "chapter_title": "The Early Years",
+    "scene_types": [
+      "journey",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

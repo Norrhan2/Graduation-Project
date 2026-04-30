@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0058",
+  "input": "Since Abraham never disobeyed a command from God, he left his son there with his mother, giving them a sack of dates and whatever little water he had with him. He started on his way back to Palestine where he had left Sarah. Hagar asked him how he could leave them in that barren valley. Abraham did not answer. He could not even look back, for he was so sorry to leave them there. It is easy to imagine that his eyes were full of tears as he moved away and left them alone.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 1: A Glance Back in History",
+  "output": {
+    "scene_title": "Abraham Leaves Hagar in the Wilderness",
+    "era": "pre_islamic_prophets",
+    "region": "sinai",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 1: A Glance Back in History",
+    "characters": [
+      {
+        "id": "ibrahim",
+        "name": "Prophet Ibrahim (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Late 60s, weathered, rugged build, grey beard, worn leather tunic, simple leather sandals. Shown as a silhouette to avoid direct depiction of the prophet's face. Distinguished by staff in hand and worn, weathered appearance."
+      },
+      {
+        "id": "hagar",
+        "name": "Hagar (RA)",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Mid-30s, medium build, dark skin, dark hair, simple white tunic, headscarf, worn leather sandals. Kind face with gentle eyes, slight weariness on her face due to the harsh environment."
+      }
+    ],
+    "moral_lesson": "Faith means trusting in Allah and following His commands, even when it's difficult.",
+    "narrative_text": "Abraham left Hagar and their son in the desert with some food and water, then walked away. He couldn't bear to look back, feeling so sad to leave them behind. Hagar was worried about their survival in the harsh wilderness.",
+    "compliance": {
+      "prophet_check": "PROPHET_SILHOUETTE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown as a silhouette to avoid direct depiction. Hagar shown with full face, kind expression. Scene emphasizes Abraham's emotional difficulty in leaving his family, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration of a desert valley in ancient times. A weathered silhouette of a man in a leather tunic, walking away from a woman with a young child, both dressed in simple white clothing, headscarf on the woman, standing near a palm tree. Clay pots and a sack of dates nearby. Sun high in the sky, casting a warm glow. Gentle, muted colors. Medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 1,
+    "chapter_title": "A Glance Back in History",
+    "scene_types": [
+      "emotional"
+    ],
+    "generation_warnings": null
+  }
+}

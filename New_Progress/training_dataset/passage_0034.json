@@ -1,0 +1,45 @@
+{
+  "training_id": "passage_0034",
+  "input": "All historical reports agree that when the Prophet arrived in Madinah he entered into a treaty with the Jews that they and the Muslims would live together in peace, with neither party interfering in the affairs or religion of the other. The treaty also stipulated that the Jews would never give any support to any enemy who attacked Yathrib or fought its people. The treaty also contained the following provisions: He who wrongs another brings retribution only on himself and his household.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 19: New Trends of Hostility",
+  "output": {
+    "scene_title": "The Prophet Enters into a Peaceful Treaty with the Jews",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 19: New Trends of Hostility",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown as a silhouette, face never visible. Distinguished by the dignified posture and simple attire."
+      },
+      {
+        "id": "jewish_leader",
+        "name": "Jewish Leader (unnamed)",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light brown skin, slender build, slightly taller than average. Thick beard, neatly kept. Wearing off-white cotton thobe, plain black woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Respectful demeanor, engaged in conversation."
+      }
+    ],
+    "moral_lesson": "Peace and respect can be maintained between people of different faiths through mutual understanding and agreements.",
+    "narrative_text": "The Prophet Muhammad entered into a treaty with the Jews of Madinah, promising that Muslims and Jews would live in peace, respecting each other's faiths and ways of life. The treaty ensured that neither side would support enemies or interfere in each other's affairs.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Jewish leader shown with full face, respectful posture. Prophet shown as a silhouette, maintaining the dignity and modesty of his character."
+    },
+    "image_prompt": "Oil painting illustration. Exterior of a Madinah mud-brick mosque with flat roofs and narrow alleys. Two men, one a dignified silhouette in white thobe and brown cloak, and the other a middle-aged Arab man with light brown skin, thick beard, off-white thobe and black cloak, standing with their hands clasped together, engaged in conversation. A few other men and women watching in the background, all dressed in modest attire. Warm golden late afternoon light. Medium shot, eye level. Earthy palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 19,
+    "chapter_title": "New Trends of Hostility",
+    "scene_types": [
+      "battle",
+      "journey",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

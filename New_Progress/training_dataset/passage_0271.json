@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0271",
+  "input": "They realized that something must have happened to attract the birds. They hurried back to find out. The sight they encountered was a ghastly one. All their brethren were dead; their blood was everywhere. Their attackers’ horses were still on the spot: they had not left yet. One of the two men, ʿAmr ibn Umayyah of the Muhājirīn, expressed his view to his Anṣārī brother, al-Mundhir ibn Muḥammad, that the best thing they could do was to go back home and tell the Prophet what had happened.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 22: Vulnerability and Treachery",
+  "output": {
+    "scene_title": "Sahaba Discover the Aftermath of a Battle",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 22: Vulnerability and Treachery",
+    "characters": [
+      {
+        "id": "almundhir_ibn_muhammad",
+        "name": "Al-Mundhir ibn Muhammad",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 30s, medium olive skin, athletic build, strong facial features. Thick beard, neatly groomed. Wearing off-white cotton thobe, simple brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Determined look on his face."
+      },
+      {
+        "id": "amr_ibn_umayyah",
+        "name": "ʿAmr ibn Umayyah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 30s, medium olive skin, slender build, gentle facial features. Thin beard, neatly kept. Wearing off-white cotton thobe, simple brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Worried expression on his face."
+      }
+    ],
+    "moral_lesson": "Life is fragile, and death can come unexpectedly. We should always be mindful of our situation and seek guidance from the Prophet.",
+    "narrative_text": "After a long search, Al-Mundhir and ʿAmr stumbled upon the aftermath of a battle. Their brethren were all dead, and the attackers' horses were still on the spot. Al-Mundhir suggested going back home and telling the Prophet about the tragedy.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Scene depicts aftermath of a battle without graphic details, focusing on the Sahaba's emotional response."
+    },
+    "image_prompt": "Children's watercolor illustration. A desolate, moonlit night in Madinah, with a few palm trees and mud-brick houses in the background. Two Arab men, one with athletic build and thick beard, the other with slender build and thin beard, standing in the distance, looking at the aftermath of a battle. Their faces are lit by the soft glow of a nearby oil lamp, with the silhouette of a horse in the background. Medium shot, from a low angle. Muted colors, with touches of blue from the moon and green from the palm trees. No modern objects."
+  },
+  "metadata": {
+    "chapter": 22,
+    "chapter_title": "Vulnerability and Treachery",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

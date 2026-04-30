@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0284",
+  "input": "He replied to his message, reciting several lines of poetry in which he mentioned that he was living in Makkah. Before long, his father got wind of this and resolved to travel with his brother, looking for Zayd in Makkah. It was some time before Muhammad’s prophethood when Ḥārithah and Kaʿb, sons of Sharāḥīl, arrived in Makkah to learn that Ḥārithah’s son, Zayd, was in Muhammad’s household. Therefore, they went to him and made this passionate appeal: “You are the grandson of ʿAbd al-Muṭṭalib, the old master of this city; you are the son of the great master of his people.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 6: A Community in the Making",
+  "output": {
+    "scene_title": "Zayd's Family Seeks Him in Makkah",
+    "era": "pre_prophetic",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet",
+    "characters": [
+      {
+        "id": "zayd",
+        "name": "Zayd ibn Ḥārithah",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Young adult, medium build, light brown skin. Dark hair neatly trimmed, slight beard with few wisps. Wearing simple white thobe, off-white izaar, and plain brown head cloth. Dark leather sandals. Kind eyes, gentle smile."
+      },
+      {
+        "id": "harithah",
+        "name": "Ḥārithah ibn Sharāḥīl",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, sturdy build, light olive skin. Dark grey-streaked beard, neatly trimmed hair. Wearing beige thobe, brown woolen cloak, and simple head cloth. Worn leather sandals. Authoritative eyes, stern expression."
+      },
+      {
+        "id": "ka_b",
+        "name": "Kaʿb ibn Sharāḥīl",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, lean build, light brown skin. Dark hair neatly trimmed, slight beard with few wisps. Wearing simple white thobe, off-white izaar, and plain brown head cloth. Dark leather sandals. Concerned eyes, anxious expression."
+      }
+    ],
+    "moral_lesson": "Family is important and should be respected, but one’s commitment to Allah should be the top priority.",
+    "narrative_text": "Zayd’s family, Ḥārithah and Kaʿb, came to Makkah looking for him. They were told he was living with Muhammad, so they went to the Prophet to ask for his help in finding Zayd.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No prophet shown in this scene. Emphasis on family dynamics and relationships, suitable for children."
+    },
+    "image_prompt": "Traditional Arabic watercolor illustration. Exterior of a 7th century Makkah mud-brick home. Three adult Arab men, each with different skin tones, dark hair, and facial hair, wearing traditional clothing, standing outside a doorway with concerned expressions. One of them is looking at another man, who is not in the frame. Simple mud-brick walls, clay pots in the corner. Medium shot, eye level. Earthy colors, warm sunlight. No modern objects."
+  },
+  "metadata": {
+    "chapter": 6,
+    "chapter_title": "A Community in the Making",
+    "scene_types": [
+      "journey",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

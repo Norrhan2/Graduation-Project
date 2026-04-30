@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0234",
+  "input": "When he learned that, he immediately decided to go back to Makkah. Unfortunately, he was murdered on his way home. It was noteworthy that his son, Saʿīd, was one of the first people to accept the message of Islam when the Prophet started preaching it in secret. Al-Khaṭṭāb’s son, ʿUmar, was to become one of the strongest advocates of Islam, and the second ruler of the Muslim state after the Prophet. Saʿīd and ʿUmar once asked the Prophet whether it was permissible to pray God to grant mercy and forgiveness to Zayd.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 4: The Makkan Scene at the Start of Prophethood",
+  "output": {
+    "scene_title": "Sa'id and Umar Ask the Prophet About Praying for Zayd",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 4: The Makkan Scene at the Start of Prophethood",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      },
+      {
+        "id": "saeid_ibn_al-khattab",
+        "name": "Saʿīd ibn al-Khaṭṭāb",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Mid 20s, light brown skin, athletic build, tall. Clean-shaven, dark eyes with a hint of excitement. Wearing off-white cotton thobe, plain beige woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals."
+      },
+      {
+        "id": "umar_ibn_al-khattab",
+        "name": "ʿUmar ibn al-Khaṭṭāb",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Mid 20s, light brown skin, athletic build, tall. Clean-shaven, dark eyes with a hint of curiosity. Wearing off-white cotton thobe, plain beige woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals."
+      }
+    ],
+    "moral_lesson": "The value of seeking knowledge and guidance from the Prophet and the mercy of Allah.",
+    "narrative_text": "One day, Saʿīd and ʿUmar asked the Prophet if it was permissible to pray for mercy and forgiveness for Zayd. They were curious about the best way to show compassion and kindness.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. Saʿīd and ʿUmar shown with full faces, engaged in conversation. Warm friendly scene, suitable for children."
+    },
+    "image_prompt": "Colorful children's illustration. Interior of a modest 7th century Makkah mud-brick home. A tall young Arab man in off-white thobe and beige cloak, white cloth wrapped as loose head covering, standing in front of the Prophet, who is seen entirely from behind, standing at an open doorway with warm golden afternoon sunlight streaming behind him. Another young Arab man with similar build and features, standing beside the first, looking at the Prophet with interest. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 4,
+    "chapter_title": "The Makkan Scene at the Start of Prophethood",
+    "scene_types": [
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

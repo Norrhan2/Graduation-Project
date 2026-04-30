@@ -1,0 +1,47 @@
+{
+  "training_id": "passage_0207",
+  "input": "A Declaration of Peace Suddenly, the Prophet’s she-camel sat down. People shouted at her to make her rise again, but she would not move. Some people suggested that she refused to go forward. The Prophet told them that such a refusal was not in her nature. He said: “She is held back for the same reason which held back the elephant.” This was a reference to an incident which took place nearly years earlier when Abrahah, the ruler of the Yemen, was riding an elephant at the head of a large force, whose aim was to destroy the Kaʿbah.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 28: Peace in the Making",
+  "output": {
+    "scene_title": "The Prophet's Camel Refuses to Move",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 28: Peace in the Making",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      },
+      {
+        "id": "camel",
+        "name": "The Prophet's She-Camel",
+        "role": "animal",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "A large, majestic Arabian she-camel with dark coat and lighter-colored underbelly, standing still with her front legs bent and hind legs straight. She has a slight expression of calmness on her face, her ears slightly forward. No details other than her overall shape and size."
+      }
+    ],
+    "moral_lesson": "Patience and understanding are essential in times of uncertainty and confusion.",
+    "narrative_text": "The Prophet's camel sat down suddenly, and the people shouted at her to make her rise again. But she refused. The Prophet said that she was held back for the same reason that the elephant had been held back years ago.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Camel shown as a silhouette, Prophet from behind. No details or violence."
+    },
+    "image_prompt": "Watercolor illustration. A simple, open desert scene with a majestic dark-coated camel standing still in the center, her front legs bent and hind legs straight, her ears slightly forward. In the background, a dignified older man in a white thobe and brown cloak, white turban, seen entirely from behind, standing with his hands on his hips. Subtle warm light on the camel and gentle brushstrokes. No modern objects."
+  },
+  "metadata": {
+    "chapter": 28,
+    "chapter_title": "Peace in the Making",
+    "scene_types": [
+      "dialogue",
+      "battle",
+      "journey",
+      "confrontation",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0258",
+  "input": "The al-Naḍīr were allowed to leave Madinah with their women and children, and each one of them was allowed a camel load of his property. Now the Qurayẓah offered to leave on the same terms. However, there was no chance that the Prophet would accept this. The crimes perpetrated by both tribes were vastly dissimilar. Both violated their treaties with the Muslims, but al-Naḍīr tried to kill the Prophet. The Qurayẓah, on the other hand, entered into an alliance with the pagan Arabs with the aim of exterminating the Muslims altogether, when the terms of their treaty dictated that they should give them support against those very Arabs.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+  "output": {
+    "scene_title": "Quraysh's Offer to Leave Madinah",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      },
+      {
+        "id": "qurayzah_leader",
+        "name": "Qurayzah Leader",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, medium brown skin, sturdy build, strong facial features. Thick black beard, neatly kept. Wearing dark brown woolen cloak, white cotton thobe, and a black keffiyeh wrapped as head covering. Worn leather sandals. Serious expression, slightly scowling."
+      },
+      {
+        "id": "makkah_man",
+        "name": "Quraysh Man",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, light olive skin, lean build, slightly taller than average. Short black beard, neatly trimmed. Wearing off-white cotton thobe, dark brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Neutral expression, slight hint of concern."
+      }
+    ],
+    "moral_lesson": "The consequences of betraying one's promises and allies will be severe.",
+    "narrative_text": "The Quraysh offered to leave Madinah on the same terms as the al-Naḍīr, but the Prophet knew their crimes were much worse. They had allied with the pagan Arabs to destroy the Muslims.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, while the Qurayzah leader and a Quraysh man are shown with full faces. The scene is set in the early days of Madinah, with a mix of Muslim and non-Muslim characters. The narrative text is simple and engaging for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Exterior of a Madinah mud-brick home in early days. A man in white thobe and brown cloak, white turban, seen entirely from behind, standing at the door with warm golden sunlight streaming behind him. Inside, a Quraysh leader in dark brown cloak and white thobe, black keffiyeh, sitting on a woven mat looking at a Quraysh man in off-white thobe and dark brown cloak, white cloth wrapped as head covering, who is standing with hands on hips. A mixture of Arab architecture and simple furnishings. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 26,
+    "chapter_title": "An Account to Settle",
+    "scene_types": [
+      "journey",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

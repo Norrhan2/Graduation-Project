@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0179",
+  "input": "Thus alAswad was the first casualty of that battle. The Muslim army was very well organized. The Prophet himself had supervised its deployment. He addressed his companions, stressing the importance of putting up a determined fight. He then said to them: “Do not move forward until I have given you the order. When they approach, try to repel them with your arrows. Do not draw out your swords until they have reached you.” He then went into the shed which had been built for him.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 17: Badr: The First Major Battle",
+  "output": {
+    "scene_title": "The Prophet's Battle Strategy at Badr",
+    "era": "late_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 17: Badr: The First Major Battle",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "muslim_soldier",
+        "name": "Muslim Soldier",
+        "role": "supporting",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Young adult, medium build, slightly weary expression. Wearing a simple white thobe, brown leather armor, brown turban. Holding a bow and quiver of arrows, looking forward with a determined gaze."
+      }
+    ],
+    "moral_lesson": "Patience and strategy are key to success in any endeavor.",
+    "narrative_text": "The Prophet stood with his companions, preparing for battle. He gave them a clear plan: wait for his signal before engaging the enemy. When the time came, they would shoot arrows and only draw their swords when necessary.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, and the Muslim soldier is depicted in silhouette to avoid graphic violence. The scene emphasizes the importance of strategy and patience."
+    },
+    "image_prompt": "Children's watercolor illustration. A desert landscape with a distant sandstorm brewing. A group of Muslim soldiers, shown as silhouettes, stand at attention, looking forward. In the foreground, a figure in a white thobe and green cloak, white turban, seen entirely from behind, stands with his back to the soldiers. He holds a staff, and a small wooden building (shed) is visible behind him. Warm golden light with a hint of dust storm on the horizon. Medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 17,
+    "chapter_title": "Badr: The First Major Battle",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

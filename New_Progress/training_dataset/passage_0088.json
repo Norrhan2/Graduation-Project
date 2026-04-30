@@ -1,0 +1,37 @@
+{
+  "training_id": "passage_0088",
+  "input": "The Prophet was not perturbed. On the contrary, he said: “God is supreme. Rejoice, you Muslims, for the end will be a happy one.” An Attitude of Unshaken Faith It is important to consider the attitude of the Prophet when he received the unhappy news of the Qurayẓah’s treachery. At no time during his life did the Prophet show that he was given to fanciful ideas or carried away into the high flights of imagination. Indeed, the reverse is true.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+  "output": {
+    "scene_title": "The Prophet Remains Calm in the Face of Adversity",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "True faith involves trust and confidence in Allah, no matter what challenges come our way.",
+    "narrative_text": "When the Prophet heard the news of the Qurayẓah's treachery, he remained calm and confident. He told his companions: 'God is supreme. Rejoice, you Muslims, for the end will be a happy one.'",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, without face visible. Simple, calm scene, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration. Interior of a Makkah home, circa 7th century. A middle-aged man in white thobe and green cloak, white turban, seen entirely from behind, standing near a clay water jug on a woven mat. The man's face is not visible. Simple mud-brick walls, soft sunlight streaming through an open doorway. Medium shot, eye level. Calming blue-green palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 25,
+    "chapter_title": "A Fresh Storm Gathers",
+    "scene_types": [
+      "dialogue",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

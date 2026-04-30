@@ -1,0 +1,57 @@
+{
+  "training_id": "passage_0114",
+  "input": "The determination and steadfastness which the Muslims had shown over a period of great difficulty lasting over three months were now yielding their fruits. The Arabs had departed in humiliation, then the Jews followed by submitting to the judgement of the Prophet. On the same night when the Qurayẓah surrendered, three Jews of the clan of Hodal came down from the Qurayẓah forts and requested to be taken to the Prophet. The three men, Thaʿlabah ibn Saʿyah, his brother Usayd and Asʿad ibn ʿUbayd, declared their acceptance of Islam.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+  "output": {
+    "scene_title": "Three Jews Accept Islam",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+    "characters": [
+      {
+        "id": "tha_labah_ibn_sa_yah",
+        "name": "Tha'laba ibn Sa'iyah",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark olive skin, athletic build, short dark hair. Wearing simple white thobe, off-white turban wrapped around head, plain leather sandals. Distinguished by dark hair and athletic build."
+      },
+      {
+        "id": "usayd_ibn_sa_yah",
+        "name": "Usayd ibn Sa'iyah",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark olive skin, athletic build, short dark hair. Wearing simple white thobe, off-white turban wrapped around head, plain leather sandals. Distinguished by dark hair and athletic build."
+      },
+      {
+        "id": "as_ad_ibn_ubayd",
+        "name": "As'ad ibn 'Ubayd",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark olive skin, athletic build, short dark hair. Wearing simple white thobe, off-white turban wrapped around head, plain leather sandals. Distinguished by dark hair and athletic build."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Acceptance of Islam brings peace and salvation",
+    "narrative_text": "Three brave Jews, Tha'laba, Usayd, and As'ad, came down from the Qurayza forts and asked to be taken to the Prophet. They proudly announced that they accepted Islam, bringing joy to their hearts and to the Prophet's heart.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, with warm golden light in the background. The three Jews shown with full faces, smiling and proud of their decision. A dignified and peaceful scene, suitable for children."
+    },
+    "image_prompt": "Whimsical illustration in watercolor. Evening scene in Madinah. A group of three dark-haired, athletic-looking men, dressed in simple white thobes, off-white turbans, and plain leather sandals, stand before a dignified figure seen entirely from behind, with a green cloak draped over his shoulders and white turban with tail between shoulder blades. The Prophet stands before a simple stone building, surrounded by the quiet Madinah night sky. Warm golden light in the background, with stars and moon shining down. Medium shot, eye level. Soft colors and gentle atmosphere. No modern objects."
+  },
+  "metadata": {
+    "chapter": 26,
+    "chapter_title": "An Account to Settle",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

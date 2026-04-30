@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0247",
+  "input": "Thus, having achieved the objective of making the Muslims turn to Jerusalem in their prayers for a while, it was now time to give them their own distinctive qiblah – the Kaʿbah, the first house of worship ever built. This process made the Muslims keenly aware that they were the true heirs of Abraham and his religion, based on total submission to God. To be distinct from others is very important when one speaks of faith and worship, for worship is the visible expression of the beliefs which take root in the soul.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 16: Peace and Confrontation",
+  "output": {
+    "scene_title": "The Muslims Receive Their Distinctive Qiblah",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 16: Peace and Confrontation",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Mid-40s, strong build, dignified upright posture. Wearing a simple white thobe with a plain brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      },
+      {
+        "id": "muslim_devotee",
+        "name": "Anonymous Muslim Devotee",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium skin tone, athletic build. Short beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      }
+    ],
+    "moral_lesson": "It is essential to maintain distinct characteristics and practices that set us apart as followers of a particular faith.",
+    "narrative_text": "The Prophet had guided the Muslims to face Jerusalem in their prayers for a while. Now, it was time to change their qiblah to the Kaʿbah, the first house of worship ever built. This change made the Muslims aware of their true heritage as followers of Abraham's religion.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, no faces visible. Muslim devotee shown with full face, gentle expression. Simple scene, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration. Exterior of the Kaʿbah, Makkah's first house of worship. A dignified man in white thobe and brown cloak, white turban, seen entirely from behind, standing near the Kaʿbah's simple stone structure. In the background, a group of Muslims, all wearing off-white thobes and brown cloaks, gathered around the Kaʬbah, looking up at the sky with a sense of devotion. Simple stone walls, desert landscape. Medium shot, eye level. Earthy color palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 16,
+    "chapter_title": "Peace and Confrontation",
+    "scene_types": [
+      "battle",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

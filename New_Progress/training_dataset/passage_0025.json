@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0025",
+  "input": "When all of them were buried, the Prophet stood at their grave and said, “People of the well! Have you seen how God’s promises always come true? God’s promise to me has certainly been fulfilled.” Some of the Prophet’s companions wondered how he could speak to the dead. He said: “They now know that what God has promised is fulfilled.” The Prophet then sent ʿAbdullāh ibn Rawāḥah and Zayd ibn Ḥārithah to convey the good news to the people of Madinah.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 17: Badr: The First Major Battle",
+  "output": {
+    "scene_title": "Prophet Announces Fulfillment of Promise to the Martyrs",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 17: Badr: The First Major Battle",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a beige cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by beige cloak and subtle warm light."
+      },
+      {
+        "id": "abdullaah_ibn_rawaahah",
+        "name": "ʿAbdullāh ibn Rawāḥah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, medium olive skin, athletic build, slightly taller than average. Dark hair, neatly trimmed, and dark full beard. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong facial features, intense eyes."
+      },
+      {
+        "id": "zayd_ibn_harithah",
+        "name": "Zayd ibn Ḥārithah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, light olive skin, slender build, slightly shorter than average. Dark hair, neatly trimmed, and dark short beard. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      }
+    ],
+    "moral_lesson": "God's promise is always fulfilled, and His blessings are abundant.",
+    "narrative_text": "After the Prophet buried his companions, he stood at their grave and announced that God's promise had been fulfilled. He sent his companions ʿAbdullāh ibn Rawāḥah and Zayd ibn Ḥārithah to share the good news with the people of Madinah.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, standing at the grave. Companions shown with full faces, conveying the news. A respectful and uplifting scene, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration. A simple 7th century Makkah mud-brick graveyard with scattered palm trees. The Prophet, shown from behind, standing at a grave with a simple white thobe and beige cloak, white turban, looking upwards. Two younger Arab men, ʿAbdullāh and Zayd, standing off to the side, looking at each other with excited expressions, both wearing off-white thobes, brown cloaks, and white head coverings. Warm golden light, medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 17,
+    "chapter_title": "Badr: The First Major Battle",
+    "scene_types": [
+      "dialogue"
+    ],
+    "generation_warnings": null
+  }
+}

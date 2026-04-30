@@ -1,0 +1,115 @@
+{
+  "training_id": "passage_0167",
+  "input": "Abū Sufyān was overwhelmed. He said to the Prophet: “You are indeed very generous. May my parents be sacrificed for your sake. I fought you and you were the most honourable of foes, and I have made peace with you and you have proved to be the best of friends. May God reward you with His best blessings.” The Prophet also gave a number of other people camels each: Ḥakīm ibn Ḥizām, al-Ḥārith ibn Kildah, ʿAlqamah ibn ʿAllādhah, al-ʿAlā’ ibn Ḥārithah, al-Ḥārith ibn Hishām, Jubayr ibn Muṭʿim, Suhayl ibn ʿAmr, Ḥuwayṭib ibn ʿAbd al-ʿUzzā, ʿUyaynah ibn Ḥiṣn and al-Aqraʿ ibn Ḥābis.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 37: Generous Gifts to Old Foes",
+  "output": {
+    "scene_title": "Abu Sufyan's Heartfelt Apology",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 37: Generous Gifts to Old Foes",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Late 50s, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "abu_sufyan",
+        "name": "Abu Sufyan ibn Harb",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 50s, medium build, prominent nose, slightly darker skin tone. Thick black beard with hints of grey, neatly kept. Wearing off-white cotton thobe, plain black woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Slightly stern expression, proud posture."
+      },
+      {
+        "id": "hakim_ibn_hizam",
+        "name": "Hakim ibn Hizam",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 40s, fair to light olive skin, slender build, prominent forehead. Short black beard with hints of grey, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      },
+      {
+        "id": "alharith_ibn_kildah",
+        "name": "Al-Harith ibn Kildah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium build, broad nose, slightly darker skin tone. Thin black beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong facial features, slightly stooped shoulders."
+      },
+      {
+        "id": "alqamah_ibn_alladhah",
+        "name": "Al-Qamah ibn Al-Ladhah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 40s, fair to light olive skin, slender build, prominent cheekbones. Short black beard with hints of grey, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      },
+      {
+        "id": "ala_ibn_harithah",
+        "name": "Al-Ala' ibn Harithah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium build, broad nose, slightly darker skin tone. Thin black beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong facial features, slightly stooped shoulders."
+      },
+      {
+        "id": "alharith_ibn_hisham",
+        "name": "Al-Harith ibn Hisham",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 40s, fair to light olive skin, slender build, prominent nose. Short black beard with hints of grey, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      },
+      {
+        "id": "jubair_ibn_mutim",
+        "name": "Jubayr ibn Mut'im",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium build, broad nose, slightly darker skin tone. Thin black beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong facial features, slightly stooped shoulders."
+      },
+      {
+        "id": "suhayl_ibn_amr",
+        "name": "Suhayl ibn Amr",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 40s, fair to light olive skin, slender build, prominent nose. Short black beard with hints of grey, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      },
+      {
+        "id": "huyaytib_ibn_abd_aluzzah",
+        "name": "Huwaytib ibn Abd al-Uzza",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium build, broad nose, slightly darker skin tone. Thin black beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong facial features, slightly stooped shoulders."
+      },
+      {
+        "id": "uyaynah_ibn_hisn",
+        "name": "Uyaynah ibn Hisn",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 40s, fair to light olive skin, slender build, prominent nose. Short black beard with hints of grey, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      },
+      {
+        "id": "al_aqra_ibn_habis",
+        "name": "Al-Aqra' ibn Habis",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium build, broad nose, slightly darker skin tone. Thin black beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong facial features, slightly stooped shoulders."
+      }
+    ],
+    "moral_lesson": "Generosity and forgiveness are key to healing old wounds and building strong relationships.",
+    "narrative_text": "Abu Sufyan was overwhelmed with emotion when he apologized to the Prophet for his past actions. The Prophet showed kindness and generosity by giving Abu Sufyan and several other men camels as a gesture of goodwill.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. Abu Sufyan and other Sahaba shown with full faces, emotions visible. Warm scene, appropriate for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Interior of a modest 7th century Makkah mud-brick home. A man in white thobe and green cloak, white turban, seen entirely from behind, standing at an open doorway with warm golden afternoon sunlight streaming behind him. Inside, a group of Arab men with varying facial features, dressed in off-white cotton thobes, plain brown woolen cloaks, and white cloth wrapped as loose head coverings, sitting or standing with mix of emotions on their faces. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 37,
+    "chapter_title": "Generous Gifts to Old Foes",
+    "scene_types": [
+      "battle",
+      "journey",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

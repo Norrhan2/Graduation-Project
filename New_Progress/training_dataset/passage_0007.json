@@ -1,0 +1,45 @@
+{
+  "training_id": "passage_0007",
+  "input": "As he was taken to be killed, he shouted: “Whom are you leaving to look after my boys, Muhammad?” The Prophet’s answer was: “The Fire”. ʿUqbah asked: “Do you single me out from all your prisoners?” The Prophet replied in the affirmative, pointing out to his companions some of the crimes the man had perpetrated. He said: “As I prostrated in my prayers once in the Mosque, he put his foot over my neck and pressed hard. He did not release me until I felt my eyes would come out of my face.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 18: In Madinah After Badr",
+  "output": {
+    "scene_title": "ʿUqbah Asks About His Family",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 18: In Madinah After Badr",
+    "characters": [
+      {
+        "id": "muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Mid 50s, strong build, upright posture. Wearing a simple white thobe with a brown woolen cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      },
+      {
+        "id": "uqba_ibn_abi_muait",
+        "name": "ʿUqbah ibn Abī Muʿait",
+        "role": "prisoner",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, light skin with dark freckles, athletic build, rugged features. Short beard with some grey streaks, neatly kept. Wearing a beige tunic, dark brown woolen cloak, simple leather sandals. Distinguished by rugged appearance and determined look."
+      }
+    ],
+    "moral_lesson": "The Prophet's mercy and compassion towards all people, including those who have wronged him.",
+    "narrative_text": "When ʿUqbah ibn Abī Muʿait was taken to be killed, he asked the Prophet about who would look after his boys. The Prophet's answer was a reminder of the Fire. ʿUqbah then asked if he was being singled out, and the Prophet pointed out some of the crimes he had committed, including putting his foot over the Prophet's neck while he was praying.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is not shown in the scene. ʿUqbah is shown with full face, but the scene is not graphic or disturbing."
+    },
+    "image_prompt": "Digital painting. Interior of a 7th century Madinah mosque. A group of companions, some with faces visible, others with backs turned, are seen in the background. In the foreground, a prisoner, ʿUqbah ibn Abī Muʿait, is shown with full face, looking worried, wearing a beige tunic and dark brown cloak. He is standing with his hands tied behind his back. The scene is lit with warm sunlight streaming through the windows. Medium shot, eye level. Muted color palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 18,
+    "chapter_title": "In Madinah After Badr",
+    "scene_types": [
+      "dialogue",
+      "battle",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

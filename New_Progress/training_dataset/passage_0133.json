@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0133",
+  "input": "He turned down their request, saying that he would not divorce Zaynab for any other woman. ʿUtbah ibn Abī Lahab, who was engaged to one of the Prophet’s other daughters, accepted the offer. He left her and chose in her place the daughter of Saʿīd ibn al-ʿĀṣ. Now that Abū al-ʿĀṣ was a prisoner of war in Madinah, Zaynab sent money for his release. She included in her offer of ransom a necklace which was her mother’s gift to her on her wedding night.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 18: In Madinah After Badr",
+  "output": {
+    "scene_title": "Zaynab Helps Release Prisoner",
+    "era": "madinah_early",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 18: In Madinah After Badr",
+    "characters": [
+      {
+        "id": "zaynab",
+        "name": "Zaynab bint Jahsh",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late teens to early 20s, light olive skin, slender build, slightly taller than average. Wearing a modest black cloak with a white headscarf, simple leather sandals, a few strands of hair visible under the headscarf."
+      },
+      {
+        "id": "utbah_ibn_abi_lahab",
+        "name": "ʿUtbah ibn Abī Lahab",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, medium build, darker olive skin, short beard. Wearing a dark brown thobe, simple white turban, worn leather sandals, a stern expression."
+      }
+    ],
+    "moral_lesson": "Compassion and kindness can bring people together, even in difficult times.",
+    "narrative_text": "When Zaynab heard that her husband Abū al-ʿĀṣ was a prisoner of war, she quickly sent money to help buy his freedom. She even included her mother’s precious necklace as part of the ransom.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No prophets shown in the scene, and characters are dressed modestly. Appropriate for children due to the kindness and compassion shown."
+    },
+    "image_prompt": "Children’s watercolor illustration. A warm and cozy interior of a 7th century Makkah home. Zaynab, a slender young woman with light olive skin, wearing a black cloak and a white headscarf, looks worried but determined. She is seen holding a small pouch of money and a precious necklace. In the background, a man in a dark brown thobe and simple white turban, with a stern expression, looks on. Soft golden light, gentle emotions, and modest clothing. Medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 18,
+    "chapter_title": "In Madinah After Badr",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

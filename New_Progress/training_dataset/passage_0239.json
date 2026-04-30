@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0239",
+  "input": "He soon discovered that she had full breasts. He milked enough for both of us to have our fill. It was our best night for a long while. My husband said to me in the morning: ‘You know, Ḥalīmah, you have taken a blessed child.’ I said: ‘I sincerely hope so.’” We started our journey that morning and I rode the same mule and carried Muhammad with me. She was now moving fast, ahead of all my friends. They were amazed, and asked me whether it was the same mule I was riding on the way to Makkah.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 2: The Early Years",
+  "output": {
+    "scene_title": "A Blessed Journey Begins",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 2: The Early Years",
+    "characters": [
+      {
+        "id": "halimah",
+        "name": "Halimah as-Sa'diyah",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, medium olive skin, athletic build, dark hair tied back. Wearing a simple dark brown tunic, wrapped in a brown woolen cloak, simple leather sandals, carrying a leather water skin on her back. Warm smile, gentle eyes."
+      },
+      {
+        "id": "muhammad_child",
+        "name": "Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Infant, around 2 years old, wrapped in a simple white cloth, held securely in Halimah's arms. No facial features visible."
+      }
+    ],
+    "moral_lesson": "The blessings of Allah can be seen in the simplest of things, like a mother's love and care.",
+    "narrative_text": "As we journeyed through the desert, my husband and I were amazed by Muhammad's rapid growth and energy. I rode a mule and carried the blessed child with me, and we moved ahead of the rest of the group. They were amazed by our pace.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet not shown in this scene, but mentioned as a child being carried by Halimah."
+    },
+    "image_prompt": "Watercolor illustration of a mother and child in the 7th century Arabian desert. Halimah, a young woman with medium olive skin, dark hair tied back, and a warm smile, rides a mule with her infant child, Muhammad, wrapped in a white cloth, securely in her arms. The mule is moving swiftly, ahead of a group of people in the distance. Simple mud-brick huts can be seen in the background. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 2,
+    "chapter_title": "The Early Years",
+    "scene_types": [
+      "dialogue",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "training_id": "passage_0051",
+  "input": "When he sat down, he praised and glorified God before going on to say: ʿĀ’ishah. People have been talking as you are now well aware. If you are innocent, God will make your innocence known. If, however, you have committed a sin, then you should seek God’s forgiveness and repent. If a servant of God admits her sin and repents, God will forgive her.” When the Prophet finished, my tears dried up completely and I turned to my father and said: “Answer the Prophet.” He said: “By God, I do not know what to say to God’s Messenger, peace be on him.” I then said to my mother: “Answer the Prophet.” She said: “I do not know what to say to God’s Messenger, peace be upon him.” I was still a young girl, and I did not read much of the Qur’ān.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+  "output": {
+    "scene_title": "ʿĀishah Receives Advice from the Prophet",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "asaad_ibn_abu_bakr",
+        "name": "Asad ibn Abu Bakr",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, light brown skin, slender build, slightly taller than average. Dark hair, short beard with slight hint of reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Soft features, slightly worried expression."
+      },
+      {
+        "id": "umm_abdullah",
+        "name": "Umm Abdullah (Asad's mother)",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light brown skin, slender build, slightly shorter than average. Long dark hair, loose white cloth wrapped around her head as a hijab, simple dark brown cloak. Worn leather sandals. Gentle features, kind eyes."
+      },
+      {
+        "id": "aishah",
+        "name": "ʿĀishah bint Abi Bakr",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late 10s, light brown skin, slight build, slightly shorter than average. Young, round face with gentle features, short dark hair. Wearing off-white cotton thobe, simple dark brown cloak, white cloth wrapped as loose head covering. Worn leather sandals. Innocent, slightly tear-stained expression."
+      }
+    ],
+    "moral_lesson": "When faced with uncertainty or doubt, seek guidance from those in authority and trust in the mercy of Allah.",
+    "narrative_text": "ʿĀishah was worried about what people were saying about her. The Prophet advised her to seek forgiveness and repent if she had done anything wrong, and to trust in God's mercy. When ʿĀishah's father and mother didn't know what to say, she knew she had to answer the Prophet's advice for herself.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by sunlight. ʿĀishah and family shown with full faces, gentle emotions. Soft and encouraging scene, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration. Interior of a modest 7th century Makkah mud-brick home. A man in white thobe and green cloak, white turban, seen entirely from behind, standing near a doorway with warm sunlight streaming behind him. Inside, a young girl in off-white thobe, simple dark brown cloak, white cloth wrapped as loose head covering, sitting on a woven mat looking worried, one hand on her chest. Her mother, wearing a simple dark brown cloak, loose white cloth wrapped around her head as a hijab, sits beside her. The girl's father, wearing an off-white cotton thobe, plain brown woolen cloak, sits opposite them, looking concerned. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 24,
+    "chapter_title": "How to Mar a Splendid Victory",
+    "scene_types": [
+      "dialogue",
+      "battle",
+      "emotional",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

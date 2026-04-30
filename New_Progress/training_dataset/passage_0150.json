@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0150",
+  "input": "The False Story “The Story of Falsehood” is the name given by God in the Qur’ān to the accusation made by the hypocrites against ʿĀ’ishah. Perhaps the most comprehensive view of this story can be gained through ʿĀ’ishah’s own account of it: Every time the Prophet went abroad he made a toss among his wives to decide which of them should accompany him. At the time of al-Muṣṭalaq expedition, the toss favoured me and I travelled with him. At the time, women did not eat much, which meant that they were slim and light.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+  "output": {
+    "scene_title": "ʿĀʼishah Explains the Story of the False Accusation",
+    "era": "madinah_late",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+    "characters": [
+      {
+        "id": "aishah",
+        "name": "ʿĀʼishah bint Abī Bakr",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 20s, medium build, slender features. Wearing long-sleeved, off-white cotton cloak with hood, loose head covering of lightweight fabric, revealing dark hair tied back. Wearing delicate silver jewelry, simple leather sandals. Modest, gentle eyes, demure expression."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Late 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Be truthful and clear in your words and actions, and avoid spreading false rumors or accusations.",
+    "narrative_text": "ʿĀʼishah explained that when the Prophet would go on a journey, he would toss a small stone among his wives to decide which one would join him. She remembered one time when she was chosen and joined the Prophet on the al-Muṣṭalaq expedition.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "ʿĀʼishah shown with full face, Prophet shown from behind, warm and respectful scene, suitable for children."
+    },
+    "image_prompt": "Delicate watercolor illustration. Interior of a modest 7th century Makkah mud-brick home. A slender young Arab woman with dark hair tied back, wearing long-sleeved off-white cloak, loose head covering, and delicate silver jewelry, sits on a woven mat looking directly at the viewer with gentle expression. Behind her, a dignified older man in white thobe and green cloak, white turban, seen entirely from behind, stands with warm golden afternoon sunlight streaming behind him. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Soft pastel palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 24,
+    "chapter_title": "How to Mar a Splendid Victory",
+    "scene_types": [
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0076",
+  "input": "This is in order to publicize the marriage. A banquet is not merely a very good method of publicity, in any society, regardless of that society’s state of development; it is also a means of making the occasion of marriage a happy one for the community as a whole. When the Prophet married Zaynab, a woman called Umm Salīm prepared some food and gave it to Anas ibn Mālik and told him: “Take this to God’s Messenger (peace be upon him) and tell him that this is a humble present from us to him.” Anas, the reporter of this event, observes that it was a time when most commodities were scarce.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 27: Family Matters",
+  "output": {
+    "scene_title": "Umm Salīm Shows Appreciation for the Prophet",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 27: Family Matters",
+    "characters": [
+      {
+        "id": "ummsalim",
+        "name": "Umm Salīm",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Mid-20s, medium olive skin, slender build, dark hair in a simple bun. Modest, loose-fitting dark brown dress with a white headscarf covering her hair, worn leather sandals. Warm smile and gentle eyes."
+      },
+      {
+        "id": "anas_ibn_malik",
+        "name": "Anas ibn Mālik",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Mid-20s, medium olive skin, lean build, dark hair with some grey streaks. Thin beard with reddish henna tint, simple dark brown tunic, white cloth wrapped as loose head covering, worn leather sandals. Bright inquisitive eyes, slight youthful exuberance."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Showing appreciation for others is a beautiful way to spread happiness and build strong relationships.",
+    "narrative_text": "When the Prophet married Zaynab, Umm Salīm prepared some delicious food and gave it to Anas ibn Mālik to take to the Prophet. She wanted to show her appreciation for the Prophet's marriage and make the occasion happy for the community.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. Umm Salīm and Anas shown with full faces, warm and respectful scene, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration of a modest 7th century Makkah mud-brick home. A young Arab woman, Umm Salīm, with medium olive skin, dark hair in a simple bun, wearing a dark brown dress and white headscarf, smiling warmly, handing a clay water jug wrapped in a cloth to Anas ibn Mālik, mid-20s, with medium olive skin, dark hair, thin beard, simple dark brown tunic, white cloth wrapped as head covering, worn leather sandals. The Prophet is visible in the background, shown entirely from behind, wearing a simple white thobe, green cloak, white turban. Soft golden afternoon sunlight streams through a small window. Medium shot, eye level. Warm color palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 27,
+    "chapter_title": "Family Matters",
+    "scene_types": [
+      "dialogue",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

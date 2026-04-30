@@ -1,0 +1,39 @@
+{
+  "training_id": "passage_0127",
+  "input": "Zayd ibn ʿAmr, the last of the four, travelled widely in Syria and Iraq. He considered becoming a Jew or a Christian. An aged Christian priest, however, told him that the time was ripe for the appearance of a new Prophet in the land of the Arabs. Zayd therefore went back to Makkah to wait for this new Prophet. He took no part in idol worship and refused to partake of any animal which was slaughtered as an offering to idols.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 4: The Makkan Scene at the Start of Prophethood",
+  "output": {
+    "scene_title": "Zayd Waits for the New Prophet",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 4: The Makkan Scene at the Start of Prophethood",
+    "characters": [
+      {
+        "id": "zayd_ibn_amr",
+        "name": "Zayd ibn ʿAmr",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Middle age, medium build, slightly weathered from travels. Dark brown skin, thin brown beard and mustache. Wearing simple beige thobe, no cloak, white cloth wrapped as turban. Worn leather sandals. Distinguished by weathered appearance and simple clothing."
+      }
+    ],
+    "moral_lesson": "Patience and waiting for guidance from Allah is essential for those seeking the truth.",
+    "narrative_text": "Zayd ibn ʿAmr had travelled far and wide, considering different faiths, but an aged Christian priest's words made him realize he needed to wait for the new Prophet. He returned to Makkah, determined to find the truth.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Scene depicts a waiting period, no Prophet visible. Zayd shown as an honest seeker of truth, in modest attire."
+    },
+    "image_prompt": "Watercolor illustration. Exterior of a modest 7th century Makkah mud-brick home. A middle-aged man with dark brown skin, thin brown beard and mustache, wearing beige thobe, white turban, and worn leather sandals, sitting on a stone bench. He looks contemplative, with a distant gaze. Simple mud-brick walls, a few palm trees in the background. Soft desert light. Medium shot, slightly above eye level. Warm beige and brown palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 4,
+    "chapter_title": "The Makkan Scene at the Start of Prophethood",
+    "scene_types": [
+      "dialogue",
+      "journey",
+      "teaching",
+      "confrontation"
+    ],
+    "generation_warnings": null
+  }
+}

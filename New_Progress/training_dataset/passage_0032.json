@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0032",
+  "input": "Al-Mughīrah ibn Shuʿbah, a Muslim nephew of ʿUrwah, was standing behind the Prophet, holding his sword in his hand and wearing his shield. Every time ʿUrwah raised his hand to touch the Prophet’s beard, al-Mughīrah hit him with the bottom of his sword on his hand and said: “Keep your hand off the Prophet’s face before it is chopped off.” ʿUrwah did not recognize him, but when he persisted, ʿUrwah said: “Confound you – how ill-mannered you are.” The Prophet smiled at this demonstration of his companion’s love and respect for him. ʿUrwah tried his best to weaken the Prophet’s determination to enter Makkah, raising before him the prospect of defeat and counselling him against causing a military conflict.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 28: Peace in the Making",
+  "output": {
+    "scene_title": "Al-Mughirah Protects the Prophet's Honor",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 28: Peace in the Making",
+    "characters": [
+      {
+        "id": "muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "urumah",
+        "name": "ʻUrwah ibn Mas’ud",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, fair skin, average build, slightly taller than average. Thin beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confused expression, slightly raised eyebrow."
+      },
+      {
+        "id": "al_mughirah",
+        "name": "Al-Mughirah ibn Shu’bah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Mid 30s, medium skin tone, muscular build, strong features. Thick beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Tough, resolute expression, holding sword in right hand."
+      }
+    ],
+    "moral_lesson": "Respecting and defending the Prophet's honor is a sacred duty.",
+    "narrative_text": "Al-Mughirah ibn Shu'bah stood behind the Prophet, protecting him from ʿUrwah's attempts to touch his beard. The Prophet smiled at Al-Mughirah's love and respect for him. ʿUrwah tried to discourage the Prophet from entering Makkah, but Al-Mughirah stood firm.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No graphic violence, Al-Mughirah's sword is not visible, only implied as a threat. ʿUrwah's expression is confused, not aggressive."
+    },
+    "image_prompt": "Watercolor illustration. Interior of a 7th century Makkah mud-brick home. A man in white thobe and green cloak, white turban, seen entirely from behind, standing at an open doorway with warm golden afternoon sunlight streaming behind him. In the background, a confused older Arab man with fair skin, thin beard, off-white thobe and brown cloak, standing with his hand raised. A strong, muscular Arab man with medium skin tone, thick beard, off-white thobe and brown cloak, standing with his sword held in his right hand, looking resolute. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 28,
+    "chapter_title": "Peace in the Making",
+    "scene_types": [
+      "dialogue",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

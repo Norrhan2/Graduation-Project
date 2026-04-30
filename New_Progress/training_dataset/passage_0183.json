@@ -1,0 +1,52 @@
+{
+  "training_id": "passage_0183",
+  "input": "We have only met bald old men who looked like tied-up camels and we slaughtered them.” The Prophet smiled and said: “Nephew! Those were the men of honour.” What he meant was that no one should underrate their position or fighting ability. As has already been mentioned, when the battle was over the Muslim army found itself with no fewer than prisoners. Many enemy men preferred to surrender rather than get killed in the battle. In his shed the Prophet was watching the battle and a group of Muslim soldiers was guarding him lest a band of enemy troops should launch an attempt on his life.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 18: In Madinah After Badr",
+  "output": {
+    "scene_title": "The Prophet Praises the Men of Honour",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 18: In Madinah After Badr",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      },
+      {
+        "id": "usama_bin_zayd",
+        "name": "Usama Bin Zayd",
+        "role": "nephew",
+        "depiction_rule": "FULL",
+        "appearance": "Late teens or early 20s, light olive skin, lean build, slightly taller than average. Clean-shaven, brown eyes, smiling face. Wearing simple off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Well-worn leather sandals. Aged about 10 years less than Abu Bakr."
+      },
+      {
+        "id": "muslim_soldiers",
+        "name": "Muslim Soldiers",
+        "role": "supporting",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Group of medium to tall men, various ages, light to medium olive skin, wearing simple off-white cotton thobes, tan or brown woolen cloaks, brown leather sandals. Armed with swords, shields, and spears. Uniformly dressed with a hint of fatigue and concentration on their faces."
+      }
+    ],
+    "moral_lesson": "One should never underestimate others based on their appearance or age.",
+    "narrative_text": "The Prophet smiled and said to Usama, 'Those were the men of honour.' He meant that no one should underrate their position or fighting ability. The Prophet was watching the battle from his shed, surrounded by Muslim soldiers who were guarding him.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, surrounded by Muslim soldiers in silhouette. Usama shown with full face, smiling."
+    },
+    "image_prompt": "Gouache painting on rough paper. A simple wooden shed in the early 7th century Madinah, surrounded by a small garden with palms and olive trees. The Prophet, seen entirely from behind, stands at the door, looking out at the battlefield. A group of Muslim soldiers, dressed in simple thobes and cloaks, stand guard around the shed, facing outward in a semi-circle. One soldier, Usama, is shown in the foreground, smiling and looking at the Prophet. The sun is setting behind the soldiers, casting a warm orange glow on the scene. Medium shot, eye level. Earthy palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 18,
+    "chapter_title": "In Madinah After Badr",
+    "scene_types": [
+      "dialogue",
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

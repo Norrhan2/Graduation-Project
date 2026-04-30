@@ -1,0 +1,64 @@
+{
+  "training_id": "passage_0102",
+  "input": "Zayd ibn Ḥārithah also brought with him his own wife, Umm Ayman, who was the Prophet’s wet nurse in his childhood. She had a son, Usāmah, whom the Prophet loved very much. They were also joined by ʿAbdullāh ibn Abī Bakr, with the members of Abū Bakr’s family, including ʿĀ’ishah. When they arrived in Madinah, the Prophet settled them in the home of Ḥārithah ibn al-Nuʿmān. As the Muslims who emigrated from Makkah settled into their new homes in Madinah, they realized that it would be a long time before they would be able to see Makkah again.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 15: Madinah",
+  "output": {
+    "scene_title": "The Prophet's Family and Companions Arrive in Madinah",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 15: Madinah",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "usama_ibn_zayd",
+        "name": "Usāmah ibn Zayd",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late teens, light olive skin, slender build, average height. Clean-shaven, neat short hair. Wearing a simple off-white thobe, loose brown cloak, white cloth wrapped as head covering. Worn leather sandals. Bright innocent eyes, slight smile. Standing beside his mother, looking up at the Prophet with love and respect."
+      },
+      {
+        "id": "umm_ayman",
+        "name": "Umm Ayman (Prophet's wet nurse)",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, dark olive skin, maternal build, slightly stooped posture. Wrinkled face with kind eyes, grey-streaked hair covered by a simple dark khimar. Wearing a long cream-colored cloak, simple off-white thobe underneath. Worn leather sandals. Dignified gentle expression, carrying a clay water jug in one hand."
+      },
+      {
+        "id": "abdullah_ibn_abi_bakr",
+        "name": "ʿAbdullāh ibn Abī Bakr",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, light olive skin, lean athletic build, slightly taller than average. Thin beard with slight henna tint, neatly kept. Wearing a simple off-white thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Slightly stooped shoulders, serious expression, holding a leather water skin in one hand."
+      },
+      {
+        "id": "aisha_bint_abi_bakr",
+        "name": "ʿĀ'ishah bint Abī Bakr",
+        "role": "family_of_prophet",
+        "depiction_rule": "MODEST",
+        "appearance": "Early teens, light olive skin, slender build, slightly shorter than average. Wearing a long cream-colored khimar, off-white thobe underneath, simple leather sandals. Kind gentle eyes, shy smile, standing beside her father's companion, watching the scene with curiosity."
+      }
+    ],
+    "moral_lesson": "When we are in a new place, we must be patient and make the best of it until we can return home.",
+    "narrative_text": "When the Prophet's family and friends arrived in Madinah, they were happy to finally have a new home. But they knew it would be a long time before they could see Makkah again. They were grateful for the Prophet's guidance and the kindness of their new friends in Madinah.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, and the women are modestly dressed. The scene is warm and welcoming, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration of a sunny afternoon in Madinah. The Prophet stands at the entrance of a simple mud-brick home, seen from behind, with a green cloak draped over his shoulders. Inside, his family and friends gather around him, smiling and chatting. Usāmah, a young boy with dark hair, looks up at the Prophet with love. His mother, Umm Ayman, a middle-aged woman with a kind face, stands beside him, carrying a clay water jug. ʿAbdullāh ibn Abī Bakr, a young man with a thin beard, stands near the entrance, holding a leather water skin. ʿĀ'ishah, a young girl with a khimar over her hair, watches the scene with curiosity. The background shows the city's mud-brick houses and flat roofs, with palm trees and greenery. Medium shot, eye level, warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 15,
+    "chapter_title": "Madinah",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

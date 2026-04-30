@@ -1,0 +1,52 @@
+{
+  "training_id": "passage_0287",
+  "input": "He was the one to stir up trouble and to guess our number to our enemies on Badr day.” Straightaway ʿUmar went to the Prophet and said: “Prophet, ʿUmayr ibn Wahb, God’s enemy, has just arrived carrying his sword.” The Prophet asked ʿUmar to let ʿUmayr in. ʿUmar went to him and took the belt on which he hung his sword, put it round his neck and let him through. He also said to the Anṣār who were sitting with him: “Come in and sit with the Prophet.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 18: In Madinah After Badr",
+  "output": {
+    "scene_title": "Umar's Wisdom and Hospitality",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 18: In Madinah After Badr",
+    "characters": [
+      {
+        "id": "umar_ibn_al_khattab",
+        "name": "Umar ibn al-Khattab",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 40s, ruddy complexion, muscular build, tall. Thick dark beard with slight grey streaks, neatly kept. Wearing a simple brown woolen cloak over beige thobe, white cloth wrapped as loose head covering. Worn leather sandals. Intense, confident eyes, upright posture."
+      },
+      {
+        "id": "umair_ibn_wahb",
+        "name": "Umayr ibn Wahb",
+        "role": "antagonist",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Adult, dark skin, athletic build. Wearing a dark tunic and leggings, dark turban. Distinguished by a red-dyed cloak slung over shoulder. No facial features visible, shown as a silhouette."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a beige cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by beige cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Hospitality and kindness are a sign of strong faith, even towards those who may have wronged us.",
+    "narrative_text": "Umar had accused ʿUmair ibn Wahb of stirring up trouble and betraying the Muslims. But when ʿUmair arrived at the Prophet's doorstep, Umar chose to show him kindness and let him in, even taking his sword belt off to make him feel welcome.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. Umar shown with full face, confident expression. Umair shown as a silhouette. Warm, welcoming scene, suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Interior of a modest 7th century Madinah mud-brick home. A tall, muscular Arab man with ruddy complexion, thick dark beard, and brown cloak over beige thobe, standing at an open doorway with warm golden afternoon sunlight streaming behind him. Inside, a slender older Arab man with light olive skin, thin grey-streaked beard, white thobe and beige cloak, sitting on a woven mat with his back to the viewer, looking at the Prophet. The Prophet, shown entirely from behind, is wearing a white thobe and beige cloak, white turban, and simple leather sandals. Umair, shown as a dark silhouette, stands at the entrance with a red-dyed cloak slung over his shoulder. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 18,
+    "chapter_title": "In Madinah After Badr",
+    "scene_types": [
+      "dialogue",
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

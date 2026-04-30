@@ -1,0 +1,57 @@
+{
+  "training_id": "passage_0103",
+  "input": "When he arrived at Jābir’s house, the Prophet said to his companions: “Come inside, but do not push one another.” The Prophet himself started to cut the bread, put it in dishes and put meat on top of it. Meanwhile, he kept the pot simmering and covered it as well as the oven, after taking some bread from it. He served dish after dish to his companions until they had all eaten a full meal. Both the saucepan and the oven were still full of bread and meat when everyone had finished eating.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+  "output": {
+    "scene_title": "The Prophet Serves His Companions",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a dark brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by dark brown cloak and warm light."
+      },
+      {
+        "id": "sababat_jabir",
+        "name": "Jabir ibn Abdullah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, light-brown skin, fit build, slightly taller than average. Short beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Energetic eyes, upright posture."
+      },
+      {
+        "id": "companion_junayd",
+        "name": "Junayd ibn Al-Jubayr",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, medium build, rugged features. Short beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong eyes, slightly stooped shoulders."
+      },
+      {
+        "id": "companion_ammar",
+        "name": "Ammar ibn Yasir",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, light-brown skin, slender build, slightly shorter than average. Short beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind eyes, gentle smile."
+      }
+    ],
+    "moral_lesson": "Hospitality and generosity are essential Islamic values that should be practiced in daily life.",
+    "narrative_text": "The Prophet invited his companions to come inside and eat, but asked them not to push each other. He then served them a delicious meal, carefully cutting the bread and putting meat on top. His companions were delighted with the tasty food.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, warm light and gentle scene. Companions shown with full faces, enjoying the meal. Kind and respectful atmosphere, suitable for children."
+    },
+    "image_prompt": "A warm and inviting children's illustration of a Makkah mud-brick home. A man in white thobe and dark brown cloak, white turban, seen entirely from behind, standing at a wooden table with a clay saucepan and oven. Inside, three men in off-white thobes and brown cloaks, sitting on woven mats with plates in front of them, eating a meal. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 25,
+    "chapter_title": "A Fresh Storm Gathers",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

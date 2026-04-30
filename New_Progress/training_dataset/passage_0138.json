@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0138",
+  "input": "When such people come along, let me know.” I enquired about the man who gave me that signal and I was told that he was ʿAlī ibn Abī Ṭālib. I stayed in Madinah until a caravan from the tribe of Baliyy or Quḍāʿah came along. I had made up my mind to go and join my brother in Syria. When I heard of this caravan, I went to the Prophet and said: “Messenger of God, a group of my people whom I believe to be trustworthy have arrived.” The Prophet gave me good clothes and a camel as well as some money.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 38: Men of Distinction",
+  "output": {
+    "scene_title": "The Prophet Sends Off a Stranger in Need",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 38: Men of Distinction",
+    "characters": [
+      {
+        "id": "stranger",
+        "name": "An Unnamed Stranger",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, medium build, dark skin. Simple black headscarf, worn leather sandals, plain brown woolen cloak draped over shoulders. Unshaven, with a hint of scruff on chin."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "The importance of helping those in need, as commanded by Allah.",
+    "narrative_text": "A stranger arrived in Madinah and needed help. The Prophet Muhammad sent him some clothes, a camel, and money to aid him on his journey. The stranger was grateful for the Prophet's kindness.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, as per Islamic depiction rules. Stranger shown with full face, kindness visible on his expression. Warm scene, suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Exterior of a modest 7th century Madinah mud-brick home. A medium-built young Arab man with dark skin, simple black headscarf, plain brown cloak, worn leather sandals, standing in front of the door looking relieved and grateful. Behind him, a man in white thobe and green cloak, white turban, standing at an open doorway with warm sunlight streaming behind him. The Prophet's face is not visible, as per Islamic depiction rules. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 38,
+    "chapter_title": "Men of Distinction",
+    "scene_types": [
+      "dialogue",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

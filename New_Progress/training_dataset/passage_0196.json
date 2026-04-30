@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0196",
+  "input": "The whole of the procession shouted phrases asserting their submission to God. ʿAbdullāh ibn Rawāḥah, a companion of the Prophet from the Anṣār, held the rein of the Prophet’s she-camel and chanted a few lines of poetry which he had composed. When the Prophet was very close to the Ḥaram (the grand mosque at the centre of which is the Kaʿbah), he told ʿAbdullāh ibn Rawāḥah to repeat these phrases: Lā ilāha illa Allah waḥdah, Ṣadaqa waʿdah, wa naṣara ʿabdah, wa aʿazza jundah, wa hazam al-aḥzāba waḥdah.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+  "output": {
+    "scene_title": "The Prophet's Procession to Makkah",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "abdullah_ibn_rawahah",
+        "name": "ʿAbdullāh ibn Rawāḥah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark olive skin, athletic build, tall and lean. Thick black beard with slight curly texture, neatly kept. Wearing a dark brown woolen cloak, off-white thobe, white cloth wrapped as loose head covering. Worn leather sandals. Strong facial features, firm jawline, bright brown eyes."
+      }
+    ],
+    "moral_lesson": "The importance of calling people to Islam and submission to God.",
+    "narrative_text": "As the procession approached the Ḥaram, the Prophet asked ʿAbdullāh ibn Rawāḥah to repeat a poem he had composed, declaring the unity and greatness of God.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, ʿAbdullāh ibn Rawāḥah shown with full face. The scene is peaceful and focuses on the declaration of faith, suitable for children."
+    },
+    "image_prompt": "A delicate colored pencil illustration of a desert landscape with a procession of riders in the distance, led by a man in white thobe and green cloak, riding a camel. The camel is being held by a tall, lean Arab man with dark olive skin, thick black beard, and a brown cloak, reciting lines of poetry. In the background, the grand mosque at Makkah, the Ḥaram, can be seen with the Kaʿbah at its center. A warm sun casts a gentle glow over the scene. Medium shot, eye level. Soft colors. No modern objects."
+  },
+  "metadata": {
+    "chapter": 32,
+    "chapter_title": "A Second Trip to Makkah",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

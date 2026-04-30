@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0048",
+  "input": "The Quraysh were then reassured and allowed the Muslims to pass. The Quraysh’s Reception There are different reports about the attitude of the people of Makkah to the entry of the Prophet and his companions to do their ʿUmrah. Some reports suggest that the Quraysh left Makkah and went into the surrounding mountains, because they did not wish to look at the Muslims as they came in to worship. Other reports suggest that the people of the Quraysh moved into close positions on the mountains to have a good view of the Muslims.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+  "output": {
+    "scene_title": "Quraysh's Reaction to Muslims Entering Makkah",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+    "characters": [
+      {
+        "id": "muslim_companion",
+        "name": "Muslim Companion",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, medium build, dark skin tone with slight tan. Thick beard with slight grey streaks, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Distinguishing feature: a small wooden staff in his right hand."
+      },
+      {
+        "id": "qurayshi",
+        "name": "Qurayshi Man",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, light olive skin, slender build. Thin beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Distinguishing feature: a long curved dagger at his waist."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Respect and understanding can be shown even to those who disagree with us.",
+    "narrative_text": "When the Muslims entered Makkah for their Umrah, the Quraysh were unsure of how to react. Some reports say they left the city to avoid seeing the Muslims, while others claim they hid in the mountains to get a good view.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Qurayshi men shown with full faces, no graphic violence. Prophet shown from behind, appropriate for children."
+    },
+    "image_prompt": "Watercolor illustration of Makkah's ancient mountains. A slender older Arab man in off-white thobe and brown cloak, white cloth wrapped as head covering, stands atop a rocky outcropping, looking down at the Muslims below. A group of Muslim companions in off-white thobes and brown cloaks, one holding a wooden staff, walk together towards the city. In the distance, a few Quraysh men in off-white thobes and brown cloaks, one with a dagger at his waist, observe from a distant ridge. Warm golden light of late afternoon sun casts long shadows. No modern objects."
+  },
+  "metadata": {
+    "chapter": 32,
+    "chapter_title": "A Second Trip to Makkah",
+    "scene_types": [
+      "emotional",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

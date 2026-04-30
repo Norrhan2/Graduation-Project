@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0166",
+  "input": "Now the Prophet had a chance to rectify this situation. He called the Anṣār and spoke to them, praising their kindness and generosity and the way they treated their Muhājirīn brothers. He then said: “I will divide this fay’ God has bestowed on me from the al-Naḍīr tribe among you and the Muhājirīn alike, if you so desire. In this case they will continue to live with you in your own houses and have a share in your money. Alternatively, I will divide the fay’ among them only and they will leave your homes, if you so prefer.” Saʿd ibn ʿUbādah and Saʿd ibn Muʿādh, the two leaders of the Anṣār, said: “You divide it among them and we are happy to have them continue living in our houses as they are now.” The rest of the Anṣār endorsed their leaders’ decision and the Prophet prayed for them and for their children.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 22: Vulnerability and Treachery",
+  "output": {
+    "scene_title": "The Prophet's Generosity in Madinah",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 22: Vulnerability and Treachery",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      },
+      {
+        "id": "saad_ibn_ubaadah",
+        "name": "Saʿd ibn ʿUbādah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light brown skin, strong build, tall stature. Thick beard with slight dark grey streaks, neatly kept. Wearing off-white cotton thobe, plain beige woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Wise, confident eyes, straight posture."
+      },
+      {
+        "id": "saad_ibn_muadh",
+        "name": "Saʿd ibn Muʿādh",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light brown skin, strong build, tall stature. Thick beard with slight dark grey streaks, neatly kept. Wearing off-white cotton thobe, plain beige woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Wise, confident eyes, straight posture."
+      }
+    ],
+    "moral_lesson": "True leadership involves showing kindness, generosity, and compassion towards others.",
+    "narrative_text": "The Prophet called the Anṣār and said: “I will divide the fay’ among the Muhājirīn and you, if you so desire. They will continue living with you in your own houses and have a share in your money.” The Anṣār leaders, Saʿd ibn ʿUbādah and Saʿd ibn Muʿādh, replied: “You divide it among them and we are happy to have them continue living in our houses as they are now.”",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. Anṣār leaders shown with full faces, wise and confident expressions. Generous and kind scene, appropriate for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Interior of a modest 7th century Madinah mud-brick home. A man in white thobe and brown cloak, white turban, seen entirely from behind, standing at an open doorway with warm golden afternoon sunlight streaming behind him. Inside, two tall Arab men with light brown skin, strong builds, thick beards, off-white thobes and beige cloaks, sitting on a woven mat looking up with wise expressions, one hand on their chests. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 22,
+    "chapter_title": "Vulnerability and Treachery",
+    "scene_types": [
+      "dialogue"
+    ],
+    "generation_warnings": null
+  }
+}

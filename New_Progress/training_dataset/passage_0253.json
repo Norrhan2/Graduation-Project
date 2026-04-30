@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0253",
+  "input": "Kaʿb said: “Your armour would be good security.” Silkān went back to his companions and told them to get ready. They all met at the Prophet’s place. Then they set out and the Prophet walked with them part of the way. Before they left him, he blessed their mission and prayed God to help them. When they arrived at Kaʿb’s fort Silkān shouted for him to come down. Apparently Kaʿb was newly married but he jumped out of bed and answered.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 19: New Trends of Hostility",
+  "output": {
+    "scene_title": "The Prophet Assists Silkān on a Mission",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 19: New Trends of Hostility",
+    "characters": [
+      {
+        "id": "silkān",
+        "name": "Silkān ibn ʿAmr",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Young adult, medium build, strong features. Dark olive skin, short beard with slight reddish henna tint, neatly trimmed. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Energetic and eager expression."
+      },
+      {
+        "id": "kaʿb",
+        "name": "Kaʿb ibn al-Ashraf",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, medium build, strong features. Fair skin with reddish tint, short beard with slight reddish henna tint, neatly trimmed. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Initially shown as a newlywed, sleepy expression, then as an agile young man, jumping out of bed."
+      }
+    ],
+    "moral_lesson": "The Prophet's compassion and support for his companions demonstrate the importance of teamwork and seeking Allah's guidance in difficult situations.",
+    "narrative_text": "The Prophet helped Silkān and his companions prepare for a mission. He even walked with them a part of the way, blessing their journey and praying for their success. When they reached Kaʿb's fort, Silkān called out for him to come down, and Kaʿb, who was newly married, quickly answered.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is not present in the scene, but his actions and blessings are felt throughout. The scene is modest and child-friendly."
+    },
+    "image_prompt": "Whimsical illustrated scene of a group of young men, including Silkān and Kaʿb, preparing for a mission in 7th century Makkah. The Prophet is shown in the background, walking with them, but from behind, with a blessing hand gesture. Silkān and the others are dressed in off-white thobes, brown cloaks, and white head coverings. Kaʿb is shown as a newlywed, sleepy, and then as an agile young man, jumping out of bed. The fort is depicted in the distance, with a few palm trees and a mud-brick wall. Warm sunset colors, medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 19,
+    "chapter_title": "New Trends of Hostility",
+    "scene_types": [
+      "dialogue",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

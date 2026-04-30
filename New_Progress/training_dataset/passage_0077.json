@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0077",
+  "input": "Deep down in his heart, Abū Ṭālib did not wish his nephew to travel to Syria because he feared for his safety. But the situation was deteriorating and such a trip held the best promise for the family. Abū Ṭālib heard that Khadījah was planning to send someone on her trade in return for two camels. He felt that if he were to speak to her, she would be glad to send Muhammad at double that commission. Muhammad, however, was against approaching her.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 3: From Youth to Maturity",
+  "output": {
+    "scene_title": "Abu Talib Considers Sending Muhammad on Trade Mission",
+    "era": "pre_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 3: From Youth to Maturity",
+    "characters": [
+      {
+        "id": "abu_talib",
+        "name": "Abu Talib ibn Abd al-Muttalib",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, dark olive skin, strong build, tall stature. Thick grey beard with darker streaks, neatly kept. Wearing off-white cotton thobe, plain black woolen cloak, black cloth wrapped as loose head covering. Worn leather sandals. Serious expression, slightly raised eyebrows."
+      },
+      {
+        "id": "kadijah",
+        "name": "Khadījah bint Khuwaylid",
+        "role": "family_of_prophet",
+        "depiction_rule": "MODERATE",
+        "appearance": "Mid 40s, light olive skin, slender build, slightly plump. Thick grey-streaked hair, neatly covered with a black cloth. Wearing off-white cotton thobe, plain dark woolen cloak, simple head covering. Worn leather sandals. Gentle smile, soft eyes."
+      },
+      {
+        "id": "muhammad",
+        "name": "Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Mid 20s, medium build, dignified upright posture. Wearing simple white thobe, no cloak. Simple leather sandals. Distinguished by dignified posture and subtle sense of determination."
+      }
+    ],
+    "moral_lesson": "Even when we have different opinions, we should try to find common ground and work together for the greater good.",
+    "narrative_text": "Abu Talib wanted to send Muhammad on a trade mission to Syria to ensure his safety, but Muhammad was hesitant to ask his aunt Khadijah for the job.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Khadījah shown with a gentle smile and soft eyes, but only her face partially visible. Abu Talib's expression is serious but not threatening. Muhammad shown from behind, dignified posture and subtle sense of determination."
+    },
+    "image_prompt": "Children's watercolor illustration. Interior of a modest 7th century Makkah mud-brick home. A strong older Arab man with dark olive skin, thick grey beard, off-white thobe and black cloak, standing at an open doorway looking concerned, one hand on his hip. Inside, a slender older Arab woman with light olive skin, grey-streaked hair covered with black cloth, off-white thobe and dark woolen cloak, sitting on a woven mat looking thoughtful, one hand on her lap. Behind her, a young man in simple white thobe, no cloak, seen from behind, standing near a clay water jug. Simple mud-brick walls, warm golden afternoon sunlight streaming through doorway. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 3,
+    "chapter_title": "From Youth to Maturity",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

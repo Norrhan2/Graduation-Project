@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0123",
+  "input": "As the Prophet took the grapes he said, as Muslims do before eating: ‘In the name of God.’ Surprised, ʿAddās said: “This is something no one in these areas says.” When ʿAddās answered the Prophet’s question about his religion and place of origin, the Prophet commented: “Then you come from the same place as the noble Divine Jonah.” Even more surprised, ʿAddās asked: “How did you know about Jonah? When I left Nineveh, not even ten people knew anything about him.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 12: Difficulties in Abundance",
+  "output": {
+    "scene_title": "The Prophet's Awareness of Jonah's Story",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 12: Difficulties in Abundance",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "addas",
+        "name": "ʿAddās ibn Kāmil",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, light brown skin, athletic build, slightly taller than average. Thick dark beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Slightly surprised expression, direct gaze."
+      }
+    ],
+    "moral_lesson": "The Prophet Muhammad's wisdom and knowledge came from his connection with Allah. His awareness of Jonah's story and its significance showed his deep understanding of the divine.",
+    "narrative_text": "'Addās was surprised by the Prophet's words. He had not expected the Prophet to know about Jonah's story. The Prophet said that ʿAddās came from the same place as Jonah, and ʿAddās asked how he knew about Jonah when very few people in Nineveh did.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, ʿAddās shown with full face. Surprised expression and gentle scene, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration. A 7th century Makkah courtyard scene. A man in white thobe and green cloak, white turban, seen entirely from behind, standing near a wicker basket with grapes, warm sunlight casting shadows. Nearby, a young Arab man with light brown skin, athletic build, thick dark beard, off-white thobe and brown cloak, sitting on a woven mat looking surprised, one hand on his chin. Simple mud-brick walls, clay jugs and woven mats in the background. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 12,
+    "chapter_title": "Difficulties in Abundance",
+    "scene_types": [
+      "miracle",
+      "dialogue"
+    ],
+    "generation_warnings": null
+  }
+}

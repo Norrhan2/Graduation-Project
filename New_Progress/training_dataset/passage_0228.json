@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0228",
+  "input": "They did not expect such a direct and clear warning. It was left, however, to the Prophet’s own uncle, Abū Lahab, to give him a most hostile and harsh reply. “Confound you!” he said. “Is this what you called us here for?” This encouraged others to adopt a hostile attitude. Some dismissed the Prophet’s warning as insincere, while others were quick with their insults. No single voice was raised in approval as they began to disperse. A Forthright Challenge One can imagine how distressing this incident was to the Prophet.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 7: The Call to Islam Goes Public",
+  "output": {
+    "scene_title": "Abu Lahab Disparages the Prophet",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 7: The Call to Islam Goes Public",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 40s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      },
+      {
+        "id": "abu_lahab",
+        "name": "Abu Lahab",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Middle 40s, light brown skin, muscular build, slightly taller than average. Thick dark beard with slight grey tint, neatly kept. Wearing off-white cotton thobe, plain black woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Expression of anger and scorn on his face."
+      }
+    ],
+    "moral_lesson": "A true believer stands firm in the face of opposition and ridicule, trusting in Allah’s guidance.",
+    "narrative_text": "When the Prophet warned the people about the impending doom, his own uncle Abu Lahab mocked him, saying, 'Is this what you called us here for?' The Prophet tried to convey a serious message, but Abu Lahab's harsh words discouraged others from listening.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, Abu Lahab shown with full face, expression of anger and scorn. No graphic violence. Appropriate for children."
+    },
+    "image_prompt": "Watercolor illustration. A bustling 7th century Makkah marketplace scene. A man in white thobe and brown cloak, white turban, seen entirely from behind, standing amidst a crowd of people. In the foreground, a muscular Arab man with light brown skin, thick dark beard, off-white thobe and black cloak, standing with arms crossed, looking disapproving. The crowd is shown as a distant blur, with some people looking on with concern and others with hostility. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 7,
+    "chapter_title": "The Call to Islam Goes Public",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

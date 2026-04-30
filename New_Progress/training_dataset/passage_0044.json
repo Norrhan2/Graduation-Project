@@ -1,0 +1,36 @@
+{
+  "training_id": "passage_0044",
+  "input": "The Prophet, however, was not dead. He was not a man to be shaken by defeat, or to give up when death looked him in the face. He was the example for all believers in all generations. His courage was never in doubt. He stood firm, shouting to his companions: “Come to me, you who worship God; come back to me; I am God’s Messenger.” He even shouted to certain people, calling them by name. Most of his companions, however, did not even hear him as he shouted to them.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 20: A Bitter Defeat",
+  "output": {
+    "scene_title": "The Prophet's Resolve",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 20: A Bitter Defeat",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Courage is not the absence of fear, but the willingness to stand strong in the face of adversity.",
+    "narrative_text": "The Prophet stood firm, shouting to his companions to come back to him. He was not a man to give up, even when faced with death. He called out to them, saying, “Come to me, you who worship God; come back to me; I am God’s Messenger.”",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, standing firm. Emphasis on his courage and resolve, rather than graphic details of the scene."
+    },
+    "image_prompt": "Children's watercolor illustration. Exterior of a 7th century Makkah mud-brick masjid. A man in white thobe and green cloak, white turban, seen entirely from behind, standing at the front of the masjid with arms raised and voice shouting. Most of the companions shown in the background as silhouettes, some running back towards the Prophet. Simple mud-brick architecture, narrow streets. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 20,
+    "chapter_title": "A Bitter Defeat",
+    "scene_types": [
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

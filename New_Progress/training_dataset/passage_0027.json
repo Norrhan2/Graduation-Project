@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0027",
+  "input": "Vulnerability and Treachery ALTHOUGH THE DEMONSTRATION of strength the Prophet organized at Ḥamrā’ al-Asad was effective – where he encamped with his army for three days, lighting fires throughout the night and causing it to be known that they were ready and prepared to meet the Quraysh in a second encounter if such was its intention – it could not completely erase the fact that at Uḥud the Muslims suffered a military defeat. The Jews and the hypocrites in Madinah did not conceal their pleasure at what had befallen the Muslims.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 22: Vulnerability and Treachery",
+  "output": {
+    "scene_title": "Prophet's Demonstration of Strength at Ḥamrā’ al-Asad",
+    "era": "madinah_early",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 22: Vulnerability and Treachery",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing simple white thobe, off-white bisht cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by bisht cloak."
+      },
+      {
+        "id": "hypocrite",
+        "name": "Hypocrite in Madinah",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium skin tone, slightly stocky build. Thin beard, neatly kept. Wearing dark brown tattered thobe, worn woolen cloak, plain white cloth wrapped as loose head covering. Worn leather sandals. Slight scowl, avoiding eye contact."
+      }
+    ],
+    "moral_lesson": "True strength lies not in showing off one's power, but in humility and resilience in the face of adversity.",
+    "narrative_text": "The Prophet organized a demonstration of strength at Ḥamrā’ al-Asad, where his army encamped with fires burning throughout the night, showing they were ready to face their enemies. However, this did not erase the memory of their defeat at Uḥud, and the Jews and hypocrites in Madinah rejoiced at their misfortune.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, avoiding any depiction of conflict. Hypocrite shown with full face, scowl visible. Scene set in a desert landscape, emphasizing humility and resilience."
+    },
+    "image_prompt": "Children's watercolor illustration. Arabian Desert landscape at dusk. A large group of soldiers, dressed in simple white thobes and off-white bisht cloaks, encamped around a large fire. The Prophet stands at the edge of the camp, seen from behind, with warm golden light behind him. In the distance, a figure in darker clothing, wearing a scowl, is shown looking down, avoiding eye contact. Simple desert trees, rocky outcroppings, and a distant mountain range. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 22,
+    "chapter_title": "Vulnerability and Treachery",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

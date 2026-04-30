@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0047",
+  "input": "Bādhān, however, asked his assistant to find out the truth about the Prophet. Abādhaweih and his companion travelled from Yemen until they arrived in Ṭā’if, which is about kilometres from Makkah. Its people told them that the Prophet was now in Madinah. The Ṭā’if people – who were not Muslims at the time – and the Quraysh were very pleased when they learnt that the Persian Emperor had ordered the arrest of Muhammad. They felt that Muhammad was now facing his most difficult test.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 31: Opening Up International Horizons",
+  "output": {
+    "scene_title": "Bādhān Learns About the Prophet's Journey",
+    "era": "late_makkah",
+    "region": "Ṭā'if",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 31: Opening Up International Horizons",
+    "characters": [
+      {
+        "id": "assistant",
+        "name": "Bādhān's Assistant",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Young adult, light brown skin, medium build. Simple white turban, plain off-white thobe, worn leather sandals. No facial features that would make him stand out."
+      },
+      {
+        "id": "abawa_assistant",
+        "name": "Abādhaweih's Companion",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Adult, medium brown skin, athletic build. Simple white turban, plain off-white thobe, worn leather sandals. No facial features that would make him stand out."
+      },
+      {
+        "id": "ṭāif_inhabitant",
+        "name": "Ṭā'if Inhabitant",
+        "role": "crowd",
+        "depiction_rule": "FULL",
+        "appearance": "Adult, light brown skin, medium build. Simple white turban, plain off-white thobe, worn leather sandals. No facial features that would make them stand out."
+      }
+    ],
+    "moral_lesson": "The truth about someone will eventually come to light, and it's always better to seek knowledge and understand the facts before making judgments.",
+    "narrative_text": "A man in Yemen asked his assistant to find out the truth about the Prophet, Muhammad. The assistant and his companion travelled a long distance to the city of Ṭā'if, near Makkah, where they met people who told them the Prophet was now in Madinah. The people of Ṭā'if and the Quraysh were happy to hear that the Persian Emperor had ordered Muhammad's arrest, thinking it was his greatest challenge.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet not visible in this scene. Compliance with depiction rules and modesty."
+    },
+    "image_prompt": "Slightly muted color watercolor illustration. Desolate desert landscape with a few palm trees in the distance. A young assistant in simple white turban, plain off-white thobe, and worn leather sandals, walking alongside an adult companion in similar attire, looking worried. In the background, a group of people in Ṭā'if, with simple white turbans and off-white thobes, chatting and smiling. A few clay pots and woven mats in the scene. No modern objects."
+  },
+  "metadata": {
+    "chapter": 31,
+    "chapter_title": "Opening Up International Horizons",
+    "scene_types": [
+      "journey",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

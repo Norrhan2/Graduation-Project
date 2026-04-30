@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0098",
+  "input": "He responded by ordering his soldiers to stop cutting any vine. All the Muslims’ attempts could not make any headway. The unbelievers of the Thaqīf were still in their forts, which remained immune to any attack. The Prophet then caused it to be proclaimed that if any slave who belonged to the Thaqīf deserted and joined the Muslims, he was to be set free immediately. Some slaves managed to come out, and the Prophet granted them their freedom. From those slaves, the Prophet learnt that the Thaqīf had enough provisions to last them for a year.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 36: Grouping for a Final Assault",
+  "output": {
+    "scene_title": "The Prophet's Generous Offer",
+    "era": "madinah_early",
+    "region": "taif",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 36: Grouping for a Final Assault",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown without a face, distinguished by dignified posture and simple white and brown clothing."
+      },
+      {
+        "id": "thaqif_slave",
+        "name": "Thaqīf Slave",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Mid-30s, medium olive skin, athletic build. Unkempt dark hair, short beard. Wearing tattered dark brown robes, leather sandals. Distinguished by dark hair and beard, weary expression."
+      }
+    ],
+    "moral_lesson": "Treat others with kindness and generosity, as these qualities can bring people closer to Allah.",
+    "narrative_text": "The Prophet told the soldiers to stop cutting the vines, and instead, offered the Thaqīf slaves freedom if they deserted their masters and joined the Muslims. Some slaves took advantage of this offer, and the Prophet freed them, learning that the Thaqīf had enough provisions to last them for a year.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown without a face, backlit by sunlight. A slave shown with full face, expression of gratitude. A dignified scene, appropriate for children."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century fort. A dignified man in simple white thobe and brown cloak, white turban seen from behind, standing near a gate. Inside the fort, a young slave with unkempt dark hair and beard, wearing tattered dark brown robes, sitting on a stone floor looking up with a mixture of fear and hope. Simple stone walls, palm trees in the background. Medium shot, eye level. Earthy palette with warmth. No modern objects."
+  },
+  "metadata": {
+    "chapter": 36,
+    "chapter_title": "Grouping for a Final Assault",
+    "scene_types": [
+      "battle",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

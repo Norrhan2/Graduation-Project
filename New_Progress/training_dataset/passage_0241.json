@@ -1,0 +1,38 @@
+{
+  "training_id": "passage_0241",
+  "input": "When they were ready, the Prophet moved in. Building the mosque was the first major step the Prophet took as he settled in Madinah. He also built a mosque at Qubāʿ, where he had stopped for a few days before completing his journey to Madinah. One wonders, therefore, why he attached such a great importance to mosque-building. The mosque is not simply a place for worship. Had it been so, it would have been given a secondary priority by the Prophet.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 15: Madinah",
+  "output": {
+    "scene_title": "Building the Prophet's Mosque in Madinah",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 15: Madinah",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "A place of worship is not just a physical structure, but a symbol of community and unity.",
+    "narrative_text": "The Prophet began building his mosque in Madinah. It was an important step in establishing a community and a place for worship. He also built a mosque at Qubāʿ, where he had stopped before arriving in Madinah.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, standing amidst construction. Simple scene, no violence or conflict."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century Madinah mud-brick mosque under construction. The Prophet, a middle-aged man with a dignified posture, wearing a white thobe and brown cloak, white turban, seen entirely from behind, standing in front of a group of men with clay bricks and tools. The men are shown in the background, with some holding tools and others standing with their hands clasped together. Simple mud-brick walls, a few clay water jugs in the corner. Medium shot, eye level. Earthy warm palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 15,
+    "chapter_title": "Madinah",
+    "scene_types": [
+      "journey",
+      "emotional",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0089",
+  "input": "The Prophet did not criticize either party. This is evidence of the fact that Islam respects all opinions arrived at in good faith. Which group of Muslims were correct? Some people take religious statements, either in the Qur’ān or the sunnah, at their face value. They simply do as they are told, believing that God and the Prophet make their purpose absolutely clear, without any need to dig deep for a hidden meaning in order to understand that purpose. Others try to determine the aim beyond any particular statement and act according to their understanding, even if this differs from the immediate meaning of the statement.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+  "output": {
+    "scene_title": "Islam Respects Different Opinions",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "scholar1",
+        "name": "Muslim Scholar 1",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium olive skin, average build. Dark brown hair, well-groomed beard. Wearing simple off-white thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Intense, thoughtful expression."
+      },
+      {
+        "id": "scholar2",
+        "name": "Muslim Scholar 2",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Early 40s, light brown skin, slender build. Short dark hair, neatly trimmed beard. Wearing light beige thobe, plain blue woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Serious, calm demeanor."
+      }
+    ],
+    "moral_lesson": "Islam encourages critical thinking and respect for different opinions arrived at in good faith.",
+    "narrative_text": "The Prophet did not criticize either side when discussing their differing interpretations of the Quran and sunnah. He showed respect for their opinions, demonstrating that Islam values critical thinking and intellectual discussions.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Scholars shown with full faces, respectful expressions. Prophet shown from behind, subtle light. Calm scene, suitable for children."
+    },
+    "image_prompt": "Soft watercolor illustration. A 7th century Makkah mosque interior. The Prophet stands at the back, seen entirely from behind, with soft morning sunlight streaming in. Two scholars, one with dark brown hair and beard, one with short dark hair, sit on a woven mat facing him, engaged in discussion. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Soothing blue and green palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 26,
+    "chapter_title": "An Account to Settle",
+    "scene_types": [
+      "journey",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0244",
+  "input": "Abū Dujānah, however, stood out and asked: “What is its proper value, Messenger of God?” The Prophet answered: “That you strike the enemy with it until it is bent.” Abū Dujānah said: “I take it for its proper value.” He was known to be a brave fighter and in time of war he would walk in a certain way which showed pride. He took out a red band and tied it to his forehead, a gesture that signified that he was ready to fight.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 20: A Bitter Defeat",
+  "output": {
+    "scene_title": "Abu Dujanah Prepares for Battle",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 20: A Bitter Defeat",
+    "characters": [
+      {
+        "id": "sahabi_abu_dujanah",
+        "name": "Abu Dujanah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium to dark olive skin, athletic build, strong facial features. Black unkempt beard, no henna tint. Wearing off-white cotton thobe, plain brown woolen cloak, red band tied around forehead, red and white striped keffiyeh wrapped as loose head covering. Worn leather sandals. Confident, proud posture, with subtle smirk."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "True courage means being willing to face danger and adversity for the sake of Allah and the ummah.",
+    "narrative_text": "Abu Dujanah stood tall and proud, asking the Prophet about the worth of the sword. He wanted to know its true value. The Prophet explained that it was to be used to strike the enemy until they were defeated. Abu Dujanah took this to heart and prepared himself for battle.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. Abu Dujanah shown with full face, confident posture. Moderate scene, suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Exterior of a 7th century Makkah mud-brick home, late afternoon sunlight casting long shadows. A tall, strong Arab man with medium to dark olive skin, black beard, off-white thobe and brown cloak, stands proudly with red band tied to forehead, red and white striped keffiyeh wrapped around head. He looks directly at the viewer with confidence and pride. In the background, a figure in a white thobe and green cloak is seen from behind, standing at an open doorway. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 20,
+    "chapter_title": "A Bitter Defeat",
+    "scene_types": [
+      "dialogue",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

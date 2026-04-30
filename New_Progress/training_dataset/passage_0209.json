@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0209",
+  "input": "Family Matters SHORTLY AFTER THE Prophet started to receive God’s message, Zaynab, the eldest daughter of the Prophet, along with the rest of the household, embraced Islam. Her husband Abū al-ʿĀṣ ibn al-Rabīʿ, however, did not. No ruling was given at that time about the validity of marriages where one partner remained a non-Muslim. Zaynab therefore continued to live with her husband for a number of years and their marriage was a happy one. When the Prophet emigrated to Madinah, Zaynab stayed behind in Makkah with her husband.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 27: Family Matters",
+  "output": {
+    "scene_title": "Zaynab Stays Behind in Makkah",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 27: Family Matters",
+    "characters": [
+      {
+        "id": "zaynab",
+        "name": "Zaynab bint Muhammad (PBUH)",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Early 20s, medium build, gentle features. Dark brown skin, hair covered with a simple khimar. Wearing a modest brown thobe with a white undergarment visible below. Simple leather sandals, carrying a clay water jug in her hand."
+      },
+      {
+        "id": "abu_al_ʿāṣ_ibn_al_rabīʿ",
+        "name": "Abū al-ʿĀṣ ibn al-Rabīʿ",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Early 30s, light olive skin, average build. Brown beard, neatly trimmed. Wearing a beige thobe, brown woolen cloak with intricate patterns, simple leather sandals."
+      }
+    ],
+    "moral_lesson": "True love and loyalty should not be conditional on one's faith, but rather should be unconditional and unwavering.",
+    "narrative_text": "When the Prophet received God's message, Zaynab and her family believed in Islam. But her husband, Abū al-ʿĀṣ, did not. Zaynab stayed with him in Makkah, even though their marriage was not considered valid in Islam. She showed great loyalty and love, even though he did not follow the same faith.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No Prophet visible in the scene, focus on Zaynab's loyalty and love for her husband."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century Makkah home. A young Arab woman with dark brown skin, hair covered with a simple khimar, standing in the doorway with a clay water jug in her hand. She is wearing a modest brown thobe with a white undergarment visible below. Her husband, a man in his 30s with light olive skin, brown beard, and beige thobe, is sitting on a woven mat in the background, looking at her with a mix of emotions. Simple mud-brick walls, clay pots on a shelf. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 27,
+    "chapter_title": "Family Matters",
+    "scene_types": [
+      "journey",
+      "emotional"
+    ],
+    "generation_warnings": null
+  }
+}

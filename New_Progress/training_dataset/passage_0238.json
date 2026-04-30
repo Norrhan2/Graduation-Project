@@ -1,0 +1,58 @@
+{
+  "training_id": "passage_0238",
+  "input": "The people of Makkah found the Muslim army at their doorstep when they were least prepared for a battle, although they had violated their peace agreement with the Prophet and were guilty of blatant aggression. However, when the Prophet was very close and darkness had fallen, he ordered that every soldier in the army should light up a fire. Upon noting the large number of fires, and believing the Muslim force to be even larger than it really was, the Quraysh leaders were convinced that they were no match for the Muslim force.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+  "output": {
+    "scene_title": "Quraysh Leaders Misjudge the Muslim Army",
+    "era": "madinah_late",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 24",
+    "characters": [
+      {
+        "id": "quraysh_leader",
+        "name": "Quraysh Leader (unnamed)",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark olive skin, athletic build. Thick black beard, neatly trimmed black hair. Wearing dark brown woolen cloak, loose white head cloth, leather sandals. Fierce eyes, confident posture."
+      },
+      {
+        "id": "soldier_ismael",
+        "name": "Soldier Ismail",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Early 20s, medium build, dark olive skin. Short black beard, neat black hair. Wearing simple white thobe, green cloak draped over shoulders, white turban with tail between shoulder blades, leather sandals. Kind eyes, gentle smile."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, dignified upright posture. Wearing simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades, simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "soldier_1",
+        "name": "Soldier 1 (unnamed)",
+        "role": "supporting",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Early 20s, medium build, dark olive skin. Short black beard, neat black hair. Wearing simple white thobe, green cloak draped over shoulders, white turban with tail between shoulder blades, leather sandals. Kind eyes, gentle smile."
+      }
+    ],
+    "moral_lesson": "Calm and strategic thinking can turn a difficult situation into a great opportunity.",
+    "narrative_text": "As the Prophet Muhammad and his Muslim army camped near Makkah, just as darkness fell, he ordered his soldiers to light fires. The Quraysh leaders saw the fires and mistakenly thought the Muslim force was much larger, causing them to become fearful.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by firelight. Quraysh leader shown with full face, confident posture. Silhouettes of Muslim soldiers shown in the distance, flames of fires visible. No graphic violence. Appropriate for children."
+    },
+    "image_prompt": "Watercolor illustration. Darkening desert landscape. Muslim soldiers in simple white thobes and green cloaks, white turbans, gathered around small fires in the distance. One soldier in the foreground, shown from behind as he tends to the fire. Quraysh leader stands alone, looking out at the scene with a concerned expression. Distant silhouettes of more soldiers and fires, fading into the darkness. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 24,
+    "chapter_title": "How to Mar a Splendid Victory",
+    "scene_types": [
+      "battle",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

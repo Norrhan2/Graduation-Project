@@ -1,0 +1,37 @@
+{
+  "training_id": "passage_0008",
+  "input": "If you wish, I will bring the mountains over their heads, and if you wish, I will cause the earth to swallow them.’ I said to him: ‘No, I hope that God will bring out from their offspring people who worship Him alone and associate no partners with Him’.” When the Prophet re-entered Makkah after his disappointing journey to Ṭā’if, he must have felt that he was in a very dire situation. Within the same year he had lost his loving wife and his uncle, who afforded him unwavering support.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 12: Difficulties in Abundance",
+  "output": {
+    "scene_title": "The Prophet's Refusal to Punish Makkah",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 12: Difficulties in Abundance",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "True faith means trusting in Allah's plan and mercy, even in the most difficult times.",
+    "narrative_text": "When the Prophet wanted to punish the people of Makkah for rejecting him, he was asked if he wanted him to bring down mountains or swallow them whole. But the Prophet said no, he hoped that one day, people from their offspring would worship Allah alone, without associating any partners with Him.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, no graphic violence or punishment shown. Focus on the Prophet's mercy and trust in Allah's plan."
+    },
+    "image_prompt": "Children's watercolor illustration. Exterior of a 7th century Makkah mud-brick home, with a few palm trees in the background. The Prophet, seen entirely from behind, walks away from the viewer, wearing a white thobe and green cloak, white turban. No one else is in sight. Simple mud-brick walls, a few clay pots on the rooftop. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 12,
+    "chapter_title": "Difficulties in Abundance",
+    "scene_types": [
+      "journey",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

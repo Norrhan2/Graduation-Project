@@ -1,0 +1,52 @@
+{
+  "training_id": "passage_0215",
+  "input": "The Prophet, however, marched on until he arrived at a place called Ghadīr al-Ashṭāṭ where Bishr ibn Sufyān gave him his report that the Quraysh were mobilizing and seeking the help of others to fight him and prevent him from entering Makkah. The Prophet consulted his companions and asked them whether they felt that it would be better to attack their living quarters, because they were preventing people from worshipping. Abū Bakr, his closest companion, said to him: “Messenger of God, you have set out in order to pay a visit to this Sacred House.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 28: Peace in the Making",
+  "output": {
+    "scene_title": "The Prophet Considers Confronting Quraysh",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 28: Peace in the Making",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "abu_bakr",
+        "name": "Abu Bakr al-Siddiq",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light olive skin, slender build, slightly shorter than average. Thin grey-streaked beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      },
+      {
+        "id": "bushr_ibn_sufyan",
+        "name": "Bishr ibn Sufyan",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark olive skin, athletic build, strong facial features. Thick beard with some grey hairs, neatly trimmed. Wearing dark brown woolen cloak over off-white thobe, simple leather sandals. Fierce expression."
+      }
+    ],
+    "moral_lesson": "Patience and wisdom often lead to the best solutions.",
+    "narrative_text": "The Prophet was informed that the Quraysh were preparing to fight him and block people from worshipping at the Sacred House. He consulted his companions, including Abū Bakr, about whether to attack the Quraysh's living quarters.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, Bishr ibn Sufyān shown with full face, Abū Bakr shown with full face. Serious discussion scene, no graphic violence."
+    },
+    "image_prompt": "Children's watercolor illustration. Exterior of a 7th century Makkah mud-brick village. A dignified older man in white thobe and green cloak, white turban, seen entirely from behind, standing on a rocky outcropping with a concerned expression. In the background, a gathering of men in dark brown woolen cloaks and off-white thobes, with one man in the center, Bishr ibn Sufyān, with a stern expression, addressing the Prophet. Simple mud-brick buildings, date palms in the distance. Medium shot, eye level. Earthy palette with golden sunlight. No modern objects."
+  },
+  "metadata": {
+    "chapter": 28,
+    "chapter_title": "Peace in the Making",
+    "scene_types": [
+      "battle",
+      "journey",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "training_id": "passage_0066",
+  "input": "Unaware that al-Ḥajjāj had become a Muslim, they said when they saw him coming towards them: “This is al-Ḥajjāj ibn ʿAllāṭ, and he must have the information we are looking for.” They rushed towards him and said: “Ḥajjāj, we have heard that the man [meaning the Prophet] has marched towards Khaybar, the Jewish city which is the garden of Hijaz.” Al-Ḥajjāj replied: “Yes, I heard of that, and I have very happy news for you.” Al-Ḥajjāj reports: They quickly gathered round my she-camel and asked me to speak.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 29: Back on the Move",
+  "output": {
+    "scene_title": "Al-Hajjaj Brings News of the Prophet's Journey",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 29: Back on the Move",
+    "characters": [
+      {
+        "id": "al-hajjaj_ibn_ullaht",
+        "name": "Al-Hajjaj ibn ʿAllāṭ",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 30s, light brown skin, athletic build, sharp features. Black beard, neatly trimmed. Wearing off-white cotton thobe, plain brown woolen cloak, simple leather turban. Sandaled feet. Bright inquisitive eyes, slight smile."
+      },
+      {
+        "id": "unidentified_makkans",
+        "name": "Unidentified Makkans",
+        "role": "crowd",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Diverse group of Makkans in various age groups and clothing styles, all with faces obscured by shadows or from behind."
+      },
+      {
+        "id": "al-hajjaj_she_camel",
+        "name": "Al-Hajjaj's She-Camel",
+        "role": "supporting",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Large, majestic desert camel with light beige coat, black legs and humps, and a small black patch over one eye. Simple leather harness on back."
+      }
+    ],
+    "moral_lesson": "Being a good friend and neighbor means being kind and willing to share good news with others.",
+    "narrative_text": "When Al-Hajjaj came towards them, they thought he was the same man they were looking for. They rushed towards him and said, “We've heard the Prophet has marched towards Khaybar.” Al-Hajjaj replied, “Yes, I have happy news for you.”",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No Prophet shown in scene. Al-Hajjaj and unidentified Makkans shown in modest clothing. Al-Hajjaj's she-camel shown in silhouette."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century Makkah street scene. Al-Hajjaj, a young Arab man in off-white thobe and brown cloak, with black beard and simple leather turban, walking towards a group of Makkans in the background, seen as silhouettes. Al-Hajjaj's she-camel, with light beige coat and black legs, in the foreground, with a small black patch over one eye. Simple mud-brick buildings and palm trees in the background, warm desert sun shining down. Medium shot, eye level. Warm earthy palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 29,
+    "chapter_title": "Back on the Move",
+    "scene_types": [
+      "dialogue",
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

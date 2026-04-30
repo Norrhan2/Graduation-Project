@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0220",
+  "input": "When only a short distance in the lower part of the valley separated us, God sent, from wherever He willed, fast floods. We had not seen any rain previously, but the flood water ran so fast that no one dared make an attempt to cross to our side. That gave us a chance to evade our chasers and we managed to reach home with everything we had. These were only examples of the expeditions which the Prophet sent out to every corner of Arabia where trouble was brewing.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 30: Peace in the Desert",
+  "output": {
+    "scene_title": "Avalanche in the Desert",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 30: Peace in the Desert",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Early 30s, rugged, athletic build. Wearing a simple beige thobe, beige cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown in silhouette, face never visible. Distinguished by rugged build and simple white turban."
+      },
+      {
+        "id": "companion",
+        "name": "Companion (unnamed)",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, light brown skin, average build. Short black beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Wide eyes, determined expression."
+      }
+    ],
+    "moral_lesson": "Trust in Allah's plan and have faith in His providence.",
+    "narrative_text": "The Prophet sent out expeditions to every corner of Arabia to protect the faithful from danger. In one instance, God sent floods to the valley, giving them a chance to escape their pursuers and return home safely.",
+    "compliance": {
+      "prophet_check": "PROPHET_SILHOUETTE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown in silhouette, companion shown with full face. The scene depicts a dramatic but non-violent event, emphasizing trust in Allah's plan."
+    },
+    "image_prompt": "Watercolor illustration of a vast desert landscape with sand dunes and rocky outcrops. A figure in beige thobe and white turban, standing at the top of a dune, looking out towards the valley below. In the distance, a dark shape looms as a flood approaches. To the side, a companion with light brown skin, short black beard, and off-white thobe is shown, looking determined. The sky is a deep blue with scattered clouds. Medium shot, eye level. Earthy tones. No modern objects."
+  },
+  "metadata": {
+    "chapter": 30,
+    "chapter_title": "Peace in the Desert",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

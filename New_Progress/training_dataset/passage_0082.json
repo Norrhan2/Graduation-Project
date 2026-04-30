@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0082",
+  "input": "When the messenger communicated his master’s message to ʿAbd al-Muṭṭalib, the latter said: “By God, we do not want to fight him, and we have no power to resist him. This is God’s sacred House, built by His chosen friend, Abraham. If He protects it against him, it is because the House is His, and if He leaves it to him to destroy, we cannot defend it.” ʿAbd al-Muṭṭalib then went with the messenger to Abrahah. Despite his very advanced age, ʿAbd al-Muṭṭalib was a most handsome, charming and attractive person.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 1: A Glance Back in History",
+  "output": {
+    "scene_title": "ʿAbd al-Muṭṭalib Refuses to Fight on Behalf of the Sacred House",
+    "era": "pre_prophetic",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 1: A Glance Back in History",
+    "characters": [
+      {
+        "id": "abd_al_mutthalib",
+        "name": "ʿAbd al-Muṭṭalib",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late 50s, robust build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Distinguished by robust build, gentle eyes."
+      },
+      {
+        "id": "prophet_ismail",
+        "name": "Ismail (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 20s, athletic build, strong posture. Wearing a simple white loincloth, leather sandals. Always shown from behind, face never visible."
+      },
+      {
+        "id": "abrahah",
+        "name": "Abrahah",
+        "role": "antagonist",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Middle-aged, rugged build, stern expression. Wearing dark brown leather armor, helmet, and carried a large wooden shield. Silhouette of him is shown, avoiding detailed depiction of his face."
+      }
+    ],
+    "moral_lesson": "Even in times of hardship, we should strive to defend what is sacred and preserve the legacy of our ancestors.",
+    "narrative_text": "When ʿAbd al-Muṭṭalib was told to fight on behalf of the Sacred House, he refused and said, “It is God’s House, and if He protects it, we cannot resist.”",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE | ISMAIL_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "ʿAbd al-Muṭṭalib shown with full face, Abrahah as a silhouette to avoid graphic depiction, Ismail shown from behind as per depiction rule."
+    },
+    "image_prompt": "Children's watercolor illustration. Exterior of a 7th century Makkah mud-brick building, set against a warm desert sun. ʿAbd al-Muṭṭalib, a robust older man with a dignified presence, standing with his back to the viewer, looking up towards the Sacred House. Abrahah, a rugged figure in silhouette, standing in the distance, with a large wooden shield and helmet. A young, athletic figure, Ismail, is shown from behind, wearing a simple loincloth and leather sandals. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 1,
+    "chapter_title": "A Glance Back in History",
+    "scene_types": [
+      "dialogue"
+    ],
+    "generation_warnings": null
+  }
+}

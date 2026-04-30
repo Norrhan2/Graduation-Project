@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0240",
+  "input": "This man, Nuʿaym ibn Masʿūd, was apparently a highly intelligent and resourceful person who had formed many friendships and acquaintances with all sorts of people. He said to the Prophet: “Messenger of God, I am now a Muslim and my people are not aware of the fact. You may give me whatever orders you wish.” Keenly aware that the thing which the Muslims needed most was for their enemy to split ranks, the Prophet said to Nuʿaym: “If you join us, you increase our number by one.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+  "output": {
+    "scene_title": "Nu'aym ibn Mas'ud Becomes a Muslim",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+    "characters": [
+      {
+        "id": "nuaym_ibn_masud",
+        "name": "Nu'aym ibn Mas'ud",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, dark brown skin, athletic build, long black hair. Thick beard with slight reddish tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Bright inquisitive eyes, confident posture."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Being a Muslim means being willing to stand up for what you believe in and joining others for the sake of Allah.",
+    "narrative_text": "Nu'aym ibn Mas'ud said to the Prophet, 'I am now a Muslim, but my people don't know.' The Prophet told him, 'If you join us, you increase our number by one.'",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, Nu'aym shown with full face, confident expression. Scene depicts a respectful conversation between two men. Suitable for children aged 6-12."
+    },
+    "image_prompt": "Children's watercolor illustration. A serene Makkah street scene with a few palm trees in the background. A man in off-white thobe and brown cloak, white head covering, standing confidently in the center, looking directly at the viewer with bright eyes. Behind him, a figure in simple white thobe and green cloak, white turban, seen entirely from behind, standing with hands clasped together. Simple mud-brick walls, clay water jug in a corner. Medium shot, eye level. Soft blue and green palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 25,
+    "chapter_title": "A Fresh Storm Gathers",
+    "scene_types": [
+      "miracle",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0093",
+  "input": "The men, however, continued to talk for a long while, and the Prophet felt embarrassed. He was extremely shy. Had they known that their behaviour embarrassed the Prophet, they would have been very sorry. The Prophet went out to see his other wives. He went first to ʿĀ’ishah. As he entered her room he said: “Members of this household, peace be to you along with God’s mercy and blessings.” She returned his greeting with a similar one and asked him, “How have you found your new wife, may God give His blessings to you?” He called on every one of his other wives, and each one of them said the same thing as ʿĀ’ishah.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 27: Family Matters",
+  "output": {
+    "scene_title": "The Prophet's Shyness",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 27: Family Matters",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "aishah",
+        "name": "ʿĀʾishah bint Abi Bakr",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Young adult, light olive skin, slender build, with a hint of youthful energy. Wearing a simple yet modest off-white cotton thobe, a thin khimar covering her hair, and a pair of worn leather sandals. Distinguished by a gentle smile and sparkling eyes."
+      }
+    ],
+    "moral_lesson": "True humility is a beautiful quality in a person.",
+    "narrative_text": "The Prophet was feeling shy and embarrassed by the men's loud conversation. So, he decided to visit his other wives, starting with ʿĀʾishah. When he greeted her, she asked him about his new wife, and he visited each of his other wives, who all said the same thing.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind. ʿĀʾishah shown with full face, in a modest thobe and khimar, in a gentle and respectful manner. Suitable for children aged 6-12."
+    },
+    "image_prompt": "Children's watercolor illustration. Interior of a 7th century Madinah mud-brick home. A man in white thobe and green cloak, white turban, seen entirely from behind, standing in a doorway. Inside, a young adult Arab woman with light olive skin, slender build, simple off-white thobe and thin khimar, sitting on a woven mat looking up with a gentle smile, one hand on her chest. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 27,
+    "chapter_title": "Family Matters",
+    "scene_types": [
+      "dialogue",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

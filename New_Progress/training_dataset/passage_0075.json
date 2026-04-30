@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0075",
+  "input": "They gave the Prophet a detailed account of what took place. They also informed him that the Quraysh lent active support to the Bakr in their raid against the Khuzaʿah. There was no doubt in the Prophet’s mind that the Quraysh had committed a blatant violation of the peace agreement. However, he did not make any promises to the Khuzāʿah apart from his original promise of support. He preferred not to publicize his next move. The delegation went back home satisfied with their meeting with the Prophet.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+  "output": {
+    "scene_title": "The Prophet Receives News of the Quraysh's Betrayal",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "khuzah_delegates",
+        "name": "Khuzah Delegates",
+        "role": "supporting",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Middle-aged men with dark brown skin, rugged features, wearing traditional black thobes with white headscarves, and leather sandals. Distinguished by their solemn expressions and the dark colors they wear."
+      }
+    ],
+    "moral_lesson": "A leader must carefully weigh the consequences of their actions and make wise decisions that benefit all parties involved.",
+    "narrative_text": "The Prophet listened carefully to the Khuzah delegation as they told him about the Quraysh's betrayal. He knew that the Quraysh had broken the peace agreement, but he decided not to make any promises to the Khuzah apart from his original support. The delegation left feeling satisfied with their meeting.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. Delegates shown as silhouettes, emphasizing their seriousness and solemnity. A calm and wise scene, suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. A modest 7th century Makkah mud-brick home with a simple doorway and a warm golden afternoon sunlight streaming in. A man in white thobe and green cloak, white turban, seen entirely from behind, standing near the doorway. In the background, a group of middle-aged men with dark brown skin, rugged features, wearing traditional black thobes with white headscarves, and leather sandals, shown as silhouettes, their faces obscured by the doorway's shadow. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 34,
+    "chapter_title": "A Long Conflict Draws to a Close",
+    "scene_types": [
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0087",
+  "input": "He could just as easily divert the non-believers’ attention away from the cave, having brought them so close to it, in order to show them that they simply could not challenge Him. Back on the March After three days hiding in the cave of Mount Thawr, the Prophet and his companion resumed their journey. ʿAbdullāh ibn Arqat came at the appointed time with the two camels and they started their journey to Madinah, taking a totally unfamiliar route. The Quraysh’s frantic chase had somewhat subsided, but it did not totally stop.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 14: The Journey to Madinah",
+  "output": {
+    "scene_title": "The Prophet and Abu Bakr Depart for Madinah",
+    "era": "late_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 14: The Journey to Madinah",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "abu_bakr",
+        "name": "Abu Bakr al-Siddiq",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light olive skin, slender build, slightly shorter than average. Thin grey-streaked beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      },
+      {
+        "id": "abdullah_ibn_arqat",
+        "name": "ʿAbdullāh ibn Arqat",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, medium build, rugged features, olive skin. Dark beard, rougher appearance than Abu Bakr. Wearing a simple beige thobe, worn leather cloak, woolen headscarf. Scars on hands. Distinguishing mark: a missing front tooth."
+      }
+    ],
+    "moral_lesson": "Determination and perseverance are key to overcoming obstacles and challenges in life.",
+    "narrative_text": "After three days in hiding, the Prophet and Abu Bakr left the cave of Mount Thawr, accompanied by ʿAbdullāh ibn Arqat who brought them two camels. They started their journey to Madinah, taking a new route to avoid the Quraysh.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The scene is depicted in a way that is respectful and suitable for children. The Prophet is shown from behind, and the characters are dressed modestly."
+    },
+    "image_prompt": "Watercolor illustration of the Arabian Desert. A rugged landscape with sandy dunes, a cave of Mount Thawr in the background. The Prophet, seen from behind, dressed in white and green, walks towards the left, accompanied by Abu Bakr, a slender man with off-white thobe and brown cloak, and ʿAbdullāh ibn Arqat, a middle-aged man with dark beard and beige thobe. They walk towards a pair of camels, brought by ʿAbdullāh, with two riders in the distance. Simple composition, warm colors, no modern objects."
+  },
+  "metadata": {
+    "chapter": 14,
+    "chapter_title": "The Journey to Madinah",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

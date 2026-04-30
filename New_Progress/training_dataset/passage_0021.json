@@ -1,0 +1,52 @@
+{
+  "training_id": "passage_0021",
+  "input": "It is such people who are destined for the Fire, therein to abide for ever. (2: 217) When the Prophet received that revelation he took custody of the two prisoners and divided the caravan among his companions. The Quraysh sent for the release of the two prisoners in return for ransom. The Prophet told them nothing could be done before the return of the other two of his companions, Saʿd and ʿUtbah, who were delayed chasing their camel. “If you kill them,” he said, “we will kill your two men.” Saʿd and ʿUtbah arrived shortly afterwards.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 16: Peace and Confrontation",
+  "output": {
+    "scene_title": "The Prophet Teaches Mercy and Justice",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 16: Peace and Confrontation",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 40s, athletic build, commanding presence. Wearing a simple white thobe with a beige cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by simple white thobe and subtle warm light."
+      },
+      {
+        "id": "saad_bin_abe_waqqas",
+        "name": "Sa'd bin Abi Waqqas",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, fair skin, tall and muscular build. Thick black beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Determined expression, broad shoulders."
+      },
+      {
+        "id": "utbah_bin_rabi_ah",
+        "name": "Utbah bin Rabi'ah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 40s, medium olive skin, lean build, slightly weathered. Thick black beard, worn from traveling. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Serious expression, eyes narrowed in focus."
+      }
+    ],
+    "moral_lesson": "The value of justice, mercy, and protection of human life.",
+    "narrative_text": "After receiving a revelation from Allah, the Prophet took care of two prisoners and divided their caravan among his companions. The Quraysh wanted to trade them for ransom, but the Prophet told them to wait for the return of two more companions, Sa'd and Utbah, who were delayed chasing their camel. When they arrived, the Quraysh released the prisoners.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, no graphic violence. Determined expressions on the companions. Suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Exterior of a modest 7th century Makkah mud-brick home. A man in white thobe and beige cloak, white turban, seen entirely from behind, standing in the doorway with warm afternoon sunlight streaming behind him. In the distance, two tall Arab men with fair skin, thick black beards, off-white thobes and brown cloaks, walking towards the home, looking determined. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 16,
+    "chapter_title": "Peace and Confrontation",
+    "scene_types": [
+      "miracle",
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

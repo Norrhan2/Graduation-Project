@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0043",
+  "input": "Some camels had been slaughtered the day before. Abū Jahl came up with a devilish suggestion, saying to his friends: “Which of you would be prepared to take the stomach of the camel slaughtered yesterday and put it on Muhammad’s back when he prostrates himself?” One of them did just that, while the rest of them laughed. I was standing by, feeling my powerlessness that I could not even take that dirt off the Prophet’s back. The Prophet continued in his prostration, unable to lift his head, until someone went to tell his daughter, Fāṭimah, who was just a young girl.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 12: Difficulties in Abundance",
+  "output": {
+    "scene_title": "Abū Jahl's Cruel Joke on the Prophet",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 12: Difficulties in Abundance",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "abu_jahl",
+        "name": "Abū Jahl ibn Hishām",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, medium brown skin, stocky build, slightly imposing. Thick black beard with some grey, neatly trimmed. Wearing a long dark brown woolen cloak, off-white thobe underneath. Simple leather sandals. Cold hard eyes, firm jawline."
+      },
+      {
+        "id": "fatimah",
+        "name": "Fāṭimah bint Muhammad (PBUH)",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Early teens, light olive skin, slender build, slightly tall for her age. Long dark hair neatly braided, plain dark brown tunic with white undershirt. Simple leather sandals. Innocent bright eyes, gentle smile."
+      }
+    ],
+    "moral_lesson": "Patience and forgiveness are key virtues in dealing with evil and cruelty.",
+    "narrative_text": "Abū Jahl and his friends came up with a wicked plan to put a dirty camel stomach on the Prophet's back when he prostrated. One of them did it, and the Prophet, unaware, continued in his prayer. Fāṭimah, the Prophet's young daughter, was the one who finally told him what had happened.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, while Abu Jahl and his friends are shown with full faces. Fāṭimah is shown as a young girl, with modest clothing. The scene is meant to be educational and not frightening for children."
+    },
+    "image_prompt": "Colorful watercolor illustration. Makkah's narrow alleys. The back of a man in white thobe and green cloak, white turban, seen from behind, on all fours in prostration. To the side, a group of men in dark brown woolen cloaks and off-white thobes, laughing and one of them holding a dirty camel stomach. A young girl in dark brown tunic and white undershirt, with long dark hair, standing by, looking concerned. Simple mud-brick walls, clay pots in corners. Medium shot, eye level. Warm earthy palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 12,
+    "chapter_title": "Difficulties in Abundance",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

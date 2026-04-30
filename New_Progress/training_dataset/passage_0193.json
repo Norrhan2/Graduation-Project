@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0193",
+  "input": "They stopped at Maʿān for two nights in consultation on what their next step should be. Some of them suggested that they should write to the Prophet informing him of the situation and of the forces of their enemies, and await his orders. He might either send some support or give them further instructions. ʿAbdullāh ibn Rawāḥah, the third commander named by the Prophet, felt that the matter did not warrant that sort of delay. He encouraged the Muslims not to hesitate before confronting their enemy: The cause of your hesitation now is the very prize which you have set out to achieve: namely, martyrdom.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 33: A Foretaste of Fighting the Byzantines",
+  "output": {
+    "scene_title": "Consultation in Maʿān",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 33: A Foretaste of Fighting the Byzantines",
+    "characters": [
+      {
+        "id": "abdullah_ibn_rawahah",
+        "name": "ʿAbdullāh ibn Rawāḥah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, olive skin, athletic build, tall and imposing. Thick black beard, neat and well-groomed. Wearing mid-brown woolen cloak, simple white thobe, dark grey woolen turban. Worn leather sandals with metal straps. Confident and determined expression, slight furrowed brow."
+      },
+      {
+        "id": "other_muslim",
+        "name": "Other Muslim",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark olive skin, medium build, clean-shaven. Wearing off-white cotton thobe, plain beige woolen cloak, white cloth wrapped as loose head covering. Simple leather sandals. Curious and attentive expression, hands clasped together in contemplation."
+      }
+    ],
+    "moral_lesson": "Courage and determination are key to achieving one's goals and making sacrifices for a higher cause.",
+    "narrative_text": "In Maʿān, the Muslim leaders discussed their next move. Some suggested writing to the Prophet for guidance, but ʿAbdullāh ibn Rawāḥah encouraged them to act quickly, reminding them that martyrdom was the ultimate prize.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No Prophet visible, discussion focused on strategy and courage. Appropriate for children, promotes positive values."
+    },
+    "image_prompt": "Watercolor illustration of a gathering of 7th century desert-dwellers. Under open sky with few stars, a group of Arab men in simple white thobes, beige woolen cloaks, and dark grey turbans, sitting on woven mats and engaged in discussion. One man in the center, ʿAbdullāh ibn Rawāḥah, with black beard and imposing presence, speaking passionately while gesturing with hands. Others listen intently, hands clasped or resting on knees. Simple desert landscape with few rocks and scattered palm trees. Medium shot, eye level. Earthy tones and soft colors. No modern objects."
+  },
+  "metadata": {
+    "chapter": 33,
+    "chapter_title": "A Foretaste of Fighting the Byzantines",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

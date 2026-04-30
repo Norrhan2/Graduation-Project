@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0141",
+  "input": "All these aspects made the Muslim army highly efficient; this compensated for its numerical weakness. While the Prophet consulted his companions before every step he took, the unbelievers lacked unity of purpose. A large number of notables were in the army, but the most distinguished among them were ʿUtbah and Abū Jahl. The views of these two men were widely different. Suffice it to say that one of them, ʿUtbah, felt compelled to start the battle because the other, Abū Jahl, tried hard to make him appear cowardly.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 17: Badr: The First Major Battle",
+  "output": {
+    "scene_title": "Abu Jahl Tries to Make Utbah Appear Cowardly",
+    "era": "madinah_early",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 17: Badr: The First Major Battle",
+    "characters": [
+      {
+        "id": "utbah",
+        "name": "ʿUtbah ibn Rabiʿah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, olive skin, strong build, commanding posture. Thick beard with dark brown color, neatly kept. Wearing a brown woolen cloak over beige thobe, white cloth wrapped as head covering. Worn leather sandals. Confident and serious expression."
+      },
+      {
+        "id": "abu_jahl",
+        "name": "Abū Jahl ibn Hishām",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, dark skin, robust build, somewhat aggressive posture. Dark beard with few streaks of grey, rougher appearance. Wearing a black woolen cloak over dark brown thobe, simple headscarf. Worn leather sandals. Stern and angry expression."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a beige cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by beige cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Unity and cooperation are key to success, while disunity and conflict lead to failure.",
+    "narrative_text": "ʿUtbah, a respected leader of the Muslim army, was hesitant to start the battle. But Abū Jahl, a fierce opponent of Islam, tried to make ʿUtbah appear cowardly in front of the others.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, engaged in consultation with companions. Abū Jahl and ʿUtbah shown with full faces, expressing their emotions. Scene depicts a historical military context, suitable for children."
+    },
+    "image_prompt": "Children's illustration in warm earthy tones. A desert landscape with a small group of men in the distance, seen from a medium shot. ʿUtbah, a sturdy middle-aged man with olive skin, thick dark beard, and brown woolen cloak, stands with his hands on his hips, looking uncertain. Abū Jahl, a robust middle-aged man with dark skin, dark beard, and black woolen cloak, stands opposite him, scowling and trying to shame ʿUtbah. The Prophet, seen from behind, stands with his back to the viewer, wearing a simple white thobe and beige cloak, engaged in consultation with other companions. A few camels and horses in the background. Simple, muted color palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 17,
+    "chapter_title": "Badr: The First Major Battle",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

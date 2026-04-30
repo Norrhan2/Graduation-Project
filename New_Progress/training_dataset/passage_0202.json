@@ -1,0 +1,58 @@
+{
+  "training_id": "passage_0202",
+  "input": "They all declined to stand against al-ʿĀṣ ibn Wā’il and rebuked the man for his attitude. In his desperation, the man stood on top of a hill immediately overlooking the Kaʿbah at sunrise, when the men of the Quraysh met in groups around the Kaʿbah. He made his appeal to them, stating his case in a passionate and desperate manner. He reminded them of their position as the custodians of the Sacred House of Worship. Al-Zubayr ibn ʿAbd al-Muṭṭalib, an uncle of the Prophet, was the first to be moved to act.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 3: From Youth to Maturity",
+  "output": {
+    "scene_title": "The Man Pleads His Case to the Quraysh",
+    "era": "pre_prophetic",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 3: From Youth to Maturity",
+    "characters": [
+      {
+        "id": "al_zubayr",
+        "name": "Al-Zubayr ibn Abd al-Muttalib",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light brown skin, tall and strong build, dignified presence. Thick beard with slight grey tint, neatly kept. Wearing a simple off-white thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident, intelligent eyes, slight smile."
+      },
+      {
+        "id": "the_man",
+        "name": "Unidentified Man",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium build, worried expression. Wearing a simple off-white thobe, worn-out brown cloak, no head covering. Worn leather sandals. Distressed eyes, clenched fists."
+      },
+      {
+        "id": "al_ʿāṣ",
+        "name": "Al-ʿĀṣ ibn Wā'il",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, dark skin, muscular build, stern expression. Thick beard with slight grey tint, neatly kept. Wearing a simple off-white thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident, authoritative eyes."
+      },
+      {
+        "id": "quraysh_men",
+        "name": "Men of the Quraysh",
+        "role": "crowd",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Variety of men, mid-30s to mid-50s, different skin tones, builds, and facial expressions. Wearing simple off-white thobes, brown cloaks, and no head coverings. Worn leather sandals. Some looking on with interest, others with disinterest or disdain."
+      }
+    ],
+    "moral_lesson": "Everyone deserves a fair chance to be heard and understood.",
+    "narrative_text": "A man stood on a hill overlooking the Ka'bah, pleading his case to the Quraysh. Al-Zubayr, an uncle of the Prophet, was the first to be moved to act. The men of the Quraysh were meeting around the Ka'bah, discussing the man's appeal.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No prophets present in scene. Modest clothing for all characters. No graphic violence. Appropriate for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Sunrise over a hill overlooking the Ka'bah. A man in the foreground, standing on top of the hill, looking down at the crowd gathered around the Ka'bah. Al-Zubayr is standing out among the crowd, looking concerned. Various men of the Quraysh are shown in the background, some looking on with interest, others with disinterest or disdain. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 3,
+    "chapter_title": "From Youth to Maturity",
+    "scene_types": [
+      "emotional",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

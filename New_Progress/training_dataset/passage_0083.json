@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0083",
+  "input": "Muslims can pray and offer their worship anywhere. Indeed, the mosque is a symbol of Islam as a complete and comprehensive way of life. The Prophet’s mosque in Madinah was a spiritual centre for worship, the political and military headquarters of the new state where internal and external affairs were conducted, an institute of learning where discussions and seminars were held, and a social institution where Muslims learnt and practised discipline, equality, unity and brotherhood. Thus the mosque was a place where many functions were performed.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 15: Madinah",
+  "output": {
+    "scene_title": "The Mosque: A Centre of Islamic Life",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 15: Madinah",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "general_muslim",
+        "name": "Muslims",
+        "role": "crowd",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Diverse group of people of various ages, skin tones, and builds. Simple white or off-white clothing, with some wearing head coverings. No distinguishing features, shown as silhouettes."
+      }
+    ],
+    "moral_lesson": "Places of worship are not just for prayer but also for education, socialisation, and governance.",
+    "narrative_text": "The Prophet’s mosque in Madinah was a place where Muslims could come to pray, learn, and discuss important matters. It was also a place where Muslims could practice discipline, equality, and unity.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by sunlight. Diverse crowd shown as silhouettes, no faces visible."
+    },
+    "image_prompt": "Watercolor illustration of a serene 7th century Madinah mosque. A dignified man in white thobe and green cloak, white turban, standing at the entrance with warm golden sunlight streaming behind him. Inside, a diverse crowd of people, shown as silhouettes, standing and sitting in the mosque. Some people shown with books or scrolls, others with staffs or swords. Simple mud-brick walls, clay water jugs in the background. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 15,
+    "chapter_title": "Madinah",
+    "scene_types": [
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

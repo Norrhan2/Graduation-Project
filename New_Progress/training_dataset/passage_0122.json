@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0122",
+  "input": "Before dawn of the following day, Abū Sufyān and his men went to a place called ʿUrayḍ, nearly three miles out of Madinah, where they killed two men of the Anṣār and burnt down several houses. Abū Sufyān felt that that was enough to honour his vows, so he left quickly with his men. When the Prophet heard of this incident, he called on his companions to pursue the raiders. He went out at the head of a force of men of the Muhājirīn and the Anṣār in pursuit of Abū Sufyān and his men.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 19: New Trends of Hostility",
+  "output": {
+    "scene_title": "Abu Sufyan's Raid and the Prophet's Pursuit",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 19: New Trends of Hostility",
+    "characters": [
+      {
+        "id": "abu_sufyan",
+        "name": "Abu Sufyan ibn Harb",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Early 50s, strong build, imposing presence. Dark brown skin, thick beard with slight grey streaks, dark eyes. Wearing a dark brown woolen cloak with an off-white thobe underneath, brown leather sandals, headscarf wrapped around his head. Distinguished by his stern expression and prominent nose."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Allah does not approve of violence and aggression towards others. We must stand up for what is right and fight for justice.",
+    "narrative_text": "Abu Sufyan and his men went on a surprise attack near Madinah, killing two of the city's defenders and burning several houses. But when the Prophet heard of the attack, he quickly gathered his companions and set out to chase after Abu Sufyan and his men.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by sunlight. Abu Sufyan shown with full face, stern expression. Dramatic scene with a focus on the pursuit, suitable for children."
+    },
+    "image_prompt": "Muted watercolor illustration. Early morning scene in the Madinah desert. A group of weary Arab men on horseback, seen in the distance, riding away from the viewer. In the foreground, a group of men, mostly Muhajirin and Ansar, with the Prophet standing at the front, seen from behind, his green cloak visible, leading the charge towards the horizon. The men are armed with traditional 7th century swords and shields. Simple mud-brick buildings in the background, smoke rising from the aftermath of the raid. Medium shot, eye level. Sober color palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 19,
+    "chapter_title": "New Trends of Hostility",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

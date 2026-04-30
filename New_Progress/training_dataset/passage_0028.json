@@ -1,0 +1,57 @@
+{
+  "training_id": "passage_0028",
+  "input": "When the burial of the Muslims was completed, the Prophet and his companions rode back to Madinah. Many of them, including the Prophet himself, were wounded. Some of them, like Ṭalḥah and ʿAbd al-Raḥmān ibn ʿAwf, received something like wounds each. All of them were blaming themselves for their error and disobedience of the Prophet’s orders. They prayed God to forgive them. Back in Madinah As they arrived at the entrance to the city, they were received by a group of women weeping for their dead.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 20: A Bitter Defeat",
+  "output": {
+    "scene_title": "Returning to Madinah After a Defeat",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 20: A Bitter Defeat",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a beige cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by beige cloak and subtle warm light."
+      },
+      {
+        "id": "talha",
+        "name": "Ṭalḥah ibn ʿUbaidullah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium olive skin, strong build, average height. Thick black beard, neatly kept. Wearing a dark blue cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong determined eyes, confident posture."
+      },
+      {
+        "id": "abd_arahman_ibn_awf",
+        "name": "ʿAbd al-Raḥmān ibn ʿAwf",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 40s, light olive skin, tall and slender build. Thick black beard with slight grey tint, neatly kept. Wearing a light brown cotton thobe, plain beige woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      },
+      {
+        "id": "woman_weeping",
+        "name": "An anonymous woman of Madinah",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Mid-30s, medium olive skin, slender build, long dark hair covered by a dark blue khimar. Dark brown eyes, gentle features. Wearing a dark blue long-sleeved dress, dark brown cloak, simple leather sandals. Soft gentle expression."
+      }
+    ],
+    "moral_lesson": "True courage means facing one's mistakes and asking for forgiveness, and true love means showing compassion and sympathy for those who are grieving.",
+    "narrative_text": "After a difficult battle, the Prophet and his companions returned to Madinah, but they were all wounded and felt guilty for disobeying the Prophet's orders. As they entered the city, they were met by women weeping for their loved ones who had been killed.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, face not visible in line with Islamic depiction rules. The women are shown with full faces but in a respectful and modest manner."
+    },
+    "image_prompt": "Watercolor illustration of a group of weary travelers, including the Prophet and his companions, riding into the entrance of a 7th century Madinah city. The Prophet is seen from behind, wearing a white thobe and beige cloak, white turban. The companions, including Ṭalḥah and ʿAbd al-Raḥmān ibn ʿAwf, are shown with full faces, wounded and looking down. In the distance, a group of women are weeping, covered in dark blue khimar and dark brown cloaks, with simple leather sandals. The scene is set in a warm golden light, with a sense of sadness and regret. Medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 20,
+    "chapter_title": "A Bitter Defeat",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}
