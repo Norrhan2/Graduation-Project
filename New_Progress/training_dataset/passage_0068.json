@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0068",
+  "input": "Khaybar was about kilometres to the north of Madinah, a distance which took five days of travelling by camel. Appointing his companion Sibāʿ ibn ʿArfaṭah to deputize for him in Madinah, the Prophet set out in the month of al-Muḥarram of the seventh year of his emigration to Madinah (August AD 628), realizing that speed was an essential factor in taking the Khaybar Jews by surprise. He covered the whole distance in only three tiring stages, each taking one day, and arrived in the vicinity of Khaybar at dawn of the fourth day.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 29: Back on the Move",
+  "output": {
+    "scene_title": "The Prophet Sets Out to Khaybar",
+    "era": "madinah_late",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 29: Back on the Move",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a beige cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by beige cloak and subtle warm light."
+      },
+      {
+        "id": "sibaa_ibn_arfat",
+        "name": "Sibāʿ ibn ʿArfaṭah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, light brown skin, athletic build, tall and lean. Dark hair, neatly kept beard, brown eyes. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals."
+      }
+    ],
+    "moral_lesson": "Patience and strategy are often more important than speed when achieving a goal.",
+    "narrative_text": "The Prophet Muhammad set out on a journey to Khaybar, a small distance north of Madinah. He was accompanied by his companion Siba' ibn Arfat, who was left in charge of Madinah in the Prophet's absence. The Prophet traveled through the desert, covering the distance of five days in just three tiring stages.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind as he travels through the desert. Siba' ibn Arfat is shown with his full face, representing the importance of his role as the Prophet's deputy."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century Arabian desert landscape. A figure in white thobe and beige cloak, white turban, seen entirely from behind, riding a camel on a sandy dune road at dawn. The sun rises behind him, casting a warm golden light. In the distance, a tall and lean Sahabi in off-white thobe and brown cloak, white cloth wrapped as loose head covering, stands looking out at the horizon, holding reins of a second camel. Simple desert landscape, minimal details. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 29,
+    "chapter_title": "Back on the Move",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

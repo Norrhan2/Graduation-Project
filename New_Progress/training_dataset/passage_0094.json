@@ -1,0 +1,37 @@
+{
+  "training_id": "passage_0094",
+  "input": "Abū al-ʿĀṣ was in charge of that caravan, but he managed to escape when the attack took place. When he was certain that he had evaded his pursuers, he sat down for a moment to reflect on his position and realized that he was in difficulties. The fact that he was so closely related to the Prophet would have made him open to the charge that he did not exercise due diligence in safeguarding his trust. He might have been accused of complacency or complicity in what had happened.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 27: Family Matters",
+  "output": {
+    "scene_title": "Abu al-As's Difficult Position",
+    "era": "late_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 27: Family Matters",
+    "characters": [
+      {
+        "id": "abu_al_as",
+        "name": "Abu al-As ibn al-Rabi'",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, medium build, fair to medium skin tone. Thick dark beard with wisps of grey, neatly kept. Wearing off-white thobe, plain beige woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Serious expression, slightly furrowed brow."
+      }
+    ],
+    "moral_lesson": "Family members and leaders must always be mindful of their responsibilities and the trust placed in them, even when they are related to someone of great importance.",
+    "narrative_text": "Abu al-As sat down to think about his situation, worried that he might be blamed for not taking better care of the caravan. As a relative of the Prophet, he knew he had to be extra careful.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Abu al-As shown with full face, concerned expression. No prophets present. Simple desert scene, appropriate for children."
+    },
+    "image_prompt": "Children's watercolor illustration. A man in his 40s, fair skin, dark beard with grey, off-white thobe, beige cloak, sitting on a rocky outcropping in the desert, gazing out at the horizon with a thoughtful expression. Distant desert landscape, sandy dunes, sun overhead. Soft muted palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 27,
+    "chapter_title": "Family Matters",
+    "scene_types": [
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

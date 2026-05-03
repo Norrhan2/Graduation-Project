@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0010",
+  "input": "Then he took him back to his mother, who told him that she heard voices commanding her to call her child Muhammad. Muhammad means ‘often praised’, or ‘worthy of praise’. It was a totally unfamiliar name in Arabia. Nevertheless, ʿAbd al-Muṭṭalib had no hesitation in calling his grandson by that name. He could never dismiss the thought that the events which led to the birth of this child suggested that he was certain to have great influence on the life of his community.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 2: The Early Years",
+  "output": {
+    "scene_title": "The Birth of Muhammad: The Voice from Allah",
+    "era": "ancient_prophets",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 2: The Early Years",
+    "characters": [
+      {
+        "id": "abd_al_mutthalib",
+        "name": "ʿAbd al-Muṭṭalib ibn Abd al-Manaf",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, medium to dark brown skin, robust build. Thick dark beard with slight grey streaks, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Wise and confident eyes."
+      },
+      {
+        "id": "mother_of_muhammad",
+        "name": "Fatimah bint Amr",
+        "role": "family_of_prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Late 30s, medium to dark brown skin, slender build. Wearing a modest, dark brown woolen cloak, white cloth wrapped as loose head covering. Black headscarf covering hair, hands visible. Dignified posture."
+      },
+      {
+        "id": "baby_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Infant, medium to dark brown skin, very young. Wearing a simple, light-colored cloth wrapped around body. No facial features visible. Silhouette of infant, without details."
+      }
+    ],
+    "moral_lesson": "allah's will can be mysterious, but we must always trust in his infinite wisdom and mercy.",
+    "narrative_text": "When Allah told ʿAbd al-Muṭṭalib's wife that she should name her child Muhammad, it was a totally new and unusual name in Arabia. But ʿAbd al-Muṭṭalib trusted that Allah knew what he was doing, and he decided to name his grandson Muhammad.",
+    "compliance": {
+      "prophet_check": "PROPHET_SILHOUETTE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown as a silhouette, with no facial features. Mother shown from behind, with modest clothing. ʿAbd al-Muṭṭalib shown with full face, wise and confident expression. No graphic details."
+    },
+    "image_prompt": "Soft watercolor illustration. Ancient Makkah home with mud-brick walls, clay water jug in corner. ʿAbd al-Muṭṭalib, a robust man with medium to dark brown skin, thick dark beard, off-white thobe and brown cloak, sitting on a woven mat, looking at his wife. His wife, in a dark brown woolen cloak, white cloth wrapped as loose head covering, black headscarf, standing behind him, hands visible. A small, wrapped infant, baby Muhammad, in a light-colored cloth, in her arms. Warm, muted palette. Simple composition. No modern objects."
+  },
+  "metadata": {
+    "chapter": 2,
+    "chapter_title": "The Early Years",
+    "scene_types": [
+      "dialogue"
+    ],
+    "generation_warnings": null
+  }
+}

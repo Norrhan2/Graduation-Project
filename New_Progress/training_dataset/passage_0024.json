@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0024",
+  "input": "When they saw the Prophet and his companions, they were panic-stricken. They shouted: “Muhammad and his army! Muhammad and his army!” They ran away to their forts warning their people against the impending calamity. The Prophet wanted to add to their panic and shouted: “God is supreme. Khaybar is destroyed. When we arrive in the enemy’s land, those who have been forewarned will have a very bad morning.” The people of Khaybar awoke to this very unpleasant surprise. They realized that the initiative was totally with the Prophet.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 29: Back on the Move",
+  "output": {
+    "scene_title": "The Prophet's Warning to the People of Khaybar",
+    "era": "late_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 29: Back on the Move",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "khaybar_people",
+        "name": "People of Khaybar",
+        "role": "crowd",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Diverse group of Arab men, light to medium olive skin, various beards, wearing simple white thobes, brown woolen cloaks, and traditional headwear. Some shown with fear and panic on their faces, others with confusion. Distant silhouettes, no distinct facial features."
+      }
+    ],
+    "moral_lesson": "Bravery and readiness are key to success in the face of adversity.",
+    "narrative_text": "The people of Khaybar were terrified when they saw the Prophet and his companions. They shouted and ran away to warn their people. The Prophet wanted to add to their fear and shouted, “God is supreme. Khaybar is destroyed.” The people of Khaybar woke up to this shocking news and realized they were in trouble.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet shown from behind, backlit by sunlight. Distant silhouettes of people, no distinct facial features. Emphasis on the Prophet's message, not the people's reactions."
+    },
+    "image_prompt": "Children's illustration. A warm desert landscape with a group of distant Arab men, light to medium olive skin, simple white thobes, brown woolen cloaks, traditional headwear, shown as silhouettes with fear and panic on their faces. In the foreground, a dignified man in white thobe and green cloak, white turban, seen entirely from behind, standing with his back to the group. Simple desert foliage, no modern objects. Medium shot, eye level. Warm golden palette."
+  },
+  "metadata": {
+    "chapter": 29,
+    "chapter_title": "Back on the Move",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

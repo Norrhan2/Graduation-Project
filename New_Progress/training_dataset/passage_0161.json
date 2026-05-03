@@ -1,0 +1,37 @@
+{
+  "training_id": "passage_0161",
+  "input": "The Prophet was sad, outraged and hurt at what had happened. He said: “This is the result of Abū Barā’s advice. I was unwilling to send them and I feared the consequences.” Perhaps the Prophet never felt as much sorrow as he felt for his companions who were killed in this incident. This is perhaps because it was nothing less than murder in cold blood, coupled with treachery. In his sorrow, the Prophet prayed God to punish the clans which took part in the killing of his companions.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 22: Vulnerability and Treachery",
+  "output": {
+    "scene_title": "The Prophet's Sorrow and Anger",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 22: Vulnerability and Treachery",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Allah will not let oppressors go unpunished.",
+    "narrative_text": "The Prophet was heartbroken and angry because of what had happened to his companions. He said the advice of Abū Barā had led to this and that he had feared the consequences. In his sorrow, the Prophet prayed for God to punish those who had killed his companions.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, backlit by dim light. His face is not visible, and the focus is on his emotions and posture."
+    },
+    "image_prompt": "Children's watercolor illustration. Interior of a modest 7th century Makkah mud-brick home. A man in white thobe and green cloak, white turban, seen entirely from behind, standing in the doorway with dim candlelight or moonlight streaming behind him. The man's back is hunched in sadness. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Somber, muted palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 22,
+    "chapter_title": "Vulnerability and Treachery",
+    "scene_types": [
+      "dialogue",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

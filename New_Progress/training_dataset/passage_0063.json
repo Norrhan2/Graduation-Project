@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0063",
+  "input": "A notable personality amongst these was Saʿd ibn Muʿādh, who did not look very pleased with what he saw. The Prophet asked him and he confirmed his displeasure: “This is the first defeat God has caused the idolaters to suffer, and I would have preferred that we spare none of their men.” Saʿd’s view, however, was not shared by most Muslim fighters, who hoped that the prisoners of war would bring in some badly needed income as the Quraysh would be keen to pay their ransom.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 18: In Madinah After Badr",
+  "output": {
+    "scene_title": "Sa'd ibn Mu'adh Expresses Concern",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 18: In Madinah After Badr",
+    "characters": [
+      {
+        "id": "sa_d_ibn_mu_adh",
+        "name": "Sa'd ibn Mu'adh",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium build, strong facial features, dark brown skin. Wearing a dark brown or black bisht cloak over a white thobe with a dark green imamah turban. Brown leather sandals. Expression of concern on his face."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, dignified posture. Wearing a light beige or cream-colored thobe with a brown bisht cloak draped over shoulders, a dark green imamah turban with tail between shoulder blades. Simple leather sandals. Distinguished by the folds of his cloak and the dark green turban."
+      }
+    ],
+    "moral_lesson": "Every victory must be balanced with compassion and mercy, especially towards those who have been defeated.",
+    "narrative_text": "After the Battle of Badr, Sa'd ibn Mu'adh expressed his concern to the Prophet that they had spared the lives of the Quraysh prisoners. He thought it would have been better if they had killed them all.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Sa'd's face is shown with a concerned expression. The Prophet is shown from behind, as per Islamic depiction rules."
+    },
+    "image_prompt": "Gentle watercolor illustration. Exterior of a mud-brick Madinah home in the early days of Islam. A group of tired but triumphant Muslim fighters, including a dark-skinned man with a dark green turban and a brown cloak, looking on as a prisoner of war, a Quraysh soldier, is led away. The Prophet stands at a distance, his back to the viewer, as per Islamic depiction rules. The warm sunlight casts long shadows behind them. No modern objects."
+  },
+  "metadata": {
+    "chapter": 18,
+    "chapter_title": "In Madinah After Badr",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

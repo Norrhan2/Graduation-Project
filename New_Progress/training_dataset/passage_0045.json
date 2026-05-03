@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0045",
+  "input": "For another, Abū Lahab might have been tempted to create trouble if he was left out. More importantly, however, the Prophet never despaired of a change of heart taking place, even in the case of a determined enemy. So Abū Lahab was among the Prophet’s guests. This time, however, the Prophet took the initiative and spoke to his relatives immediately after they finished eating. He said: Praise be to God! I praise Him, seek His support, believe in Him and rely on Him.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 7: The Call to Islam Goes Public",
+  "output": {
+    "scene_title": "The Prophet's Mercy Towards Abū Lahab",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 7: The Call to Islam Goes Public",
+    "characters": [
+      {
+        "id": "abu_lahab",
+        "name": "Abū Lahab ibn Abd al-Muṭṭalib",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s to early 50s, dark brown to black skin, strong build, thick beard with a few grey streaks, neatly kept. Wearing an expensive-looking dark brown thobe with intricate patterns, a luxurious black cloak draped over shoulders, a red head cloth wrapped around his head. Worn leather sandals. Brooding expression, stern eyes."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a beige cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by beige cloak and subtle warm light."
+      },
+      {
+        "id": "other_guests",
+        "name": "Other relatives and guests",
+        "role": "crowd",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Varied ages, skin tones, and builds. Dressed in simple clothing, with some wearing head coverings. Gathered around a low table, hands visible, faces not visible."
+      }
+    ],
+    "moral_lesson": "The Prophet's mercy and compassion extended to all people, even those who opposed him.",
+    "narrative_text": "The Prophet invited his relatives, including his uncle Abū Lahab, to a meal, showing that he was willing to reach out to those who opposed him. After they finished eating, the Prophet gave thanks to God and praised Him.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. Abū Lahab shown with full face, expression stern. Other guests shown as silhouettes, faces not visible. Warm emotional scene, appropriate for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Interior of a modest 7th century Makkah mud-brick home. A dark-skinned man in a luxurious black cloak, red head cloth, thick beard, sitting on a low bench looking annoyed, arms crossed. In the background, a slender older Arab man in white thobe and beige cloak, white turban, seen entirely from behind, standing at an open doorway with warm golden afternoon sunlight streaming behind him. Inside, a few relatives and guests dressed in simple clothing, sitting on a woven mat with their hands visible, faces not visible. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 7,
+    "chapter_title": "The Call to Islam Goes Public",
+    "scene_types": [
+      "dialogue"
+    ],
+    "generation_warnings": null
+  }
+}

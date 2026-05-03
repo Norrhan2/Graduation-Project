@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0275",
+  "input": "He said to the Prophet: Muhammad, your people made you practical proposals, but you refused them. They asked you to bring them some favours by which they would recognize your high position with God as you claim, but you refused. You even refused to take for yourself things that would prove that you enjoy a position of favour with God. By God, I shall never believe in you until you have stretched a ladder to the sky and climbed up that ladder in front of my eyes until you have reached the sky.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 11: Hope and Despair",
+  "output": {
+    "scene_title": "Abu Lahab's Skepticism",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 11: Hope and Despair",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "abu_lahab",
+        "name": "Abu Lahab ibn Abd al-Muttalib",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 50s, medium build, prominent cheekbones. Dark brown skin, thinning beard with wisps of grey, neatly kept. Wearing a long off-white thobe, simple black woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Slightly arrogant posture, raised eyebrow."
+      }
+    ],
+    "moral_lesson": "True faith requires trust in God's wisdom and power, even when faced with doubts and skepticism.",
+    "narrative_text": "Abu Lahab, cousin of the Prophet, mocked and ridiculed Muhammad's message. He refused to believe in the Prophet's claim of receiving revelations from God unless Muhammad could perform an impossible feat.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, Abu Lahab shown with full face. Skeptical conversation, but no violence or graphic content."
+    },
+    "image_prompt": "Watercolor illustration. A 7th century Makkah marketplace scene at dusk. A man in white thobe and green cloak, white turban, seen entirely from behind, standing in the distance, looking dignified. In the foreground, a slightly older Arab man with dark brown skin, thinning beard, off-white thobe and black cloak, standing with arms crossed, looking scornful, one eyebrow raised. Woven mats and clay pots in the background. Medium shot, slightly above eye level. Warm earthy palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 11,
+    "chapter_title": "Hope and Despair",
+    "scene_types": [
+      "emotional",
+      "confrontation"
+    ],
+    "generation_warnings": null
+  }
+}

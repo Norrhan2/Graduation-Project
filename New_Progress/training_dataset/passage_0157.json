@@ -1,0 +1,58 @@
+{
+  "training_id": "passage_0157",
+  "input": "When she stood up, the lower half of her body was visible and all the Jews around her laughed. She cried for help and a Muslim man nearby attacked the Jew who perpetrated this and killed him. Several men then attacked the Muslim and killed him. There was much chaos and confusion. Both Jews and Muslims were calling for help and people started gathering. The situation would surely have led to a massacre. The Prophet, however, was informed and he quickly came over and tried to calm everybody down.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 19: New Trends of Hostility",
+  "output": {
+    "scene_title": "The Prophet Saves a Muslim Woman in Makkah",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 19: New Trends of Hostility",
+    "characters": [
+      {
+        "id": "muslim_woman",
+        "name": "An unnamed Muslim Woman",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Early 20s, medium skin tone, slender build, covered hair with simple woolen khimar, modest dark colored abaya. Her lower half is visible, and she's standing, looking up with concern."
+      },
+      {
+        "id": "jewish_perpetrator",
+        "name": "An unnamed Jewish Man",
+        "role": "antagonist",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Tall, rough-looking, with a scowl. No distinguishing features. Wearing simple white tunic, dark pants. Shown from behind, dark hair, rough beard."
+      },
+      {
+        "id": "muslim_hero",
+        "name": "An unnamed Muslim Man",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 30s, medium skin tone, athletic build. Wearing simple white thobe, off-white turban. Strong facial features, determined look."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak."
+      }
+    ],
+    "moral_lesson": "The importance of self-control and seeking help from those in authority, especially in times of chaos.",
+    "narrative_text": "In Makkah, a Muslim woman was mocked by the Jews, and a Muslim man stepped in to defend her. A fight broke out, and the Muslim man was killed. The Prophet quickly arrived to calm the situation.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No graphic violence, focus on the Prophet's calm intervention."
+    },
+    "image_prompt": "Children's watercolor illustration. Narrow, dusty Makkah street with mud-brick buildings. A young woman, covered, standing in the center, looking up in distress. A group of men, some Jewish, some Muslim, in simple clothing, fighting in the background. A strong, athletic Muslim man, wearing a white thobe and off-white turban, is shown from the front, defending the woman. In the distance, the Prophet, shown from behind, green cloak visible, approaches the scene, hands raised in calm. Warm colors, simple composition. No modern objects."
+  },
+  "metadata": {
+    "chapter": 19,
+    "chapter_title": "New Trends of Hostility",
+    "scene_types": [
+      "battle",
+      "emotional"
+    ],
+    "generation_warnings": null
+  }
+}

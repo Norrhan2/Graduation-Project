@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0035",
+  "input": "His feet were soon bleeding and he was in a very sorry state. Zayd tried hard to defend him and protect him from the stones. The Prophet then sought refuge in an orchard which belonged to two brothers from Makkah. They were in their orchard, and they saw Muhammad when he entered. At first they watched him quietly, but he did not see them. As the Prophet sat down, he said this highly emotional and touching prayer: To You, My Lord, I complain of my weakness, lack of support and the humiliation I am made to receive.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 12: Difficulties in Abundance",
+  "output": {
+    "scene_title": "The Prophet Seeks Refuge in the Orchard",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 12: Difficulties in Abundance",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Early 40s, lean build, slightly hunched over due to fatigue. Wearing a simple white thobe with a brown leather belt, white head cloth wrapped around head. Bare feet with visible cuts and bruises, showing signs of exhaustion. Distinguished by the silhouette of a weary traveler."
+      },
+      {
+        "id": "zayd_bin_harith",
+        "name": "Zayd bin Harithah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 20s, medium build, strong facial features, dark brown skin, neatly trimmed beard with slight black henna tint. Wearing a plain off-white thobe, brown woolen cloak, and a white cloth wrapped around his head. His eyes are filled with concern and worry as he tries to protect the Prophet. He is standing in the background, slightly behind the Prophet, but in the foreground of the scene."
+      },
+      {
+        "id": "brothers_from_makkah",
+        "name": "Two Brothers from Makkah",
+        "role": "supporting",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Two men, one a bit older than the other, both with dark brown skin, wearing plain white thobes, and brown head cloths. They are standing in the background, watching the Prophet quietly, and are only partially visible due to the silhouettes."
+      }
+    ],
+    "moral_lesson": "Even in difficult times, one must trust in Allah's plan and have faith that He will provide.",
+    "narrative_text": "The Prophet, exhausted and hurt, sought refuge in an orchard. Zayd tried to protect him from the stones, but they eventually found a safe place to rest. As the Prophet sat down, he prayed to Allah, expressing his weakness and need for support.",
+    "compliance": {
+      "prophet_check": "PROPHET_SILHOUETTE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown as a silhouette to avoid depicting his face. Zayd and the brothers are shown with full faces to convey their emotions and actions."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century Makkah orchard. The Prophet, a silhouette in the foreground, sits on the ground, his back to the viewer, with visible signs of exhaustion. Zayd, a young man with dark brown skin and a neatly trimmed beard, stands behind him, looking worried. In the background, two brothers from Makkah, also with dark brown skin, watch the scene quietly. The sun is setting, casting a warm orange glow over the scene. The air is filled with the scent of blooming flowers. No modern objects."
+  },
+  "metadata": {
+    "chapter": 12,
+    "chapter_title": "Difficulties in Abundance",
+    "scene_types": [
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

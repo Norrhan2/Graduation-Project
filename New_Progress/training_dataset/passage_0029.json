@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0029",
+  "input": "No other testimony or opinion is needed in addition to this one. Nevertheless, when the army arrived back in Madinah, children met them with jeers and denunciation. They said to them: “You deserters. You desert a battle being fought for God’s cause?” The Prophet, however, set things right when he said to them: “These are no deserters. They will live to fight another day.” The children’s attitude gives an impression of what sort of society the Prophet built in Madinah, and in Arabia at large.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 33: A Foretaste of Fighting the Byzantines",
+  "output": {
+    "scene_title": "Madinah Children Accuse the Returning Soldiers",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 33",
+    "characters": [
+      {
+        "id": "children",
+        "name": "Madinah Children",
+        "role": "crowd",
+        "depiction_rule": "FULL",
+        "appearance": "10-year-old Arab children with light olive skin, varying builds, messy dark hair. Some wearing simple white thobes, others in tunics. All wearing loose head coverings, some with small henna marks on their hands. Dressed in the modest attire of the time, with a mix of facial expressions, some angry, some confused."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "True leadership means understanding and guiding people through their emotions and mistakes.",
+    "narrative_text": "When the army returned to Madinah, children jeered at them, calling them deserters. But the Prophet calmly told them that these soldiers would fight another day.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Children's faces visible, but modestly dressed. Prophet shown from behind. The scene portrays a moment of conflict, but remains child-friendly."
+    },
+    "image_prompt": "Watercolor illustration of a sunny Madinah street. A group of children, varying in age and facial expression, stand with their arms crossed and look up at the Prophet, who stands at the edge of the scene, entirely from behind, wearing a simple white thobe and brown cloak. The children are dressed in the modest attire of the time, with some wearing simple white thobes and loose head coverings. In the background, a mud-brick building with a flat roof and a few palm trees. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 33,
+    "chapter_title": "A Foretaste of Fighting the Byzantines",
+    "scene_types": [
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

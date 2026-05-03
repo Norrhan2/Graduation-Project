@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0203",
+  "input": "A short while before the Prophet set out towards Khaybar, he sent his companion, ʿAmr ibn Umayyah al-Ḍamrī, who acted as his ambassador at large, to Negus, the ruler of Abyssinia, asking him to facilitate the return of the Muslims who sought refuge in his country. He himself had adopted Islam. On receiving the Prophet’s request, he immediately arranged for two boats to carry the Muslims on their way back home. The immigrants headed to join the Prophet, and that meant that they went straight to Khaybar.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 29: Back on the Move",
+  "output": {
+    "scene_title": "ʿAmr ibn Umayyah Meets Negus",
+    "era": "late_makkah",
+    "region": "abyssinia",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 29: Back on the Move",
+    "characters": [
+      {
+        "id": "negus",
+        "name": "Negus",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, with medium build, dark skin tone, and a dignified presence. Wears a traditional Abyssinian headdress with colorful embroidery, along with a white tunic and ornate gold jewelry. Kind eyes, gentle smile. Stands behind a throne-like chair, with a concerned expression, yet warm demeanor."
+      },
+      {
+        "id": "amr_ibn_umayyah",
+        "name": "ʿAmr ibn Umayyah al-Ḍamrī",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s to early 30s, with a medium build, olive skin tone, and a strong beard. Wears a simple white thobe, a brown woolen cloak draped over shoulders, and a white cloth wrapped as a head covering. Looks confident and determined, with a hint of respect for the Abyssinian ruler."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Helping others in need can bring great rewards and strengthen bonds between people.",
+    "narrative_text": "The Prophet Muhammad sent ʿAmr ibn Umayyah to meet the ruler of Abyssinia, Negus. Negus kindly agreed to help the Muslims who had sought refuge in his country. He even arranged for two boats to take them back home. This meant the immigrants could now join the Prophet on his journey to Khaybar.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, as per Islamic depiction rules. Negus and ʿAmr ibn Umayyah are shown with full faces, reflecting their different cultures and backgrounds. The scene is peaceful and respectful, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration of a peaceful Abyssinian palace interior. Middle-aged Negus, with dark skin and traditional headdress, sits on a throne-like chair, looking concerned yet warm. Standing before him is ʿAmr ibn Umayyah, a young Arab man with olive skin and strong beard, wearing a simple white thobe and brown cloak, looking confident. The Prophet Muhammad stands in the doorway, seen from behind, with a green cloak and white turban. Two large wooden doors behind him are slightly ajar, with a hint of sunlight and blue sky outside. A large clay water jug in the corner. Warm colors and gentle composition. No modern objects."
+  },
+  "metadata": {
+    "chapter": 29,
+    "chapter_title": "Back on the Move",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "training_id": "passage_0281",
+  "input": "Two more non-believers, ʿUthmān ibn ʿAbdullāh and al-Ḥakam ibn Kaysān, surrendered to the Muslims. The fourth person from the Quraysh, Nawfal ibn ʿAbdullāh, managed to escape. The Muslim company was thus able to confiscate the caravan and head back to Madinah. When they arrived, the Prophet refused to take the two prisoners or the caravan, saying to the company: “I have not asked you to fight in the sacred month.” The company felt very distressed. Their Muslim brethren reproached them for their action.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 16: Peace and Confrontation",
+  "output": {
+    "scene_title": "The Prophet Shows Mercy",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 16: Peace and Confrontation",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 40s, medium build, dignified upright posture. Wearing a simple white thobe with a beige cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by beige cloak and subtle warm light."
+      },
+      {
+        "id": "uthman_ibn_abdullah",
+        "name": "ʿUthmān ibn ʿAbdullāh",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark olive skin, athletic build, slightly broader than average. Thick dark beard, neatly kept. Wearing off-white cotton thobe, plain dark woolen cloak, dark cloth wrapped as loose head covering. Worn leather sandals. Confident assertive expression."
+      },
+      {
+        "id": "al_hakam_ibn_kaysan",
+        "name": "al-Ḥakam ibn Kaysān",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium skin tone, lean build, slightly taller than average. Thin dark beard, neatly kept. Wearing off-white cotton thobe, plain beige woolen cloak, beige cloth wrapped as loose head covering. Worn leather sandals. Somber expression."
+      },
+      {
+        "id": "nawfal_ibn_abdullah",
+        "name": "Nawfal ibn ʿAbdullāh",
+        "role": "antagonist",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Late 30s, dark olive skin, athletic build, slightly broader than average. Thick dark beard, neatly kept. Wearing off-white cotton thobe, plain dark woolen cloak, dark cloth wrapped as loose head covering. Worn leather sandals. Always shown from behind, face never visible. Distinguished by dark cloak and urgent running posture."
+      },
+      {
+        "id": "muslim_companions",
+        "name": "Muslim Companions",
+        "role": "crowd",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Diverse group of men in simple white and beige thobes, with dark woolen cloaks, brown and beige cloths as head coverings, and worn leather sandals. Varying skin tones, ages, and facial hair styles."
+      }
+    ],
+    "moral_lesson": "Mercy and forgiveness are essential qualities of a true believer.",
+    "narrative_text": "The Prophet told his companions not to take the caravan or the prisoners, as they had not fought in the sacred month. The companions were confused, but the Prophet showed them that mercy and forgiveness are essential qualities of a true believer.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by sunlight. Antagonists shown with full faces, prisoners shown from behind, and companions as silhouettes. Emphasis on mercy and forgiveness, suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Open desert landscape at sunset. A man in white thobe and beige cloak, white turban, seen entirely from behind, standing with his arms open wide, surrounded by a diverse group of men in simple white and beige thobes, with dark woolen cloaks, brown and beige cloths as head coverings, and worn leather sandals. The men in the crowd are shown as silhouettes, while one man in the foreground is shown from behind, running away. Warm golden palette, with soft brushstrokes. No modern objects."
+  },
+  "metadata": {
+    "chapter": 16,
+    "chapter_title": "Peace and Confrontation",
+    "scene_types": [
+      "journey",
+      "confrontation"
+    ],
+    "generation_warnings": null
+  }
+}

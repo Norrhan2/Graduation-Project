@@ -1,0 +1,37 @@
+{
+  "training_id": "passage_0197",
+  "input": "No compensation shall be accepted from him. On whatever you may differ, the final verdict rests with God and with Muhammad (peace be upon him). The Jews shall share expenses with the believers as long as they are at war [with others]. The Jewish allies of the ʿAuf clan shall support the believers. The Jews have their own religion and the Muslims have their own. This applies to them and their allies. Anyone who is guilty of oppression or commits a sin only brings himself and his household to ruin.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 16: Peace and Confrontation",
+  "output": {
+    "scene_title": "The Prophet Establishes the Conditions for Peace",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 16: Peace and Confrontation",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "True faith demands obedience to God's laws and respect for the rights of others.",
+    "narrative_text": "The Prophet reminded the people that no one should seek personal gain from God's Messenger, and that God's verdict was final. He also established conditions for peace with the Jews, requiring them to support the believers in times of war. The Prophet emphasized that each group had its own religion and should respect others' beliefs.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, in a calm and authoritative setting. No graphic content, suitable for children."
+    },
+    "image_prompt": "Gentle watercolor illustration. Exterior of a 7th century Makkah mud-brick home, with a subtle desert landscape in the background. A man in white thobe and green cloak, white turban, seen entirely from behind, standing in a doorway looking out with a calm expression, sunlight casting a warm glow on the scene. Inside, simple furnishings and a clay jug. Medium shot, eye level. Muted earthy colors. No modern objects."
+  },
+  "metadata": {
+    "chapter": 16,
+    "chapter_title": "Peace and Confrontation",
+    "scene_types": [
+      "battle",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

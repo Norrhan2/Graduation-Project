@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0019",
+  "input": "As he poised over the Prophet’s head, his colour changed and his hands were struck motionless. He walked back, absolutely terrified, and threw his rock to the ground. His friends went up to him and asked what was the matter. He said: “You saw me going up to him, resolved to carry out my plan which I explained to you yesterday. When I drew near him, I saw a huge camel standing between me and him. Never in my life had I seen such a camel with such a big head and such big sharp teeth.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 11: Hope and Despair",
+  "output": {
+    "scene_title": "The Boy's Terror",
+    "era": "pre_prophetic",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 11: Hope and Despair",
+    "characters": [
+      {
+        "id": "boy",
+        "name": "Young Boy",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Pre-pubescent, light brown skin, lean build, messy black hair. Scant facial hair, youthful features, wide eyes. Wearing a simple white tunic, brown leather belt, and worn-out leather sandals. Distinguished by his mischievous grin and energetic posture."
+      },
+      {
+        "id": "prophet_ismael",
+        "name": "Prophet Ibraham’s Son (Ismail)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 20s, athletic build, dark brown skin, strong facial features. Wearing a simple white tunic and brown leather belt, no headwear. Distinguished by the huge camel between him and the boy."
+      }
+    ],
+    "moral_lesson": "The power of faith and the protection of Allah can overcome all evil intentions.",
+    "narrative_text": "A young boy was about to throw a rock at the Prophet Ibraham's son, but he saw a huge camel standing between him and the Prophet. Terrified, he walked back and told his friends that he had seen a giant camel with sharp teeth.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown without a face to maintain a respectful and non-representational image. The boy's friends are not visible, and the scene is set in a desert environment to emphasize the natural and humble setting."
+    },
+    "image_prompt": "Watercolor illustration. A desert landscape with a few palm trees in the background. A young boy with light brown skin, messy black hair, and a white tunic is seen in the foreground, looking scared and holding a rock in his hand. Behind him, a huge camel with a big head and sharp teeth is seen standing between him and the Prophet Ibraham's son, who is shown from behind, without a face. The boy's friends are visible in the distance, looking at him with concern. Warm golden palette, desert sun casting a glow on the scene. No modern objects."
+  },
+  "metadata": {
+    "chapter": 11,
+    "chapter_title": "Hope and Despair",
+    "scene_types": [
+      "dialogue",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0073",
+  "input": "Or is it your own judgement that this is the right place to gain advantage against the enemy?” When the Prophet answered that it was the latter, al-Ḥubāb said: “Then this is not the right place at which to encamp. We would be better advised to move forward, right to the nearest well to the enemy, where we can encamp and make a basin full of water. We would then close the rest of the wells so that we may have our supply of water and they can have none.” The Prophet unhesitatingly endorsed this opinion and ordered that it be carried out.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 17: Badr: The First Major Battle",
+  "output": {
+    "scene_title": "Al-Ḥubāb Suggests a Battle Strategy",
+    "era": "late_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 17: Badr: The First Major Battle",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Late 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "al_hubaab",
+        "name": "Al-Ḥubāb ibn al-Mundhir",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 40s, light brown skin, athletic build, strong facial features. Thick beard with slight dark grey streaks, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident determined expression, slight furrowed brow."
+      }
+    ],
+    "moral_lesson": "The importance of listening to wise advice and being open to new ideas.",
+    "narrative_text": "When asked if they should encamp at a certain place to gain an advantage against the enemy, al-Ḥubāb suggested a different strategy. He proposed moving forward to a nearby well where they could encamp and have a secure supply of water. The Prophet agreed with his opinion and ordered it to be carried out.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, al-Ḥubāb shown with full face. No graphic content or violence. Appropriate for children."
+    },
+    "image_prompt": "Impressionist illustration. A 7th century Arabian Desert landscape with a cluster of palm trees and a nearby well. A man in white thobe and green cloak, white turban, seen entirely from behind, standing with a confident younger Arab man with light brown skin, thick beard, off-white thobe and brown cloak, looking at a map or planning a route. The younger man's expression is determined and focused on strategy. Medium shot, eye level. Earthy palette with warm sunlight. No modern objects."
+  },
+  "metadata": {
+    "chapter": 17,
+    "chapter_title": "Badr: The First Major Battle",
+    "scene_types": [
+      "dialogue",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

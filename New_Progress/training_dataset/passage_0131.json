@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0131",
+  "input": "God describes their attitude in clear terms in the account given in the Qur’ān of this encounter between the Muslims and their enemies. This account occurs in Sūrah 33, entitled al-Aḥzāb or The Confederates. Only the hard core of the true believers remained steadfast and accepted the Prophet’s assurances of victory. A War of Nerves Meanwhile, Ḥuyayy ibn Akhṭab went back to the command of the Quraysh with the news that the Qurayẓah were joining their campaign. This gave them such a boost that they were lighting great fires every night to intimidate the Muslims and weaken their morale.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+  "output": {
+    "scene_title": "The War of Nerves Begins",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+    "characters": [
+      {
+        "id": "huyayy_ibn_akhtab",
+        "name": "Ḥuyayy ibn Akhtab",
+        "role": "antagonist",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Mid 40s, dark olive skin, stocky build, prominent facial features. Wearing a dark brown woolen cloak, white thobe underneath, simple leather sandals. Dark hair slightly unkempt, strong jawline. Distinguished by dark cloak and stern expression."
+      },
+      {
+        "id": "quraysh_leaders",
+        "name": "Leaders of Quraysh",
+        "role": "antagonist",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Varying ages, dark olive skin, muscular builds. Wearing dark brown woolen cloaks, white thobes underneath, simple leather sandals. Distinguished by dark cloaks and menacing silhouettes."
+      }
+    ],
+    "moral_lesson": "True believers remain steadfast in the face of challenges and adversity.",
+    "narrative_text": "As Ḥuyayy ibn Akhtab reported back to the Quraysh, their enemies lit great fires every night to scare and weaken the Muslims. The Quraysh were filled with confidence, thinking they had the upper hand.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Enemies shown as silhouettes, no graphic violence depicted. Suitable for children aged 6-12."
+    },
+    "image_prompt": "Glowing charcoal illustration. Dark night sky, stars above. A small group of stocky Arabian men in dark brown cloaks, white thobe underneath, standing around a large fire lit in the center. One man shown from behind, walking away with a messenger's staff in hand. Silhouettes of Quraysh leaders, menacing and confident, standing around the fire. Dark and ominous atmosphere, flickering firelight. No modern objects."
+  },
+  "metadata": {
+    "chapter": 25,
+    "chapter_title": "A Fresh Storm Gathers",
+    "scene_types": [
+      "battle",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0022",
+  "input": "Their defeat, however, made it clear to the early Muslims that victory was not theirs by right and that they could not expect to win every battle they fought under any conditions and in whatever circumstances, without having taken the necessary actions and preparations which made victory a certainty. God wanted His servants, the believers, to know that victory could not be assured unless they first set themselves on the road to victory. This meant that their attitude must be the right attitude in battle: they must be willing to fight and be totally obedient to God and the Prophet.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 21: The Lessons of Uhud",
+  "output": {
+    "scene_title": "Lessons from the Battle of Uhud",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 21: The Lessons of Uhud",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "believer",
+        "name": "Believer",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Mid 30s, medium olive skin, athletic build, strong jawline. Clean-shaven, short black hair, brown eyes. Wearing a brown woolen cloak over a white thobe, brown leather headband. Sturdy leather sandals on feet. Determined expression, slight sweat on brow."
+      },
+      {
+        "id": "other_muslim",
+        "name": "Other Muslim",
+        "role": "crowd",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, dark skin, slender build, messy black hair. Short beard with slight reddish tint, brown eyes. Wearing a beige thobe, simple white head covering, worn leather sandals. Looking determined, slight concern on face."
+      }
+    ],
+    "moral_lesson": "To achieve victory, one must first prepare themselves and be obedient to God and His Messenger.",
+    "narrative_text": "The early Muslims learned that victory was not guaranteed and that they needed to be prepared and follow the right attitude in battle to achieve it.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet not shown in the scene, other Muslims shown with full faces and modest clothing. Determined expressions, but no graphic violence."
+    },
+    "image_prompt": "Children's watercolor illustration. A desert landscape with palm trees in the background. A group of early Muslims, wearing simple thobes and cloaks, gathered around a leader. The leader is not shown, but a silhouette of a figure in a green cloak is visible in the distance. The Muslims have determined expressions, some with slight concern. The sun is setting, casting a warm golden light. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 21,
+    "chapter_title": "The Lessons of Uhud",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

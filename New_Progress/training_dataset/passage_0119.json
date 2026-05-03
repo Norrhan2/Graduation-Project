@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0119",
+  "input": "Camels were not plentiful and the Prophet allowed those who could not buy or get a camel to slaughter a cow. Afterwards, the Prophet and his companions shaved their heads and released themselves from the state of consecration. Demonstrating Devotion, Power and Equality The Prophet had left the horses and the arms at a place close to Makkah called Ya’jaj. He left of his companions there as guards. All this he did as a precaution against any possible treacherous attack the Quraysh might contemplate.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+  "output": {
+    "scene_title": "Protecting the Journey to Madinah",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "sahabi_guard",
+        "name": "Sahabi Guard",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark brown skin, muscular build, well-groomed beard. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Alert, watchful expression, hand on sword hilt at his side."
+      }
+    ],
+    "moral_lesson": "Precaution and planning are necessary to protect the well-being of others and ensure a safe journey.",
+    "narrative_text": "The Prophet knew camels were scarce, so he allowed those who couldn't afford one to sacrifice a cow instead. Afterward, he and his companions shaved their heads and were released from the state of consecration. To protect against any possible attack, the Prophet left some companions and their horses and arms at a safe location near Makkah called Ya’jaj.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by sunlight. No graphic violence. Companions shown with faces, but no bloodshed or gore."
+    },
+    "image_prompt": "Whimsical watercolor illustration. A desert landscape with a few palm trees. The Prophet, in white thobe and green cloak, seen entirely from behind, standing near a herd of camels. Two of his companions, in off-white thobes and brown cloaks, seen from the side, looking alert, standing ready with their swords drawn. Horses and arms visible in the distance, at the location called Ya’jaj. Warm golden palette, subtle shadows. No modern objects."
+  },
+  "metadata": {
+    "chapter": 32,
+    "chapter_title": "A Second Trip to Makkah",
+    "scene_types": [
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

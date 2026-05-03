@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0224",
+  "input": "I lifted my eyes to the sky and I saw the angel who had come to me in Ḥirā’ sitting on a chair raised between heaven and earth. I sat down in terror and fell. I then rushed home and said to my wife: ‘Wrap me! Wrap me!’ God revealed to me: ‘O you enfolded [in your coverings] arise and warn … etc.’” (74: 1-7) From now on, Muhammad was not only a Prophet, he was also a Messenger. From now on, he was to receive revelations without worrying interruptions.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 5: Up There in the Mountain",
+  "output": {
+    "scene_title": "The Angel's Visit in Ḥirā'",
+    "era": "pre_islamic_prophets",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 5: Up There in the Mountain",
+    "characters": [
+      {
+        "id": "islamic_prophet_muhammad",
+        "name": "Islamic Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Late 20s, light olive skin, slender build, slightly younger than average. No facial hair. Wearing a simple white thobe with no cloak or headwear. Barefoot. Distinguished by simple clothing, youthful appearance."
+      },
+      {
+        "id": "angel_jibril",
+        "name": "Angel Jibril (Gabriel)",
+        "role": "angel",
+        "depiction_rule": "NO_FACE",
+        "appearance": "A majestic figure radiating warm golden light, no discernible human features. Dressed in a flowing white robe with intricate patterns, no headwear or footwear. Distinguished by divine aura and shimmering light."
+      }
+    ],
+    "moral_lesson": "Listening to Allah's message is the most important task in life, and it requires courage and devotion.",
+    "narrative_text": "Muhammad saw the angel Jibril sitting on a chair between heaven and earth. He sat down in fear and fell to the ground. Then he rushed home and asked his wife to help him hide. Allah spoke to him, saying: 'Get up and warn people of the right path.'",
+    "compliance": {
+      "prophet_check": "PROPHET_SILHOUETTE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The prophet is shown as a silhouette, backlit by the sun. The angel is represented by a gentle, shimmering light. The scene is calm and peaceful, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration. A serene desert landscape with a majestic mountain range in the background. A young man with light olive skin, wearing a simple white thobe, sitting on the ground, looking up in awe. His back is to the viewer, and his face is not visible. A warm golden light emanates from a chair between heaven and earth, where an angel is sitting. The angel's face is not visible, but the light radiates gently. Simple desert plants and a few rocks scattered around. Soft blue sky with a few white clouds. Medium shot, eye level. Soothing palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 5,
+    "chapter_title": "Up There in the Mountain",
+    "scene_types": [
+      "miracle",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

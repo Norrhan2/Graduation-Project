@@ -1,0 +1,45 @@
+{
+  "training_id": "passage_0112",
+  "input": "While Muhammad was playing with other children, the Angel Gabriel came and took him by the hand. He laid Muhammad down and opened his chest and abdomen, took out his heart and removed from it a black clot, which he threw away. As he did so, he said: “This is what Satan has in you.” He then washed Muhammad’s heart in a gold bowl full of iced water before putting it back in its place. He then sealed the incision and left him.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 2: The Early Years",
+  "output": {
+    "scene_title": "The Angel Gabriel Cleans Muhammad's Heart",
+    "era": "pre_prophetic",
+    "region": "levant_ancient",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 2: The Early Years",
+    "characters": [
+      {
+        "id": "angel_gabriel",
+        "name": "Angel Gabriel",
+        "role": "angel",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Tall, majestic presence, dressed in shining white robes, with a golden sash and a crown-like headgear. No face shown, only a radiant aura. Voice and presence convey wisdom and authority."
+      },
+      {
+        "id": "muhammad",
+        "name": "Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 5s, light skin tone, thin build, slight stubble. Wearing simple tunic and leggings. No headgear. Age and innocence radiate from him."
+      }
+    ],
+    "moral_lesson": "The heart is a vulnerable place, but with Allah's mercy, it can be purified and cleansed.",
+    "narrative_text": "While Muhammad was playing, the Angel Gabriel came and took him by the hand. He opened Muhammad's chest and abdomen, took out his heart, and washed away a black clot. This was the evil of Satan.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Angel shown from behind, with a gentle hand gesture. Muhammad shown from behind, age and innocence conveyed. The focus is on the heart, not on graphic details."
+    },
+    "image_prompt": "Watercolor illustration. Ancient Levant landscape, a young boy in a simple tunic and leggings, lying on a rock or tree trunk, looking up with eyes closed. Behind him, a majestic figure in shining white robes, with golden sash and crown-like headgear, stands with a gentle hand gesture, as if taking him by the hand. Warm sunlight, gentle colors, soothing atmosphere. No modern objects."
+  },
+  "metadata": {
+    "chapter": 2,
+    "chapter_title": "The Early Years",
+    "scene_types": [
+      "miracle",
+      "dialogue",
+      "emotional"
+    ],
+    "generation_warnings": null
+  }
+}

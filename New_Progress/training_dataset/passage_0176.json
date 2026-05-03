@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0176",
+  "input": "When you embraced Islam I was happier than I would have been had al-Khaṭṭāb [ʿUmar’s own father] embraced Islam. This is only because I know that the Prophet is more pleased with you being a Muslim than he would have been with al-Khaṭṭāb becoming a Muslim.” When the discussion became prolonged, with both al-ʿAbbās and ʿUmar insisting on their respective views, the Prophet ordered his uncle to take Abū Sufyān to his tent, where he was to stay that night, and to bring him back to him in the morning.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+  "output": {
+    "scene_title": "Umar's Uncle Abuses Him, Prophet Offers Shelter",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+    "characters": [
+      {
+        "id": "umar",
+        "name": "Umar ibn al-Khattab",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 30s, dark olive skin, athletic build, strong facial features. Thick black beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Expressive facial muscles, assertive posture."
+      },
+      {
+        "id": "abu_sufyan",
+        "name": "Abu Sufyan ibn Harb",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 50s, dark brown skin, robust build, stern facial features. Thick dark beard with slight grey streaks, neatly kept. Wearing dark brown woolen cloak, white cotton thobe underneath, plain black turban. Worn leather sandals. Strong facial muscles, assertive posture."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "The Prophet's kindness and generosity can bring peace and harmony even in the most challenging situations.",
+    "narrative_text": "When the discussion between ʿUmar and Abū Sufyān became too heated, the Prophet ordered his uncle to take Abū Sufyān to his tent for the night. Abū Sufyān was surprised and grateful for the Prophet's kindness.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind. Both Abū Sufyān and ʿUmar shown with full faces. No graphic violence. Scene emphasizes the Prophet's kindness and generosity."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century Makkah mud-brick home interior. A robust older Arab man in dark brown cloak, white thobe underneath, black turban, standing with his arms crossed, looking stern. A younger athletic Arab man in off-white thobe, brown cloak, white cloth wrapped as head covering, sitting on a woven mat, looking assertive. The man behind them, dignified and medium build, wearing a simple green cloak over a white thobe, white turban with tail, standing at an open doorway with warm golden sunlight behind him. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 34,
+    "chapter_title": "A Long Conflict Draws to a Close",
+    "scene_types": [
+      "emotional"
+    ],
+    "generation_warnings": null
+  }
+}

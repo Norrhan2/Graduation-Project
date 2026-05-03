@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0154",
+  "input": "Not a word did he say to her which suggested that he believed anything he heard. Nor did he speak to Ṣafwān, the man who was accused of being her lover, in any way which suggested that he held him responsible for anything in the absence of any clear evidence. When the Prophet spoke to the people in order to make his feelings clear, he said: “I have seen nothing evil from my wife. Those people are also involving a man from whom I have seen no evil.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+  "output": {
+    "scene_title": "The Prophet's Wisdom in Dealing with Accusations",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "wife_of_prophet",
+        "name": "Aisha (RA)",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Young, around 20-22 years old, fair skin, delicate features, slender build. Wearing a modest off-white hijab with intricate embroidery, loose-fitting white thobe, black leather shoes or sandals. Modest but elegant attire, modestly smiling."
+      },
+      {
+        "id": "safwan_ibn_umar",
+        "name": "Safiyan bin Umar (or Safwan, not Ṣafwān)",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Around 35-40 years old, strong build, dark skin, short black beard. Wearing a brown leather tunic, dark brown cloak with intricate patterns, dark leather shoes or sandals. Serious expression."
+      }
+    ],
+    "moral_lesson": "It is essential to act justly and fairly, even in difficult situations, and to always seek the truth before making judgments.",
+    "narrative_text": "The Prophet dealt with accusations against his wife wisely, saying he had seen nothing evil in her. He also didn't blame Safwan, the man accused, without clear evidence.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, backlit by sunlight. His wife and Safwan are shown with their faces, but in a non-suggestive way. The scene emphasizes justice and fairness."
+    },
+    "image_prompt": "Muted watercolor illustration. A serene early morning in a modest 7th century Makkah mud-brick home. The Prophet, seen entirely from behind, stands at an open doorway with warm golden sunlight streaming behind him. Inside, his young wife sits on a woven mat, looking at her husband with a gentle smile, wearing a modest off-white hijab and loose-fitting white thobe. Safwan, a man with a strong build and dark skin, stands opposite her, wearing a brown leather tunic and dark brown cloak. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Soft muted palette with touches of golden light. No modern objects."
+  },
+  "metadata": {
+    "chapter": 24,
+    "chapter_title": "How to Mar a Splendid Victory",
+    "scene_types": [
+      "dialogue"
+    ],
+    "generation_warnings": null
+  }
+}

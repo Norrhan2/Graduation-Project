@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0132",
+  "input": "Then it was all over. The Prophet sat up, with his sweat looking like pearls on a wet day. As he wiped his forehead, he said: “ʿĀ’ishah, I have good news for you. God has declared your innocence.” I said: “Praise be to God.” The Prophet then went out and spoke to people, and recited to them the Qur’ānic revelations he had received concerning the matter. First Impressions There is no doubt that the story of falsehood had far-reaching effects on the life of the Muslim community generally and, for a certain period of time, on the Prophet’s own family life.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+  "output": {
+    "scene_title": "The Prophet Declares A'ishah's Innocence",
+    "era": "madinah_late",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+    "characters": [
+      {
+        "id": "aishah",
+        "name": "ʿĀ’ishah bint Abi Bakr",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Early 20s, light olive skin, slender build, slightly tall. Light brown hair covered with a simple headscarf, no face veil. Wearing off-white cotton thobe, plain brown woolen cloak. Simple leather sandals. Distinguished by her youth and simple clothing."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Always remember to trust in Allah's justice and mercy, even in difficult times.",
+    "narrative_text": "The Prophet wiped the sweat from his forehead and told ʿĀ’ishah that God had declared her innocence. She thanked Allah and the Prophet went out to share the good news with the community.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, ʿĀ’ishah shown with full face. The scene is calm and peaceful, suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. A calm and serene 7th century Makkah mud-brick home interior. A slender young Arab woman with light olive skin, light brown hair covered with a simple headscarf, off-white thobe and brown cloak, sitting on a woven mat with a look of relief on her face. Behind her, a man in simple white thobe and green cloak, white turban, seen entirely from behind, standing near the doorway with warm golden sunlight streaming behind him. A clay water jug in the corner, mud-brick walls. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 24,
+    "chapter_title": "How to Mar a Splendid Victory",
+    "scene_types": [
+      "miracle",
+      "dialogue"
+    ],
+    "generation_warnings": null
+  }
+}

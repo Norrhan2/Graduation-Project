@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0145",
+  "input": "I replied: ‘I am not a reader.’ He then held me and pressed hard for a third time. Then he said: ‘Read, in the name of Your Lord Who created. It is He Who created man from clots of blood. Read! Your Lord is the most bounteous, Who has taught the use of the pen. He has taught man what he did not know.’” The Prophet returned home to Khadījah, trembling, and said: “Wrap me! Wrap me!” They wrapped him and his fear subsided.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 5: Up There in the Mountain",
+  "output": {
+    "scene_title": "The Prophet's Revelation in the Cave",
+    "era": "pre_prophetic",
+    "region": "sinai",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 5: Up There in the Mountain",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Young 30s, lean build, early signs of beard. Wearing simple woolen cloak, leather sandals, carrying a staff. Always shown from behind, face never visible. Distinguished by staff and natural surroundings."
+      },
+      {
+        "id": "angel_jibril",
+        "name": "Angel Jibril",
+        "role": "angel",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "No visible human form, represented as a gentle voice and a soft light illuminating the cave. No discernible facial features or clothing."
+      }
+    ],
+    "moral_lesson": "Faith and trust in Allah can bring peace and comfort in times of uncertainty.",
+    "narrative_text": "The Prophet was sitting in a cave, feeling anxious. Suddenly, an angel appeared and said, 'Read, in the name of Your Lord Who created.' The Prophet was scared, but the angel reassured him, 'Your Lord is the most bounteous, Who has taught the use of the pen.' They wrapped the Prophet in a blanket to calm him down.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, no face visible. Angel represented as a gentle voice and soft light. Peaceful scene, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration of a serene cave in the Sinai desert. A young man in his 30s, wearing a simple woolen cloak and leather sandals, is sitting on a rock. He is shown from behind, with no face visible. A gentle, soft light is emanating from behind him, representing the angel. A staff lies on the ground near him. A blanket or cloth is being wrapped around him by an unseen hand. The atmosphere is calm and peaceful, with a hint of wonder. No modern objects."
+  },
+  "metadata": {
+    "chapter": 5,
+    "chapter_title": "Up There in the Mountain",
+    "scene_types": [
+      "dialogue",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

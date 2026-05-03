@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0191",
+  "input": "This would help them even more in their plotting against Islam. The Muslim army marched until they reached a spring called al-Maraysīʿ where al-Ḥārith and his men had gathered. There are two different reports of the events that took place. The first account, which is perhaps less authentic, speaks of the Prophet asking his companion ʿUmar ibn al-Khaṭṭāb to call on the people of al-Muṣṭalaq to accept Islam. He stood out and shouted to them asking them to declare that they believed in God as the only deity; then they would be safe, and their property would be untouched.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+  "output": {
+    "scene_title": "The Prophet's Call to al-Muṣṭalaq",
+    "era": "madinah_early",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Mid-50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "umar_ibn_al_khattab",
+        "name": "ʿUmar ibn al-Khaṭṭāb",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 50s, strong build, rugged features. Thick beard, neatly trimmed. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong confident eyes, slight frown of concern."
+      }
+    ],
+    "moral_lesson": "The importance of inviting others to the right path and the need for courage in sharing the message of Islam.",
+    "narrative_text": "The Prophet sent ʿUmar ibn al-Khaṭṭāb to call on the people of al-Muṣṭalaq to accept Islam. ʿUmar stood out and shouted to them asking them to declare that they believed in God as the only deity; then they would be safe, and their property would be untouched.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by desert sunlight. ʿUmar shown with full face, strong expression. Desert landscape, no modern objects."
+    },
+    "image_prompt": "Desert landscape watercolor illustration. A group of people gathered around a spring in the distance, palm trees and rocky hills visible. A dignified man in white thobe and green cloak, seen entirely from behind, standing at the edge of the group, facing the crowd. A tall, strong-built man with thick beard, off-white thobe and brown cloak, standing in front of him, looking at the crowd with confident eyes. Simple desert scenery, distant sunlight casting warm shadows. Medium shot, eye level. Warm beige and blue palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 24,
+    "chapter_title": "How to Mar a Splendid Victory",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

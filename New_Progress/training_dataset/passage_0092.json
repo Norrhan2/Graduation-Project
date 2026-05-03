@@ -1,0 +1,46 @@
+{
+  "training_id": "passage_0092",
+  "input": "The leaders of Makkah left the meeting-place to select their representatives in the ‘collective murder’. Taking All Precautions But Muhammad was God’s Messenger. God had guaranteed his protection until he had completed his mission. So, the Angel Gabriel came to him and told him not to sleep in his bed that night. He was to start his journey to Madinah. The Prophet moved with maximum urgency and extra care. His counter-plan was to take all precautionary measures and set out on his way to Madinah with extreme caution, trusting that God would look after him.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 14: The Journey to Madinah",
+  "output": {
+    "scene_title": "The Prophet Receives the Angel's Warning",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 14: The Journey to Madinah",
+    "characters": [
+      {
+        "id": "angel_gabriel",
+        "name": "Angel Gabriel",
+        "role": "angel",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Tall, radiant, shining light with gentle features, no discernible human face. Wearing a simple white imamah with a slight curve at the bottom, no other clothing visible. The light is warm and inviting."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Faith and trust in Allah can overcome even the most daunting challenges.",
+    "narrative_text": "The Prophet received a message from the Angel Gabriel that he should leave Makkah that night and journey to Madinah. The Prophet moved quickly, knowing that Allah would protect him.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, face not visible. Angel shown as a shining light. Gentle message for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Dark blue night sky, stars visible through a window. A tall, slender man with light olive skin, thin grey-streaked beard with henna tint, off-white thobe and brown cloak, standing in a doorway looking out into the night. In the background, a shining light, no discernible human face, representing the Angel Gabriel. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Muted blue-green palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 14,
+    "chapter_title": "The Journey to Madinah",
+    "scene_types": [
+      "miracle",
+      "dialogue",
+      "journey",
+      "emotional"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0013",
+  "input": "However, I left behind in our quarters a sister of mine. I settled in Syria after my arrival there. Shortly after my departure, the forces of the Prophet attacked our quarters and took my sister prisoner along with others. They were all taken to the Prophet. He was also informed of my flight to Syria. My sister was kept in a confined place at the doorstep of the mosque, where other captives were also kept. She was a woman of sound mind.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 38: Men of Distinction",
+  "output": {
+    "scene_title": "The Prophet's Mercy to Captive Women",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 38: Men of Distinction",
+    "characters": [
+      {
+        "id": "sister_of_prophet",
+        "name": "Prophet Muhammad's Sister",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Mid 20s, medium build, light olive skin, long dark hair covered with a plain brown khimar. Wearing a traditional black jilbab with intricate embroidered patterns, modest off-white undergarments. No ornaments or jewelry. Calm, confident eyes. Simple sandals."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "The Prophet's mercy and compassion extended to all people, even those who had been taken prisoner.",
+    "narrative_text": "When the Prophet's forces attacked the Prophet's sister's quarters in Makkah, she was taken prisoner along with others. The Prophet was informed of her capture and treated her with kindness, keeping her in a confined place at the doorstep of the mosque.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, out of respect for his status. The sister is depicted in a modest and respectful manner."
+    },
+    "image_prompt": "Children's watercolor illustration. A modest mud-brick mosque in early Madinah. A young woman in plain brown khimar and long dark hair, wearing traditional black jilbab with intricate embroidered patterns, and off-white undergarments, sits on a woven mat, calm and confident. Behind her, a group of women captives in similar attire, sitting or standing in a confined space at the doorstep of the mosque. A dignified figure in white thobe and green cloak, white turban, is seen from behind, standing in the background, near the mosque entrance. Warm golden light, soft colors, medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 38,
+    "chapter_title": "Men of Distinction",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

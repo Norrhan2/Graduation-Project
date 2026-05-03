@@ -1,0 +1,58 @@
+{
+  "training_id": "passage_0194",
+  "input": "Everyone in Makkah realized its validity. People, therefore, dispersed. Some went to the mosque, the majority went to their homes, while a few went to Abū Sufyān’s home. An air of fear spread through Makkah. The fighters who were held in awe by all the Arabs, before the advent of Islam, were not to be seen. They remained behind closed doors, while those inside the mosque watched with fear in their hearts. Entry in Four Columns As his army reached the outskirts of Makkah, the Prophet split it into four divisions, each entering Makkah from one side so that the whole city would be in their grip at the same time.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+  "output": {
+    "scene_title": "Makkah in Fear as the Prophet's Army Arrives",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown faceless, distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "abu_sufyan",
+        "name": "Abū Sufyān ibn Harb",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light skin, athletic build, strong facial features. Thick black beard, neatly kept. Wearing fine white thobe, intricately patterned black woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Authoritative demeanor, sharp eyes."
+      },
+      {
+        "id": "fighter",
+        "name": "Fighter in Makkah",
+        "role": "supporting",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Young adult, dark skin, lean build, rugged facial features. Thick black beard, neatly kept. Wearing simple brown thobe, leather armor, dark woolen cloak, worn leather sandals. Intimidating presence, fierce eyes."
+      },
+      {
+        "id": "makkans_in_mosque",
+        "name": "Men in Makkah",
+        "role": "crowd",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Middle-aged men, olive skin, varied builds, different facial features. Unkempt hair, beards of varying lengths. Wearing simple white thobe, plain brown woolen cloaks, white cloth wrapped as loose head coverings. Worn leather sandals. Fearful expressions, huddled together."
+      }
+    ],
+    "moral_lesson": "The power of faith can bring peace and unity to a community.",
+    "narrative_text": "As the Prophet's army approached Makkah, everyone realized its validity. People dispersed to their homes, mosques, or the home of Abū Sufyān. Fear spread throughout the city, and those who were once feared fighters stayed behind closed doors.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Faceless prophet, silhouetted fighters, and modestly dressed Makkans create a safe and respectful scene for children."
+    },
+    "image_prompt": "Watercolor illustration. A cityscape of Makkah with its mud-brick buildings, narrow alleys, and flat roofs. The Prophet, shown from above, enters the city with his army, divided into four divisions. The mosque is filled with men watching the scene with fear in their hearts. Abū Sufyān's home is shown with a few men gathered around it. The atmosphere is tense, with a sense of fear and uncertainty. Warm golden light illuminates the scene. No modern objects."
+  },
+  "metadata": {
+    "chapter": 34,
+    "chapter_title": "A Long Conflict Draws to a Close",
+    "scene_types": [
+      "miracle",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

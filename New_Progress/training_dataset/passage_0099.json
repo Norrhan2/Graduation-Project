@@ -1,0 +1,45 @@
+{
+  "training_id": "passage_0099",
+  "input": "The whole army shared in the celebration of the recent wedding of one of its soldiers. When the sun went down, the Prophet and his companions went into Madinah. Jābir told his wife what the Prophet said and she advised him to do as the Prophet told him. The following morning Jābir took his camel and sat him down outside the Prophet’s mosque. Then Jābir went into the mosque. When the Prophet came out, he asked about the camel and was told that Jābir had brought it.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 23: Consolidation",
+  "output": {
+    "scene_title": "Jābir Follows the Prophet's Advice",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 23: Consolidation",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "jabir_ibn_abdullah",
+        "name": "Jābir ibn Abdullah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Younger 30s, light-medium olive skin, athletic build. Black beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident, smiling eyes."
+      }
+    ],
+    "moral_lesson": "Listening to and following the advice of the Prophet is essential for spiritual growth.",
+    "narrative_text": "When the Prophet told Jābir to bring his camel to the mosque, Jābir's wife advised him to follow the Prophet's instructions. Jābir took his camel outside the mosque and sat him down, waiting for the Prophet to come out.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by mosque interior light. Jābir shown with full face, smiling. Simple, calm scene, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration. Early morning in a quiet Madinah street. A man in white thobe and green cloak, white turban, seen entirely from behind, standing at the entrance of a mosque with soft morning sunlight streaming inside. Outside, a younger Arab man with light-medium olive skin, black beard, off-white thobe and brown cloak, sitting on a nearby stone bench with a calm camel next to him. The camel is tied to a wooden post. Simple stone-built mosque, mud-brick walls, clay water jug in a nearby corner. Low-angle shot, eye level. Soft pastel palette, with soft morning light. No modern objects."
+  },
+  "metadata": {
+    "chapter": 23,
+    "chapter_title": "Consolidation",
+    "scene_types": [
+      "dialogue",
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

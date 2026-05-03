@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0170",
+  "input": "He then left and went to Abū Jahl’s home to put the same question to him. Abū Jahl’s answer was totally different. For once, he was candid and honest with himself and his interlocuter: “I will tell you about what I heard! We have competed with the clan of ʿAbd Manāf for honours: they fed the poor, and we did the same; they provided generous support to those who needed it and we did the same. When we were together on the same level, like two racehorses running neck and neck, they said that one of their number was a Prophet receiving revelations from on high!\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 12: Difficulties in Abundance",
+  "output": {
+    "scene_title": "Abu Jahl Hears About the Prophecy",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 12: Difficulties in Abundance",
+    "characters": [
+      {
+        "id": "abu_jahl",
+        "name": "Abū Jahl ibn Hishām",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, robust build, stern expression. Dark olive skin, short black beard, trimmed neatly. Wearing a dark brown woolen cloak, off-white cotton thobe, simple leather sandals. Eyes narrowed as if challenging, lips pursed in disdain."
+      },
+      {
+        "id": "questioner",
+        "name": "Unknown Questioner",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Early 20s, light olive skin, lean build. Short black beard, wearing a beige cotton thobe, simple white head cloth. Eyes inquisitive, hands clasped together as if awaiting a response."
+      }
+    ],
+    "moral_lesson": "Honesty and humility are key to understanding the truth and making the right decisions.",
+    "narrative_text": "Abū Jahl was asked about the rumors of a Prophet in Makkah, and for once, he told the truth. He explained that the Banu Hashim had been doing good deeds, just like the Quraysh. But when they said they had a Prophet, Abū Jahl refused to believe it.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Scene shows Abu Jahl and questioner in a neutral manner, no graphic or sensitive content. Abu Jahl is shown as a stern figure, but not aggressive."
+    },
+    "image_prompt": "Realistic oil painting. Interior of a 7th century Makkah mud-brick home. A middle-aged man with dark olive skin, robust build, short black beard, wearing a dark brown cloak and off-white thobe, standing with arms crossed, looking stern. Behind him, a younger man with light olive skin, lean build, short black beard, beige thobe, and simple white head cloth, sits on a woven mat, looking up at the older man with a questioning expression. Simple mud-brick walls, clay pot in corner. Medium shot, eye level. Earthy tones palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 12,
+    "chapter_title": "Difficulties in Abundance",
+    "scene_types": [
+      "miracle"
+    ],
+    "generation_warnings": null
+  }
+}

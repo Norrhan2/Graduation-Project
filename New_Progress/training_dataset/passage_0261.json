@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0261",
+  "input": "When he and those of his companions who joined him in his ʿUmrah had completed their rituals, he sent of them to Ya’jaj to replace those who stayed there. When they arrived, they relieved their fellow guards, who went straight to Makkah to fulfil the duties of their ʿUmrah. The Prophet remained in the Kaʿbah until it was time for midday prayers, ẓuhr, when he ordered his companion, Bilāl, who was in charge of calling for prayers, to go on top of the Kaʿbah to make the call, i.e. adhān.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+  "output": {
+    "scene_title": "The Prophet Orders Bilal to Announce Midday Prayers",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "bilal",
+        "name": "Bilal ibn Rabah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 30s, dark skin, athletic build. Short beard, no facial hair. Wearing simple white thobe, a plain white imamah wrapped around his head. Worn leather sandals. Bright, expressive eyes, alert posture."
+      }
+    ],
+    "moral_lesson": "Being mindful of time and fulfilling one's duties is essential in serving Allah and others.",
+    "narrative_text": "After completing their rituals for Umrah, the Prophet sent some companions to join the guards in Ya'jaj. When they arrived, they relieved the other guards, who went to Makkah to complete their Umrah duties. The Prophet remained near the Ka'bah until it was time for midday prayers, when he ordered Bilal to go on top of the Ka'bah to call for prayers.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, while Bilal is shown with full face. The scene is set in a respectful, child-friendly manner with no graphic details."
+    },
+    "image_prompt": "Children's traditional illustration. Exterior view of a 7th century Makkah mud-brick Ka'bah, in bright sunlight. A dignified man, wearing simple white thobe and green cloak, white turban, seen entirely from behind, standing near the Ka'bah entrance. In the distance, a young, dark-skinned man in simple white thobe, white imamah, and worn leather sandals, standing on top of the Ka'bah, looking out at the horizon. Simple mud-brick walls, a few palm trees nearby. Faintly visible, distant camels in the desert. Medium shot, eye level. Bright, clear colors. No modern objects."
+  },
+  "metadata": {
+    "chapter": 32,
+    "chapter_title": "A Second Trip to Makkah",
+    "scene_types": [
+      "journey",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0283",
+  "input": "That messenger was called ʿAmr ibn Sālim. ʿAmr travelled as fast as he could until he arrived in Madinah. He went straight to the mosque, where the Prophet was sitting with a group of his companions. ʿAmr conveyed the news in the most effective fashion of the time – namely, poetry. The Prophet’s response was short, clear and decisive. He said to him: “You shall have our support, ʿAmr ibn Sālim.” That messenger was followed by a delegation from the Khuzāʿah headed by Budayl ibn Warqā’, who came to meet the Prophet at Madinah.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+  "output": {
+    "scene_title": "ʿAmr ibn Sālim Conveys News of the Prophet's Support",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+    "characters": [
+      {
+        "id": "broadcaster",
+        "name": "ʿAmr ibn Sālim",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Middle 30s, dark olive skin, athletic build. Black hair, short beard with slight hint of grey. Wearing a beige thobe, simple black turban, and worn leather sandals."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a light brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by warm light."
+      },
+      {
+        "id": "sahabi_1",
+        "name": "Budayl ibn Warqā’",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Middle 40s, light olive skin, medium build. Short black beard, neatly trimmed. Wearing a beige thobe, off-white turban, and worn leather sandals."
+      }
+    ],
+    "moral_lesson": "The power of effective communication and the importance of support from others in times of need.",
+    "narrative_text": "ʿAmr ibn Sālim rushed to Madinah and went straight to the mosque where the Prophet was sitting. He told the Prophet the good news in the most effective way he knew – through poetry. The Prophet responded with support, saying \"You shall have our support, ʿAmr ibn Sālim.\" Then a delegation from the Khuzāʿah led by Budayl ibn Warqā’ arrived to meet the Prophet.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, while the other characters have full faces. The scene is warm and inviting, with a focus on communication and support."
+    },
+    "image_prompt": "Children's watercolor illustration. Interior of a Madinah mosque, natural light streaming in through a small window. A group of men, including a poet with a confident expression and a white thobe, a Prophet figure seen from behind in a simple white thobe with a light brown cloak, and a delegation leader in a beige thobe and off-white turban, all gathered in a circle around a simple clay water jug. The atmosphere is calm and serene, with a focus on the exchange of news and support. No modern objects."
+  },
+  "metadata": {
+    "chapter": 34,
+    "chapter_title": "A Long Conflict Draws to a Close",
+    "scene_types": [
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

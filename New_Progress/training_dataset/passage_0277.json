@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0277",
+  "input": "When the Prophet saw the necklace he was deeply touched. He said to his companions: “If you feel it proper to release her prisoner for her and refund her her money, you may do so.” They said: “Of course” and released Abū al-ʿĀṣ, taking no ransom from him. Among the prisoners of Badr was also the Prophet’s own uncle al-ʿAbbās. He was the one the Prophet ordered not to be killed in the battle. Now the Muslims wanted him to pay his ransom.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 18: In Madinah After Badr",
+  "output": {
+    "scene_title": "The Prophet's Mercy",
+    "era": "madinah_early",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 18: In Madinah After Badr",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "abu_alaas",
+        "name": "Abū al-ʿĀṣ",
+        "role": "prisoner",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Mid-30s, dark olive skin, athletic build. Unshaven, wearing a simple white tunic, brown woolen cloak, with rope around wrists. No headwear, dirty and worn-out sandals."
+      },
+      {
+        "id": "al_abbas",
+        "name": "al-ʿAbbās ibn Abd al-Muttalib",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, light olive skin, strong build. Thin grey-streaked beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Distinguished by slight henna tint on beard and subtle warm light."
+      }
+    ],
+    "moral_lesson": "The Prophet teaches us the value of mercy and compassion, even towards those who have wronged us.",
+    "narrative_text": "When the Prophet saw a beautiful necklace, he was deeply moved and said: “If you feel it right to release her prisoner and return her money, do so.” The Muslims agreed and freed Abū al-ʿĀṣ without any ransom. The Prophet's uncle, al-ʿAbbās, who was also a prisoner, would not be killed due to the Prophet's orders, but now the Muslims wanted him to pay his ransom.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prisoners shown in silhouette or full, without detailed facial expressions. No graphic violence or harm shown. Scene suitable for children."
+    },
+    "image_prompt": "Watercolor illustration of a quiet Madinah home after the Battle of Badr. A man in white thobe and green cloak, standing at a doorframe, seen from behind. Inside, a dark-skinned prisoner in simple white tunic and brown cloak, seen in silhouette, with ropes around his wrists. Nearby, a middle-aged man with light olive skin, grey-streaked beard, off-white thobe and brown cloak, sitting on a woven mat, with a concerned expression. Simple mud-brick walls, clay water jug in corner. Warm afternoon sunlight streaming through the doorway. No modern objects."
+  },
+  "metadata": {
+    "chapter": 18,
+    "chapter_title": "In Madinah After Badr",
+    "scene_types": [
+      "dialogue",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

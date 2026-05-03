@@ -1,0 +1,52 @@
+{
+  "training_id": "passage_0030",
+  "input": "She then heard the angel asking her who she was. She answered: “I am Hagar, the mother of Abraham’s son.” He asked her: “To whom has he entrusted you in this barren place?” She replied: “He entrusted us to the care of God.” The angel rejoined: “He has then trusted you to the All-Merciful, the Compassionate.” At this point, while the boy was still rubbing his leg against the earth, water gushed forth between his feet. Hagar shouted: “God is Supreme.” She rushed back to her son and began to form a barrier around the new-found spring so that the water would not run into the valley.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 1: A Glance Back in History",
+  "output": {
+    "scene_title": "Hagar Discovers the Spring",
+    "era": "pre_islamic_prophets",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 1: A Glance Back in History",
+    "characters": [
+      {
+        "id": "hagar",
+        "name": "Hagar bint Abil Kabshah",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, medium build, worn expression. Dark brown skin, wearing simple linen shift with a long linen cloak draped over her shoulders, loose head covering of same linen, brown leather sandals. Carrying a clay water jug on her shoulder, hair partially covered by the head covering."
+      },
+      {
+        "id": "angel",
+        "name": "Angel Jibril",
+        "role": "angel",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": " Tall, radiant light figure, no discernible features. Dressed in flowing white robes."
+      },
+      {
+        "id": "ishmael",
+        "name": "Ishmael",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Early 5, small build, energetic. Dark brown skin. Wearing simple tattered linen shift, no shoes. Rubbing his leg against the earth."
+      }
+    ],
+    "moral_lesson": "Patience and trust in Allah can lead to unexpected miracles and blessings.",
+    "narrative_text": "Hagar, the mother of Ishmael, answered the angel's questions about her and her son. The angel told her that Abraham had entrusted them to the care of God. Then, as Ishmael rubbed his leg against the earth, a spring of water burst forth between his feet. Hagar shouted: 'God is Supreme!' and quickly built a barrier to contain the water.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Hagar and Ishmael shown with full faces, modest clothing. Angel shown as a radiant light figure. Warm emotional scene, appropriate for children."
+    },
+    "image_prompt": "Children's watercolor illustration. A serene 7th century Arabian Desert landscape. A dark-skinned woman, Hagar, with a worn expression, wearing a simple linen shift and long cloak, loose head covering, brown leather sandals. She carries a clay water jug and looks down at her son, Ishmael, a small boy with dark skin, wearing a tattered linen shift, no shoes. Ishmael rubs his leg against the earth as a spring of water bursts forth. The angel, a radiant light figure in white robes, stands in the background. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 1,
+    "chapter_title": "A Glance Back in History",
+    "scene_types": [
+      "miracle",
+      "dialogue",
+      "emotional"
+    ],
+    "generation_warnings": null
+  }
+}

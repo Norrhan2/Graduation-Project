@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0280",
+  "input": "The Prophet then accepted the will of the majority. At noon, when it was time for Friday prayer, he emphasized in his sermon the need for consolidated action in fighting and told them that they would achieve victory if they fought hard and endured whatever hardship they might face. Most people were happy with the Prophet’s decision, but some of them felt that they had forced him to take action against his better judgement. Many Muslims went to their homes to get ready for battle and came back to the mosque.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 20: A Bitter Defeat",
+  "output": {
+    "scene_title": "The Prophet Accepts the Will of the Majority",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 20: A Bitter Defeat",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "makkah_crowd",
+        "name": "Makkans",
+        "role": "crowd",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Men and women of various ages and ethnicities, dressed in traditional Makkah attire, thobes, cloaks, and headscarves. Some wear veils covering their faces for modesty. No distinct facial features visible, shown as silhouettes."
+      }
+    ],
+    "moral_lesson": "It is better to follow the majority and do what is best for the community, even if it’s difficult.",
+    "narrative_text": "The Prophet accepted the decision of the majority. He reminded everyone in the mosque that fighting for what is right requires hard work and patience. Many Muslims quickly prepared for battle and returned to the mosque.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by mosque light. Crowd shown as silhouettes, faces and features obscured for modesty. No graphic violence, peaceful scene."
+    },
+    "image_prompt": "Realistic watercolor illustration. A spacious 7th century Makkah mosque, interior with high ceilings and simple pillars. Late morning sunlight streams through windows. The Prophet stands at the front, seen entirely from behind, wearing white thobe and green cloak. Behind him, a crowd of people of different ages, dressed in traditional Makkah attire, stand or sit, shown as silhouettes. No distinct facial features visible. Simple wooden doors, clay water jugs in the corner. Medium shot, eye level. Sober color palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 20,
+    "chapter_title": "A Bitter Defeat",
+    "scene_types": [
+      "battle",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

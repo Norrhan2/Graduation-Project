@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0002",
+  "input": "Will you please grant my request, Messenger of God?” When the Prophet asked him what he wanted, the man said: “My request is unlike those of my friends, although they have come to you keen to be good Muslims and have brought their Zakāt with them. I, however, have come from my homeland only to request you to pray God, the Almighty, to forgive me and have mercy on me and to make me rich at heart.” The Prophet was pleased with the young man and turned to him attentively and prayed: “My Lord, forgive him and have mercy on him and make him rich at heart.” He also ordered that the young man be given a gift similar to the gifts of his fellow delegates.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 44: The Peaceful World of Muslim Arabia",
+  "output": {
+    "scene_title": "A Humble Man's Request for Forgiveness",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 44: The Peaceful World of Muslim Arabia",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "young_man_delegated",
+        "name": "A Humble Young Man",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, light brown skin, athletic build, neatly trimmed beard with slight stubble. Wearing off-white cotton thobe, simple brown woolen cloak, white khimar draped over his head. Worn leather sandals. Kind eyes, slight smile."
+      }
+    ],
+    "moral_lesson": "True humility and sincerity in one's intentions are the keys to Allah's love and forgiveness.",
+    "narrative_text": "A young man from his homeland came to the Prophet with a unique request: to pray for his forgiveness and to make him rich at heart. The Prophet was pleased with the young man's humility and prayed for him. He also ordered that the young man be given a gift, similar to the gifts of the other delegates.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, warm golden light. Young man shown with full face, kind eyes. Heartwarming scene, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration. Interior of a modest 7th century Makkah mud-brick home. The man in white thobe and green cloak, white turban, seen entirely from behind, standing with his back to the viewer, near an open doorway. Inside, a young Arab man with light brown skin, athletic build, off-white thobe, simple brown cloak, and white khimar on his head, sitting on a woven mat looking up with a humble expression, one hand on his chest. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 44,
+    "chapter_title": "The Peaceful World of Muslim Arabia",
+    "scene_types": [
+      "dialogue"
+    ],
+    "generation_warnings": null
+  }
+}

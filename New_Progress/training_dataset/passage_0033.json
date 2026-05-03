@@ -1,0 +1,54 @@
+{
+  "training_id": "passage_0033",
+  "input": "Suwaid made no comment other than: “What you have read is certainly good.” However, he was killed shortly after his return home. His people believed that he actually embraced Islam before his death. Another group of people from Madinah led by a man called Abū al-Ḥaysar Anas ibn Rafiʿ, arrived in Makkah seeking an alliance with the Quraysh against the Khazraj tribe in Madinah. The Prophet went to them and said: “I can offer you something better than what you have come here for.” In answer to their questioning, he replied: “I am God’s Messenger to mankind.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 13: A Major Breakthrough",
+  "output": {
+    "scene_title": "The Prophet Offers a Better Deal",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 13: A Major Breakthrough",
+    "characters": [
+      {
+        "id": "other_man",
+        "name": "Suwaid",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, light brown skin, lean build, short beard, dark eyes. Wearing off-white thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals."
+      },
+      {
+        "id": "abu_al_haysar",
+        "name": "Abū al-Ḥaysar Anas ibn Rafiʿ",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 30s, medium build, dark hair, short beard, strong jawline. Wearing off-white thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Allah's wisdom and mercy are always better than what the world can offer.",
+    "narrative_text": "A group of men from Madinah came to Makkah seeking an alliance with the Quraysh against the Khazraj tribe. The Prophet met with them and said, “I can offer you something better than what you have come here for.” He then declared, “I am God’s Messenger to mankind.”",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, no faces visible. Suwaid and Abū al-Ḥaysar shown with full face, in conversation. Simple scene, no conflict. Appropriate for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Exterior scene of Makkah's narrow alleys. Two men, one with light brown skin, one with medium build, standing and talking to a man entirely from behind, wearing a green cloak, standing at an open doorway. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 13,
+    "chapter_title": "A Major Breakthrough",
+    "scene_types": [
+      "dialogue",
+      "battle",
+      "journey",
+      "emotional",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "training_id": "passage_0001",
+  "input": "Whatever the reason, the Prophet’s entry into Makkah, only seven years after he was forced to leave it under the cover of darkness, was a great event which few people would have liked to miss. When they saw it, they started thinking and wondering. The Prophet Enters Makkah It was an awe-inspiring scene. The Prophet rode his she-camel, al-Qaṣwā’, surrounded by a number of his companions who were watching all directions, lest any one of the unbelievers should try to attack or harm the Prophet.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+  "output": {
+    "scene_title": "The Prophet Enters Makkah",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing simple white thobe, camel saddle on back, reins in hand. Simple leather sandals. Always shown from behind, face never visible. Distinguished by simple thobe and camel."
+      },
+      {
+        "id": "al_qaswa",
+        "name": "al-Qaṣwā' (She-Camel)",
+        "role": "animal",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Large, strong she-camel with light brown coat, white markings on face, and long eyelashes. Elegant curved neck, strong legs, and sturdy body. Distinguished by intricate saddle and camel saddlebags."
+      },
+      {
+        "id": "sahabi",
+        "name": "Companion (unnamed)",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Mid-30s, medium build, dark skin tone, short beard with slight reddish henna tint. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Alert, watchful eyes."
+      },
+      {
+        "id": "sahabi_2",
+        "name": "Another Companion (unnamed)",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light olive skin, slender build, slightly shorter than average. Thin grey-streaked beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      }
+    ],
+    "moral_lesson": "Courage and vigilance in the face of danger are essential for success and safety.",
+    "narrative_text": "The Prophet rode into Makkah on his camel, al-Qaṣwā', surrounded by his companions, who were watching carefully for any potential danger.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, with his companions visible in the scene. The camel, al-Qaṣwā', is depicted without facial features. The scene is set in a historical context and is suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. A majestic camel, al-Qaṣwā', with a simple saddle and saddlebags, walks through the city of Makkah, surrounded by a group of calm and watchful companions. The Prophet is seen from behind, riding the camel, with his companions watching all directions. The scene is set against a backdrop of 7th century Makkah architecture, with mud-brick buildings, clay pots, and woven mats. Warm golden light and gentle colors. No modern objects."
+  },
+  "metadata": {
+    "chapter": 32,
+    "chapter_title": "A Second Trip to Makkah",
+    "scene_types": [
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

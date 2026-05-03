@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0031",
+  "input": "When the Prophet saw him, he said: “This man is the one left by Abū ʿĀmir.” Abū ʿĀmir himself was killed in this battle. Two enemy soldiers attacked him together; one of them hit him in the chest and the other hit him in the knees. A cousin of his, ʿAbdullāh ibn Qays, who is better known in history books as Abū Mūsā al-Ashʿarī, took command of the Muslim battalion. Apparently, the first hit suffered by Abū ʿĀmir was not fatal.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 36: Grouping for a Final Assault",
+  "output": {
+    "scene_title": "Abu Amir's Sacrifice",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 36: Grouping for a Final Assault",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Late 40s, medium build, dignified upright posture. Wearing a simple brown thobe with a beige cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown in silhouette, face never visible. Distinguished by simple thobe and subtle warm light."
+      },
+      {
+        "id": "abu_amir",
+        "name": "Abu Amir",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Middle 30s, light brown skin, athletic build, strong facial features. Thick black beard with slight hint of stubble, neatly kept. Wearing off-white linen thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident determined eyes, slight smirk."
+      },
+      {
+        "id": "abdullah_ibn_qays",
+        "name": "Abdullāh ibn Qays",
+        "role": "sahabi",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple off-white thobe with a beige cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by simple thobe and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Bravery and sacrifice are highly valued, but they should not be taken lightly.",
+    "narrative_text": "The Prophet saw the man and said that he was the one left by Abū ʿĀmir, who was killed in this battle. Two enemy soldiers attacked him together, but he was not fatally injured.",
+    "compliance": {
+      "prophet_check": "PROPHET_SILHOUETTE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Battle scene implied, not shown in detail. Prophet and other characters shown respectfully and modestly."
+    },
+    "image_prompt": "Watercolor illustration. Desert battle scene in the background, distant figures shown as silhouettes. In the foreground, a young Arab man, Abū ʿĀmir, lying on the ground, wounded but alive. He is wearing a simple brown thobe and a white turban. A cousin, Abū Mūsā, standing over him, looking concerned. Prophet Muhammad, in silhouette, standing at a distance, watching the scene unfold. Sky is a warm beige, with hints of blue. Medium shot, slightly above eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 36,
+    "chapter_title": "Grouping for a Final Assault",
+    "scene_types": [
+      "dialogue",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

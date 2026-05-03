@@ -1,0 +1,37 @@
+{
+  "training_id": "passage_0046",
+  "input": "The unbelievers experimented with all kinds of torture. They put him in a fire and beat him severely. They kicked him and punished him and flogged him, but he was as firm as a mountain. Once they tore off his clothes and laid him over stones heated with fire and twisted his neck all at the same time. They caused him permanent injuries to his back, but he was prepared to die for his faith. He survived the torture and lived to fight the unbelievers with the Prophet in all his wars.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 8: Objective Containment",
+  "output": {
+    "scene_title": "Torture in the Pre-Islamic Era",
+    "era": "pre_islamic_prophets",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 8: Objective Containment",
+    "characters": [
+      {
+        "id": "ishmael",
+        "name": "Ismail (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 20s, athletic build, strong features, dark skin with reddish undertones. Wearing a simple animal hide loincloth, with sand-colored woolen cloak draped over shoulders. Barefoot, with calloused feet. Distinguished by imposing stature and unyielding determination."
+      }
+    ],
+    "moral_lesson": "Faith and conviction can overcome even the most extreme adversity.",
+    "narrative_text": "The unbelievers tortured Ismail severely, but he was as firm as a mountain. They caused him permanent injuries to his back, but he was prepared to die for his faith.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Scene depicts torture but avoids graphic violence; Ismail's face not shown to maintain dignity. The focus is on his unyielding faith."
+    },
+    "image_prompt": "Oil painting. Desert landscape with rocky outcroppings. A young man, mid-20s, with dark skin, athletic build, and strong features, shown from behind, wearing a simple animal hide loincloth and sand-colored woolen cloak. He is tied to a rock, with his back to the viewer, and his neck twisted at an unnatural angle. The scene is lit by the harsh desert sun. The focus is on the man's back and the rocks. No modern objects."
+  },
+  "metadata": {
+    "chapter": 8,
+    "chapter_title": "Objective Containment",
+    "scene_types": [
+      "battle",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

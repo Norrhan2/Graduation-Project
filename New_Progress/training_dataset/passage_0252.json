@@ -1,0 +1,38 @@
+{
+  "training_id": "passage_0252",
+  "input": "How this treatment was instrumental in winning Ṣafwān over to Islam will be illustrated later. Makkah the Solid Base for Islam The Prophet’s attitude towards such individual cases was appropriate to the overall objective he had set for himself with regard to Makkah – namely, that Makkah should become a solid base of Islam. The change over was to be complete. The city which housed the most ancient temple built for worshipping God alone must always remain a cornerstone in the structure of Islam and a base in which Muslims would always enjoy total security.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 35: A Conquest of Hearts",
+  "output": {
+    "scene_title": "Prophet Muhammad's Vision for Makkah",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 35: A Conquest of Hearts",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "The importance of perseverance and vision in achieving a common goal.",
+    "narrative_text": "The Prophet had a dream of making Makkah a solid base for Islam, where Muslims could live in peace and security. He wanted to change the hearts of the people, making them turn to Allah alone.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. A vision of the future, without graphic details."
+    },
+    "image_prompt": "Watercolor illustration in a traditional Islamic style. A serene desert landscape of Makkah in the 7th century, with a distant view of the Kaaba. The Prophet, shown from behind, standing at a rocky outcropping, looking out towards the viewer with a determined expression. A subtle sunset light on the horizon. No modern objects."
+  },
+  "metadata": {
+    "chapter": 35,
+    "chapter_title": "A Conquest of Hearts",
+    "scene_types": [
+      "battle",
+      "emotional",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

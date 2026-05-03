@@ -1,0 +1,37 @@
+{
+  "training_id": "passage_0137",
+  "input": "A fuller and more complete version of these messages has been revealed and guaranteed by God to remain intact for the rest of time. That version is Islam. Was It a Physical Journey? Muhammad’s night journey from Makkah to Jerusalem and hence to heaven, and his return to his home town on the same night, was, to a contemporary mind, very much a miracle. Caravans took a whole month to cover the distance between the two cities. How, then, could Muhammad make a return journey overnight, and have a side excursion to heaven in the same package?\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 12: Difficulties in Abundance",
+  "output": {
+    "scene_title": "Muhammad's Night Journey: Miraculous or Physical?",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 12: Difficulties in Abundance",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Late 50s, dignified posture. Simple white thobe with dark brown leather belt, dark brown turban wrapped around head, simple leather sandals. Face never visible. Distinguished by dark brown turban and subtle warm light."
+      }
+    ],
+    "moral_lesson": "The true power of faith lies in its ability to transcend the limitations of the world and connect us with something greater.",
+    "narrative_text": "Some people questioned how the Prophet could travel from Makkah to Jerusalem and back to Makkah in just one night. It was a long journey even for the fastest caravans, which took a whole month to complete. But for the Prophet, this was a miraculous journey, one that showed the power of faith.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown without face, backlit by moonlight. Simple, yet powerful scene, suitable for children."
+    },
+    "image_prompt": "Whimsical watercolor illustration of a mystical night scene. A cityscape of 7th century Makkah in the background, with a subtle full moon shining down. In the foreground, a figure in a simple white thobe, dark brown turban, and leather sandals, walking towards the horizon, leaving a trail of light behind. No clear face, just a subtle glow. The atmosphere is dreamy and ethereal. No modern objects."
+  },
+  "metadata": {
+    "chapter": 12,
+    "chapter_title": "Difficulties in Abundance",
+    "scene_types": [
+      "miracle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

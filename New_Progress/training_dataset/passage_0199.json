@@ -1,0 +1,46 @@
+{
+  "training_id": "passage_0199",
+  "input": "This is God’s sacred city.” The big elephant sat down when the army was just outside Makkah, and refused to go any further. The soldiers exerted every effort to persuade the elephant to enter the city, but their efforts were in vain. This particular incident is a fact acknowledged by the Prophet. When his she-camel, al-Qaṣwā’, sat down some distance away from Makkah, on the day when the alḤudaybiyah peace agreement was concluded, the Prophet said to those of his companions who claimed that she had become mulish, that she had not, and that mulishness was not in her nature. “But”, the Prophet added, “she has been prevented by the same will which debarred the elephant from entering Makkah.” (Related by al-Bukhārī.) Then God’s will to destroy the Abyssinian army and its commander was fulfilled.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 1: A Glance Back in History",
+  "output": {
+    "scene_title": "God's Will Protects His City",
+    "era": "pre_prophetic",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 1: A Glance Back in History",
+    "characters": [
+      {
+        "id": "big_elephant",
+        "name": "The Big Elephant",
+        "role": "antagonist",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Large, imposing elephant with grey-brown wrinkled skin, big ears flapping gently in the wind. Seen from behind, dark shape blocking doorway to Makkah. No details visible, just a massive form."
+      },
+      {
+        "id": "sahabi_soldier",
+        "name": "Sahabi Soldier",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 30s, athletic build, dark brown skin, thick beard with slight reddish henna tint, neatly kept. Wearing simple white thobe, brown woolen cloak, head cloth wrapped in a neat turban. Worn leather sandals. Kind warm eyes, slight smile."
+      }
+    ],
+    "moral_lesson": "Even the strongest and most powerful forces cannot override God's will.",
+    "narrative_text": "A big elephant refused to enter Makkah, refusing to be persuaded by the soldiers. This was a sign of God's will protecting His sacred city. Later, God's will also prevented a she-camel from entering the city, showing that His power is always at work.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No prophets shown in the scene, focus on the elephant and the soldiers. God's will is the central message, conveyed through the actions of the elephant and the she-camel."
+    },
+    "image_prompt": "Children's watercolor illustration. Exterior of ancient Makkah mud-brick walls. A massive dark shape of a big elephant stands at the entrance, blocking the doorway. Soldiers in white thobes, brown cloaks, and head cloths, standing near the elephant, looking up at it with concern. The sun is high in the sky, casting a warm golden light. No modern objects."
+  },
+  "metadata": {
+    "chapter": 1,
+    "chapter_title": "A Glance Back in History",
+    "scene_types": [
+      "battle",
+      "journey",
+      "confrontation",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

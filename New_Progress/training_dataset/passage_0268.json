@@ -1,0 +1,45 @@
+{
+  "training_id": "passage_0268",
+  "input": "They will be left without any produce. If they come out and meet us, we outnumber them and we are better equipped. We have more horses than they have and we are here for revenge, while they seek no revenge with us.” The Prophet’s informers came back with the news that the Quraysh army was encamped at Uḥud. They gave him their estimates of their number and their equipment. They also told him that the unbelievers let their camels and horses loose in the farms of Madinah and they were causing havoc.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 20: A Bitter Defeat",
+  "output": {
+    "scene_title": "The Prophet Receives News of the Quraysh Army",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 20: A Bitter Defeat",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Mid-50s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      },
+      {
+        "id": "informant",
+        "name": "An Informant",
+        "role": "supporting",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Middle-aged, rough features, dark skin. Wearing worn tattered clothes, dusty shoes. No distinguishing features."
+      }
+    ],
+    "moral_lesson": "Preparation and caution are essential in facing challenges and adversity.",
+    "narrative_text": "The Prophet received news that the Quraysh army was encamped at Uḥud. His informants told him they outnumbered the Quraysh and had better equipment, including more horses. The Quraysh had let their camels and horses loose in the farms of Madinah, causing damage.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, informant shown as a silhouette. No graphic violence or details about the Quraysh army. Appropriate for children."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century Makkah market scene. The Prophet, shown from behind, wearing a white thobe and brown cloak, stands amidst a group of worried looking people. In the background, a silhouette of a man, dressed in worn tattered clothes, is seen speaking to the Prophet. The scene is set under a cloudy sky with a few birds flying in the distance. Medium shot, eye level. Muted color palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 20,
+    "chapter_title": "A Bitter Defeat",
+    "scene_types": [
+      "dialogue",
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0233",
+  "input": "Having done everything that was humanly possible to ensure his safety, the Prophet then relied on God to do the rest. He has thus taught us the true meaning of reliance on God. It has already been mentioned that the pursuers went very close to the cave. As the two men sat quietly inside, Abū Bakr whispered to the Prophet: “If any one of them looks down, he is sure to see us.” The Prophet’s reassuring answer was: “Don’t worry: God is with us.” Certain reports of the Prophet’s journey speak of a pair of pigeons nesting outside the cave, and a spider spinning its threads over its opening.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 14: The Journey to Madinah",
+  "output": {
+    "scene_title": "The Prophet Reassures Abu Bakr in the Cave",
+    "era": "madinah_early",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 14: The Journey to Madinah",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a beige cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by beige cloak and subtle warm light."
+      },
+      {
+        "id": "abu_bakr",
+        "name": "Abu Bakr al-Siddiq",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light olive skin, slender build, slightly shorter than average. Thin grey-streaked beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      }
+    ],
+    "moral_lesson": "Reliance on Allah means trusting in His power to protect and guide us in all situations.",
+    "narrative_text": "The Prophet and Abu Bakr sat quietly in the cave, waiting to see if the pursuers would spot them. Abu Bakr whispered, “If they look down, they will see us.” The Prophet replied, “Don't worry, God is with us.”",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by cave light. Abu Bakr shown with full face, concerned expression. Quiet, peaceful scene, suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Interior of a small cave. A man in white thobe and beige cloak, white turban, seen entirely from behind, sitting on a rocky outcropping with calm gentle posture. In the foreground, a slender older Arab man with light olive skin, thin grey-streaked beard with henna tint, off-white thobe and brown cloak, looking up at the Prophet with worried expression, hand on his chest. Simple natural surroundings, rocky walls, dark shadows. Low angle, looking up. Muted earthy palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 14,
+    "chapter_title": "The Journey to Madinah",
+    "scene_types": [
+      "journey",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

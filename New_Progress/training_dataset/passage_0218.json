@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0218",
+  "input": "When Kaʿb gave him that promise, Silkān said: “The arrival of this man [the Prophet] and his stay among us has been a real disaster for us. All the Arabs are now against us and they have joined forces in their hostility to us. We are now virtually besieged; our children are suffering; we are all enduring real hardship and we cannot really provide well for our children.” Kaʿb answered: “I am Ibn al-Ashraf! I did tell you repeatedly that you would be facing this situation.” Silkān then said: “I have come to you to buy food from you, and we will pledge with you something which could secure our debt.” Kaʿb asked whether they were prepared to pledge their women with him.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 19: New Trends of Hostility",
+  "output": {
+    "scene_title": "Silkān Bargains with Kaʿb",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 19: New Trends of Hostility",
+    "characters": [
+      {
+        "id": "silkán",
+        "name": "Silkān",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, medium build, determined look. Wearing off-white cotton thobe, simple white headscarf covering hair, worn leather sandals. Distinguishing features: a few wisps of dark hair visible under headscarf, gentle yet firm expression."
+      },
+      {
+        "id": "kaʿb_ibn_al-ashraf",
+        "name": "Kaʿb ibn al-Ashraf",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, robust build, stern expression. Wearing a simple black cloak with intricate silver embroidery, off-white thobe underneath, brown turban, worn leather sandals. Distinctive facial features: a thick beard and a few streaks of grey, sharp eyes."
+      }
+    ],
+    "moral_lesson": "Even in the face of hardship and adversity, we must remain steadfast in our faith and trust in Allah.",
+    "narrative_text": "Silkān, a member of the Prophet's family, visited Kaʿb to buy food. Kaʿb had taken advantage of the Prophet's presence to incite the Arabs against the Prophet's family, causing them great hardship. Silkān hoped to secure a debt by offering to pledge something in return for food.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Scene depicts Silkān and Kaʿb from the front, with no prophets visible. Both characters shown with full faces, suitable for children."
+    },
+    "image_prompt": "Children's illustration in warm colors. Interior of a 7th century Makkah home. A young woman with dark hair visible under her headscarf, wearing off-white thobe and simple white headscarf, sits on a woven mat, looking determined. A middle-aged man with a thick beard and brown turban stands before her, wearing a black cloak with silver embroidery and off-white thobe underneath. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 19,
+    "chapter_title": "New Trends of Hostility",
+    "scene_types": [
+      "dialogue",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

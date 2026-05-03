@@ -1,0 +1,45 @@
+{
+  "training_id": "passage_0235",
+  "input": "They waited for him when they reached a safe area and when he arrived they carried him and went straight to meet the Prophet. It was late into the night when they arrived and the Prophet was at his prayer. When he finished, he went out to see them and they told him of the success of their mission. He wiped al-Ḥārith’s wound with his saliva and it cleared up. They then went to their homes and stayed till the morning.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 19: New Trends of Hostility",
+  "output": {
+    "scene_title": "The Prophet Heals al-Ḥārith",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 19: New Trends of Hostility",
+    "characters": [
+      {
+        "id": "al_harith",
+        "name": "al-Ḥārith ibn al-Nu'man",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 30s, dark olive skin, muscular build, strong features. Short dark beard, neatly kept. Wearing off-white cotton thobe, white cloth wrapped as loose head covering, worn leather sandals. Distinguishing feature: a small bandage or cloth wrapped around left arm or shoulder."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Late 40s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "The Prophet's compassion and kindness are a source of healing and comfort for those who suffer.",
+    "narrative_text": "When al-Ḥārith and his companions arrived at the Prophet's home late at night, they told him about their successful mission. The Prophet was at his prayer when they arrived, but he went out to see them and helped al-Ḥārith's wound with his saliva. It healed instantly!",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by moonlight. al-Ḥārith shown with full face, wound visible. Compassionate scene, suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Interior of a modest 7th century Makkah mud-brick home. A slender Arab man with dark olive skin, strong features, short dark beard, off-white thobe and white cloth head covering, sitting on a woven mat looking up with a bandage on his arm, one hand on his chest. In the background, a dignified older man in white thobe and green cloak, white turban, seen entirely from behind, standing near an oil lamp with warm golden light. Simple mud-brick walls, clay water jug in corner. Low-angle shot, eye level. Soft blue and green palette to depict late night scene. No modern objects."
+  },
+  "metadata": {
+    "chapter": 19,
+    "chapter_title": "New Trends of Hostility",
+    "scene_types": [
+      "dialogue",
+      "journey",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

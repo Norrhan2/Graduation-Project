@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0223",
+  "input": "However, he plans to risk himself in the sea. Could you please give me a guarantee of his safety, may God shower His blessings on you?” The Prophet granted ʿUmayr his request. ʿUmayr then asked him for a sign which he could give to Ṣafwān as a guarantee of his safety, and the Prophet gave him his own turban which he had on his head at the time when he entered Makkah. Travelling at full speed, ʿUmayr managed to catch up with Ṣafwān just as he was boarding a boat.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 35: A Conquest of Hearts",
+  "output": {
+    "scene_title": "Umayr Receives the Prophet's Guarantee",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 35: A Conquest of Hearts",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "umayr",
+        "name": "Umayr ibn Wahb",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Mid-30s, dark olive skin, athletic build, strong facial features. Full thick beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident determined eyes, strong shoulders."
+      },
+      {
+        "id": "safwan",
+        "name": "Safwan ibn Umayyah",
+        "role": "antagonist",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Late 40s, fair skin, slender build, tall. Balding with thinning grey beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, no head covering. No facial features visible, only outline and dark silhouette. Distinguished by tall stature and standing posture."
+      }
+    ],
+    "moral_lesson": "The Prophet's guarantee is a promise of Allah's protection and guidance.",
+    "narrative_text": "The Prophet agreed to give Umayr a guarantee of his safety, and Umayr then asked for a sign to give to Safwan. The Prophet gave him his own turban, which he had on his head when he entered Makkah. Umayr was able to catch up with Safwan just as he was boarding a boat.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. Umayr shown with full face, determined expression. Safwan shown as a dark silhouette, no facial features visible. Appropriate for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Exterior of a 7th century Makkah harbor. A man in white thobe and green cloak, white turban, seen entirely from behind, standing on a dock with warm golden afternoon sunlight streaming behind him. In the distance, a slender older Arab man with fair skin, balding with thinning grey beard, off-white thobe and brown cloak, boarding a wooden boat. Simple wooden dock, clay water jug on the dock. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 35,
+    "chapter_title": "A Conquest of Hearts",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

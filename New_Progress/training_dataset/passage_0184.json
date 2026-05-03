@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0184",
+  "input": "He told them that the Prophet had ordered them to stay. Since the order was not applicable to a specific number of people, but could include any Muslim who arrived in Abyssinia, he persuaded Abū Mūsā and his group to stay on. On their part, they recognized that the task which was to be done there was important. Otherwise, they would have either gone on and joined the Prophet or returned to their home country. There was no reason for them to leave, since they were not persecuted there.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 10: Moving Out",
+  "output": {
+    "scene_title": "Abu Musa Decides to Stay in Abyssinia",
+    "era": "early_makkah",
+    "region": "abyssinia",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 10: Moving Out",
+    "characters": [
+      {
+        "id": "abu_musa",
+        "name": "Abu Musa al-Ashari",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, medium build, rugged features. Dark brown skin, short beard, slightly receding hairline. Wearing white thobe with off-white turban, worn leather sandals. Distinguished by strong facial features and serious expression."
+      },
+      {
+        "id": "the_prophet",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Late 40s, dignified posture. Wearing a simple white thobe, white turban with tail between shoulder blades, simple leather sandals. Always shown without visible face, distinguished by white turban and subtle warm light."
+      }
+    ],
+    "moral_lesson": "The importance of perseverance and recognizing one's duties in the path of Allah.",
+    "narrative_text": "Abu Musa and his group learned that the Prophet had ordered them to stay in Abyssinia. He convinced them that it was a crucial task and there was no reason for them to leave, as they were safe there.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is not visible in the scene, and Abu Musa is shown with full face. The scene conveys a sense of responsibility and duty, suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. A group of Muslim men, including Abu Musa with dark brown skin, short beard, and serious expression, sitting on a woven mat in a modest 7th century Abyssinian mud-brick home. The men are engaged in conversation. A simple clay water jug in the corner, a clay wall behind them. Abu Musa's off-white thobe and turban, worn leather sandals. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 10,
+    "chapter_title": "Moving Out",
+    "scene_types": [
+      "journey",
+      "confrontation"
+    ],
+    "generation_warnings": null
+  }
+}

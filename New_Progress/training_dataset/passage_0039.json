@@ -1,0 +1,62 @@
+{
+  "training_id": "passage_0039",
+  "input": "On hearing that Rāfiʿ was allowed to stay, Samurah wept and said: “The Prophet has allowed Rāfiʿ and refused me, while I am stronger than him and can beat him.” When the Prophet learnt of this, he asked the two boys to wrestle. As Samurah came out the winner, the Prophet allowed him also to stay. A Split in the Ranks Before long, it was night and the army spent the night at al-Shaykhayn. Muhammad ibn Maslamah was put in charge of the guards who kept watch over the army and Dhakwān ibn Qays was in charge of the Prophet’s own bodyguard.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 20: A Bitter Defeat",
+  "output": {
+    "scene_title": "The Prophet's Wisdom in Wrestling",
+    "era": "pre_prophetic_jihad",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 20: A Bitter Defeat",
+    "characters": [
+      {
+        "id": "samurah_ibn_jundab",
+        "name": "Samurah ibn Jundab",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 30s, light brown skin, athletic build, bright-eyed. Wearing simple beige thobe, brown leather cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident expression, strong jawline."
+      },
+      {
+        "id": "muhammad_ibn_maslamah",
+        "name": "Muhammad ibn Maslamah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Middle 30s, medium olive skin, tall, strong build. Thick dark beard, neatly trimmed. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Distinguished by his tall stature and dark beard."
+      },
+      {
+        "id": "dhakwan_ibn_qays",
+        "name": "Dhakwān ibn Qays",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Middle 40s, dark brown skin, muscular build, strong facial features. Thick dark beard, neatly trimmed. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident expression, determined gaze."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Late 40s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "The Prophet teaches us that true strength lies not in physical power, but in humility and obedience to Allah's will.",
+    "narrative_text": "After the Prophet allowed Rāfiʿ to stay, Samurah got upset and said he should be able to stay too. The Prophet decided to settle the matter by having them wrestle. Samurah won, and the Prophet allowed him to stay as well.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, and the wrestling scene is depicted in a gentle manner, suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Desert landscape at sunset, with palm trees in the background. Three young Arab men, Samurah, Muhammad ibn Maslamah, and Dhakwān ibn Qays, are shown in a wrestling match on a sandy dune. The Prophet, shown from behind with a green cloak, stands nearby, watching with a gentle expression. Simple mud-brick walls and clay water jug in the foreground. Medium shot, eye level. Warm golden palette with soft shadows. No modern objects."
+  },
+  "metadata": {
+    "chapter": 20,
+    "chapter_title": "A Bitter Defeat",
+    "scene_types": [
+      "miracle",
+      "dialogue",
+      "battle",
+      "emotional",
+      "teaching",
+      "confrontation"
+    ],
+    "generation_warnings": null
+  }
+}

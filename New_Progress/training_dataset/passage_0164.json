@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0164",
+  "input": "To the last day of his life Ḥamzah continued to be one of the main stalwarts of the new call to Islam. A Hostile Conference People have continued to come to Makkah for pilgrimage ever since the Prophets Abraham and Ishmael built the Kaʿbah. God has ensured that successive generations have continued to revere ‘the House’ as it was generally called by the Arabs, and to travel to it to offer their devotion to the Creator. It was Abraham who called upon people, in fulfilment of God’s instructions, to visit the Kaʿbah for pilgrimage.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 9: Misrepresentation",
+  "output": {
+    "scene_title": "The Importance of Visiting the Ka'bah",
+    "era": "ancient_prophets",
+    "region": "levant_ancient",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 9: Misrepresentation",
+    "characters": [
+      {
+        "id": "ibrahim",
+        "name": "Prophet Ibrahim (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Early 40s, medium brown skin, robust build, dignified posture. Wearing ancient Middle Eastern attire, long white robes, simple headscarf, leather sandals. Always shown in silhouette, face never visible."
+      },
+      {
+        "id": "ishmael",
+        "name": "Prophet Ismail (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Late 30s, light brown skin, strong build, slightly younger than Ibrahim. Wearing plain white robes, simple headscarf, leather sandals. No facial features visible, depicted as a silhouette."
+      }
+    ],
+    "moral_lesson": "Visiting the House of Allah is a way to show devotion to the Creator and connect with our ancestors who built it.",
+    "narrative_text": "Prophet Ibrahim was instructed by God to invite people to visit the Ka'bah for pilgrimage, a tradition that has continued to this day.",
+    "compliance": {
+      "prophet_check": "PROPHETS_IN_SILHOUETTE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Both prophets shown in silhouette, no facial features visible. A simple, respectful scene, suitable for children."
+    },
+    "image_prompt": "Muted watercolor illustration. Ancient Middle Eastern desert landscape with a distant view of the Ka'bah. Two silhouettes of men in white robes, one slightly older with a stronger build, standing together in the foreground, heads bowed in devotion. A few palm trees and rocky outcroppings in the background. Simple, warm palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 9,
+    "chapter_title": "Misrepresentation",
+    "scene_types": [
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

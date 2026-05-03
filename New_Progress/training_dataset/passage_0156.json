@@ -1,0 +1,38 @@
+{
+  "training_id": "passage_0156",
+  "input": "A man called Surāqah ibn Mālik was the first to realize the opportunity of winning the reward. To make sure that no one else joined him in chasing the Prophet and share in the reward, he said: “I have seen those people myself; they belong to such and such tribe and they are only chasing a camel which has gone astray.” Shortly afterwards, Surāqah left the meeting-place and went into his home, where he ordered his servant to get his horse ready and meet him a short distance away from the tribe’s encampment.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 14: The Journey to Madinah",
+  "output": {
+    "scene_title": "Surāqah ibn Mālik Seeks to Chase the Prophet Alone",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 14: The Journey to Madinah",
+    "characters": [
+      {
+        "id": "suraqah_ibn_malik",
+        "name": "Surāqah ibn Mālik",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Middle 40s, dark olive skin, rugged build. Thick black beard flecked with grey, neatly trimmed. Wearing a dark brown woolen cloak, off-white thobe with a red sash, plain white head cloth. Black leather sandals. Distinguished by his rugged demeanor and dark beard."
+      }
+    ],
+    "moral_lesson": "Some people may try to deceive or cheat others to achieve their own goals, but ultimately they will face the consequences of their actions.",
+    "narrative_text": "Surāqah ibn Mālik wanted to be the first to catch the Prophet and get the reward. So, he lied to the others, saying the Prophet was just a lost camel herder. He then quickly left the meeting place to get his horse ready to chase the Prophet.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Surāqah shown with full face, no Prophet present. Scene depicts deception, but in a non-threatening way for children."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century Makkah desert landscape. A rugged mid-40s Arab man with dark olive skin, thick black beard, dark brown cloak, off-white thobe, and red sash, looking determined. His servant is in the background, readying his horse. A small tribe's encampment is visible in the distance. Medium shot, eye level. Earthy palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 14,
+    "chapter_title": "The Journey to Madinah",
+    "scene_types": [
+      "dialogue",
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "training_id": "passage_0101",
+  "input": "He has trusted you with what he has not been able to trust them with, for your history of good deeds. Moreover, a fine reward awaits you. The Negus replied in these words: “I swear by God, he is the Prophet awaited by the people of past revelations. Moses has given news of the impending appearance of the Prophet who rides a donkey in the same way as Jesus has given news of the impending arrival of a Prophet who rides a camel.” Thus, the Negus declared his acceptance of the message of Muhammad and his belief in Islam.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 31: Opening Up International Horizons",
+  "output": {
+    "scene_title": "The Negus Accepts Islam",
+    "era": "early_makkah",
+    "region": "abyssinia",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 31: Opening Up International Horizons",
+    "characters": [
+      {
+        "id": "negus",
+        "name": "Negus Ashama ibn Abjar al-Asghar",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Late 50s, light brown skin, sturdy build. Full white beard, neatly trimmed. Wearing black turban and white shirt with intricate gold embroidery, fine black cloak with gold trim, simple white pants. Gold jewelry on neck and hands. Distinguished by fine clothing and regal demeanor."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a light brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by light brown cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Being true to one's faith and good deeds can lead to great rewards and recognition from others.",
+    "narrative_text": "The Negus, the king of Abyssinia, listened to the Prophet's message and believed in Islam. He declared that he accepted the Prophet's message and would follow the teachings of Allah.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by sunlight. Negus shown with full face, regal demeanor. Diplomatic scene, appropriate for children."
+    },
+    "image_prompt": "Children's watercolor illustration. A regal 7th century Abyssinian palace interior. The Negus, a sturdy older Arab man with full white beard, black turban, fine black cloak with gold trim, white shirt with intricate gold embroidery, and simple white pants, sits on a throne-like chair, smiling with approval. Behind him, a slender older Arab man with medium build, wearing white thobe and light brown cloak, white turban, seen entirely from behind, stands with hands clasped behind back. Soft warm golden light, simple palace furniture. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 31,
+    "chapter_title": "Opening Up International Horizons",
+    "scene_types": [
+      "miracle",
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0078",
+  "input": "One day, as the Prophet passed by her, she addressed him: “Messenger of God, my parents are dead and my guardian has disappeared. Be generous to me, may God be generous to you.” He asked her who her guardian was and she said: “ʿAdiy ibn Ḥātim.” He said: “The one who has fled from God and His Messenger?” Sufānah takes up the story: The Prophet left me in my place after he said that. On the following day he passed by me and I repeated what I had said to him the day before.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 38: Men of Distinction",
+  "output": {
+    "scene_title": "Sufahah Asks for Financial Support",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 38: Men of Distinction",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 40s, medium build, dignified upright posture. Wearing a simple white thobe with a black cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by black cloak and subtle warm light."
+      },
+      {
+        "id": "sufahah",
+        "name": "Sufahah bint al-Yazid",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Early 20s, light olive skin, slender build, slightly shorter than average. Short dark hair covered with a simple khimar, brown eyes. Wearing a modest long-sleeved white thobe, off-white headscarf. Simple leather sandals. Modest smile, gentle demeanor."
+      }
+    ],
+    "moral_lesson": "The importance of kindness and generosity towards those in need, especially towards women and children",
+    "narrative_text": "One day, Sufahah, a woman who had lost her parents and guardian, asked the Prophet for financial support. He replied that her guardian, ʿAdiy ibn Ḥātim, had fled from God and His Messenger. The next day, Sufahah approached the Prophet again, asking for his help.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, as per Islamic depiction rules. Sufahah is shown with a modest and respectful appearance. The scene is calm and suitable for children."
+    },
+    "image_prompt": "Whimsical illustration in the style of traditional Arabic calligraphy. A 7th century Makkah street scene. The Prophet, shown from behind, wearing a white thobe and black cloak, is walking away from the viewer. In front of him, a young woman with a simple khimar and modest thobe, sitting on a woven mat, looks up at him with a gentle expression. The background features Makkah's mud-brick houses, palm trees, and a clay water jug. Soft, warm colors. Medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 38,
+    "chapter_title": "Men of Distinction",
+    "scene_types": [
+      "dialogue"
+    ],
+    "generation_warnings": null
+  }
+}

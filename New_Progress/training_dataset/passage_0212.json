@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0212",
+  "input": "He went into the mountains and stayed until the Prophet and his companions departed. When he went back home, he found a letter left him by his brother, al-Walīd ibn al-Walīd, who had been a Muslim for some time. Al-Walīd was in the Prophet’s company when he came to Makkah for his compensatory ʿUmrah. After completing the duties of the ʿUmrah, al-Walīd tried to find his brother Khālid. When he could not find him, he realized that Khālid was trying to run away from Islam.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+  "output": {
+    "scene_title": "Al-Walid Finds His Brother's Letter",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+    "characters": [
+      {
+        "id": "khalid_ibn_al_walid",
+        "name": "Khalid ibn al-Walid",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Early 20s, athletic build, short beard, slightly dark olive skin tone. Wearing simple beige thobe, no cloak, off-white cloth wrapped as head covering, worn leather sandals. Slightly tense posture, looking around nervously."
+      },
+      {
+        "id": "al_walid_ibn_al_walid",
+        "name": "Al-Walid ibn al-Walid",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Mid 20s, medium build, slightly dark olive skin tone, short beard with slight wave. Wearing simple beige thobe, no cloak, off-white cloth wrapped as head covering, worn leather sandals. Slightly tired and worried expression, holding a letter."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "The importance of perseverance in one's faith and the support of family and friends.",
+    "narrative_text": "Al-Walid returned home from a trip to find a letter from his brother Khalid, who had become a Muslim. However, when Al-Walid arrived in Makkah, he couldn't find Khalid, and realized he was trying to run away from Islam.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, Al-Walid and Khalid shown with full faces, no graphic violence."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century Makkah mud-brick home, with a man in his mid 20s, dark olive skin, short beard, wearing beige thobe and off-white cloth head covering, sitting on a woven mat looking worried, holding a letter. In the background, a man in his early 20s, athletic build, short beard, wearing beige thobe and off-white cloth head covering, looking around nervously. A man in a simple white thobe with a green cloak, white turban, seen entirely from behind, standing in the distance, at the edge of the scene. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 32,
+    "chapter_title": "A Second Trip to Makkah",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0144",
+  "input": "The Prophet rubbed her at the position of the breast and soon she had breasts full of milk. ʿAbdullāh brought a piece of rock which looked like a bowl. The Prophet milked the sheep and gave Abū Bakr and ʿAbdullāh milk, then he drank. He then said to the breast: “Return to your position”, and it did. When he saw this, ʿAbdullāh wondered and asked questions. The Prophet told him about Islam and he accepted it. He reports: “I said, ‘Messenger of God, teach me.’ He went with his hand over my head and said: ‘May God bless you, you are an educated fellow.’ Later, I went to meet the Prophet and as we were with him, over the mount of Ḥirā’, the sūrah entitled al-Mursalāt was revealed to him and I learnt it as he was reciting it for the first time.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 6: A Community in the Making",
+  "output": {
+    "scene_title": "ʿAbdullāh Learns from the Prophet",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 6: A Community in the Making",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 40s, fair skin, slender build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by simple white thobe and subtle warm light."
+      },
+      {
+        "id": "abdullah",
+        "name": "ʿAbdullāh ibn Salam",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, tan skin, athletic build, slightly taller than average. Well-groomed dark beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, upright shoulders."
+      },
+      {
+        "id": "abu_bakr",
+        "name": "Abu Bakr al-Siddiq",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light olive skin, slender build, slightly shorter than average. Thin grey-streaked beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      }
+    ],
+    "moral_lesson": "The Prophet's guidance and mercy are always available, and those who seek knowledge and understanding will find it.",
+    "narrative_text": "ʿAbdullāh was amazed when the Prophet made ʿAbu Bakr's breast produce milk, but the Prophet's kindness and wisdom soon captured his heart, and he accepted Islam. He learned the sūrah al-Mursalāt as the Prophet recited it for the first time.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, ʿAbdullāh and ʿAbu Bakr visible. Natural, non-graphic depiction of the miraculous event. Suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Desert landscape with a small rocky outcrop. The Prophet, seen from behind, standing with a sheep, which has a breast full of milk. ʿAbdullāh and ʿAbu Bakr sit nearby, looking on with wonder. ʿAbdullāh is shown with a questioning expression. Warm sunlight casts long shadows. Simple composition, muted colors. No modern objects."
+  },
+  "metadata": {
+    "chapter": 6,
+    "chapter_title": "A Community in the Making",
+    "scene_types": [
+      "dialogue",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

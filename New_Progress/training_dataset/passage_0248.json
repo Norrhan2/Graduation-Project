@@ -1,0 +1,57 @@
+{
+  "training_id": "passage_0248",
+  "input": "The Journey to Madinah THE MUSLIMS OF Makkah started to leave for Madinah when the Prophet told them that they were welcome there. They left, mostly in small groups, in the middle of the night, abandoning their homes and belongings. It was clear to everyone that this time the break was final. It had been apparent for some time that rigidity and stubbornness had taken over the people of Makkah. None of its leaders were prepared to look at the real issues with objectivity.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 14: The Journey to Madinah",
+  "output": {
+    "scene_title": "The Muslims Depart for Madinah",
+    "era": "late_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 14: The Journey to Madinah",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "abu_ubaidah",
+        "name": "Abu Ubaidah ibn al-Jarrah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, light brown skin, athletic build, tall and robust. Thick beard with slight darkening near chin, neatly kept. Wearing off-white cotton thobe, plain dark brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong facial features, sharp eyes, confident posture."
+      },
+      {
+        "id": "umar_ibn_al_khattab",
+        "name": "Umar ibn al-Khattab",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium skin tone, muscular build, tall and broad-shouldered. Thick black beard, neatly kept. Wearing off-white cotton thobe, plain dark brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong facial features, sharp eyes, confident posture."
+      },
+      {
+        "id": "ali_ibn_abi_talib",
+        "name": "Ali ibn Abi Talib",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, medium skin tone, slender build, slightly younger than average. Thick beard with slight darkening near chin, neatly kept. Wearing off-white cotton thobe, plain light brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      }
+    ],
+    "moral_lesson": "Sacrificing worldly comforts for the sake of one's faith is a sign of true devotion and leadership.",
+    "narrative_text": "The Muslims of Makkah, led by the Prophet, began their journey to Madinah, leaving behind their homes and belongings. They departed in the middle of the night, in small groups, as they knew they would not be welcome back in Makkah.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, group of companions shown in the background, avoiding depiction of conflict or violence. Suitable for children."
+    },
+    "image_prompt": "Semi-realistic illustration in muted desert colors. A group of 7th century Arab men, dressed in off-white thobes and dark brown cloaks, walking in the moonlit desert, away from the city of Makkah in the background. The men are shown in various stages of departure, with some carrying leather water skins and others leading camels. The Prophet, shown from behind, is standing at the front of the group, wearing a simple white thobe and green cloak. The sky is dark with stars, and a thin crescent moon is visible. No modern objects."
+  },
+  "metadata": {
+    "chapter": 14,
+    "chapter_title": "The Journey to Madinah",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

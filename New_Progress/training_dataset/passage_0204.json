@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0204",
+  "input": "The Prophet and the Muslim army reached the valley of Ḥunayn on Tuesday evening 10th of Shawwāl. Reports suggest that it was the Prophet’s plan to take his enemy by surprise before the light of day, when they would still be asleep. He, therefore, mobilized his forces in ranks, assigned flags and banners, appointed commanders mostly from among the Muhājirīn and the Anṣār, and gave the command of his horsemen to Khālid ibn al-Walīd. Having done that, he ordered his army to move.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 36: Grouping for a Final Assault",
+  "output": {
+    "scene_title": "Prophet's Battle Plan",
+    "era": "madinah_late",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 36: Grouping for a Final Assault",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by simple attire and subtle warm light."
+      },
+      {
+        "id": "khali_idn_al_walid",
+        "name": "Khālid ibn al-Walīd",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium build, strong facial features. Thick black beard, neatly kept. Wearing a simple white thobe, dark brown cloak, blue head cloth wrapped around his head. Worn leather sandals. Confident expression, slight smile."
+      },
+      {
+        "id": "general_anonymous",
+        "name": "General Anṣār",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, light brown skin, average build. Short black hair, trimmed beard with slight grey tint, neatly kept. Wearing off-white cotton thobe, plain woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Serious expression."
+      }
+    ],
+    "moral_lesson": "Leadership involves making wise decisions and trusting in Allah's plan.",
+    "narrative_text": "The Prophet and his army reached the valley of Ḥunayn on the 10th of Shawwāl, planning to surprise their enemy before dawn. He organized his forces into ranks, assigned flags, and appointed commanders to lead the charge.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, generals shown with full faces, serious expressions. No graphic violence or bloodshed. Appropriate for children."
+    },
+    "image_prompt": "Illustration in a warm desert landscape. Late afternoon sun casting long shadows. The Prophet (in white thobe and brown cloak, from behind) stands at the center, surrounded by his army in ranks. A group of horsemen, led by Khālid ibn al-Walīd (in white thobe, dark brown cloak, blue head cloth), prepare for battle. The general Anṣār (in off-white thobe, plain woolen cloak, white cloth) stands at attention. Simple mud-brick hills, palm trees in the background. No modern objects."
+  },
+  "metadata": {
+    "chapter": 36,
+    "chapter_title": "Grouping for a Final Assault",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

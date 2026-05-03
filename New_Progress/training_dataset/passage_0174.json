@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0174",
+  "input": "Three Choices to Avoid Surrender The Qurayẓah Jews were now left to contemplate their position. After days of the siege, they were totally demoralized and they recognized that they could not hold out much longer. Their leader, Kaʿb ibn Asad, outlined to them the options they had, as he saw them: “You are aware of the difficult position in which we find ourselves. I am offering you three possibilities to choose from. The first one is to believe in this man, Muhammad, and to follow him.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+  "output": {
+    "scene_title": "The Qurayzah Jews' Difficult Decision",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+    "characters": [
+      {
+        "id": "kab_ibn_asad",
+        "name": "Ka'b ibn Asad",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, medium build, slightly older than average. Darker olive skin, well-groomed beard with some grey streaks. Wearing off-white cotton thobe, simple dark woolen cloak, white head cloth wrapped around his head. Worn leather sandals. Frustrated, worried expression."
+      },
+      {
+        "id": "qurayzah_jew_1",
+        "name": "Qurayzah Jew",
+        "role": "crowd",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Young adult, medium build, dark olive skin, short beard. Wearing off-white cotton thobe, simple dark woolen cloak, white head cloth wrapped around his head. Worn leather sandals. Focused, concerned expression."
+      },
+      {
+        "id": "qurayzah_jew_2",
+        "name": "Qurayzah Jew",
+        "role": "crowd",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Young adult, slender build, medium skin tone, clean-shaven. Wearing off-white cotton thobe, simple dark woolen cloak, white head cloth wrapped around his head. Worn leather sandals. Worried expression."
+      }
+    ],
+    "moral_lesson": "In difficult times, we must weigh our options carefully and consider the consequences of each choice.",
+    "narrative_text": "The Qurayzah Jews were surrounded by the Muslims and were on the verge of surrender. Their leader, Ka'b ibn Asad, told them they had three options: to believe in Prophet Muhammad, to resist, or to surrender.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No Prophet visible, but mentioned. Silhouettes of Qurayzah Jews to maintain anonymity. No graphic violence or modern objects."
+    },
+    "image_prompt": "Watercolor illustration. A group of Qurayzah Jews, dark olive skin, off-white thobes, dark woolen cloaks, white head cloths, standing in a circle, looking worried and concerned. Their leader, Ka'b ibn Asad, stands among them, medium build, darker olive skin, off-white thobe, simple dark woolen cloak, white head cloth. A few scattered clay pots, woven mats, and wooden items in the background. Natural light, simple colors. No modern objects."
+  },
+  "metadata": {
+    "chapter": 26,
+    "chapter_title": "An Account to Settle",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

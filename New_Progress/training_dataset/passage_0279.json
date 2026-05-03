@@ -1,0 +1,36 @@
+{
+  "training_id": "passage_0279",
+  "input": "As for the third question, there is a short reference to it in verse of Sūrah 17, entitled The Night Journey or alIsrā’. This verse may be rendered in translation as follows: “They ask you about the Spirit. Say: [Knowledge of] the Spirit belongs to my Lord and you have been granted very little of real knowledge.” More Hostility, More Defiance What change would these answers to the questions suggested by the Jews and put to the Prophet by the unbelievers bring about?\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 11: Hope and Despair",
+  "output": {
+    "scene_title": "The Prophet Responds to Questions about the Spirit",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 11: Hope and Despair",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Mid 40s, medium build, dignified upright posture. Wearing a simple white thobe with a black cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by black cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "True wisdom and knowledge come from Allah, and we must be humble in our pursuit of understanding.",
+    "narrative_text": "The Prophet was asked by the Jews about the Spirit. He told them that only Allah knows about the Spirit, and that we have been given very little knowledge.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, in a contemplative pose. No graphic content, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century Makkah street during morning light. A man in white thobe and black cloak, white turban, seen entirely from behind, standing alone with a thoughtful expression, looking up towards the sky. Simple mud-brick buildings, narrow streets, and a few scattered palm trees in the background. Medium shot, eye level. Soft pastel colors. No modern objects."
+  },
+  "metadata": {
+    "chapter": 11,
+    "chapter_title": "Hope and Despair",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

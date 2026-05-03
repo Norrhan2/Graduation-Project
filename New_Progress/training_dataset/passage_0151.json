@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0151",
+  "input": "The Quraysh army had already started to move when ʿUtbah, his brother and his son made their personal move. As the army moved, one of its number, al-Aswad ibn ʿAbd al-Asad of the Makhzūm clan, sprang out of the ranks, saying: “I pledge to God to drink from their reservoir, or I will pull it down, or I will die in my attempt.” Ḥamzah ibn ʿAbd al-Muṭṭalib, the Prophet’s uncle, struck him with his sword, chopping off his leg. Al-Aswad, however, continued to crawl towards the reservoir and Ḥamzah followed him until he killed him at the reservoir.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 17: Badr: The First Major Battle",
+  "output": {
+    "scene_title": "Al-Aswad's Bravery and Tragic Death",
+    "era": "pre_prophetic",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 17: Badr: The First Major Battle",
+    "characters": [
+      {
+        "id": "al_aswad_ibn_abd_al_asad",
+        "name": "Al-Aswad ibn Abd al-Asad",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium build, rugged features. Dark brown skin, thick beard with a few streaks of grey, neatly trimmed. Wearing a dark leather tunic, off-white linen head cloth, brown leather belt, and worn leather sandals. Distinguished by his determined expression and bold stance."
+      },
+      {
+        "id": "hamzah_ibn_abd_al_mutallib",
+        "name": "Hamzah ibn Abd al-Mutallib",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 40s, light brown skin, strong build, dignified posture. Thick beard with dark streaks, neatly kept. Wearing a beige linen tunic, off-white head cloth, dark leather belt, and worn leather sandals. Distinguished by his calm confident expression and athletic build."
+      }
+    ],
+    "moral_lesson": "Courage is not just about bravery, but also about wisdom and self-control.",
+    "narrative_text": "Al-Aswad ibn Abd al-Asad, a brave warrior, pledged to God to drink from the Prophet's family's reservoir or die trying. His bravery was met with a fierce challenge from Hamzah, who fought to protect his family's water source. In the end, Al-Aswad's courage led to his tragic death.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Scene shows a pivotal moment in the battle of Badr, but does not contain graphic violence or mature themes. Al-Aswad's death is depicted in a way that is respectful and non-gory."
+    },
+    "image_prompt": "Dark watercolor illustration. A distant desert landscape with a group of warriors in the background, their dark silhouettes against the fading light of day. In the foreground, a young man with a determined expression, dark beard, and dark leather tunic, is crawling towards a water reservoir. A slightly older man with a calm confident expression, thick beard, and beige linen tunic, is standing behind him, ready to stop him. The atmosphere is tense, but not frightening. Medium shot, eye level. Muted palette with warm golden hues. No modern objects."
+  },
+  "metadata": {
+    "chapter": 17,
+    "chapter_title": "Badr: The First Major Battle",
+    "scene_types": [
+      "battle",
+      "emotional"
+    ],
+    "generation_warnings": null
+  }
+}

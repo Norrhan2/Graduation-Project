@@ -1,0 +1,59 @@
+{
+  "training_id": "passage_0214",
+  "input": "Both are very good.” Ḥamzah ibn ʿAbd al-Muṭṭalib, the Prophet’s uncle, who was in his early fifties, said: “By Him who has sent down His Book to you, I shall taste nothing today until I have fought them with my sword outside Madinah.” Al-Nuʿmān ibn Mālik said: “Messenger of God, why do you keep us from heaven? By God Who is the only deity, I will get into it.” The Prophet (peace be upon him) asked him: “On what grounds?” He answered: “Because I am a man who loves God and the Prophet and does not flee from battle.” Iyās ibn Aws said: “It worries me that the Quraysh should be able to return and say: ‘We have besieged Muhammad and his companions in the fortifications and hills of Yathrib [Madinah].’ They will then feel that they can have a go at us at any time.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 20: A Bitter Defeat",
+  "output": {
+    "scene_title": "Uncle Ḥamzah's Bravery",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 20: A Bitter Defeat",
+    "characters": [
+      {
+        "id": "hamzah_ibn_abd_al_mutthalib",
+        "name": "Ḥamzah ibn ʿAbd al-Muṭṭalib",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Early 50s, strong athletic build, rugged features. Dark olive skin, thick beard with a bit of grey, well-groomed. Wearing a dark brown bisht with a white turban, brown leather belt. Sandaled feet. Confident and determined expression"
+      },
+      {
+        "id": "al_nu_mān_ibn_mālik",
+        "name": "Al-Nuʿmān ibn Mālik",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, medium build, light skin tone. Thin beard with a reddish tint, neatly kept. Wearing a light brown thobe, white turban, brown leather belt. Sandaled feet. Sincere and determined expression"
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, dignified posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak"
+      },
+      {
+        "id": "iyās_ibn_awṣ",
+        "name": "Iyās ibn Aws",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged, slender build, dark skin tone. Thin beard with a bit of grey, neatly kept. Wearing a dark brown thobe, brown leather cloak, white turban. Sandaled feet. Concerned expression"
+      }
+    ],
+    "moral_lesson": "Courage and faith can overcome even the greatest challenges.",
+    "narrative_text": "Ḥamzah ibn ʿAbd al-Muṭṭalib, the Prophet's uncle, was so angry that he vowed not to eat until he had fought the Quraysh outside Madinah. Al-Nuʿmān ibn Mālik, a companion, told the Prophet that he would enter heaven because he loved God and the Prophet and did not flee from battle.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, companions shown with full faces. Brave and determined scene, suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Late afternoon in a 7th century Makkah mud-brick home. A strong rugged older Arab man with dark olive skin, thick beard, dark brown bisht, and white turban, standing confidently with a determined expression. Nearby, a middle-aged Arab man with light skin, thin beard, light brown thobe, and white turban, speaking to another man. In the background, a man with a green cloak and white turban, standing from behind. Woven mat, clay water jug, and a few scattered items. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 20,
+    "chapter_title": "A Bitter Defeat",
+    "scene_types": [
+      "dialogue",
+      "battle",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

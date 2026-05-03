@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0237",
+  "input": "I knew that I was innocent and that God would make my innocence known. It did not occur to me for a moment, however, that God would reveal a passage of the Qur’ān concerning me. I felt myself too humble for God to include my case in His revelations. All I hoped for was that the Prophet should see something in his dream to prove my innocence. Before the Prophet left us, however, and before anyone left the house, God’s revelations started.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+  "output": {
+    "scene_title": "The Prophet Receives Revelation About Ali's Innocence",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+    "characters": [
+      {
+        "id": "aliali",
+        "name": "Ali ibn Abi Talib",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 20s, light olive skin, slender build, athletic physique. Clean-shaven, short, dark hair, expressive bright eyes. Wearing off-white cotton thobe, simple brown leather sandals, no head covering. Hands clasped together in a humble prayer stance."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Late 40s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Patience and humility in the face of adversity are essential qualities in a believer.",
+    "narrative_text": "Ali ibn Abi Talib was anxious to prove his innocence, but he didn't expect God to reveal a passage of the Qur’an about him. He was just hoping the Prophet would see something in his dream to clear his name. But before anyone left the house, God’s revelations started.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. Ali shown with full face, hands clasped together in prayer. Calm, serene scene, appropriate for children."
+    },
+    "image_prompt": "Watercolor illustration of a modest 7th century Makkah interior. A young slender Arab man with light olive skin, short dark hair, clean-shaven, wearing off-white thobe, simple brown leather sandals, sitting on a woven mat looking up with hope, hands clasped together in a humble prayer stance. A dignified older man in white thobe and green cloak, white turban, seen entirely from behind, standing at an open doorway with warm golden afternoon sunlight streaming behind him. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 24,
+    "chapter_title": "How to Mar a Splendid Victory",
+    "scene_types": [
+      "miracle"
+    ],
+    "generation_warnings": null
+  }
+}

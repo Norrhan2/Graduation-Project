@@ -1,0 +1,52 @@
+{
+  "training_id": "passage_0134",
+  "input": "I drew close to him to provoke him. He and his companions prayed ẓuhr in front of us. We thought of attacking them, but we refrained. He must have realized what we were thinking of when the next prayer, ʿaṣr, was due. He therefore, led his companions in what is known as ‘the prayers of fear’. That affected us profoundly and we realized that he was immune from our attack. We therefore drew back. When the terms of the peace agreement of al-Ḥudaybiyah were eventually negotiated and the Prophet and his companions went home, I started thinking about what might come next and what was in store for us.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+  "output": {
+    "scene_title": "The Prophet Demonstrates Fear of Allah",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 32: A Second Trip to Makkah",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "umar_ibn_al_khattab",
+        "name": "Umar ibn Al-Khattab",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Mid 30s, dark olive skin, athletic build, commanding presence. Short black beard, neatly trimmed. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Intense gaze, strong facial features."
+      },
+      {
+        "id": "sahaba",
+        "name": "Sahaba",
+        "role": "crowd",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "A group of Arab men in various ages, builds, and facial hair styles, all wearing simple white and brown clothing, heads covered. No distinguishing features. Silhouetted against the sun, facial details not visible."
+      }
+    ],
+    "moral_lesson": "Fear of Allah can protect us from harm and lead us to make wise decisions.",
+    "narrative_text": "The Prophet Muhammad and his companions prayed while Umar ibn Al-Khattab and his group watched, thinking of attacking them. But when the Prophet led the 'prayers of fear', Umar and his group realized that the Prophet was protected by Allah and retreated.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by sunlight. Umar shown with full face, intense expression. Sahaba silhouetted, facial details not visible. Scene is peaceful and safe for children."
+    },
+    "image_prompt": "Illustration in a warm, muted color palette. Late afternoon sunlight illuminates the scene. Umar ibn Al-Khattab stands in the foreground, mid 30s, dark olive skin, athletic build, short black beard, off-white thobe, brown cloak, and white head covering. He looks intense, but not aggressive. In the background, the Prophet stands facing him, early 50s, medium build, simple white thobe, green cloak, white turban, and leather sandals. He is shown from behind, with a subtle warm glow. A group of sahaba are silhouetted against the sun, their facial details not visible. They are in white and brown clothing, heads covered. Medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 32,
+    "chapter_title": "A Second Trip to Makkah",
+    "scene_types": [
+      "battle",
+      "teaching",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

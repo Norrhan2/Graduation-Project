@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0198",
+  "input": "They went back immediately until they reached Madinah, where they met the Prophet, who told them of the treacherous design of the Jews. When the Prophet left his place and escaped this assassination attempt there was no reason for the al-Naḍīr tribe to continue with their plot. They realized that they had missed their chance of their greatest prize and hoped that the Prophet’s escape was merely a coincidence. Little did they realize that he was made aware of what they had plotted.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 22: Vulnerability and Treachery",
+  "output": {
+    "scene_title": "The Prophet's Narrow Escape",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 22: Vulnerability and Treachery",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Mid 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "abu_bakr",
+        "name": "Abu Bakr al-Siddiq",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light olive skin, slender build, slightly shorter than average. Thin grey-streaked beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      }
+    ],
+    "moral_lesson": "Even when we face danger and adversity, we must trust in Allah's protection and guidance.",
+    "narrative_text": "The Prophet and his companions headed back to Madinah, where they met the Prophet. He told them about the Jews' treacherous plan to harm him, but he managed to escape. The Jews thought they had missed their chance, but they didn't realize the Prophet knew all about their plot.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, with subtle hint of danger in shadows. Abu Bakr shown with full face, concerned expression. Mild tension, suitable for children."
+    },
+    "image_prompt": "Colorful children's illustration. Exterior of a Madinah mud-brick home, with a distant view of palm trees and a mosque in the background. A man in white thobe and green cloak, white turban, seen entirely from behind, standing in doorway looking out. In the foreground, a slender older Arab man with light olive skin, thin grey-streaked beard with henna tint, off-white thobe and brown cloak, looking worried with one hand on his chest. Simple mud-brick walls, a clay water jug in a corner. Medium shot, eye level. Earthy tones, with a hint of green from palm trees. No modern objects."
+  },
+  "metadata": {
+    "chapter": 22,
+    "chapter_title": "Vulnerability and Treachery",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

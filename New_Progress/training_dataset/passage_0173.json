@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0173",
+  "input": "While pondering how to do that, he received Divine orders which settled matters for him. A perfect model of a believer who was always ready to carry out God’s orders, Abraham travelled with Hagar and Ishmael, along unfamiliar routes and deep inside the Arabian peninsula, until he arrived in the area where Makkah now stands. At that time the place was barren, with no vegetation or water. Nobody lived there. But Abraham was commanded by God to leave his son Ishmael with Hagar in that place.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 1: A Glance Back in History",
+  "output": {
+    "scene_title": "Abraham Leaves Ishmael in the Wilderness",
+    "era": "pre_islamic_prophets",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 1: A Glance Back in History",
+    "characters": [
+      {
+        "id": "ishmael",
+        "name": "Ishmael",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Teenage boy, athletic build, dark hair, dark skin. Wearing a simple white tunic, leather sandals. Young, energetic, and adventurous spirit."
+      },
+      {
+        "id": "hagar",
+        "name": "Hagar",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Young adult woman, athletic build, dark hair, dark skin. Wearing a simple white tunic, a scarf covering her hair. Modest and determined facial expression."
+      },
+      {
+        "id": "ibraaheim",
+        "name": "Ibrahim (Abraham)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Middle-aged man, strong build, dark skin. Wearing a simple white tunic, leather sandals. Wise, kind, and gentle facial expression."
+      }
+    ],
+    "moral_lesson": "God’s command is the ultimate authority, and we must obey it with faith and trust.",
+    "narrative_text": "Abraham was guided by God to leave his son Ishmael in the desert, with no water or food. A barren land, but for Abraham, it was a place of obedience to God’s will.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Abraham and Ishmael shown from behind, Hagar shown with full face. A scene of obedience and trust, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration in a desert landscape. A rugged, empty terrain with a few sparse palm trees in the background. A young teenage boy, Ishmael, and a young woman, Hagar, in simple white tunics, walking together, holding hands. A middle-aged man, Abraham, in a white tunic, walking from behind, guiding them. Warm beige and sandy colors. No modern objects."
+  },
+  "metadata": {
+    "chapter": 1,
+    "chapter_title": "A Glance Back in History",
+    "scene_types": [
+      "miracle",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

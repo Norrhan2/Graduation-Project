@@ -1,0 +1,52 @@
+{
+  "training_id": "passage_0012",
+  "input": "I could not sleep. Next morning both my parents were with me – I had spent two nights and a day crying hard. My tears never stopped. Both of them felt that my crying would break my heart. While we were in that condition, a woman from the Anṣār came to me and started to cry with me. Shortly afterwards the Prophet came and sat down. He had not sat in my room ever since the rumour started. For a whole month he received no revelations concerning me.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+  "output": {
+    "scene_title": "The Prophet Comforts the Prophet's Son-in-Law",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+    "characters": [
+      {
+        "id": "umar_ibn_al-khattab",
+        "name": "Umar ibn al-Khattab",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Mid 40s, dark olive skin, robust build, slightly taller than average. Thick beard, neat and short, with slight reddish henna tint. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong facial features, stern expression."
+      },
+      {
+        "id": "zayd_ibn_harithah",
+        "name": "Zayd ibn Harithah (R)",
+        "role": "family_of_prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Mid 20s, light brown skin, athletic build, slightly taller than average. Clean-shaven, with a few days' worth of stubble. Wearing simple white thobe, a dark brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Distinguished by dark cloak and subtle warm light."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Even in the darkest of times, comfort and solace can come from unexpected places, and the Prophet's compassion and understanding can bring peace to those who are suffering.",
+    "narrative_text": "The Prophet's son-in-law, Zayd ibn Harithah, was feeling down, and his tears never stopped after the Prophet received no revelations concerning him for a whole month. His parents were worried that his crying would break his heart, but a woman from the Anṣār came to comfort him, and then the Prophet sat down with him to offer words of solace.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, sitting down with Zayd ibn Harithah, with a calm and gentle expression. Zayd is shown in a state of distress, but the scene is handled sensitively and is suitable for children."
+    },
+    "image_prompt": "Soft pencil drawing. Interior of a modest 7th century Madinah mud-brick home. A robust Arab man in off-white thobe and brown cloak, white turban, sitting on a woven mat with a stern expression, looking down. Behind him, a slightly taller Arab man in simple white thobe, dark brown cloak, white turban, seen entirely from behind, standing with his back to the viewer, looking down, one hand on his chest. On the floor, a young Arab woman in a long, dark brown tunic, her face obscured by a headscarf, is sitting with Zayd ibn Harithah, offering him comfort. Simple mud-brick walls, clay water jug in corner. Low-key lighting, warm and intimate. Medium shot, eye level. Monochromatic color palette with subtle warm tones. No modern objects."
+  },
+  "metadata": {
+    "chapter": 24,
+    "chapter_title": "How to Mar a Splendid Victory",
+    "scene_types": [
+      "miracle",
+      "battle",
+      "emotional"
+    ],
+    "generation_warnings": null
+  }
+}

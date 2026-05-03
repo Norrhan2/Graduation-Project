@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0070",
+  "input": "When he woke up he was markedly more cheerful. He said to his companion: “Rejoice, Abū Bakr. Victory is certainly coming from God. This is the Angel Gabriel holding the rein of his horse on top of the battle dust.” The Prophet then went down to give his companions the happy tidings that they would be victorious. A word should be added here about the role of the angels. In all the campaigns the Muslims fought with the Prophet against the unbelievers, God sent angel troops to support them.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 17: Badr: The First Major Battle",
+  "output": {
+    "scene_title": "Victory from God",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 17: Badr: The First Major Battle",
+    "characters": [
+      {
+        "id": "abu_bakr",
+        "name": "Abu Bakr al-Siddiq",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light olive skin, slender build, slightly shorter than average. Thin grey-streaked beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      },
+      {
+        "id": "angel_gabriel",
+        "name": "Angel Gabriel",
+        "role": "angel",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Blinding light emanating from his form, making it impossible to discern facial features. Wearing white or radiant clothing that blends with the light. No clear depiction of his face or body, only a glowing presence."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "With Allah's support, believers can achieve victory over their enemies.",
+    "narrative_text": "The Prophet woke up feeling cheerful and told Abu Bakr that they would surely win the battle. He then went down to give the good news to his companions, saying that the Angel Gabriel was sending reinforcements. The angel was seen holding the rein of his horse above the battle dust, a sign of God's support.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, Angel Gabriel depicted as light only, no clear face or body. Compliant with Islamic depiction rules and modesty standards."
+    },
+    "image_prompt": "Illustration in a warm, golden palette. A simple Makkah home interior, with Abu Bakr sitting on a woven mat, looking up with a smile. The Prophet stands behind him, seen from behind, with a green cloak and turban. In the background, a blurred vision of the Angel Gabriel as a bright, shining light above the battle dust. No clear face or body, just a radiant presence. The scene is bathed in warm sunlight, with a few oil lamps casting a soft glow. Medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 17,
+    "chapter_title": "Badr: The First Major Battle",
+    "scene_types": [
+      "miracle",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

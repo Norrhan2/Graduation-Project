@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0041",
+  "input": "They threatened her with their swords, but without hitting her, because they were eager to obey the Prophet’s instructions. When they went inside, they hit Sallām with their swords. However, he had his body armour on and was only slightly wounded. One of them, nevertheless, forced his sword into his stomach and leant on the sword with all his weight until he realized that Sallām was dead. When they had accomplished their task, they withdrew hurriedly. Sallām’s wife shouted for help.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+  "output": {
+    "scene_title": "Sallam's Betrayal",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 26: An Account to Settle",
+    "characters": [
+      {
+        "id": "sahiba_sallams_wife",
+        "name": "Sallām's Wife",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Young, light-skinned, slender build, veiled, wearing dark brown thobe with long sleeves, loose hijab covering hair, simple leather sandals. Frightened expression, open mouth."
+      },
+      {
+        "id": "sallam",
+        "name": "Sallām",
+        "role": "sahabi",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Middle-aged, light olive skin, stocky build, wearing dark brown cloak over simple white thobe, leather body armour visible under cloak, simple headscarf. Dressed for battle, imposing presence."
+      },
+      {
+        "id": "sahabi_attacker",
+        "name": "Sahabi Attacker",
+        "role": "antagonist",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Middle-aged, dark skin, athletic build, wearing light brown cloak over simple white thobe, leather gloves visible. Aggressive posture, face obscured."
+      }
+    ],
+    "moral_lesson": "Betrayal is a serious sin, and honesty is the best policy.",
+    "narrative_text": "The Prophet's enemies threatened Sallām's wife, but only to get her to lead them to Sallām. They attacked him, but he had body armour on. Despite this, one of them stabbed him in the stomach and killed him. Sallām's wife shouted for help.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Scene depicts violence, but in a non-graphic manner, with silhouettes and from-behind depictions. No graphic details or blood."
+    },
+    "image_prompt": "Children's watercolor illustration. Exterior of 7th century Makkah mud-brick home. A young woman in dark brown thobe and hijab, standing at doorway, looking frightened. In the distance, a group of men in dark brown and light brown cloaks, seen from behind, as they flee after a violent encounter. Sallām's body, dressed in dark brown cloak and leather body armour, lying on the ground, surrounded by dust and chaos. Medium shot, eye level. Dark muted palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 26,
+    "chapter_title": "An Account to Settle",
+    "scene_types": [
+      "battle",
+      "confrontation"
+    ],
+    "generation_warnings": null
+  }
+}

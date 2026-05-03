@@ -1,0 +1,45 @@
+{
+  "training_id": "passage_0265",
+  "input": "Their objective – which was always present in their minds, and for the achievement of which they worked very hard – was the elimination of Islam altogether and the Muslims generally. They seized every opportunity to cause the Muslims all the damage they could. They adopted several means and tactics for the achievement of their goal. They tried hard to demoralize the Muslims when they went to war and worked hard to bring about a split in their ranks; they belittled Muhammad’s message so that Muslims would look at it with less respect; and they maintained secret contacts with other enemies of Islam inside and outside Madinah, in order to forge an alliance which would group all these forces in an all-out effort to exterminate Islam.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 19: New Trends of Hostility",
+  "output": {
+    "scene_title": "The Enemies of Islam",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 19: New Trends of Hostility",
+    "characters": [
+      {
+        "id": "quraish_leaders",
+        "name": "Quraish Leaders",
+        "role": "antagonist",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Middle-aged, dark skin, varying builds, dressed in typical Quraish attire: white or off-white thobes, black woolen cloaks, and head coverings. No distinguishing features, shown as a group or in the distance to avoid individuality."
+      },
+      {
+        "id": "muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Patience and unity are essential for facing challenges and overcoming obstacles, especially when standing up for what is right.",
+    "narrative_text": "The people of Quraish were determined to stop the spread of Islam. They tried to demoralize the Muslims, make them doubt the Prophet's message, and even formed alliances with other enemies of Islam.",
+    "compliance": {
+      "prophet_check": "PROPHET_NO_FACE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, Quraish leaders shown as silhouettes to avoid individuality. Focus on their actions rather than their faces. Appropriate for children due to the abstract nature of the scene."
+    },
+    "image_prompt": "Children's watercolor illustration. A dimly lit, narrow alley in 7th century Makkah with mud-brick buildings and flat roofs. A group of dark-skinned men in white or off-white thobes and black cloaks are shown as silhouettes, their faces obscured by shadows. In the background, a figure in a simple white thobe with a green cloak is seen from behind, walking away. The atmosphere is tense and foreboding. Medium shot, eye level. Muted color palette with warm tones. No modern objects."
+  },
+  "metadata": {
+    "chapter": 19,
+    "chapter_title": "New Trends of Hostility",
+    "scene_types": [
+      "miracle",
+      "battle",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

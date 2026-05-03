@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0014",
+  "input": "She then took off her head-covering, while the Prophet still sat on her lap. At that moment, he told her he could see him no more. She said, “Rejoice, Cousin, and be firm. This is certainly an angel, not a devil.” It was her clear thinking that led her to try this method, realizing that an angel would not stay in a room where a man and his wife were in a closely intimate position. Then followed a period during which the Angel Gabriel stopped coming to the Prophet.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 5: Up There in the Mountain",
+  "output": {
+    "scene_title": "Umm Salamah Recognizes an Angel",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 5: Up There in the Mountain",
+    "characters": [
+      {
+        "id": "umma_salamah",
+        "name": "Umm Salamah (Barrah bint Abd al-Uzza)",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Young adult, light to medium skin tone, slender build. Wearing loose fitting, high-necked, long-sleeved dark brown or black abaya with dark brown or black headscarf, partially covering her dark hair. Her face and hands are visible, with a calm gentle expression. Distinguished by her modest yet elegant attire."
+      },
+      {
+        "id": "angel_gabriel",
+        "name": "Angel Gabriel",
+        "role": "angel",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "A brilliant light radiates from this angel, representing his divine presence. No humanoid form is visible, only a gentle, soft glow that illuminates the surrounding space."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 40s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown without a face, from behind, or from the side. Distinguished by his simple yet dignified attire."
+      }
+    ],
+    "moral_lesson": "Trust in Allah and in the wisdom of the righteous, even when faced with the unknown.",
+    "narrative_text": "Umm Salamah, the Prophet's wife, realized that the Angel Gabriel was not a devil, but a messenger of Allah. She had clever thoughts and was firm in her faith. Then the Angel Gabriel stopped coming to the Prophet for a period of time.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is not shown in the scene, only his back. Umm Salamah's face and hands are visible, but her attire is modest. The Angel Gabriel is depicted as a gentle light, representing his divine presence."
+    },
+    "image_prompt": "Watercolor illustration. A simple yet elegant 7th century Makkah home interior. A young woman with light to medium skin tone, wearing a loose-fitting dark brown or black abaya and dark brown or black headscarf, sits on a woven mat with the Angel Gabriel, depicted as a brilliant soft light, beside her. The Prophet is seen from behind, without a face, sitting on a nearby mat. The space is illuminated by soft natural light. Medium shot, eye level. Warm beige and gentle blue palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 5,
+    "chapter_title": "Up There in the Mountain",
+    "scene_types": [
+      "miracle"
+    ],
+    "generation_warnings": null
+  }
+}

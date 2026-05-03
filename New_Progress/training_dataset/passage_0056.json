@@ -1,0 +1,36 @@
+{
+  "training_id": "passage_0056",
+  "input": "Establishing a New Muslim Community When the first Muslim emigrants started on their journey to Abyssinia, the Prophet had been preaching the message of Islam in Makkah for five years, three of which were characterized by the secret approach. Although the new message went public with the proclamation made by the Prophet as he stood on the top of the hill of al-Ṣafā, Islam was still largely confined to Makkah, almost unknown to people outside. Only those Arab individuals who went to Makkah for pilgrimage or to visit the Kaʿbah, came to know about it.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 10: Moving Out",
+  "output": {
+    "scene_title": "Prophet Preaching in Makkah",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 10: Moving Out",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Spreading the message of Allah is crucial for the growth of a community.",
+    "narrative_text": "The Prophet had been preaching Islam in Makkah for five years, but the message was still mainly confined to the city. People from outside rarely heard about it, except when they visited Makkah for pilgrimage.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, looking out at the audience with determination. Compliant depiction, no idols or violence. Suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Exterior view of Makkah with hazy desert background. A dignified man in simple white thobe and green cloak, white turban, seen entirely from behind, standing on a hilltop or mountain. In the distance, the Ka'bah and other ancient Makkah buildings. Flat horizon line. Warm earthy palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 10,
+    "chapter_title": "Moving Out",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

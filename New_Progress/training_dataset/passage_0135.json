@@ -1,0 +1,53 @@
+{
+  "training_id": "passage_0135",
+  "input": "Many would be reluctant to fight. Many others, those who were injured at Uḥud, would be unable to fight. The situation would be very difficult indeed for the Muslims. They would lose a great deal of what they had built in the three years since the Prophet’s emigration to Madinah. By going out to Ḥamrā’ al-Asad, encamping there, having such great fires in a demonstration of strength, and waiting in anticipation – by these tactics, along with the psychological trick played by Maʿbad on Abū Sufyān, the Muslims secured a breathing space after which they would be able to enter any new battle in a far better shape.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 20: A Bitter Defeat",
+  "output": {
+    "scene_title": "Muslims Secure a Breathing Space",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 20: A Bitter Defeat",
+    "characters": [
+      {
+        "id": "maabad_al-kharri",
+        "name": "Ma'bad al-Kharri",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, dark skin, athletic build, short black beard. Wearing beige thobe with brown cloak, simple leather sandals. Distinguished by confident posture."
+      },
+      {
+        "id": "abu_sufyan_ibn_harb",
+        "name": "Abu Sufyan ibn Harb",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, fair skin, muscular build, short beard. Wearing off-white thobe, red cloak, white cloth wrapped as head covering. Worn leather sandals. Distinguished by proud demeanor."
+      },
+      {
+        "id": "general_muslim_crowd",
+        "name": "General Muslim Crowd",
+        "role": "crowd",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": ""
+      }
+    ],
+    "moral_lesson": "In times of difficulty, patience, strategy, and clever tactics can prove more powerful than brute force.",
+    "narrative_text": "As the Muslims prepared to face a difficult situation, they used a clever plan to gain a temporary advantage. By demonstrating their strength and waiting patiently, they were able to secure a breathing space before facing new challenges.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Scene depicts a general crowd of Muslims, shown as silhouettes. Abu Sufyan and Ma'bad are shown with full faces, in accordance with their roles as antagonists and supporting characters."
+    },
+    "image_prompt": "Child-friendly illustration in muted colors. A desert landscape with sand dunes and palm trees in the background. In the distance, a group of dark silhouettes of Muslim warriors are seen, with a few campfires burning. In the foreground, a fair-skinned Arab man with a red cloak, off-white thobe, and white head cloth, is shown looking concerned, standing near a group of riders. Beside him, a younger Arab man with dark skin, beige thobe, and brown cloak, is seen with a confident expression, gesturing to the riders. Simple desert landscape, warm light, and gentle shadows. No modern objects."
+  },
+  "metadata": {
+    "chapter": 20,
+    "chapter_title": "A Bitter Defeat",
+    "scene_types": [
+      "battle",
+      "journey"
+    ],
+    "generation_warnings": [
+      "Character 'general_muslim_crowd' has insufficient appearance description"
+    ]
+  }
+}

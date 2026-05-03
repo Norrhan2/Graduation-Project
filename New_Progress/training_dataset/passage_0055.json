@@ -1,0 +1,58 @@
+{
+  "training_id": "passage_0055",
+  "input": "In the desert of Arabia, squads of pursuers were frantically searching for them. The Prophet’s plan was an elaborate one: as soon as he arrived at the cave, he gave the two camels to ʿAbdullāh ibn Arqat, a guide they had hired, and told him to take them to Madinah using an unfamiliar route. Thus the camels were not a burden to them in their three days of hiding in the cave. ʿĀmir ibn Fuhayrah, Abū Bakr’s servant and his shepherd, took his sheep for grazing during the day.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 14: The Journey to Madinah",
+  "output": {
+    "scene_title": "The Prophet's Elaborate Plan in the Desert",
+    "era": "late_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 14: The Journey to Madinah",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "abdullah_ibn_arqat",
+        "name": "ʿAbdullāh ibn Arqat",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark olive skin, athletic build, strong facial features. Thick black beard, neatly trimmed. Wearing simple brown woolen cloak, off-white cotton thobe, worn leather sandals. Practical, rugged appearance."
+      },
+      {
+        "id": "amir_ibn_fuhayrah",
+        "name": "ʿĀmir ibn Fuhayrah",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Mid 20s, light olive skin, lean build, youthful features. Short black beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, simple leather sandals. Carrying a staff for guiding sheep."
+      },
+      {
+        "id": "abu_bakr",
+        "name": "Abu Bakr al-Siddiq",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light olive skin, slender build, slightly shorter than average. Thin grey-streaked beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      }
+    ],
+    "moral_lesson": "Planning and preparation can make a big difference in overcoming challenges.",
+    "narrative_text": "In the desert, squads of pursuers were searching for the Prophet and his companions. The Prophet had a clever plan to throw them off their trail: he gave their camels to a guide and told him to take them to Madinah using a different route. Meanwhile, Abu Bakr's servant, ʿĀmir, took his sheep for grazing during the day, keeping them safe from harm.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No graphic violence, no idols or modern objects shown. Prophet shown from behind, companions shown with full faces."
+    },
+    "image_prompt": "Gouache desert landscape illustration. Distant dark shapes of pursuers on the horizon, sun beating down on sandy dunes. A man in white thobe and green cloak, white turban, seen entirely from behind, standing near a small cave entrance, giving a guide a staff. The guide, wearing brown cloak and off-white thobe, is looking at the camels. Meanwhile, in the distance, a young shepherd with staff and sheep is walking in the opposite direction. No modern objects. Desert sun and dusty atmosphere."
+  },
+  "metadata": {
+    "chapter": 14,
+    "chapter_title": "The Journey to Madinah",
+    "scene_types": [
+      "dialogue",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

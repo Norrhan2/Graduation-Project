@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0038",
+  "input": "He was also the Prophet’s envoy to al-Muqawqis, the ruler of Egypt. The Prophet then smiled at ʿUmar and said: “How would you know, ʿUmar, that God has not looked at the soldiers of Badr and said to them: I have forgiven you whatever you will do?” Tears sprang to ʿUmar’s eyes as he said: “God and His messenger know better.” It is in connection with this incident that the opening of Sūrah 60, The Examined One, was revealed. It orders the believers not to seek as patrons the enemies of God and their own enemies, by doing them a good turn in anticipation of reciprocation.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+  "output": {
+    "scene_title": "The Prophet's Envoy to Egypt",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "umar",
+        "name": "ʿUmar ibn al-Khattab",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark olive skin, athletic build, slightly taller than average. Thick black beard with slight red henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong facial features, piercing eyes."
+      }
+    ],
+    "moral_lesson": "Seeking good deeds from those who are enemies of Allah can lead to spiritual harm and corruption.",
+    "narrative_text": "The Prophet sent ʿUmar to al-Muqawqis, the ruler of Egypt, as his envoy. During his return, the Prophet asked ʿUmar how he knew God hadn't forgiven the soldiers of Badr. ʿUmar, deeply moved, replied that God and His messenger know better. This conversation led to the revelation of Sūrah 60, reminding believers not to seek good deeds from their enemies.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, ʿUmar shown with full face, emotional scene. No graphic content, suitable for children."
+    },
+    "image_prompt": "Whimsical ink illustration. Exterior of a 7th century Makkah mud-brick home. A dignified older Arab man with medium build, wearing white thobe and green cloak, white turban, seen entirely from behind, standing in the doorway with warm sunlight streaming behind him. In the background, a tall, dark-skinned young man with thick black beard, off-white thobe and brown cloak, brown leather sandals, standing with a look of deep contemplation. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Earthy color palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 34,
+    "chapter_title": "A Long Conflict Draws to a Close",
+    "scene_types": [
+      "dialogue",
+      "emotional"
+    ],
+    "generation_warnings": null
+  }
+}

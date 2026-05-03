@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0061",
+  "input": "When he arrived at a place called Dhul-Ḥulayfah, some nine kilometres from Madinah, he stopped to pray ẓuhr. He then marked the camels, according to Arabian practice, so that they would be known as camels intended for slaughter after the completion of devotional rituals. His companions followed suit with whatever animals they had with them for slaughter. The Prophet and his companions then went into the state of consecration, that is, iḥrām, wearing their iḥrām garments. They marched on, repeating the phrases which stressed that they were going out in response to God’s call to mankind to honour the Kaʿbah and glorify Him there.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 28: Peace in the Making",
+  "output": {
+    "scene_title": "The Prophet and Companions Prepare for Sacrifice",
+    "era": "madinah_early",
+    "region": "near_madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 28",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a black cloth wrapped around his waist, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by white thobe and subtle warm light."
+      },
+      {
+        "id": "abu_bakr",
+        "name": "Abu Bakr al-Siddiq",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light olive skin, slender build, slightly shorter than average. Thin grey-streaked beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      },
+      {
+        "id": "umar",
+        "name": "Umar ibn Al-Khattab",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 40s, medium olive skin, athletic build, tall and strong. Thick black beard, neatly trimmed. Wearing a simple off-white cotton thobe, brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong confident eyes, straight posture."
+      }
+    ],
+    "moral_lesson": "Sacrificing for the sake of Allah brings peace and unity among people.",
+    "narrative_text": "The Prophet and his companions reached Dhul-Ḥulayfah, a place near Madinah, where they stopped to pray. They then marked their camels for slaughter, signifying their intention to honour the Kaʿbah and glorify God.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, camels marked for slaughter in background. Companions shown in iḥrām garments, marching forward. No graphic violence or modern objects."
+    },
+    "image_prompt": "Children's watercolor illustration. A wide open plain with a few palm trees and a distant mud-brick building in the background. The Prophet, shown entirely from behind, is wearing a simple white thobe and black iḥrām garments. Abu Bakr and Umar are shown in the foreground, both wearing off-white cotton thobes, brown woolen cloaks, and white head coverings. They are holding the reins of their camels, marked with black cloth for slaughter. The camels are shown in the distance, with a few other companions in the background. A warm golden palette with soft sunlight. Medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 28,
+    "chapter_title": "Peace in the Making",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

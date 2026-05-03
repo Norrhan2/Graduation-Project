@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0009",
+  "input": "Buying the camel and giving it as a gift to its previous owner was highly characteristic of the Prophet. He was indeed the best example of generosity. When he asked to buy the camel, he intended all the time to give it back to Jābir as a gift, but he wanted Jābir to name his price so that he felt that the matter was serious. According to one report, the terms of the deal stipulated that Jābir could utilize the camel until they had arrived in Madinah.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 23: Consolidation",
+  "output": {
+    "scene_title": "Prophet's Generosity with the Camel",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 23: Consolidation",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "jabir",
+        "name": "Jābir ibn Abdullāh",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium olive skin, athletic build, slightly taller than average. Dark hair with hints of grey, neatly trimmed beard. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong facial features, alert expression."
+      }
+    ],
+    "moral_lesson": "Giving selflessly to others is an essential quality of a true believer.",
+    "narrative_text": "The Prophet Muhammad was known for his kindness and generosity. Once, he asked to buy a camel from Jābir, but his true intention was to give it back as a gift. By letting Jābir name his price, the Prophet made him feel valued and appreciated.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, interacting with Jābir. Jābir shown with full face, negotiating the price of the camel. Warm scene highlighting the Prophet's generosity, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration. A 7th century Makkah marketplace scene. A man in white thobe and green cloak, white turban, seen entirely from behind, standing with one hand on the shoulder of another man in off-white thobe and brown cloak, brown woolen head covering, dark hair with hints of grey, standing with arms crossed. Behind them, a simple mud-brick building with a flat roof, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 23,
+    "chapter_title": "Consolidation",
+    "scene_types": [
+      "journey",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

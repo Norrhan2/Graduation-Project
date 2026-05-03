@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0037",
+  "input": "It has been recorded in the universe and echoed in all its corners. It has also been recorded in the conscience of man, which today needs to be guided by what God has revealed and never to lose sight of it. It needs to remember that this event was a rebirth of humanity which can take place only once in history. A Test for Reassurance When the Prophet reached home after his sojourn in the mountain cave, his wife noticed that he was off-colour, which was natural after all the excitement of his first encounter with the Angel Gabriel.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 5: Up There in the Mountain",
+  "output": {
+    "scene_title": "The Prophet Returns Home",
+    "era": "pre_prophetic",
+    "region": "meccan_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 5: Up There in the Mountain",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Mid-30s, medium build, strong posture. Wearing a simple white woolen cloak draped over shoulders, brown leather girdle, leather sandals. Always shown from behind, face never visible. Distinguished by subtle folds of cloak."
+      },
+      {
+        "id": "aisha",
+        "name": "Aisha bint Abu Bakr",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Early 20s, light olive skin, slender build, slightly taller than average. Brown hair tied back under a light brown cloth wrapped as loose head covering. Wearing light beige cotton garment with dark grey woolen cloak draped over shoulders. Worn leather sandals. Kind gentle eyes, warm smile."
+      }
+    ],
+    "moral_lesson": "A family's love and concern for one another is a reflection of God's love and care for all His creation.",
+    "narrative_text": "The Prophet returned home after his time in the mountain cave, but his wife, Aisha, noticed that he was feeling unwell. She worried about him after his amazing encounter with the Angel Gabriel.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown entirely from behind, face not visible. Aisha shown with full face and modest clothing. Warm gentle scene, suitable for children."
+    },
+    "image_prompt": "Gentle watercolor illustration of a 5th century Meccan desert landscape. A simple cave in the distance, surrounded by rocky outcroppings and sparse palm trees. In the foreground, a young Arab woman with light olive skin, brown hair tied back, light beige garment with dark grey cloak, worn leather sandals. She stands near a date palm, looking concerned, with a gentle smile. The Prophet, shown entirely from behind, stands in the doorway of the cave, backlit by warm sunlight. No modern objects."
+  },
+  "metadata": {
+    "chapter": 5,
+    "chapter_title": "Up There in the Mountain",
+    "scene_types": [
+      "miracle"
+    ],
+    "generation_warnings": null
+  }
+}

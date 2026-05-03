@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0011",
+  "input": "This may hurt people immensely but its total effect is different from that of physical torture, which the tyrannical chiefs of the Quraysh inflicted on the weaker Muslims. Such verbal abuse may be painful, but it does not call for a break of ties with one’s own clan and crossing the sea by desert people in order to live in a distant land among total strangers. A point to be mentioned here is that Abū Bakr, the closest to the Prophet of all his companions, also embarked on this journey and travelled from Makkah.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 10: Moving Out",
+  "output": {
+    "scene_title": "Abu Bakr and the Prophet's Journey Together",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Chapter 10: Moving Out",
+    "characters": [
+      {
+        "id": "abu_bakr",
+        "name": "Abu Bakr al-Siddiq",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light olive skin, slender build, slightly shorter than average. Thin grey-streaked beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Enduring verbal abuse with patience and kindness is an essential part of being a true companion to the Prophet and to Allah.",
+    "narrative_text": "Abu Bakr, the closest companion to the Prophet, joined him on his journey from Makkah, showing his courage and loyalty despite the verbal abuse they faced.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Verbal abuse scene handled sensitively, no graphic details. Prophet shown from behind, Abu Bakr with full face. Appropriate for children to understand the importance of patience and loyalty."
+    },
+    "image_prompt": "Children's watercolor illustration. A warm Makkah afternoon, with sunlight casting long shadows. Abu Bakr, a slender older Arab man with light olive skin, thin grey-streaked beard with henna tint, off-white thobe and brown cloak, stands with his back to the viewer, looking out at the distant desert landscape, while behind him the Prophet is seen from behind, wearing a simple white thobe with a green cloak, white turban. The sky is a soft blue with a few white clouds. A few palm trees and mud-brick buildings in the background. Medium shot, eye level. Warm color palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 10,
+    "chapter_title": "Moving Out",
+    "scene_types": [
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "training_id": "passage_0062",
+  "input": "He immediately slaughtered the goat and prepared it for cooking. His wife ground the barley and started to cook the goat in a large saucepan. When the cooking and baking were nearly finished, Jābir went to the Prophet and said: “Messenger of God, I have some food at home. Would you like to be my guest with one or two of your companions?” The Prophet asked him how much food he had, and when he heard Jābir’s reply he said: “This is good and plenty.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+  "output": {
+    "scene_title": "Jabir Invites the Prophet to Dinner",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+    "characters": [
+      {
+        "id": "jabir_ibn_abdullah",
+        "name": "Jabir ibn Abdullah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Young adult, light olive skin, athletic build, short dark beard. Wearing simple white thobe, off-white head cloth wrapped loosely around neck. Worn leather sandals. Friendly smile, slight lean forward posture."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 40s, medium build, dignified upright posture. Wearing simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Hospitality and generosity are important virtues in Islam.",
+    "narrative_text": "The Prophet was invited to Jabir's home for dinner. Jabir had prepared a delicious meal, but the Prophet had to politely decline because he was busy with the Day of Atonement.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. Jabir shown with full face, smiling. Friendly scene, suitable for children."
+    },
+    "image_prompt": "Children's watercolor illustration. Interior of a modest 7th century Makkah mud-brick home. A young adult Arab man with light olive skin, short dark beard, simple white thobe, and off-white head cloth, sitting on a woven mat smiling, looking up at the doorway. The doorway is open, with a figure in a white thobe and brown cloak, white turban, seen entirely from behind, standing in the doorway with warm golden afternoon sunlight streaming behind him. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 25,
+    "chapter_title": "A Fresh Storm Gathers",
+    "scene_types": [
+      "dialogue"
+    ],
+    "generation_warnings": null
+  }
+}

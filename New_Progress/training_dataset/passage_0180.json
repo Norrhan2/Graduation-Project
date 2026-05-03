@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0180",
+  "input": "There were men and a few women, but there were others with them from Abyssinia and Yemen. The Prophet was very pleased when he saw Jaʿfar and his brethren. He hugged Jaʿfar and kissed him on his forehead between the eyes. He said: “I am not sure which of the two gives me greater pleasure: the conquest of Khaybar or the return of Jaʿfar.” The Prophet treated the returning immigrants on an equal footing with those who fought at Khaybar, giving each one of them an equal share of the spoils of war.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 29: Back on the Move",
+  "output": {
+    "scene_title": "The Prophet Greets Ja'far's Return",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 29: Back on the Move",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "ja_far",
+        "name": "Ja'far ibn Abi Talib",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Mid-30s, medium olive skin, athletic build, slightly taller than average. Thick black beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident warm eyes, slight smile."
+      }
+    ],
+    "moral_lesson": "The Prophet values the return of a believing soul as much as he values the bravery of those who fight on his behalf.",
+    "narrative_text": "The Prophet was very happy to see Ja'far returning from Abyssinia. He hugged Ja'far and kissed him on the forehead. He said that he was just as pleased to see Ja'far as he was to conquer the city of Khaybar.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, warm and affectionate scene. Ja'far shown with full face, smiling. Appropriate for children."
+    },
+    "image_prompt": "Watercolor illustration. A sunny Makkah street scene. A man in white thobe and green cloak, white turban, seen entirely from behind, standing with open arms embracing a slender young Arab man with medium olive skin, athletic build, thick black beard with henna tint, off-white thobe and brown cloak, standing with a slight smile. Simple mud-brick buildings in the background. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 29,
+    "chapter_title": "Back on the Move",
+    "scene_types": [
+      "dialogue",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

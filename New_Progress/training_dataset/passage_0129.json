@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0129",
+  "input": "He could not have imagined that his own daughter would humiliate him in this way. He said: “I am certain some harm has befallen you since you left me, daughter.” This is an example of how dear the Prophet was to the Muslims: dearer than their own parents or children. Such a relationship was totally incomprehensible to the unbelievers. Abū Sufyān left his daughter’s room nursing that severe blow. He went into the mosque where he met the Prophet. He said to him: “Muhammad, I have come to ask you to confirm our peace agreement and to validate it for a longer period.” The Prophet asked him: “Is this what you have come here for?\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+  "output": {
+    "scene_title": "Abu Sufyan Asks the Prophet to Confirm Peace Agreement",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 34: A Long Conflict Draws to a Close",
+    "characters": [
+      {
+        "id": "abu_sufyan",
+        "name": "Abu Sufyan ibn Harb",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 50s, dark olive skin, robust build. Thick, dark beard with slight grey streaks, neatly trimmed. Wearing off-white cotton thobe, dark brown woolen cloak, dark brown head cloth wrapped around head. Black leather sandals. Strong features, stern expression."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "The Prophet was dearer to Muslims than their own family members, demonstrating the strength of faith and loyalty.",
+    "narrative_text": "Abu Sufyan met the Prophet in the mosque to ask him to confirm their peace agreement. The Prophet asked him if this was the reason he had come.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind. Abu Sufyan shown with full face, stern expression. A respectful scene between the Prophet and Abu Sufyan, suitable for children."
+    },
+    "image_prompt": "Oil painting of a 7th century Makkah mosque interior. A robust older Arab man with dark olive skin, thick dark beard, off-white thobe and dark brown cloak, standing with hands clasped in front of him, speaking to the Prophet seen entirely from behind. The Prophet wears a white thobe and green cloak, white turban, standing upright with dignified posture. Simple mud-brick mosque walls, a few clay water jugs in the corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 34,
+    "chapter_title": "A Long Conflict Draws to a Close",
+    "scene_types": [
+      "dialogue",
+      "diplomacy"
+    ],
+    "generation_warnings": null
+  }
+}

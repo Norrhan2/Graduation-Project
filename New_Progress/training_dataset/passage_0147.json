@@ -1,0 +1,58 @@
+{
+  "training_id": "passage_0147",
+  "input": "Abū Mūsā gave him a report on the battle and conveyed to him the message of Abū ʿĀmir and his request to the Prophet to pray for him. The Prophet asked for water to be brought in, and had ordinary ablutions. He lifted his arms and prayed to God: “My Lord, forgive ʿUbayd Abū ʿĀmir. My Lord, place him on the Day of Judgement ahead of many of Your creation.” Abū Mūsā said to the Prophet: “And pray to God to forgive me as well, please.” The Prophet said: “My Lord, forgive ʿAbdullāh ibn Qays his sins and assign to him an honourable entrance [to heaven] on the Day of Judgement.” The Battle of Awṭās was a follow-up to the Battle of Ḥunayn.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 36: Grouping for a Final Assault",
+  "output": {
+    "scene_title": "The Prophet Prays for the Forgiveness of His Companions",
+    "era": "madinah_early",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 36: Grouping for a Final Assault",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      },
+      {
+        "id": "abu_musa",
+        "name": "Abū Mūsā al-Ash'arī",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, dark olive skin, athletic build, strong facial features. Thick black beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Serious expression, confident posture."
+      },
+      {
+        "id": "abdulla_ibn_qays",
+        "name": "ʿAbdullāh ibn Qays",
+        "role": "sahabi",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 40s, light olive skin, slender build, slightly shorter than average. Thin black beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      },
+      {
+        "id": "ubayd_abu_amir",
+        "name": "ʿUbayd Abū ʿĀmir",
+        "role": "sahabi",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Middle-aged, dark skin, average build, strong facial features. Thick black beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Serious expression, upright posture."
+      }
+    ],
+    "moral_lesson": "The Prophet's compassion and kindness towards his companions, and his role as a source of mercy and forgiveness.",
+    "narrative_text": "Abū Mūsā reported to the Prophet about the Battle of Awṭās and asked him to pray for ʿUbayd Abū ʿĀmir's forgiveness. The Prophet prayed for him and then asked for water to be brought so he could perform ablutions. He prayed for forgiveness for Abū Mūsā and another companion, ʿAbdullāh ibn Qays.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is shown from behind, and the other characters are shown with full faces. The scene is warm and inviting, with no graphic content. Suitable for children."
+    },
+    "image_prompt": "Watercolor illustration of a serene and calm atmosphere. The Prophet is shown from behind, standing near a clay water jug, with his arms raised in prayer. Abū Mūsā and the two other companions are shown with full faces, looking up at the Prophet with devotion and respect. The walls are made of mud bricks, with a simple wooden door in the background. The lighting is soft and warm, with a hint of golden sunlight streaming through the window. No modern objects."
+  },
+  "metadata": {
+    "chapter": 36,
+    "chapter_title": "Grouping for a Final Assault",
+    "scene_types": [
+      "dialogue",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0149",
+  "input": "He asked for Jābir to be called and when he arrived the Prophet said: “Take your camel, my nephew; it is yours.” He then called Bilāl (who acted as treasurer) and told him to go with Jābir and to give him an ounce of silver. Bilāl did as the Prophet bade him and gave Jābir a fraction more. Jābir said that the camel stayed with him a very long time. This incident shows the degree of care the Prophet used to show to his companions.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 23: Consolidation",
+  "output": {
+    "scene_title": "The Prophet Gives Jābir a Camel",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 23: Consolidation",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 40s, medium build, dignified upright posture. Wearing a simple white thobe with a beige cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by beige cloak and subtle warm light."
+      },
+      {
+        "id": "jabir",
+        "name": "Jābir ibn Abd Allah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, light olive skin, athletic build, tall and slender. Short beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Bright inquisitive eyes, slightly tousled hair."
+      },
+      {
+        "id": "bilal",
+        "name": "Bilāl ibn Rabah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Mid 30s, darker olive skin, lean build, tall and wiry. Short dark beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering, simple black headband. Worn leather sandals. Serene calm eyes, gentle smile."
+      }
+    ],
+    "moral_lesson": "The Prophet cared deeply for his companions and showed them kindness and generosity.",
+    "narrative_text": "When the Prophet asked Jābir to be called, he was given a special gift – his very own camel! The Prophet also told Bilāl to give Jābir some silver to help him take care of it.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. Jābir and Bilāl shown with full faces, friendly expressions. Kind scene, suitable for children."
+    },
+    "image_prompt": "Whimsical watercolor illustration. Exterior of a 7th century Makkah mud-brick home. A man in white thobe and beige cloak, white turban, seen entirely from behind, standing at an open doorway with warm golden afternoon sunlight streaming behind him. In the foreground, a young Arab man with light olive skin, short beard with henna tint, off-white thobe and brown cloak, smiling and looking up at the Prophet with excitement, one hand on his camel's halter. Next to him, a slightly older Arab man with darker olive skin, short dark beard, off-white thobe and brown cloak, smiling and handing him a small pouch of silver coins. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 23,
+    "chapter_title": "Consolidation",
+    "scene_types": [
+      "dialogue",
+      "journey"
+    ],
+    "generation_warnings": null
+  }
+}

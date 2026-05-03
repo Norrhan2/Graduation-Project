@@ -1,0 +1,45 @@
+{
+  "training_id": "passage_0090",
+  "input": "A Friendly Conversation One such incident is related by Jābir ibn ʿAbdullāh, a young companion of the Prophet who went on this expedition. He was riding a weak camel, which meant that he kept falling behind. When the Prophet noticed him and learnt that the camel was not a strong one, he asked Jābir to sit him down. When he did, the Prophet said to him: “Give me the stick in your hand, or cut a stick for me from a tree.” The Prophet pricked the side of the camel with the stick several times and asked Jābir to mount the camel.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 23: Consolidation",
+  "output": {
+    "scene_title": "The Prophet Helps Jābir with His Camel",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 23: Consolidation",
+    "characters": [
+      {
+        "id": "jābir_ibn_ʿabdullāh",
+        "name": "Jābir ibn ʿAbdullāh",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Early 20s, light brown skin, lean build, slightly taller than average. Thin brown beard, neatly kept. Wearing simple beige thobe, white cloth wrapped as loose head covering, worn leather sandals. Fresh faced, bright eyes, slightly nervous expression."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Late 40s, medium build, dignified upright posture. Wearing a simple white thobe with a beige cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by beige cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Selflessness and kindness can make a big difference in the lives of others.",
+    "narrative_text": "The Prophet Muhammad saw Jābir ibn ʿAbdullāh struggling on his weak camel. He asked Jābir to sit down and then took a stick and pricked the camel's side. With the camel's attention now on the stick, Jābir was able to mount it easily.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by sun. Jābir shown with full face, looking relieved. Gently paced scene, appropriate for children."
+    },
+    "image_prompt": "Children's watercolor illustration. A desert landscape of sandy dunes and palm trees. In the distance, a young Arab man with light brown skin, thin brown beard, beige thobe and white head cloth, riding a weak camel, looking worried. The Prophet, shown from behind, wearing white thobe and beige cloak, white turban, standing near a palm tree, holding a stick. The stick has just pricked the camel's side. Medium shot, eye level. Warm desert palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 23,
+    "chapter_title": "Consolidation",
+    "scene_types": [
+      "battle",
+      "journey",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

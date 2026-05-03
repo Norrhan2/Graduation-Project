@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0190",
+  "input": "Then the Prophet discovered that a stream of water ran into that fort from the back. He ordered the stream to be diverted so that the besieged would not have their supply of water. The trick worked and the Jews were forced to come out and fight. The battle was ferocious, with casualties on both sides. The Muslims, however, were able to gain the upper hand and al-Zubayr, the last fort in al-Naṭāh section, fell to them. The Jews were now in the next section, al-Shaqq, defending the nearest of its forts which had the name of Ubayy.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 29: Back on the Move",
+  "output": {
+    "scene_title": "The Muslims Gain Upper Hand in Battle",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 29: Back on the Move",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Early 40s, medium build, dignified upright posture. Wearing a simple white thobe with a brown cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown in silhouette, face never visible. Distinguished by white thobe and subtle warm light."
+      },
+      {
+        "id": "al_zubayr",
+        "name": "Al-Zubayr ibn al-Awwam",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark olive skin, athletic build, slightly taller than average. Thick black beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident determined eyes, straight posture."
+      },
+      {
+        "id": "jewish_soldier",
+        "name": "Jewish Soldier",
+        "role": "antagonist",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Middle-aged, medium build, rougher features. Wearing tattered dark clothing, dusty boots. Distant, angry expression, rugged posture."
+      }
+    ],
+    "moral_lesson": "Sometimes, a clever strategy can lead to a great victory.",
+    "narrative_text": "The Muslims discovered that the besieged Jews had a steady supply of water from a hidden stream. The Prophet ordered the stream to be diverted, forcing the Jews to come out and fight. The battle was fierce, but the Muslims gained the upper hand and captured the last fort in the al-Naṭāh section.",
+    "compliance": {
+      "prophet_check": "PROPHET_SILHOUETTE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Battle scene shown through dust cloud and silhouettes. No graphic violence, focus on clever strategy."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century battle scene in the desert. A group of rough-looking Jewish soldiers in the distance, silhouetted against the sun. In the foreground, a small fort with a stream running into it, which is now dry due to the diversion. A group of Muslim warriors, including Al-Zubayr, shown in the distance, silhouetted against the sun, with a faint hint of their white thobes and brown cloaks. A dust cloud rises from the battle, with a few scattered bodies in the distance. Simple desert landscape, with rocky outcrops and sparse vegetation. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 29,
+    "chapter_title": "Back on the Move",
+    "scene_types": [
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

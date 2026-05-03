@@ -1,0 +1,57 @@
+{
+  "training_id": "passage_0059",
+  "input": "If ʿAbdullāh ibn Ubayy could make the accusation of adultery against ʿĀ’ishah stick – and he saw no reason why it should not – that firm friendship between the Prophet and Abū Bakr, which was a source of strength to the Muslim community ever since the Prophet had received God’s message, would collapse. Moreover, the Muslim community would sink into confusion and distress. Before reporting the details of this singular event, it would be useful to remember that every event in the life of the Prophet must be studied carefully in order to learn how to respond should one find oneself in similar circumstances.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+  "output": {
+    "scene_title": "Abdullah Ibn Ubayy's Devious Plan",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 24: How to Mar a Splendid Victory",
+    "characters": [
+      {
+        "id": "abdullah_ibn_ubayy",
+        "name": "Abdullah ibn Ubayy",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium build, rough-hewn features. Darker olive skin, thick beard with slight grey tint, neatly kept. Wearing a simple beige thobe, plain brown woolen cloak, dark red cloth wrapped as loose head covering. Worn leather sandals. Distinguished by thick beard and rugged features."
+      },
+      {
+        "id": "aishah",
+        "name": "Aishah (RA)",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Early 20s, light olive skin, slender build, gentle features. Wearing a modest off-white thobe, plain brown woolen cloak, white khimar (head covering) with veil, worn leather sandals. Soft, calm eyes, delicate features."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "abu_bakr",
+        "name": "Abu Bakr al-Siddiq",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light olive skin, slender build, slightly shorter than average. Thin grey-streaked beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      }
+    ],
+    "moral_lesson": "Slander and false accusations can cause immense damage to individuals and communities.",
+    "narrative_text": "ʿAbdullāh ibn Ubayy wanted to accuse Aishah of adultery to destroy the Prophet's friendship with Abu Bakr and cause chaos in the Muslim community. This would be a grave mistake, as every event in the Prophet's life teaches us how to respond in difficult situations.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The Prophet is not visible in this scene, but his presence is felt through the actions of the other characters."
+    },
+    "image_prompt": "Watercolor illustration. Makkah cityscape in the background, with narrow alleys and mud-brick homes. In the foreground, a group of Arabs dressed in simple thobes and cloaks, engaged in conversation. Abdullah ibn Ubayy, a man with a thick beard and rugged features, stands at the center, looking devious. Aishah, a young woman with a white khimar and veil, stands to one side, looking worried. Abu Bakr, an older man with a grey-streaked beard, stands to the other side, looking concerned. The Prophet is not visible, but his presence is felt through the emotions of the other characters. Warm golden palette, eye level shot, medium distance. No modern objects."
+  },
+  "metadata": {
+    "chapter": 24,
+    "chapter_title": "How to Mar a Splendid Victory",
+    "scene_types": [
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}

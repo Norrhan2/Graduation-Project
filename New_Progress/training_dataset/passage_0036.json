@@ -1,0 +1,50 @@
+{
+  "training_id": "passage_0036",
+  "input": "He, therefore, addressed the people of the Quraysh: “I have noted what sort of abuse you have poured on the heads of those you have sent to Muhammad. You know that to me you are parents and that I am your son. When I heard of your trouble, I gathered those of my people who obeyed my orders and have come to give you support.” The Quraysh answered: “This is certainly true, and we have no doubts about you.” When he sat down to speak to the Prophet, he said: Muhammad, I have left your people mobilizing their forces.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 28: Peace in the Making",
+  "output": {
+    "scene_title": "Abu Bakr Offers Support to the Quraysh",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 28: Peace in the Making",
+    "characters": [
+      {
+        "id": "abu_bakr",
+        "name": "Abu Bakr al-Siddiq",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light olive skin, slender build, slightly shorter than average. Thin grey-streaked beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Kind gentle eyes, slightly stooped shoulders."
+      },
+      {
+        "id": "quraysh_leader",
+        "name": "Talhah ibn Ubayd Allah al-Taymi (Quraysh leader)",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Early 50s, robust build, stern expression. Darker olive skin, thick grey beard with slight black henna tint, neatly trimmed. Wearing off-white cotton thobe, intricately patterned black woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident, authoritative demeanor."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "True leadership involves finding common ground and speaking truth, even when faced with opposition and adversity.",
+    "narrative_text": "Abu Bakr stood up to address the people of the Quraysh, reminding them of his loyalty and support for them. He had gathered his people to offer their aid, and they were willing to help. The Quraysh leader thanked Abu Bakr for his offer, but then informed the Prophet that their people were mobilizing their forces.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by doorway light. Abu Bakr and Quraysh leader shown with full faces. Warm, respectful scene, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration of a 7th century Makkah marketplace. A serene, open-air meeting area with a few mud-brick buildings in the background. Abu Bakr, a slender older Arab man with light olive skin, thin grey-streaked beard with henna tint, off-white thobe and brown cloak, stands at a podium addressing a crowd of dignified older men, some with darker skin, thicker beards, and intricately patterned cloaks. The Prophet stands from behind, seen entirely from behind, wearing a simple white thobe and green cloak, white turban. Warm sunlight casts a golden glow on the scene. Medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 28,
+    "chapter_title": "Peace in the Making",
+    "scene_types": [
+      "dialogue"
+    ],
+    "generation_warnings": null
+  }
+}

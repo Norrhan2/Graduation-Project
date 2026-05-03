@@ -1,0 +1,45 @@
+{
+  "training_id": "passage_0126",
+  "input": "Nothing in this world gave them more joy and greater happiness than what God’s Messenger said to her. (Related by al-Bukhārī and Muslim.) The emigrants’ meeting with the Prophet was a joyful occasion. Jaʿfar walked on one leg when he saw the Prophet, as a gesture of respect. Apparently, this was an Abyssinian tradition. Jaʿfar wanted to show every kind of respect when he saw the Prophet. On his part, the Prophet said: “I do not know which gives me greater pleasure: the conquest of Khaybar or the arrival of Jaʿfar.” When one considers that the conquest of Khaybar changed the fortunes of the Muslims in Madinah, ushering in a period of affluence after they had suffered great poverty, and when one considers that this conquest meant the liquidation of all opposition from the Jewish enemies of Islam, one realizes how happy the Prophet was to see Jaʿfar and those who emigrated with him to Abyssinia.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 10: Moving Out",
+  "output": {
+    "scene_title": "Jaʿfar Shows Respect to the Prophet",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 10: Moving Out",
+    "characters": [
+      {
+        "id": "jaʿfar",
+        "name": "Jaʿfar ibn Abī Tālib",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, medium to dark olive skin, slender build, average height. Thick black beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain dark brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Distinguished by dignified posture, calm expression."
+      },
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      }
+    ],
+    "moral_lesson": "Showing respect to the Prophet and to one another is a sign of true faith and obedience to Allah.",
+    "narrative_text": "When Jaʿfar saw the Prophet, he showed him great respect by standing on one leg, an Abyssinian tradition. The Prophet was so happy to see Jaʿfar and the other emigrants return from Abyssinia.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, warm golden light. Jaʿfar shown with full face, dignified posture. Respectful scene, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration with warm colors. A simple 7th century Makkah mud-brick home interior. A slender young Arab man, Jaʿfar, with medium to dark olive skin, standing on one leg, wearing off-white thobe and dark brown cloak, white cloth wrapped as loose head covering. His expression is calm and respectful. The Prophet, seen from behind, stands at an open doorway with warm golden afternoon sunlight streaming behind him. A dignified figure, wearing simple white thobe and green cloak, white turban. Simple mud-brick walls, clay water jug in corner. Medium shot, eye level. No modern objects."
+  },
+  "metadata": {
+    "chapter": 10,
+    "chapter_title": "Moving Out",
+    "scene_types": [
+      "dialogue",
+      "journey",
+      "emotional"
+    ],
+    "generation_warnings": null
+  }
+}

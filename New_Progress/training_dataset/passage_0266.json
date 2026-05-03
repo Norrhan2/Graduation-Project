@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0266",
+  "input": "He said: “Zayd took the banner until he was killed. It was then taken over by Jaʿfar until he was killed. Then Ibn Rawāḥah carried the flag until he was killed.” The Prophet’s eyes were tearful as he said this. “It was taken over,” he continued, “by a man who is one of God’s swords, and he fought until God granted them success.” This is a testimony by the Prophet that what Khālid and the Muslims did in that battle was a great success.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 33: A Foretaste of Fighting the Byzantines",
+  "output": {
+    "scene_title": "The Prophet Mourns the Martyrs",
+    "era": "late_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 33: A Foretaste of Fighting the Byzantines",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a green cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by green cloak and subtle warm light."
+      },
+      {
+        "id": "khālid_ibn_al_walīd",
+        "name": "Khālid ibn al-Walīd",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 20s, dark olive skin, athletic build, tall. Dark brown hair, short beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Confident gaze, slight smirk."
+      }
+    ],
+    "moral_lesson": "Martyrdom for the sake of Allah is a great honor and a testament to one’s strong faith.",
+    "narrative_text": "The Prophet remembered the brave men who fought in the battle, and how they gave their lives for the sake of Allah. He praised their bravery and the success they achieved.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, eyes tearful but face not visible. Khālid shown with full face, confident expression. The scene is somber and respectful, suitable for children."
+    },
+    "image_prompt": "Watercolor illustration in muted colors. A dignified older Arab man in simple white thobe and green cloak, white turban, seen entirely from behind, standing in a modestly lit 7th century Makkah home. On a woven mat nearby, a young Arab warrior in off-white thobe and brown cloak, with white cloth wrapped as loose head covering, looks up with a confident gaze. Simple mud-brick walls, a clay water jug in the corner. Medium shot, eye level. Muted earthy palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 33,
+    "chapter_title": "A Foretaste of Fighting the Byzantines",
+    "scene_types": [
+      "dialogue",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

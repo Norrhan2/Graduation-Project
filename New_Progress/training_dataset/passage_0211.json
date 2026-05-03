@@ -1,0 +1,44 @@
+{
+  "training_id": "passage_0211",
+  "input": "They were unable to cook, because their pots and pans were being turned upside down by the wind. Their tents began to collapse, and they were worried that the Muslims might attack them that very night. In this atmosphere, thoughts of departure started to creep into their minds. Back in the Muslim camp, the Prophet stood up praying for a part of the night. He then turned to his companions and asked: “Who is willing to go and find out what our enemies are doing and come back. [To come back was a condition the Prophet attached to that particular mission.] I shall pray God to make any volunteer for this mission my companion in Heaven.” Although nothing is more tempting to a Muslim than being admitted to Heaven in companionship with the Prophet, the conditions which prevailed that night were far from encouraging.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+  "output": {
+    "scene_title": "Nighttime Patrol in the Desert",
+    "era": "madinah_early",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 25: A Fresh Storm Gathers",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a beige cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by beige cloak and subtle warm light."
+      },
+      {
+        "id": "sahabi_patrol",
+        "name": "Sahabi (unnamed)",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark olive skin, athletic build, rugged appearance. Short beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain dark woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Alert, focused expression."
+      }
+    ],
+    "moral_lesson": "Being willing to risk your life for the sake of Allah and His Messenger is a noble act.",
+    "narrative_text": "The Prophet stood up praying for a part of the night, then asked for a volunteer to go and find out what their enemies were doing. He promised that anyone who went on this mission would be his companion in Heaven, if they returned safely.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, standing in prayer. Volunteer shown with full face, alert expression. Desert setting at night, dark skies with stars, warm golden light from distant campfires."
+    },
+    "image_prompt": "Children's digital painting. Dark desert night sky with stars and a crescent moon. A man in white thobe and beige cloak, white turban, seen entirely from behind, standing in prayer in the Muslim camp. In the distance, a smaller figure in off-white thobe and dark cloak, white head covering, walking into the darkness, looking back at the camp. Simple, rugged hills in the background, dark palm trees. Medium shot, eye level. Muted desert palette with warm golden light. No modern objects."
+  },
+  "metadata": {
+    "chapter": 25,
+    "chapter_title": "A Fresh Storm Gathers",
+    "scene_types": [
+      "dialogue",
+      "battle"
+    ],
+    "generation_warnings": null
+  }
+}

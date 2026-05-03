@@ -1,0 +1,51 @@
+{
+  "training_id": "passage_0016",
+  "input": "He sought to be her guest and under her protection. She granted him that, since there was nothing in the teachings of Islam which prevented any Muslim from doing so. Indeed, there is every encouragement to extend protection to those who fear for their lives. Soon, it was time for dawn prayers and the believers were assembled in the mosque where the Prophet led them in prayers. When the congregational prayer began and all the Muslims were engaged in their prayers, Zaynab came out of the women’s quarters and spoke loudly: “Let everybody know that I have extended protection to Abū al-ʿĀṣ ibn al-Rabīʿ.” When the prayers were over, the Prophet turned towards the congregation and asked them whether they had heard what he did.\nSource: Adil Salahi, Muhammad: Man and Prophet, Ch. 27: Family Matters",
+  "output": {
+    "scene_title": "Zaynab Extends Protection to Abū al-ʿĀṣ",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 27: Family Matters",
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad (PBUH)",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 40s, medium build, dignified upright posture. Wearing a simple white thobe with a brown leather cloak draped over shoulders, white turban with tail between shoulder blades. Simple leather sandals. Always shown from behind, face never visible. Distinguished by brown cloak and subtle warm light."
+      },
+      {
+        "id": "zaynab",
+        "name": "Zaynab bint Khuzayma",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Young adult, light olive skin, slender build, average height. Covered hair and neck, wearing a long-sleeved dark blue dress with loose hijab draped over shoulders. Simple leather sandals. Warm smile, gentle eyes."
+      },
+      {
+        "id": "abu_al_aas",
+        "name": "Abū al-ʿĀṣ ibn al-Rabīʿ",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 30s, dark olive skin, athletic build, taller than average. Thick black beard, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped as loose head covering. Worn leather sandals. Strong confident eyes, straight posture."
+      }
+    ],
+    "moral_lesson": "Protection and kindness to those who fear for their lives is a fundamental aspect of Islam.",
+    "narrative_text": "When the Prophet led the believers in prayers, Zaynab stood up and announced that she had extended protection to Abū al-ʿĀṣ, who had sought her help. After the prayers, the Prophet asked the congregation if they had heard what Zaynab had said.",
+    "compliance": {
+      "prophet_check": "PROPHET_FROM_BEHIND",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Prophet shown from behind, backlit by mosque light. Zaynab and Abū al-ʿĀṣ shown with full faces. Warm scene, appropriate for children."
+    },
+    "image_prompt": "Traditional Arabic calligraphy illustration. Interior of a 7th century Makkah mosque with simple mud-brick walls. A man in white thobe and brown cloak, white turban, seen entirely from behind, standing at the front of the congregation with warm golden morning light streaming behind him. In the audience, a young Arab woman with light olive skin, covered hair, dark blue dress, loose hijab, smiling warmly, and a strong-looking Arab man with dark olive skin, black beard, off-white thobe, brown cloak, and white head covering, looking confident. Medium shot, eye level. Warm golden palette. No modern objects."
+  },
+  "metadata": {
+    "chapter": 27,
+    "chapter_title": "Family Matters",
+    "scene_types": [
+      "battle",
+      "teaching"
+    ],
+    "generation_warnings": null
+  }
+}
