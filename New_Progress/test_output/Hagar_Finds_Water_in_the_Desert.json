@@ -1,0 +1,44 @@
+{
+  "passage_id": "passage_0030",
+  "chapter_title": "A Glance Back in History",
+  "input_passage": "She then heard the angel asking her who she was. She answered: “I am Hagar, the mother of Abraham’s son.” He asked her: “To whom has he entrusted you in this barren place?” She replied: “He entrusted us to the care of God.” The angel rejoined: “He has then trusted you to the All-Merciful, the Compassionate.” At this point, while the boy was still rubbing his leg against the earth, water gushed forth between his feet. Hagar shouted: “God is Supreme.” She rushed back to her son and began to form a barrier around the new-found spring so that the water would not run into the valley.",
+  "panel": {
+    "scene_title": "Hagar Finds Water in the Desert",
+    "era": "ancient_prophets",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 1: A Glance Back in History",
+    "characters": [
+      {
+        "id": "hagar",
+        "name": "Hagar",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged woman, dark skin, worn out from traveling. Simple tattered dress, headscarf covering hair. Sandaled feet, carrying a waterskin on her shoulder."
+      },
+      {
+        "id": "angel",
+        "name": "Angel (Voice)",
+        "role": "angel",
+        "depiction_rule": "LIGHT",
+        "appearance": "Glowing light above, no humanoid form. Radiant aura surrounding him."
+      },
+      {
+        "id": "ibrahim_ismael",
+        "name": "Ibrahim and Ismail",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Male figures in the background, faces not visible. Wearing simple robes, standing near the spring."
+      }
+    ],
+    "moral_lesson": "Trust in Allah brings relief and solutions to problems.",
+    "narrative_text": "Hagar told the angel her name and that she was the mother of Ibrahim's son. The angel asked her who had sent her to the desert. Hagar replied that Ibrahim had entrusted them to Allah's care. The angel confirmed that Allah, the All-Merciful, the Compassionate, had indeed taken care of them. Water suddenly gushed out from the ground, and Hagar thanked Allah saying: ‘God is Supreme’.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Angel represented as a glowing light, no humanoid form. Hagar and Ibrahim's son visible, but faces not shown."
+    },
+    "image_prompt": "Watercolor illustration with warm desert colors. Hagar, a middle-aged woman with dark skin, stands in the desert, looking relieved. An angel's voice is above her, represented as a glowing light. In the background, Ibrahim and Ismail are seen, but their faces are not visible. Water gushes out from the ground, and Hagar's son is shown rubbing his leg against the earth. A simple tattered dress, headscarf, and sandaled feet for Hagar, with a waterskin on her shoulder. Softly lit, with the sun behind them. No modern objects."
+  },
+  "generated_image_url": "https://v3b.fal.media/files/b/0a989df2/8PQYk4qgEIViqVwqm3yWx.jpg"
+}
