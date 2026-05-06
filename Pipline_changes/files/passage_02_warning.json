@@ -1,0 +1,60 @@
+{
+  "input": {
+    "passage": "Allah informed His Prophet of the plot through the Angel Gabriel, and gave him permission to leave Makkah. The Prophet went immediately to the house of Abu Bakr, who had long been hoping for permission to emigrate. When the Prophet told him that he would be his companion on the journey, Abu Bakr wept tears of joy. He had already prepared two camels months in advance, feeding them carefully in anticipation of this very day.",
+    "source": "Bukhari Hadith 3905; Ibn Hisham, Vol. 2"
+  },
+
+  "output": {
+    "story_metadata": {
+      "story_title": "The Prophet Goes to Abu Bakr",
+      "era": "late_makkah",
+      "region": "makkah",
+      "source_reference": "Bukhari 3905; Ibn Hisham Vol. 2",
+      "moral_lesson": "True friendship is built on faith and trust. Abu Bakr's love for the Prophet was so deep that he wept with joy at the chance to share danger with him."
+    },
+
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with a distinctive green cloak draped over the shoulders, white turban with a tail hanging between the shoulder blades. Simple leather sandals. Always shown from behind only, face never visible. Distinguished by the green cloak."
+      },
+      {
+        "id": "abu_bakr",
+        "name": "Abu Bakr",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light olive skin, slender slightly shorter than average build. Thin grey-streaked beard with slight reddish henna tint, neatly kept. Wearing off-white cotton thobe, plain brown woolen cloak, white cloth wrapped loosely as head covering. Worn leather sandals. Kind gentle eyes."
+      }
+    ],
+
+    "panels": [
+      {
+        "panel_number": 1,
+        "characters_in_panel": ["prophet_muhammad", "abu_bakr"],
+        "narrative_text": "The Prophet quickly went to the home of his dearest friend, Abu Bakr. With urgency in his step, he came to share the news that Allah had finally given them permission to leave Makkah.",
+        "compliance": {
+          "prophet_check": "PROPHET_FROM_BEHIND",
+          "modesty_check": "COMPLIANT",
+          "child_safe": "APPROPRIATE",
+          "notes": "Prophet shown entering the home from behind, distinguished by green cloak. Abu Bakr shown rising in surprise. Warm domestic scene."
+        },
+        "image_prompt": "Children's watercolor storybook illustration. Interior of a modest 7th century Makkah mud-brick home. A man in a simple white thobe with a distinctive green cloak draped over his shoulders, wearing a white turban with a tail between his shoulder blades, seen entirely from behind, has just stepped through the doorway. Warm golden afternoon sunlight streams in behind him from outside, creating a gentle silhouette effect. Inside the room, a slender older Arab man with light olive skin, thin grey-streaked beard with henna tint, wearing an off-white thobe and brown woolen cloak, white head covering, is rising from a woven mat with surprise on his kind face. Simple mud-brick walls, a clay water jug in the corner. Medium shot. Warm golden palette. No modern objects."
+      },
+      {
+        "panel_number": 2,
+        "characters_in_panel": ["prophet_muhammad", "abu_bakr"],
+        "narrative_text": "When the Prophet told him, 'Abu Bakr, you will be my companion,' Abu Bakr wept tears of joy. He had been waiting for this day. He had already prepared two strong camels, feeding them carefully for many months!",
+        "compliance": {
+          "prophet_check": "PROPHET_FROM_BEHIND",
+          "modesty_check": "COMPLIANT",
+          "child_safe": "APPROPRIATE",
+          "notes": "Prophet still shown from behind. Abu Bakr's emotional reaction is the focus - tears of joy, hand on chest. Tender intimate moment."
+        },
+        "image_prompt": "Children's watercolor storybook illustration. Interior of the same Makkah mud-brick home. The figure in white thobe with green cloak and white turban stands in the foreground, still seen entirely from behind, hand resting gently on the doorframe. In the midground, the slender older man with light olive skin, thin grey-streaked beard with henna tint, off-white thobe and brown cloak, sits on a woven mat with tears of joy streaming down his face, one hand pressed to his chest, looking up at the figure with overwhelming love and emotion. Soft warm light, intimate composition. Medium close shot, eye-level. Warm golden palette emphasizing the emotional warmth. No modern objects."
+      }
+    ]
+  }
+}

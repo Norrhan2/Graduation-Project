@@ -1,0 +1,86 @@
+{
+  "input": {
+    "passage": "After many days of travel through the harsh desert, the Prophet and Abu Bakr finally approached the city of Madinah. The people had been waiting eagerly for days, going out to greet them every morning. When at last the travelers came in sight, the people of Madinah erupted in joy! They sang songs of welcome, men women and children running out to greet the beloved Prophet. As the Prophet entered the city on his camel, every clan invited him to stay with them. He kindly let his camel choose - 'She has her orders,' he said. The camel walked through the streets and stopped at the home of Abu Ayyub al-Ansari, a humble companion who was overjoyed at the great honor.",
+    "source": "Ibn Hisham, Vol. 2; Bukhari"
+  },
+
+  "output": {
+    "story_metadata": {
+      "story_title": "The Joyful Arrival in Madinah",
+      "era": "madinah_early",
+      "region": "madinah",
+      "source_reference": "Ibn Hisham, Vol. 2; Bukhari",
+      "moral_lesson": "Allah always rewards patience and trust. After all the hardships of the journey, the Prophet was welcomed with such overwhelming love that the day of his arrival became the start of a new Islamic calendar."
+    },
+
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with the distinctive green cloak, white turban with tail. Simple leather sandals. Always shown from behind only, face never visible. Distinguished by green cloak."
+      },
+      {
+        "id": "abu_bakr",
+        "name": "Abu Bakr",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light olive skin, slender build. Thin grey-streaked beard with henna tint. Wearing off-white thobe, brown woolen cloak, white head covering. Travel-weary but joyful expression."
+      },
+      {
+        "id": "abu_ayyub",
+        "name": "Abu Ayyub al-Ansari",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged man around 40, warm tan skin, sturdy modest build. Black beard with some grey. Wearing a simple beige thobe and dark brown sleeveless vest, simple cloth head covering. Humble servant-like demeanor. Warm joyful eyes filled with disbelief at the honor."
+      },
+      {
+        "id": "madinah_crowd",
+        "name": "The People of Madinah",
+        "role": "crowd",
+        "depiction_rule": "FULL",
+        "appearance": "Large diverse crowd of men, women, and children of various ages and skin tones. Men in simple thobes of various earth tones. Women modestly dressed in long jilbabs and khimars in soft colors (greens, blues, browns). Children in small thobes. All faces filled with overwhelming joy, many with tears of happiness, some raising hands in welcome."
+      }
+    ],
+
+    "panels": [
+      {
+        "panel_number": 1,
+        "characters_in_panel": ["prophet_muhammad", "abu_bakr", "madinah_crowd"],
+        "narrative_text": "After the long journey, the people of Madinah saw them coming! Songs of joy filled the air as men, women, and children rushed out to welcome the beloved Prophet. They had been waiting for this moment for so long.",
+        "compliance": {
+          "prophet_check": "PROPHET_FROM_BEHIND",
+          "modesty_check": "COMPLIANT",
+          "child_safe": "APPROPRIATE",
+          "notes": "Crowd scene with Prophet shown from behind on camel. Women in crowd modestly dressed in jilbab/khimar. Joyful celebration depicted appropriately."
+        },
+        "image_prompt": "Children's watercolor storybook illustration. Wide shot of the outskirts of 7th century Madinah - an oasis city with date palm groves visible in the background. The figure of the Prophet seen entirely from behind, wearing a simple white thobe with distinctive green cloak and white turban, riding on a healthy camel. Beside him on another camel, the slender older man with light olive skin, thin grey-streaked beard with henna tint, off-white thobe and brown cloak. Stretching out before them, a large diverse crowd of joyful Madinans - men in simple earth-toned thobes, women modestly dressed in long jilbabs and khimars in soft greens, blues, and browns covering hair and shoulders, children of various ages. All faces are filled with overwhelming joy, hands raised in welcome, some with tears of happiness. Bright warm afternoon sun, date palm groves in background. Wide composition. Joyful golden palette. No modern objects."
+      },
+      {
+        "panel_number": 2,
+        "characters_in_panel": ["prophet_muhammad", "madinah_crowd"],
+        "narrative_text": "Every clan in Madinah wanted the Prophet to stay with them, each holding the rein of his camel. But the Prophet kindly said, 'Let her go - she has her orders.' He let his camel choose where to stop.",
+        "compliance": {
+          "prophet_check": "PROPHET_FROM_BEHIND",
+          "modesty_check": "COMPLIANT",
+          "child_safe": "APPROPRIATE",
+          "notes": "Prophet on camel shown from behind. Crowd of clan leaders around camel. Beautiful moment of the Prophet's wisdom and humility."
+        },
+        "image_prompt": "Children's watercolor storybook illustration. Inside the streets of 7th century Madinah, narrow streets between mud-brick homes with date palms visible above the rooftops. The figure in white thobe with green cloak and white turban seen from behind, sitting dignified on his camel. Around the camel, a group of Madinan men in simple thobes (earth tones - tan, brown, olive) reaching out their hands toward the camel's reins, looking up at the rider with hopeful expressions, gesturing toward their homes inviting him. Their expressions are reverent and eager. The camel walks calmly forward with quiet purpose. Soft afternoon golden light. Medium-wide shot, slightly low angle. Warm sandy and earthy palette. No modern objects."
+      },
+      {
+        "panel_number": 3,
+        "characters_in_panel": ["prophet_muhammad", "abu_ayyub"],
+        "narrative_text": "The camel walked through the streets and finally stopped right in front of the home of Abu Ayyub! He could hardly believe his good fortune as he ran out, ready to welcome the Prophet of Allah into his humble home.",
+        "compliance": {
+          "prophet_check": "PROPHET_FROM_BEHIND",
+          "modesty_check": "COMPLIANT",
+          "child_safe": "APPROPRIATE",
+          "notes": "Final scene of the story. Prophet from behind dismounting. Abu Ayyub's joyful disbelief is the emotional anchor."
+        },
+        "image_prompt": "Children's watercolor storybook illustration. Outside a humble two-storey mud-brick home in 7th century Madinah. The camel has stopped right at the door. The figure in white thobe with green cloak and white turban seen from behind, just dismounting from the camel with quiet dignity. In front of him, Abu Ayyub - a middle-aged Arab man with warm tan skin, black beard with some grey, wearing a simple beige thobe and dark brown sleeveless vest, simple cloth head covering - stands in awestruck disbelief, hands clasped to his chest, eyes filled with joyful tears, looking like he cannot believe his honor. The home is humble - mud-brick walls with a wooden door, modest. Date palm trees visible. Warm afternoon light. Medium shot, eye level. Warm golden palette. No modern objects."
+      }
+    ]
+  }
+}
