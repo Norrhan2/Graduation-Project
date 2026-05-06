@@ -1,0 +1,101 @@
+{
+  "passage_id": "passage_0030",
+  "chapter_title": "A Glance Back in History",
+  "input_passage": "She then heard the angel asking her who she was. She answered: “I am Hagar, the mother of Abraham’s son.” He asked her: “To whom has he entrusted you in this barren place?” She replied: “He entrusted us to the care of God.” The angel rejoined: “He has then trusted you to the All-Merciful, the Compassionate.” At this point, while the boy was still rubbing his leg against the earth, water gushed forth between his feet. Hagar shouted: “God is Supreme.” She rushed back to her son and began to form a barrier around the new-found spring so that the water would not run into the valley.",
+  "panel": {
+    "scene_title": "Hagar Finds Water in the Desert",
+    "era": "ancient_prophets",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, Ch. 1: A Glance Back in History",
+    "characters": [
+      {
+        "id": "hagar",
+        "name": "Hagar",
+        "role": "messenger's_family",
+        "depiction_rule": "FULL",
+        "appearance": "A young woman, dark hair under her head cloth, light brown skin, simple white and brown tunic, carrying a water jug and her baby."
+      },
+      {
+        "id": "angel",
+        "name": "Angel (Jibril)",
+        "role": "angel",
+        "depiction_rule": "GLOWING_LIGHT",
+        "appearance": "Glowing golden light with a gentle aura, radiating kindness and compassion."
+      },
+      {
+        "id": "baby_ismael",
+        "name": "Ismail",
+        "role": "messenger's_family",
+        "depiction_rule": "SILHOUETTE",
+        "appearance": "Baby lying on the ground, a dark shape with a small head and body, with his mother's arm holding him."
+      }
+    ],
+    "moral_lesson": "Trust in God's mercy and kindness always leads to a positive outcome.",
+    "narrative_text": "Hagar was struggling to find water in the desert for her baby. An angel appeared and asked her who she was. Hagar replied that she was entrusted to God's care. To her surprise, water started flowing from the ground, and she was overjoyed.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_IN_SCENE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Hagar and the baby depicted with simple, modest clothing. The angel shown as a glowing light."
+    },
+    "scene_description": "A barren desert landscape with a few palm trees in the distance. A young woman and her baby are seen in the center of the panel, with a glowing golden light of an angel hovering above them. The woman is holding a water jug and her baby, and the baby is rubbing his leg against the ground."
+  },
+  "prompts": {
+    "A_silhouette": "Islamic children's picture book illustration, silhouette art style. Warm golden and amber color palette, dramatic backlit lighting. ALL human figures shown as elegant silhouettes with NO facial features — figures defined only by clothing shapes and posture. Hagar: visible but minimal facial detail, soft features. Angel (Jibril): visible but minimal facial detail, soft features. Ismail: shown as silhouette, no facial features visible. Scene: A barren desert landscape with a few palm trees in the distance. A young woman and her baby are seen in the center of the panel, with a glowing golden light of an angel hovering above them. The woman is holding a water jug and her baby, and the baby is rubbing his leg against the ground. Flat geometric shapes, clean lines, high contrast between warm light and shadow. 7th century Arabian setting, mud-brick architecture, desert landscape. No text. No modern objects. No facial features on any person.",
+    "B_watercolor": "Soft watercolor children's book illustration. Gentle muted palette, warm earth tones, soft diffused lighting. Characters rendered with minimal facial detail — expressive body language, loose brushstroke faces with no sharp features. Hagar: visible but minimal facial detail, soft features. Angel (Jibril): visible but minimal facial detail, soft features. Ismail: shown as silhouette, no facial features visible. Scene: A barren desert landscape with a few palm trees in the distance. A young woman and her baby are seen in the center of the panel, with a glowing golden light of an angel hovering above them. The woman is holding a water jug and her baby, and the baby is rubbing his leg against the ground. Painterly style, visible watercolor texture, gentle washes of color. Historically accurate 7th century Arabia — mud-brick buildings, woven mats, clay pots. Uplifting, peaceful mood suitable for children aged 6-12. No text. No modern objects."
+  },
+  "results": {
+    "FLUX Dev": {},
+    "FLUX Pro": {},
+    "FLUX Pro v1.1": {},
+    "SD3 Medium": {},
+    "Ideogram v2": {},
+    "FLUX Schnell": {},
+    "SDXL Lightning": {},
+    "Hyper SDXL": {}
+  },
+  "errors": {
+    "FLUX Dev/A — Silhouette": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "FLUX Dev/B — Watercolor": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "FLUX Dev/C — Manuscript": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "FLUX Dev/D — Sketch": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "FLUX Pro/A — Silhouette": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "FLUX Pro/B — Watercolor": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "FLUX Pro/C — Manuscript": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "FLUX Pro/D — Sketch": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "FLUX Pro v1.1/A — Silhouette": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "FLUX Pro v1.1/B — Watercolor": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "FLUX Pro v1.1/C — Manuscript": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "FLUX Pro v1.1/D — Sketch": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "SD3 Medium/A — Silhouette": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "SD3 Medium/B — Watercolor": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "SD3 Medium/C — Manuscript": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "SD3 Medium/D — Sketch": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "Ideogram v2/A — Silhouette": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "Ideogram v2/B — Watercolor": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "Ideogram v2/C — Manuscript": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "Ideogram v2/D — Sketch": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "FLUX Schnell/A — Silhouette": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "FLUX Schnell/B — Watercolor": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "FLUX Schnell/C — Manuscript": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "FLUX Schnell/D — Sketch": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "SDXL Lightning/A — Silhouette": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "SDXL Lightning/B — Watercolor": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "SDXL Lightning/C — Manuscript": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "SDXL Lightning/D — Sketch": "User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.",
+    "Hyper SDXL/A — Silhouette": "Application 'hyper-sdxl' not found",
+    "Hyper SDXL/B — Watercolor": "Application 'hyper-sdxl' not found",
+    "Hyper SDXL/C — Manuscript": "Application 'hyper-sdxl' not found",
+    "Hyper SDXL/D — Sketch": "Application 'hyper-sdxl' not found"
+  },
+  "models": {
+    "FLUX Dev": "fal-ai/flux/dev",
+    "FLUX Pro": "fal-ai/flux-pro",
+    "FLUX Pro v1.1": "fal-ai/flux-pro/v1.1",
+    "SD3 Medium": "fal-ai/stable-diffusion-v3-medium",
+    "Ideogram v2": "fal-ai/ideogram/v2",
+    "FLUX Schnell": "fal-ai/flux/schnell",
+    "SDXL Lightning": "fal-ai/lightning-models/sdxl",
+    "Hyper SDXL": "fal-ai/hyper-sdxl"
+  }
+}
