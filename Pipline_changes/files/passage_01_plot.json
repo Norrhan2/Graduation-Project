@@ -1,0 +1,60 @@
+{
+  "input": {
+    "passage": "A conference was called at Dar al-Nadwah, the house where the Quraysh leaders met to discuss grave matters. They debated what to do about Muhammad. Some suggested imprisoning him, others banishment. Then Abu Jahl proposed that each clan select a strong young man, and that all of them attack Muhammad together at his door, so that the responsibility for his death would be shared among all clans, and his family could not seek revenge against any single clan. The proposal was accepted unanimously. They agreed to carry out their plan that very night.",
+    "source": "Adil Salahi, Muhammad: Man and Prophet, Ch. 14, based on Ibn Hisham"
+  },
+
+  "output": {
+    "story_metadata": {
+      "story_title": "The Dangerous Plot",
+      "era": "late_makkah",
+      "region": "makkah",
+      "source_reference": "Ibn Hisham; Adil Salahi Ch. 14",
+      "moral_lesson": "Even when enemies plot in secret, Allah is the best of planners. He always protects His Messenger and those who trust in Him."
+    },
+
+    "characters": [
+      {
+        "id": "abu_jahl",
+        "name": "Abu Jahl",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Middle-aged man around 50, sun-darkened skin, stocky strong build, harsh aggressive expression. Thick black beard. Wearing rich crimson and black robes, gold-trimmed turban indicating wealth and status, ornate leather belt with a curved dagger. Heavy gold jewelry."
+      },
+      {
+        "id": "quraysh_leaders",
+        "name": "The Quraysh Leaders",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Group of 5-7 wealthy older Arab men in their 40s-60s. Various builds, all with thick beards, wearing rich colored robes (deep reds, blacks, dark blues), gold-trimmed turbans, jewelry. Hostile and conspiratorial expressions."
+      }
+    ],
+
+    "panels": [
+      {
+        "panel_number": 1,
+        "characters_in_panel": ["abu_jahl", "quraysh_leaders"],
+        "narrative_text": "The leaders of the Quraysh gathered in secret at Dar al-Nadwah, their meeting hall. They were angry and determined - they had decided that the Prophet Muhammad must be stopped, no matter the cost.",
+        "compliance": {
+          "prophet_check": "NO_PROPHET_IN_SCENE",
+          "modesty_check": "COMPLIANT",
+          "child_safe": "APPROPRIATE",
+          "notes": "Only antagonists shown in their meeting hall. No graphic content - just conspiracy depicted through expression and gathering."
+        },
+        "image_prompt": "Children's watercolor storybook illustration. Interior of an ornate 7th century Makkah meeting hall (Dar al-Nadwah). Stone walls hung with decorated rugs and tapestries. A circle of 6-7 wealthy older Arab men in their 40s-60s, sitting on cushioned benches around a low ornate wooden table. They wear rich crimson, deep red, black, and dark blue robes with gold-trimmed turbans, heavy gold jewelry, and ornate leather belts. Their expressions are conspiratorial and angry, leaning toward each other in serious discussion. Warm flickering torchlight from wall sconces casts dramatic shadows. Wide shot, slightly elevated angle showing the whole group. Deep red and bronze palette with shadowed corners. No modern objects."
+      },
+      {
+        "panel_number": 2,
+        "characters_in_panel": ["abu_jahl", "quraysh_leaders"],
+        "narrative_text": "Abu Jahl stood up with a wicked plan. 'Each clan should choose a strong young warrior,' he said. 'Together, they will attack Muhammad at his door tonight. The blame will be shared, so no one can seek revenge!' The other leaders nodded in agreement.",
+        "compliance": {
+          "prophet_check": "NO_PROPHET_IN_SCENE",
+          "modesty_check": "COMPLIANT",
+          "child_safe": "APPROPRIATE",
+          "notes": "Plot proposal shown through Abu Jahl's gesture and the leaders' reaction. No violence depicted, just the planning. Age-appropriate menacing atmosphere."
+        },
+        "image_prompt": "Children's watercolor storybook illustration. Interior of the same ornate Makkah meeting hall. Medium shot focused on Abu Jahl - a stocky middle-aged man with sun-darkened skin, thick black beard, wearing rich crimson and black robes, gold-trimmed turban, ornate belt with curved dagger. He is standing, arms outstretched in mid-speech, an intense determined expression on his face. The other Quraysh leaders sit around him on cushioned benches in their dark robes, leaning forward listening intently, some nodding with stern approval. Warm dramatic torchlight illuminates Abu Jahl from below, casting his shadow large on the wall behind him. Tense atmosphere. Deep red and amber palette. No modern objects."
+      }
+    ]
+  }
+}

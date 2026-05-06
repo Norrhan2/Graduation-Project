@@ -1,0 +1,79 @@
+{
+  "input": {
+    "passage": "The Prophet and Abu Bakr fled south to the Cave of Thawr, far from the road to Madinah - they hoped this would confuse anyone searching for them. They hid in the cave for three nights. The Quraysh searched everywhere and offered a great reward of 100 camels for the Prophet's capture. The pursuers came right to the entrance of the cave! Abu Bakr was terrified that they would be discovered. He whispered to the Prophet, 'If they look down at their feet, they will see us!' But the Prophet said calmly, 'Do not be sad. Allah is with us.' By Allah's mercy, the searchers left without looking inside.",
+    "source": "Quran 9:40, Bukhari, Ibn Hisham"
+  },
+
+  "output": {
+    "story_metadata": {
+      "story_title": "Hiding in the Cave of Thawr",
+      "era": "late_makkah",
+      "region": "arabian_desert",
+      "source_reference": "Quran 9:40; Bukhari; Ibn Hisham",
+      "moral_lesson": "When we feel afraid, we must remember the Prophet's beautiful words: 'Do not be sad - Allah is with us.' Allah is always with those who trust in Him, even in the darkest moments."
+    },
+
+    "characters": [
+      {
+        "id": "prophet_muhammad",
+        "name": "Prophet Muhammad",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Early 50s, medium build, dignified upright posture. Wearing a simple white thobe with the distinctive green cloak now back on his shoulders, white turban with tail. Simple leather sandals. Always shown from behind only, face never visible. Distinguished by green cloak."
+      },
+      {
+        "id": "abu_bakr",
+        "name": "Abu Bakr",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "Late 40s, light olive skin, slender build. Thin grey-streaked beard with henna tint. Wearing off-white thobe, brown woolen cloak, white head covering. Worn leather sandals. Now showing some signs of travel weariness."
+      },
+      {
+        "id": "quraysh_pursuers",
+        "name": "The Quraysh Pursuers",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "Group of 3-4 men in their 30s-40s, sun-darkened skin, various builds. Wearing travel clothing - tan and brown thobes, head wraps for desert. Carrying weapons and water skins. Looking around searchingly."
+      }
+    ],
+
+    "panels": [
+      {
+        "panel_number": 1,
+        "characters_in_panel": ["prophet_muhammad", "abu_bakr"],
+        "narrative_text": "The Prophet and Abu Bakr hid deep inside the Cave of Thawr in the rocky mountains south of Makkah. Outside, the Quraysh searched everywhere for them, even offering a great reward.",
+        "compliance": {
+          "prophet_check": "PROPHET_FROM_BEHIND",
+          "modesty_check": "COMPLIANT",
+          "child_safe": "APPROPRIATE",
+          "notes": "Prophet shown from behind in cave interior, sitting against the wall. Abu Bakr seated nearby. Calm hidden moment."
+        },
+        "image_prompt": "Children's watercolor storybook illustration. Interior of a small rocky desert cave. Two figures sit on the rough cave floor against the back wall. The first figure is seen entirely from behind, wearing a simple white thobe with a distinctive green cloak draped over his shoulders, white turban - sitting in dignified upright posture. Beside him sits a slender older Arab man with light olive skin, thin grey-streaked beard with henna tint, wearing an off-white thobe and brown cloak, white head covering, looking attentive but tired. Soft daylight filters in from the cave entrance to the right. The cave walls are rough warm-toned rock. A small leather water skin and small bundle of provisions rest beside them. Quiet protected atmosphere. Medium shot, eye level. Warm earth-tone palette. No modern objects."
+      },
+      {
+        "panel_number": 2,
+        "characters_in_panel": ["quraysh_pursuers"],
+        "narrative_text": "The pursuers came so close! They reached the very entrance of the cave! Their voices echoed as they searched, looking for any sign of the travelers.",
+        "compliance": {
+          "prophet_check": "NO_PROPHET_IN_SCENE",
+          "modesty_check": "COMPLIANT",
+          "child_safe": "APPROPRIATE",
+          "notes": "Pursuers shown outside cave, building tension without showing violence. Focus on searching, not threat."
+        },
+        "image_prompt": "Children's watercolor storybook illustration. Exterior of a small cave entrance in rocky desert mountains. A group of 3-4 sun-darkened Arab men in their 30s-40s wearing tan and brown travel thobes with head wraps, standing very close to the cave mouth on the rocky ground. They are looking around searchingly, some pointing at footprints or scanning the horizon. Carrying water skins and weapons. Bright harsh midday desert sun creates strong shadows. The cave entrance is visible but its dark interior cannot be seen. Rocky desert hills rise around them. Wide shot from outside the cave looking at them. Warm sandy palette with deep cave shadows. No modern objects."
+      },
+      {
+        "panel_number": 3,
+        "characters_in_panel": ["prophet_muhammad", "abu_bakr"],
+        "narrative_text": "Abu Bakr was so afraid! He whispered, 'If they look down, they will see us!' The Prophet smiled calmly and said with perfect trust: 'Do not be sad - Allah is with us.' His words filled Abu Bakr's heart with peace.",
+        "compliance": {
+          "prophet_check": "PROPHET_FROM_BEHIND",
+          "modesty_check": "COMPLIANT",
+          "child_safe": "APPROPRIATE",
+          "notes": "The most important emotional moment of the story. Prophet shown from behind, posture dignified and calm. Abu Bakr's face shows the transition from fear to peace - critical character moment. Warm intimate composition."
+        },
+        "image_prompt": "Children's watercolor storybook illustration. Interior of the cave, soft light from the entrance. Close composition of the two figures. The figure in white thobe with green cloak and white turban seen from behind on the left, his head turned slightly toward his companion in a gesture of reassurance, hand raised gently. To his right, the slender older Arab man with light olive skin, thin grey-streaked beard with henna tint, off-white thobe and brown cloak - his face showing the beautiful moment of fear transforming into peace and trust. His eyes are warm with relief. Soft golden light from the cave entrance illuminates this tender moment. Medium close shot, eye level. Warm earthy palette with golden highlights. The atmosphere is intimate and reverent. No modern objects."
+      }
+    ]
+  }
+}

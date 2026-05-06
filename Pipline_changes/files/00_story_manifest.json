@@ -1,0 +1,102 @@
+{
+  "story_id": "the_hijra",
+  "story_title": "The Hijra: The Great Journey to Madinah",
+  "story_title_short": "The Hijra",
+  "story_summary": "When the Quraysh plotted to assassinate the Prophet Muhammad (peace be upon him), Allah commanded him to leave Makkah. With his loyal friend Abu Bakr, he made a secret and dangerous journey to Madinah, marking the beginning of a new chapter for Islam.",
+  "story_introduction": "After thirteen years of preaching in Makkah, the Muslim community faced terrible persecution. Many had already fled to Madinah seeking safety. Now, the Quraysh leaders had decided they would no longer tolerate the Prophet himself. They plotted to kill him. But Allah had other plans...",
+  "story_conclusion": "And so began the new Islamic year. The Hijra was not just a journey from one city to another - it was a journey from fear to freedom, from a small persecuted group to a thriving community. From this point forward, Muslims would count their years from this very moment.",
+
+  "era": "late_makkah",
+  "region": "makkah",
+  "age_group": "8-12",
+  "estimated_reading_time_minutes": 8,
+
+  "tags": ["hijra", "prophet_muhammad", "abu_bakr", "trust_in_allah", "courage", "friendship"],
+  "scholarly_sources": [
+    "Ibn Hisham, Al-Sira Al-Nabawiyya, Vol. 2",
+    "Sahih al-Bukhari, Hadith 3905",
+    "Adil Salahi, Muhammad: Man and Prophet, Ch. 14"
+  ],
+
+  "canonical_characters": [
+    {
+      "id": "prophet_muhammad",
+      "name": "Prophet Muhammad",
+      "name_honorific": "Prophet Muhammad (peace be upon him)",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "Early 50s, medium build, dignified upright posture. Always wearing a simple white thobe with a distinctive green cloak draped over the shoulders, white turban with a tail hanging between the shoulder blades, simple leather sandals. ALWAYS shown from behind only - face must NEVER be visible. Distinguished by the green cloak which appears in every panel. May have a subtle warm light around him, but no overt halo or supernatural rays."
+    },
+    {
+      "id": "abu_bakr",
+      "name": "Abu Bakr",
+      "name_honorific": "Abu Bakr al-Siddiq (may Allah be pleased with him)",
+      "role": "sahabi",
+      "depiction_rule": "FULL",
+      "appearance": "Late 40s, light olive skin (typical Qurayshi Arab), slender slightly shorter than average build, slightly stooped shoulders from humility. Thin grey-streaked beard with a slight reddish henna tint, neatly kept. Wearing an off-white cotton thobe, plain brown woolen cloak (bisht), white cloth wrapped loosely as a head covering (less elaborate than the Prophet's turban). Worn leather sandals. Kind gentle eyes."
+    },
+    {
+      "id": "asma",
+      "name": "Asma",
+      "name_honorific": "Asma bint Abu Bakr (may Allah be pleased with her)",
+      "role": "family_of_prophet",
+      "depiction_rule": "FULL",
+      "appearance": "Young woman, approximately 27 years old, light olive skin like her father. Average build, upright determined posture. Wearing a long loose dark blue jilbab covering to her wrists and ankles, lighter blue khimar covering her hair, neck, and draping over her shoulders. Brown leather belt (nitaq) around her waist - this is a key story element. Simple leather sandals, barely visible under her long dress."
+    },
+    {
+      "id": "ali",
+      "name": "Ali",
+      "name_honorific": "Ali ibn Abi Talib (may Allah be pleased with him)",
+      "role": "sahabi",
+      "depiction_rule": "FULL",
+      "appearance": "Young man, approximately 23 years old, olive skin, athletic medium build. Short dark beard. Wearing a simple white thobe and dark green cloak (different shade from the Prophet's), white head covering. Strong determined expression with kind eyes."
+    },
+    {
+      "id": "abu_jahl",
+      "name": "Abu Jahl",
+      "role": "antagonist",
+      "depiction_rule": "FULL",
+      "appearance": "Middle-aged man around 50, sun-darkened skin, stocky strong build, harsh aggressive expression. Thick black beard. Wearing rich crimson and black robes, gold-trimmed turban indicating wealth and status, ornate leather belt with a curved dagger. Heavy gold jewelry."
+    },
+    {
+      "id": "quraysh_leaders",
+      "name": "The Quraysh Leaders",
+      "role": "antagonist",
+      "depiction_rule": "FULL",
+      "appearance": "Group of 5-7 wealthy older Arab men in their 40s-60s. Various builds, all with thick beards, wearing rich colored robes (deep reds, blacks, dark blues), gold-trimmed turbans, jewelry. Hostile and conspiratorial expressions."
+    }
+  ],
+
+  "passages": [
+    {
+      "passage_order": 1,
+      "passage_id": "hijra_01_plot",
+      "section_heading": "The Dangerous Plot"
+    },
+    {
+      "passage_order": 2,
+      "passage_id": "hijra_02_warning",
+      "section_heading": "The Prophet Goes to Abu Bakr"
+    },
+    {
+      "passage_order": 3,
+      "passage_id": "hijra_03_preparation",
+      "section_heading": "Asma Prepares the Provisions"
+    },
+    {
+      "passage_order": 4,
+      "passage_id": "hijra_04_escape",
+      "section_heading": "The Escape from Makkah"
+    },
+    {
+      "passage_order": 5,
+      "passage_id": "hijra_05_cave",
+      "section_heading": "Hiding in the Cave of Thawr"
+    },
+    {
+      "passage_order": 6,
+      "passage_id": "hijra_06_arrival",
+      "section_heading": "Arrival in Madinah"
+    }
+  ]
+}

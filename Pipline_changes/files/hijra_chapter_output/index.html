@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Hijra: The Great Journey to Madinah | Tariikhna</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Amiri:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #f5ede0;
+    --ink: #2d1810;
+    --gold: #c4914a;
+    --gold-deep: #8b6332;
+    --rust: #8b3a1f;
+    --shadow: rgba(45, 24, 16, 0.15);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Cormorant Garamond', serif;
+    background: var(--paper);
+    color: var(--ink);
+    background-image:
+      radial-gradient(ellipse at top, rgba(196, 145, 74, 0.08), transparent 70%),
+      radial-gradient(ellipse at bottom, rgba(139, 58, 31, 0.06), transparent 70%);
+    background-attachment: fixed;
+    line-height: 1.7;
+    min-height: 100vh;
+  }
+  .ornament-top {
+    text-align: center;
+    padding: 3rem 1rem 1rem;
+    color: var(--gold);
+    font-size: 1.5rem;
+    letter-spacing: 1rem;
+  }
+  .container {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 2rem 2rem 6rem;
+  }
+  .cover {
+    text-align: center;
+    padding: 4rem 0 5rem;
+    border-bottom: 2px solid var(--gold);
+    margin-bottom: 4rem;
+    position: relative;
+  }
+  .cover::before, .cover::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    width: 100px;
+    height: 2px;
+    background: var(--gold-deep);
+  }
+  .cover::before { left: calc(50% - 130px); }
+  .cover::after { right: calc(50% - 130px); }
+  .cover-eyebrow {
+    font-style: italic;
+    color: var(--gold-deep);
+    letter-spacing: 0.3em;
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+  }
+  .cover h1 {
+    font-size: clamp(2.5rem, 6vw, 4.5rem);
+    font-weight: 600;
+    line-height: 1.1;
+    color: var(--ink);
+    margin-bottom: 2rem;
+  }
+  .cover-summary {
+    font-size: 1.25rem;
+    font-style: italic;
+    color: var(--gold-deep);
+    max-width: 600px;
+    margin: 0 auto 2rem;
+    line-height: 1.6;
+  }
+  .cover-meta {
+    font-size: 0.9rem;
+    color: var(--rust);
+    letter-spacing: 0.1em;
+  }
+  .cover-meta span { margin: 0 0.75rem; }
+  .introduction {
+    font-size: 1.2rem;
+    font-style: italic;
+    text-align: center;
+    margin: 3rem auto 5rem;
+    max-width: 700px;
+    color: var(--ink);
+    padding: 2rem 3rem;
+    border-top: 1px solid var(--gold);
+    border-bottom: 1px solid var(--gold);
+    position: relative;
+  }
+  .introduction::first-letter {
+    font-size: 3rem;
+    font-weight: 600;
+    color: var(--rust);
+    float: left;
+    margin: 0.2rem 0.5rem 0 0;
+    font-style: normal;
+  }
+  .section {
+    margin-bottom: 4rem;
+  }
+  .section-header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
+  .section-number {
+    color: var(--gold);
+    font-style: italic;
+    font-size: 1.1rem;
+    letter-spacing: 0.3em;
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+  }
+  .section-title {
+    font-size: 2.2rem;
+    font-weight: 500;
+    color: var(--ink);
+  }
+  .section-divider {
+    text-align: center;
+    color: var(--gold);
+    font-size: 1.5rem;
+    letter-spacing: 1rem;
+    margin: 1rem 0 0;
+  }
+  .panel {
+    margin-bottom: 3rem;
+    background: rgba(255, 252, 245, 0.6);
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 4px 24px var(--shadow);
+  }
+  .panel img {
+    width: 100%;
+    display: block;
+    border-bottom: 8px solid var(--gold-deep);
+  }
+  .panel-text {
+    padding: 2rem 2.5rem;
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: var(--ink);
+  }
+  .panel-text::first-letter {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: var(--rust);
+    float: left;
+    margin: 0.25rem 0.5rem 0 0;
+    line-height: 1;
+  }
+  .panel-image-missing {
+    background: rgba(139, 99, 50, 0.1);
+    padding: 4rem;
+    text-align: center;
+    color: var(--gold-deep);
+    font-style: italic;
+    border-bottom: 8px solid var(--gold-deep);
+  }
+  .conclusion {
+    font-size: 1.2rem;
+    font-style: italic;
+    text-align: center;
+    margin: 5rem auto 3rem;
+    max-width: 700px;
+    color: var(--ink);
+    padding: 3rem 2rem;
+    line-height: 1.7;
+  }
+  .conclusion::before {
+    content: '✦';
+    display: block;
+    color: var(--gold);
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+  .sources {
+    margin-top: 4rem;
+    padding: 2rem;
+    border-top: 1px solid var(--gold);
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--gold-deep);
+    font-style: italic;
+  }
+  .sources strong {
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    font-style: normal;
+    margin-bottom: 0.75rem;
+    color: var(--rust);
+  }
+  @media (max-width: 600px) {
+    .container { padding: 1rem 1rem 3rem; }
+    .panel-text { padding: 1.5rem 1.5rem; font-size: 1.1rem; }
+    .cover { padding: 2rem 0 3rem; }
+  }
+</style>
+</head>
+<body>
+<div class="ornament-top">✦ ✦ ✦</div>
+<div class="container">
+  <div class="cover">
+    <div class="cover-eyebrow">From the Sira of the Prophet</div>
+    <h1>The Hijra: The Great Journey to Madinah</h1>
+    <p class="cover-summary">When the Quraysh plotted to assassinate the Prophet Muhammad (peace be upon him), Allah commanded him to leave Makkah. With his loyal friend Abu Bakr, he made a secret and dangerous journey to Madinah, marking the beginning of a new chapter for Islam.</p>
+    <div class="cover-meta">
+      <span>Ages 8-12</span>·<span>8 min read</span>
+    </div>
+  </div>
+  <div class="introduction">After thirteen years of preaching in Makkah, the Muslim community faced terrible persecution. Many had already fled to Madinah seeking safety. Now, the Quraysh leaders had decided they would no longer tolerate the Prophet himself. They plotted to kill him. But Allah had other plans...</div>
+
+  <div class="section">
+    <div class="section-header">
+      <div class="section-number">Part 1</div>
+      <div class="section-title">The Dangerous Plot</div>
+      <div class="section-divider">✦ ✦ ✦</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">The leaders of the Quraysh gathered in secret at Dar al-Nadwah, their meeting hall. They were angry and determined - they had decided that the Prophet Muhammad must be stopped, no matter the cost.</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">Abu Jahl stood up with a wicked plan. 'Each clan should choose a strong young warrior,' he said. 'Together, they will attack Muhammad at his door tonight. The blame will be shared, so no one can seek revenge!' The other leaders nodded in agreement.</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-header">
+      <div class="section-number">Part 2</div>
+      <div class="section-title">The Prophet Goes to Abu Bakr</div>
+      <div class="section-divider">✦ ✦ ✦</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">The Prophet quickly went to the home of his dearest friend, Abu Bakr. With urgency in his step, he came to share the news that Allah had finally given them permission to leave Makkah.</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">When the Prophet told him, 'Abu Bakr, you will be my companion,' Abu Bakr wept tears of joy. He had been waiting for this day. He had already prepared two strong camels, feeding them carefully for many months!</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-header">
+      <div class="section-number">Part 3</div>
+      <div class="section-title">Asma Prepares the Provisions</div>
+      <div class="section-divider">✦ ✦ ✦</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">Asma worked quickly to prepare food for the long dangerous journey. She gathered rounds of flat bread, sweet dates, and dried meat, ready to be packed.</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">But she had no rope to tie the bundles tight! Without a moment's hesitation, Asma took her own belt from her waist and tore it in two with her bare hands.</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">She used one half of her belt for each bundle. From that day forward, Asma was honored with a beautiful title: 'Dhat al-Nitaqayn' - 'She of the Two Belts.'</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-header">
+      <div class="section-number">Part 4</div>
+      <div class="section-title">The Escape from Makkah</div>
+      <div class="section-divider">✦ ✦ ✦</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">Brave young Ali volunteered for a dangerous task. He would sleep in the Prophet's bed, wearing his green cloak, to trick the enemies. He did not fear danger when serving the Prophet.</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">Outside, the assassins waited eagerly with their swords drawn. They thought their plan was perfect. They watched the door of the Prophet's house, ready to strike at any moment.</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">The Prophet quietly recited verses from the Quran and walked right out of his house, past all the assassins! Allah miraculously protected him - the assassins could not see him at all. He even scattered a handful of dust over them and walked safely away.</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-header">
+      <div class="section-number">Part 5</div>
+      <div class="section-title">Hiding in the Cave of Thawr</div>
+      <div class="section-divider">✦ ✦ ✦</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">The Prophet and Abu Bakr hid deep inside the Cave of Thawr in the rocky mountains south of Makkah. Outside, the Quraysh searched everywhere for them, even offering a great reward.</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">The pursuers came so close! They reached the very entrance of the cave! Their voices echoed as they searched, looking for any sign of the travelers.</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">Abu Bakr was so afraid! He whispered, 'If they look down, they will see us!' The Prophet smiled calmly and said with perfect trust: 'Do not be sad - Allah is with us.' His words filled Abu Bakr's heart with peace.</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-header">
+      <div class="section-number">Part 6</div>
+      <div class="section-title">Arrival in Madinah</div>
+      <div class="section-divider">✦ ✦ ✦</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">After the long journey, the people of Madinah saw them coming! Songs of joy filled the air as men, women, and children rushed out to welcome the beloved Prophet. They had been waiting for this moment for so long.</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">Every clan in Madinah wanted the Prophet to stay with them, each holding the rein of his camel. But the Prophet kindly said, 'Let her go - she has her orders.' He let his camel choose where to stop.</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-image-missing">[ Image generation failed for this panel ]</div>
+      <div class="panel-text">The camel walked through the streets and finally stopped right in front of the home of Abu Ayyub! He could hardly believe his good fortune as he ran out, ready to welcome the Prophet of Allah into his humble home.</div>
+    </div>
+  </div>
+
+  <div class="conclusion">And so began the new Islamic year. The Hijra was not just a journey from one city to another - it was a journey from fear to freedom, from a small persecuted group to a thriving community. From this point forward, Muslims would count their years from this very moment.</div>
+  <div class="sources">
+    <strong>Scholarly Sources</strong>
+    Ibn Hisham, Al-Sira Al-Nabawiyya, Vol. 2 · Sahih al-Bukhari, Hadith 3905 · Adil Salahi, Muhammad: Man and Prophet, Ch. 14
+  </div>
+</div>
+<div class="ornament-top">✦ ✦ ✦</div>
+</body>
+</html>

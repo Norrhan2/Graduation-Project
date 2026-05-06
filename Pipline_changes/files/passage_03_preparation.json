@@ -1,0 +1,65 @@
+{
+  "input": {
+    "passage": "Asma, the brave daughter of Abu Bakr, prepared food provisions for the long journey - bread, dates, and dried meat. When she needed something to tie the food bundles tightly, she tore her own leather belt in two pieces, using one half for each bundle. Because of this, she earned the noble title 'Dhat al-Nitaqayn' - meaning 'She of the Two Belts.'",
+    "source": "Ibn Hisham, Al-Sira, Vol. 2"
+  },
+
+  "output": {
+    "story_metadata": {
+      "story_title": "Asma Prepares the Provisions",
+      "era": "late_makkah",
+      "region": "makkah",
+      "source_reference": "Ibn Hisham, Al-Sira, Vol. 2",
+      "moral_lesson": "Sometimes the smallest acts of courage and resourcefulness can earn the greatest honor. Asma did not hesitate to sacrifice her own belt to help the Prophet and her father."
+    },
+
+    "characters": [
+      {
+        "id": "asma",
+        "name": "Asma",
+        "role": "family_of_prophet",
+        "depiction_rule": "FULL",
+        "appearance": "Young woman, approximately 27 years old, light olive skin like her father Abu Bakr. Average build, upright determined posture. Wearing a long loose dark blue jilbab covering to her wrists and ankles, lighter blue khimar covering her hair, neck, and draping over her shoulders. Brown leather belt around her waist. Simple leather sandals."
+      }
+    ],
+
+    "panels": [
+      {
+        "panel_number": 1,
+        "characters_in_panel": ["asma"],
+        "narrative_text": "Asma worked quickly to prepare food for the long dangerous journey. She gathered rounds of flat bread, sweet dates, and dried meat, ready to be packed.",
+        "compliance": {
+          "prophet_check": "NO_PROPHET_IN_SCENE",
+          "modesty_check": "COMPLIANT",
+          "child_safe": "APPROPRIATE",
+          "notes": "Asma fully covered in jilbab and khimar. Working busily but calmly. Beautiful domestic scene showing preparation."
+        },
+        "image_prompt": "Children's watercolor storybook illustration. Interior of Abu Bakr's modest 7th century Makkah mud-brick home, evening time. A young Arab woman in her late 20s with light olive skin, wearing a long dark blue jilbab and lighter blue khimar covering her hair and shoulders, brown leather belt around her waist, kneeling on a woven palm-fiber mat. She is busily organizing food on the mat - rounds of golden flat bread, clusters of dark dates, strips of dried meat. Cloth pieces ready for wrapping nearby. A clay oil lamp on the floor casts a warm orange glow. Her expression is focused and purposeful. Medium shot, slightly elevated angle. Warm earthy palette with orange firelight accents. No modern objects."
+      },
+      {
+        "panel_number": 2,
+        "characters_in_panel": ["asma"],
+        "narrative_text": "But she had no rope to tie the bundles tight! Without a moment's hesitation, Asma took her own belt from her waist and tore it in two with her bare hands.",
+        "compliance": {
+          "prophet_check": "NO_PROPHET_IN_SCENE",
+          "modesty_check": "COMPLIANT",
+          "child_safe": "APPROPRIATE",
+          "notes": "Critical moment of the story. Belt tearing shown as act of determination, not violence. Asma still fully covered."
+        },
+        "image_prompt": "Children's watercolor storybook illustration. Interior of the same Makkah home. Medium-close shot focused on the young Arab woman's hands as she grips a brown leather belt with both hands, pulling it apart with determination. Her dark blue jilbab sleeves cover her arms. The food bundles wait on the mat before her. Her face shows focused resolution, slight furrow in her brow. The clay oil lamp on the floor lights the scene with warm flickering orange tones, dancing shadows on the walls. Dynamic moment captured mid-action. Close composition, slightly elevated angle on her hands. Warm brown and orange palette. No modern objects."
+      },
+      {
+        "panel_number": 3,
+        "characters_in_panel": ["asma"],
+        "narrative_text": "She used one half of her belt for each bundle. From that day forward, Asma was honored with a beautiful title: 'Dhat al-Nitaqayn' - 'She of the Two Belts.'",
+        "compliance": {
+          "prophet_check": "NO_PROPHET_IN_SCENE",
+          "modesty_check": "COMPLIANT",
+          "child_safe": "APPROPRIATE",
+          "notes": "Resolution scene showing the result of her sacrifice. Asma proud and accomplished."
+        },
+        "image_prompt": "Children's watercolor storybook illustration. Interior of the Makkah home. Wide shot showing the young Arab woman in dark blue jilbab and lighter blue khimar standing back proudly, looking at her completed work. Two cloth bundles of food sit on the mat, each tied tightly with half of her brown leather belt. Her expression is satisfied and warm, hands on her hips. The clay oil lamp continues to glow warmly. The room feels accomplished and ready. Soft warm light. Medium-wide composition. Warm golden palette. No modern objects."
+      }
+    ]
+  }
+}
