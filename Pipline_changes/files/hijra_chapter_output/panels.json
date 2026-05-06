@@ -13,7 +13,7 @@
     "section_heading": "The Dangerous Plot",
     "narrative_text": "Abu Jahl stood up with a wicked plan. 'Each clan should choose a strong young warrior,' he said. 'Together, they will attack Muhammad at his door tonight. The blame will be shared, so no one can seek revenge!' The other leaders nodded in agreement.",
     "image_filename": "p01_panel2.png",
-    "success": false
+    "success": true
   },
   {
     "passage_idx": 1,
@@ -21,7 +21,7 @@
     "section_heading": "The Prophet Goes to Abu Bakr",
     "narrative_text": "The Prophet quickly went to the home of his dearest friend, Abu Bakr. With urgency in his step, he came to share the news that Allah had finally given them permission to leave Makkah.",
     "image_filename": "p02_panel1.png",
-    "success": false
+    "success": true
   },
   {
     "passage_idx": 1,
@@ -37,7 +37,7 @@
     "section_heading": "Asma Prepares the Provisions",
     "narrative_text": "Asma worked quickly to prepare food for the long dangerous journey. She gathered rounds of flat bread, sweet dates, and dried meat, ready to be packed.",
     "image_filename": "p03_panel1.png",
-    "success": false
+    "success": true
   },
   {
     "passage_idx": 2,
@@ -45,7 +45,7 @@
     "section_heading": "Asma Prepares the Provisions",
     "narrative_text": "But she had no rope to tie the bundles tight! Without a moment's hesitation, Asma took her own belt from her waist and tore it in two with her bare hands.",
     "image_filename": "p03_panel2.png",
-    "success": false
+    "success": true
   },
   {
     "passage_idx": 2,
@@ -53,7 +53,7 @@
     "section_heading": "Asma Prepares the Provisions",
     "narrative_text": "She used one half of her belt for each bundle. From that day forward, Asma was honored with a beautiful title: 'Dhat al-Nitaqayn' - 'She of the Two Belts.'",
     "image_filename": "p03_panel3.png",
-    "success": false
+    "success": true
   },
   {
     "passage_idx": 3,
@@ -61,7 +61,7 @@
     "section_heading": "The Escape from Makkah",
     "narrative_text": "Brave young Ali volunteered for a dangerous task. He would sleep in the Prophet's bed, wearing his green cloak, to trick the enemies. He did not fear danger when serving the Prophet.",
     "image_filename": "p04_panel1.png",
-    "success": false
+    "success": true
   },
   {
     "passage_idx": 3,
@@ -69,7 +69,7 @@
     "section_heading": "The Escape from Makkah",
     "narrative_text": "Outside, the assassins waited eagerly with their swords drawn. They thought their plan was perfect. They watched the door of the Prophet's house, ready to strike at any moment.",
     "image_filename": "p04_panel2.png",
-    "success": false
+    "success": true
   },
   {
     "passage_idx": 3,
@@ -77,7 +77,7 @@
     "section_heading": "The Escape from Makkah",
     "narrative_text": "The Prophet quietly recited verses from the Quran and walked right out of his house, past all the assassins! Allah miraculously protected him - the assassins could not see him at all. He even scattered a handful of dust over them and walked safely away.",
     "image_filename": "p04_panel3.png",
-    "success": false
+    "success": true
   },
   {
     "passage_idx": 4,
@@ -85,7 +85,7 @@
     "section_heading": "Hiding in the Cave of Thawr",
     "narrative_text": "The Prophet and Abu Bakr hid deep inside the Cave of Thawr in the rocky mountains south of Makkah. Outside, the Quraysh searched everywhere for them, even offering a great reward.",
     "image_filename": "p05_panel1.png",
-    "success": false
+    "success": true
   },
   {
     "passage_idx": 4,
@@ -93,7 +93,7 @@
     "section_heading": "Hiding in the Cave of Thawr",
     "narrative_text": "The pursuers came so close! They reached the very entrance of the cave! Their voices echoed as they searched, looking for any sign of the travelers.",
     "image_filename": "p05_panel2.png",
-    "success": false
+    "success": true
   },
   {
     "passage_idx": 4,
@@ -117,7 +117,7 @@
     "section_heading": "Arrival in Madinah",
     "narrative_text": "Every clan in Madinah wanted the Prophet to stay with them, each holding the rein of his camel. But the Prophet kindly said, 'Let her go - she has her orders.' He let his camel choose where to stop.",
     "image_filename": "p06_panel2.png",
-    "success": false
+    "success": true
   },
   {
     "passage_idx": 5,
