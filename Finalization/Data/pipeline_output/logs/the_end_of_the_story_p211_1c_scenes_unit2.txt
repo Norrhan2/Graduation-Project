@@ -1,0 +1,38 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Bakr discovers Misṭaḥ's mistakes and becomes upset",
+    "key_visual_action": "Abū Bakr's face contorts in disappointment",
+    "characters_present": ["Abū Bakr", "Misṭaḥibn Athāthah"],
+    "setting": "A desert oasis or a meeting place",
+    "emotional_tone": "Disapproval",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Abū Bakr confronts Misṭaḥ about his mistakes",
+    "key_visual_action": "Abū Bakr points an accusing finger at Misṭaḥ",
+    "characters_present": ["Abū Bakr", "Misṭaḥibn Athāthah"],
+    "setting": "A desert oasis or a meeting place",
+    "emotional_tone": "Disapproval",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Misṭaḥ looks down, ashamed of his mistakes",
+    "key_visual_action": "Misṭaḥibn Athāthah hangs his head in shame",
+    "characters_present": ["Abū Bakr", "Misṭaḥibn Athāthah"],
+    "setting": "A desert oasis or a meeting place",
+    "emotional_tone": "Shame",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "Abū Bakr decides not to support Misṭaḥ any longer",
+    "key_visual_action": "Abū Bakr crosses his arms, a firm expression on his face",
+    "characters_present": ["Abū Bakr", "Misṭaḥibn Athāthah"],
+    "setting": "A desert oasis or a meeting place",
+    "emotional_tone": "Disapproval",
+    "time_of_day": "afternoon"
+  }
+]

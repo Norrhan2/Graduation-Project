@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "Abū Bakr discovers Misṭaḥ's mistakes and becomes upset",
+    "key_visual_action": "Abū Bakr's face contorts in disappointment",
+    "characters_present": [
+      "Abū Bakr",
+      "Misṭaḥibn Athāthah"
+    ],
+    "setting": "A desert oasis or a meeting place",
+    "emotional_tone": "Disapproval",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 1,
+    "scene_title": "Abū Bakr's Disappointment",
+    "era": "pre_prophetic",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 211",
+    "moral_lesson": "Importance of accuracy and truthfulness",
+    "characters": [
+      {
+        "id": "abu_bakr",
+        "name": "Abū Bakr",
+        "role": "sahabi",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a plain brown woolen cloak and white cloth head covering, one hand extended in a gesture of disappointment"
+      },
+      {
+        "id": "mistah",
+        "name": "Misṭaḥ ibn Athāthah",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall, wearing a dark brown thobe with a distinctive red woolen cloak draped over both shoulders"
+      }
+    ],
+    "narrative_text": "Abū Bakr was very disappointed to discover that Misṭaḥ had made mistakes in his teachings. He felt that Misṭaḥ was not being truthful.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Historically accurate depiction of 7th century Arabian Desert setting"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene desert oasis with palm trees and a small spring in the center, surrounded by sandy dunes and rocky outcrops. Late afternoon sunlight casts a warm glow, with soft shadows and gentle rustling of palm leaves. In the foreground, two figures stand facing each other: the central figure seen entirely from behind, medium build, dignified upright posture, wearing a flowing white thobe with a plain brown woolen cloak and white cloth head covering, one hand extended in a gesture of disappointment. In the background, a tall figure in a dark brown thobe with a distinctive red woolen cloak draped over both shoulders stands with his back turned, seen from behind, his head turned away. Soft warm golden light, calm and contemplative mood. Medium shot at eye level. Warm beige, sandy, and golden palette with the red cloak as a color anchor. No modern objects, historically accurate 7th century desert scene.",
+    "_safety_changes": [
+      "'face obscured' -> 'head turned away'"
+    ]
+  }
+}

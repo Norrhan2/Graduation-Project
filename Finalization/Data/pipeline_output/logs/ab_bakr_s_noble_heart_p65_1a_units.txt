@@ -1,0 +1,79 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Abū Bakr's repeated noble actions",
+    "unit_text": "Abū Bakr repeatedly bought and freed slaves who were victims of the campaign of terror.",
+    "main_characters": ["Abū Bakr", "ʿĀmir ibn Fuhayrah"],
+    "event_summary": "Abū Bakr repeatedly buys and frees slaves who were victims of the campaign of terror."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Abū Bakr frees ʿĀmir ibn Fuhayrah",
+    "unit_text": "Abū Bakr bought ʿĀmir ibn Fuhayrah, a slave who was a victim of the campaign of terror, and set him free.",
+    "main_characters": ["Abū Bakr", "ʿĀmir ibn Fuhayrah"],
+    "event_summary": "Abū Bakr buys and frees ʿĀmir ibn Fuhayrah, a slave who was a victim of the campaign of terror."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Abū Bakr's encouragement by the Prophet",
+    "unit_text": "The Prophet was pleased with Abū Bakr's actions and encouraged him to continue helping those who were victims of the campaign of terror.",
+    "main_characters": ["Abū Bakr", "The Prophet"],
+    "event_summary": "The Prophet encourages Abū Bakr to continue helping those who were victims of the campaign of terror."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Abū Bakr frees Zunayrah",
+    "unit_text": "Abū Bakr bought Zunayrah, a slave who was tortured by Abū Jahl, and set her free.",
+    "main_characters": ["Abū Bakr", "Zunayrah", "Abū Jahl"],
+    "event_summary": "Abū Bakr buys and frees Zunayrah, a slave who was tortured by Abū Jahl."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Abū Bakr frees al-Nahdiyah and her daughter",
+    "unit_text": "Abū Bakr bought al-Nahdiyah and her daughter, who were slaves belonging to a woman from the clan of ʿ Abd al-Dār, and set them free.",
+    "main_characters": ["Abū Bakr", "al-Nahdiyah", "her daughter"],
+    "event_summary": "Abū Bakr buys and frees al-Nahdiyah and her daughter, who were slaves belonging to a woman from the clan of ʿ Abd al-Dār."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Abū Bakr frees Umm ʿ Ubays",
+    "unit_text": "Abū Bakr bought Umm ʿ Ubays, a slave who was tortured by her master, and set her free.",
+    "main_characters": ["Abū Bakr", "Umm ʿ Ubays"],
+    "event_summary": "Abū Bakr buys and frees Umm ʿ Ubays, a slave who was tortured by her master."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Abū Bakr frees another slave",
+    "unit_text": "Abū Bakr bought another slave who belonged to the clan of ʿ Adiy and was tortured by ʿ Umar ibn al-Khaṭṭāb, and set her free.",
+    "main_characters": ["Abū Bakr", "ʿ Umar ibn al-Khaṭṭāb"],
+    "event_summary": "Abū Bakr buys and frees another slave who was tortured by ʿ Umar ibn al-Khaṭṭāb."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Abū Bakr's father criticizes his actions",
+    "unit_text": "Abū Bakr's father criticized his actions, suggesting that he should free strong men slaves who could protect him.",
+    "main_characters": ["Abū Bakr", "his father"],
+    "event_summary": "Abū Bakr's father criticizes his actions, suggesting that he should free strong men slaves."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "Abū Bakr's motivation",
+    "unit_text": "Abū Bakr explained that he wanted to be rewarded by God for his actions.",
+    "main_characters": ["Abū Bakr"],
+    "event_summary": "Abū Bakr explains that he wants to be rewarded by God for his actions."
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "Abū Bakr's actions demonstrate the new bond among Muslims",
+    "unit_text": "Abū Bakr's actions demonstrated the new bond among Muslims, showing that they were equal, slaves and masters alike.",
+    "main_characters": ["Abū Bakr"],
+    "event_summary": "Abū Bakr's actions demonstrate the new bond among Muslims, showing that they are equal."
+  },
+  {
+    "unit_number": 11,
+    "unit_title": "ʿ Umar's praise for Abū Bakr",
+    "unit_text": "Much later, ʿ Umar praised Abū Bakr, saying that he was their master and had freed their master.",
+    "main_characters": ["Abū Bakr", "ʿ Umar"],
+    "event_summary": "ʿ Umar praises Abū Bakr, saying that he was their master and had freed their master."
+  }
+]

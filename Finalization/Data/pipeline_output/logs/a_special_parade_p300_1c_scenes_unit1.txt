@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Sufyān sees the Prophet's battalion approaching from a distance.",
+    "key_visual_action": "Abū Sufyān looking through a spyglass",
+    "characters_present": ["Abū Sufyān"],
+    "setting": "A desert landscape with a dune in the background",
+    "emotional_tone": "Curiosity",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Abū Sufyān is impressed by the strength of the Prophet's battalion.",
+    "key_visual_action": "Abū Sufyān's jaw dropping in amazement",
+    "characters_present": ["Abū Sufyān", "The Prophet"],
+    "setting": "The same desert landscape with the Prophet's battalion visible in the distance",
+    "emotional_tone": "Respect",
+    "time_of_day": "Afternoon"
+  }
+]

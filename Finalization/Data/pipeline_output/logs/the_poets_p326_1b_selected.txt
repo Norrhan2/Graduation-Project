@@ -1,0 +1,35 @@
+[
+  {
+    "unit_number": 2,
+    "unit_title": "The Role of Poets in the War between Islam and Idolatry",
+    "unit_text": "Poets on both sides used their poetry to abuse and insult each other, with the unbelievers targeting the Prophet and his companions.",
+    "main_characters": [
+      "Prophet",
+      "companions"
+    ],
+    "event_summary": "Poets played a significant role in the war between Islam and idolatry, using their poetry to abuse and insult each other.",
+    "selection_reason": "clear visual moment of poets insulting each other, meaningful lesson about the power of words, and distinctiveness of the event.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "ʿ Abdullāh ibn al-Ziba ʿ rā's Repentance",
+    "unit_text": "ʿ Abdullāh ibn al-Ziba ʿ rā fled to Najrān, but was attacked by Ḥassān with a line of poetry, leading him to repent and accept Islam.",
+    "main_characters": [
+      "ʿ Abdullāh ibn al-Ziba ʿ rā",
+      "Ḥassān"
+    ],
+    "event_summary": "ʿ Abdullāh ibn al-Ziba ʿ rā repented and accepted Islam after being attacked by Ḥassān with a line of poetry.",
+    "selection_reason": "clear visual moment of ʿ Abdullāh ibn al-Ziba ʿ rā's repentance, meaningful lesson about the power of words and Islam, and distinctiveness of the event.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Response of Poets to Islam",
+    "unit_text": "Many poets responded favorably to the call of Islam, while others were hesitant due to their role as mouthpieces for the unbelievers.",
+    "main_characters": [],
+    "event_summary": "Poets had a mixed response to the call of Islam, with some accepting it and others struggling with their loyalty to their pagan beliefs.",
+    "selection_reason": "meaningful lesson about the diversity of responses to Islam, and distinctiveness of the event.",
+    "estimated_scenes": 1
+  }
+]

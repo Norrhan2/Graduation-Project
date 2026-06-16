@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "ʿAbdullāh ibn Ubayy and his followers are shown in the background, looking angry and aggressive.",
+    "key_visual_action": "ʿAbdullāh pointing his finger at Muhammad, with a scowl on his face",
+    "characters_present": [
+      "ʿAbdullāh ibn Ubayy",
+      "followers"
+    ],
+    "setting": "The streets of Medina, with a crowd of people in the background",
+    "emotional_tone": "tense",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_summary": "ʿAbdullāh ibn Ubayy and his followers are shown in the background, looking angry and aggressive.",
+    "era": "madinah_early",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 159",
+    "moral_lesson": "The importance of standing up against oppression and injustice",
+    "characters": [
+      {
+        "id": "1",
+        "name": "ʿAbdullāh ibn Ubayy",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, tall, wearing a dark grey thobe and a brown woolen cloak with a white cloth head covering, scowl on his face"
+      },
+      {
+        "id": "2",
+        "name": "followers",
+        "role": "crowd",
+        "depiction_rule": "FULL",
+        "appearance": "a group of young men with varying facial expressions, wearing simple white and beige clothing, some with brown cloaks, turned towards ʿAbdullāh with angry looks"
+      }
+    ],
+    "narrative_text": "ʿAbdullāh ibn Ubayy and his followers were known for their opposition to the Prophet Muhammad. They looked on with anger and aggression as the Prophet preached the truth.",
+    "compliance": {
+      "prophet_check": "NOT_PRESENT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No graphic violence or idols"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A bustling street in early Medina with a crowd of people in the background, set against a warm sandy backdrop with simple mud-brick buildings and a few date palm trees. Late afternoon sunlight casts long shadows across the scene, with a warm orange glow illuminating the faces of the crowd. In the foreground, a tall, imposing figure is seen from behind: medium build, dignified upright posture, wearing a dark grey thobe and a brown woolen cloak with a white cloth head covering. He points a long finger at the central figure, who is not present in the scene, with a scowl on his face. The crowd in the background is a mix of young men, some with angry expressions, others with neutral looks, all turned towards the central figure. Soft warm golden light, tense and dramatic mood. Medium shot at eye level. Warm beige, golden, and deep blue palette with the dark grey thobe as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the Prophet Muhammad' -> 'the central figure'"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Two friends, ʿAmr ibn Umayyah and al-Mundhir ibn Muḥammad, notice a large number of birds concentrating on the spot where they left their people.",
+    "key_visual_action": "Birds flying and perching on the ground",
+    "characters_present": ["ʿAmr ibn Umayyah", "al-Mundhir ibn Muḥammad"],
+    "setting": "Desert or open plain",
+    "emotional_tone": "Curiosity",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The two friends hurry back to the spot, concerned about what might have happened to their brethren.",
+    "key_visual_action": "ʿAmr ibn Umayyah and al-Mundhir ibn Muḥammad running towards the spot",
+    "characters_present": ["ʿAmr ibn Umayyah", "al-Mundhir ibn Muḥammad"],
+    "setting": "Desert or open plain",
+    "emotional_tone": "Concern",
+    "time_of_day": "Afternoon"
+  }
+]

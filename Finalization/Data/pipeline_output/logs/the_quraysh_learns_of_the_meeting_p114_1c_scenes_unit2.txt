@@ -1,0 +1,38 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Jubayr and al-Ḥārith receive news of Saʿd's torture.",
+    "key_visual_action": "Jubayr and al-Ḥārith shocked, looking at each other in concern",
+    "characters_present": ["Jubayr ibn Muṭʿim", "al-Ḥārith ibn Ḥarb"],
+    "setting": "Desert or a marketplace",
+    "emotional_tone": "Concerned",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Jubayr and al-Ḥārith rush to rescue Saʿd.",
+    "key_visual_action": "Jubayr and al-Ḥārith running, with determined expressions",
+    "characters_present": ["Jubayr ibn Muṭʿim", "al-Ḥārith ibn Ḥarb"],
+    "setting": "Desert or a marketplace",
+    "emotional_tone": "Determined",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Jubayr and al-Ḥārith confront Saʿd's tormentors.",
+    "key_visual_action": "Jubayr and al-Ḥārith standing strong, facing the tormentors",
+    "characters_present": ["Jubayr ibn Muṭʿim", "al-Ḥārith ibn Ḥarb", "Saʿd ibn ʿUbādah's tormentors"],
+    "setting": "Desert or a marketplace",
+    "emotional_tone": "Courageous",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "Jubayr and al-Ḥārith save Saʿd from his tormentors.",
+    "key_visual_action": "Jubayr and al-Ḥārith pulling Saʿd to safety",
+    "characters_present": ["Jubayr ibn Muṭʿim", "al-Ḥārith ibn Ḥarb", "Saʿd ibn ʿUbādah"],
+    "setting": "Desert or a marketplace",
+    "emotional_tone": "Relieved",
+    "time_of_day": "Afternoon"
+  }
+]

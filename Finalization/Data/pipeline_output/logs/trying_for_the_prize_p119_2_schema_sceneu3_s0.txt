@@ -1,0 +1,15 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Surāqah tells his tribe that he has seen the Prophet's group chasing a stray camel.",
+  "era": "pre_islamic_prophets|ancient_prophets",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 119",
+  "moral_lesson": "Importance of honesty and trustworthiness",
+  "characters": [
+    {"id": "surāqah", "name": "Surāqah ibn Mālik", "role": "sahabi", "depiction_rule": "FULL", "appearance": "medium build, wearing a simple brown woolen cloak and a white cloth head covering, with a rugged, weathered face and a serious expression"},
+    {"id": "tribe", "name": "The Prophet's tribe", "role": "crowd", "depiction_rule": "FULL", "appearance": "various ages and builds, wearing traditional Arabian clothing, some with veiled faces, others with curious expressions"}
+  ],
+  "narrative_text": "Surāqah told his tribe that he had seen a group of people chasing a stray camel. He thought it was the Habash. When he asked them, they said no, and he realized they were the Prophet's group.",
+  "compliance": {"prophet_check": "NOT_PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, arid desert landscape with endless dunes stretching towards the horizon, under a clear blue sky with a few wispy clouds. Late afternoon sunlight casts long shadows across the sandy terrain. In the distance, a group of people in traditional Arabian clothing, led by the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture. On the right, a young man wearing a simple brown woolen cloak and a white cloth head covering, standing with his legs apart, pointing towards the distant camel with a serious expression. Soft warm golden light, vast and open mood. Medium shot from a slight elevation. Warm beige, sandy, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

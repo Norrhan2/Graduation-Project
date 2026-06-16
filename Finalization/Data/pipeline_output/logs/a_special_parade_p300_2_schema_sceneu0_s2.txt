@@ -1,0 +1,14 @@
+{
+  "scene_number": 3,
+  "scene_summary": "Abū Sufyān's expression changes from surprise to admiration as he watches the Muslim army.",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 300",
+  "moral_lesson": "The power of conviction and the importance of witnessing the truth",
+  "characters": [
+    {"id": "abu_sufyan", "name": "Abū Sufyān", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe and a brown woolen cloak with a white cloth head covering"},
+    {"id": "al-abbas", "name": "al-ʿAbbās", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "tall build, wearing a white thobe and a green woolen cloak with a white turban"}
+  ],
+  "narrative_text": "Abū Sufyān watched in surprise as he saw the Muslim army approaching. But as he looked at al-ʿAbbās, he saw the conviction in his heart and his expression changed to admiration.",
+  "compliance": {"prophet_check": "NOT_PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A panoramic view of a barren 7th century Arabian Desert landscape with a hill in the foreground, overlooking a vast expanse of sandy dunes and rocky outcrops in the distance. Early morning sunlight casts a warm glow across the scene, with a few wispy clouds scattered across the sky. In the foreground, two figures stand facing each other on the hill, looking out at the Muslim army in the distance. On the left, the man in the brown woolen cloak: medium build, dignified upright posture, wearing a white thobe and a white cloth head covering, his expression changing from surprise to admiration. On the right, the man in the green woolen cloak: tall build, wearing a white thobe and a green woolen cloak with a white turban, his expression calm and confident. The distant Muslim army can be seen marching across the landscape, a sea of white and brown robes. Soft warm golden light, expansive and dramatic mood. Wide shot from a low angle, looking up at the two figures. Earthy, beige, and golden palette with the green and brown cloaks as color anchors. No modern objects, historically accurate 7th century scene."

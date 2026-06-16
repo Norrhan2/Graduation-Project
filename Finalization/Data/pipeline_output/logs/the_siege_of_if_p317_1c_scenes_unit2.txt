@@ -1,0 +1,38 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet receives news about the Thaqīf's provisions.",
+    "key_visual_action": "Prophet listening with a concerned expression",
+    "characters_present": ["Prophet"],
+    "setting": "Desert or a meeting place",
+    "emotional_tone": "Concerned",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet sees the abundance of provisions in front of him.",
+    "key_visual_action": "Prophet looking at a large pile of food and water",
+    "characters_present": ["Prophet"],
+    "setting": "Desert or a meeting place",
+    "emotional_tone": "Surprised",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3",
+    "scene_summary": "The Thaqīf leader speaks confidently about their provisions.",
+    "key_visual_action": "Thaqīf leader standing tall with a confident expression",
+    "characters_present": ["Thaqīf"],
+    "setting": "Desert or a meeting place",
+    "emotional_tone": "Confident",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "The Prophet sees the Thaqīf's resolve in their leader's face.",
+    "key_visual_action": "Prophet looking at the Thaqīf leader with a serious expression",
+    "characters_present": ["Prophet", "Thaqīf"],
+    "setting": "Desert or a meeting place",
+    "emotional_tone": "Respectful",
+    "time_of_day": "Afternoon"
+  }
+]

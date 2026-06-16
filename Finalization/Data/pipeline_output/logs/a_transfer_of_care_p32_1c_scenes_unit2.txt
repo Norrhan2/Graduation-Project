@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Muhammad meets a Christian monk, Baḥīrā, in a desert oasis.",
+    "key_visual_action": "Muhammad extending his hand in greeting",
+    "characters_present": ["Muhammad", "Baḥīrā"],
+    "setting": "A desert oasis",
+    "emotional_tone": "Curiosity",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Baḥīrā recognizes Muhammad as the last Prophet and advises Abū Ṭālib to protect him.",
+    "key_visual_action": "Baḥīrā bowing his head in reverence",
+    "characters_present": ["Baḥīrā", "Abū Ṭālib"],
+    "setting": "The same desert oasis",
+    "emotional_tone": "Seriousness",
+    "time_of_day": "afternoon"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Surāqah shouts to the Prophet, asking him to stop.",
+    "key_visual_action": "Surāqah shouting with a dramatic gesture",
+    "characters_present": ["Surāqah ibn Mālik", "The Prophet"],
+    "setting": "Desert, with a distant city in the background",
+    "emotional_tone": "Fearful and urgent",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Surāqah promises not to harm the Prophet and asks for a note of recognition.",
+    "key_visual_action": "Surāqah holding out his hands in a gesture of surrender",
+    "characters_present": ["Surāqah ibn Mālik", "The Prophet"],
+    "setting": "Desert, with a distant city in the background",
+    "emotional_tone": "Relieved and hopeful",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet agrees to write a note of recognition for Surāqah.",
+    "key_visual_action": "The Prophet taking out a piece of paper and a pen to write",
+    "characters_present": ["Surāqah ibn Mālik", "The Prophet"],
+    "setting": "Desert, with a distant city in the background",
+    "emotional_tone": "Grateful and appreciative",
+    "time_of_day": "Afternoon"
+  }
+]

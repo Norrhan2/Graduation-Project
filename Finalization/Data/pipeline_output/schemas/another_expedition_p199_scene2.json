@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 3,
+    "scene_summary": "The Prophet leads his army northwards to Dūmat al-Jandal, taking his enemies by surprise.",
+    "key_visual_action": "The Prophet riding a horse, leading a procession of soldiers on foot and horseback.",
+    "characters_present": [
+      "The Prophet",
+      "The Muslims"
+    ],
+    "setting": "A desert landscape with hills and palm trees, in the distance a city or settlement.",
+    "emotional_tone": "Confident",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 3,
+    "scene_summary": "The Prophet leads his army northwards to Dūmat al-Jandal, taking his enemies by surprise.",
+    "era": "pre_prophetic|early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 199",
+    "moral_lesson": "The importance of surprise and strategy in warfare.",
+    "characters": [
+      {
+        "id": "prophet",
+        "name": "The Central Figure",
+        "role": "Prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe and a deep green woolen cloak draped over both shoulders, a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "muslims",
+        "name": "The Muslims",
+        "role": "Supporting",
+        "depiction_rule": "FULL",
+        "appearance": "various builds, postures, and clothing, with a mix of thobes and woolen cloaks in different colors"
+      }
+    ],
+    "narrative_text": "The Prophet rode at the head of the army, leading them northwards towards Dūmat al-Jandal. He took his enemies by surprise, and they were quickly defeated.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast desert landscape with rolling hills and palm trees in the distance, a city or settlement partially visible on the horizon. Late afternoon sunlight casts a warm glow across the scene, with the sun high in the sky. In the foreground, a lone figure on horseback rides at the head of a procession of soldiers on foot and horseback, moving steadily northwards. The man in the green cloak is seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe and a deep green woolen cloak draped over both shoulders, a white turban with a cloth tail hanging between the shoulder blades. The people following closely behind, their faces visible and their postures varied. Soft warm golden light, expansive and adventurous mood. Medium shot from a slightly elevated angle. Warm beige, sand, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure' -> 'the man in the green cloak'"
+    ]
+  }
+}

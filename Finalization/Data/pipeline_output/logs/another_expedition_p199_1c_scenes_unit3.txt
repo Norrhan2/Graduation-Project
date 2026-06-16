@@ -1,0 +1,47 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet Muhammad and the Muslims prepare for their expedition to Dūmat al-Jandal.",
+    "key_visual_action": "The Prophet holding a map, with the Muslims gathered around, looking determined.",
+    "characters_present": ["The Prophet", "The Muslims"],
+    "setting": "A desert camp",
+    "emotional_tone": "Determined",
+    "time_of_day": "Morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet explains the importance of the expedition to the Muslims.",
+    "key_visual_action": "The Prophet pointing to a map, with a Muslim looking curious.",
+    "characters_present": ["The Prophet", "A Muslim"],
+    "setting": "A desert camp",
+    "emotional_tone": "Inspiring",
+    "time_of_day": "Morning"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Muslims begin their journey to Dūmat al-Jandal, with the Prophet leading the way.",
+    "key_visual_action": "The Prophet riding a camel, with the Muslims following behind.",
+    "characters_present": ["The Prophet", "The Muslims"],
+    "setting": "The desert",
+    "emotional_tone": "Excited",
+    "time_of_day": "Morning"
+  },
+  {
+    "scene_number": 4",
+    "scene_summary": "The Muslims face challenges while traveling through the desert, but they persevere with the Prophet's guidance.",
+    "key_visual_action": "A Muslim struggling to cross a sand dune, with the Prophet helping them.",
+    "characters_present": ["The Prophet", "A Muslim"],
+    "setting": "The desert",
+    "emotional_tone": "Resilient",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 5",
+    "scene_summary": "The Muslims arrive at Dūmat al-Jandal, where they gain valuable experience in traveling through the desert.",
+    "key_visual_action": "The Muslims gathered around the Prophet, looking relieved and proud.",
+    "characters_present": ["The Prophet", "The Muslims"],
+    "setting": "Dūmat al-Jandal",
+    "emotional_tone": "Proud",
+    "time_of_day": "Evening"
+  }
+]

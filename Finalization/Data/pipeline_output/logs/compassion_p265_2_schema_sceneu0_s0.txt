@@ -1,0 +1,25 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Ṣafiyyah's cousin sees the dead bodies and covers their face",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 265",
+  "moral_lesson": "The importance of showing compassion and respect for the deceased",
+  "characters": [
+    {
+      "id": "Ṣafiyyah's cousin",
+      "name": "Ṣafiyyah's cousin",
+      "role": "family_of_prophet",
+      "depiction_rule": "NO_FACE|FROM_BEHIND|SILHOUETTE|FULL",
+      "appearance": "slender build, wearing a simple white thobe with a plain brown woolen cloak, one hand covering their face with a mixture of shock and horror"
+    }
+  ],
+  "narrative_text": "Ṣafiyyah's cousin saw the dead bodies and felt shocked and horrified. They covered their face with their hands to show respect and compassion.",
+  "compliance": {
+    "prophet_check": "NOT_PRESENT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A desolate 7th century battlefield or a place where the dead bodies are found, with a dry, cracked earth surface and few scattered rocks. Late afternoon hazy sunlight casts a warm yet melancholic glow over the scene. In the center, a solitary figure of Ṣafiyyah's cousin stands with their back to the viewer, seen from behind: slender build, dignified upright posture, wearing a simple white thobe with a plain brown woolen cloak draped over both shoulders, one hand extended to cover their face, a mixture of shock and horror etched on their expressionless face. Soft warm golden light, somber and reflective mood. Medium shot from behind Ṣafiyyah's cousin, looking out at the viewer. Muted beige, sandy, and muted brown palette with the white thobe as a color anchor. No modern objects, historically accurate 7th century scene."
+}

@@ -1,0 +1,13 @@
+{
+  "scene_title": "The Prophet's Reluctant Farewell",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 255",
+  "moral_lesson": "The importance of compassion and empathy in decision-making",
+  "characters": [
+    {"id": "1", "name": "Abū Buṣayr", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a simple off-white thobe and plain brown woolen cloak with a white cloth head covering"},
+    {"id": "2", "name": "Prophet Muhammad", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "The Prophet Muhammad looked at Abū Buṣayr with concern, knowing the dangers he would face if he returned to the Quraysh.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "no graphic violence or mature themes"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A simple, rustic 7th century home or desert encampment with unpainted mud-brick walls in warm earth tones and a packed-earth floor partly covered by a woven palm-fiber mat. Late afternoon golden sunlight casts warm rays across the room, illuminating the concerned expression on the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. On the mat, a younger man with a determined look on his face, seen from the side, sits with his back slightly straightened and his hands clasped together, wearing a simple off-white thobe and plain brown woolen cloak with a white cloth head covering. Soft warm golden light, intimate and concerned mood. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

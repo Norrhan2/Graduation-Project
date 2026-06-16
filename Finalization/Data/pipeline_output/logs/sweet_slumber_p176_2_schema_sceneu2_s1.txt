@@ -1,0 +1,32 @@
+{
+  "scene_number": 2,
+  "scene_summary": "Abū Sufyān confronts ʿUmar, asking if the Muslims have killed the Prophet.",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 176",
+  "moral_lesson": "Standing firm in the face of adversity and remaining loyal to one's faith.",
+  "characters": [
+    {
+      "id": "abu_sufyan",
+      "name": "Abū Sufyān",
+      "role": "antagonist",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive dark brown woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, pointing at ʿUmar with a stern finger"
+    },
+    {
+      "id": "umar",
+      "name": "ʿUmar",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, upright posture, wearing a simple dark brown thobe and plain beige woolen cloak with a white cloth head covering, standing firm with his arms crossed"
+    }
+  ],
+  "narrative_text": "Abū Sufyān approached ʿUmar and asked if the Muslims had killed the Prophet. ʿUmar stood firm and replied.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. The Muslim camp with a large tent in the background, partially visible through a gap between two other tents. Late afternoon golden sunlight casts long shadows across the sandy ground. In the foreground, two figures stand facing each other. On the left, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive dark brown woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, pointing at ʿUmar with a stern finger. On the right, a medium build man with upright posture, wearing a simple dark brown thobe and plain beige woolen cloak with a white cloth head covering, standing firm with his arms crossed and a resolute expression. The air is tense and the mood is serious. Medium close shot at eye level. Warm beige, golden, and dark brown palette with the dark brown cloak as a color anchor. In the background, the Prophet's tent partially visible through the gap between the two tents, adding a sense of context and history. No modern objects, historically accurate 7th century scene."
+}

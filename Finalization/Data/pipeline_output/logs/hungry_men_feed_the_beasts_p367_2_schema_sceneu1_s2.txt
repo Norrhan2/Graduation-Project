@@ -1,0 +1,14 @@
+{
+  "scene_number": 3,
+  "scene_summary": "The delegation shares their story of replacing their idol, ʿAmm Anas, with Islam.",
+  "era": "early_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 367",
+  "moral_lesson": "Sharing one's story can inspire others to adopt a new faith.",
+  "characters": [
+    {"id": "1", "name": "Khawlān Delegation", "role": "crowd", "depiction_rule": "NO_FACE", "appearance": "modestly dressed, a mix of men and women with varying ages and builds"},
+    {"id": "2", "name": "the central figure seen from behind", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "A group of people from Khawlān came to the Prophet Muhammad to share their story of how they replaced their idol, ʿAmm Anas, with Islam. They were so proud of their decision that they wanted to tell everyone about it.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "The scene should convey a sense of pride and accomplishment, while avoiding any potentially disturbing imagery."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. The interior of a modest 7th century mosque in Makkah with unpainted mud-brick walls in warm earth tones and a packed-earth floor partly covered by a woven palm-fiber mat. Late afternoon golden sunlight streams through an open wooden doorway on the left, casting warm rays across the room. In the center of the room, a large wooden pulpit stands, and a small clay water jug sits on a low wooden shelf giving a soft glow. A group of people from the Khawlān delegation, dressed in modest clothing with varying colors, sit facing the central figure seen from behind, who stands at the pulpit. The central figure is seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture. The delegation's leader stands at the front of the group, a confident expression on his face, pointing to a picture of ʿAmm Anas, a small idol, hanging on the wall behind the pulpit. Soft warm golden light, intimate and sacred mood. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

@@ -1,0 +1,40 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "The Muslims start to feel extremely tired and sleepy.",
+    "key_visual_action": "A Muslim is shown with their head drooping, eyes getting heavy, and a yawn forming.",
+    "characters_present": [
+      "The Muslims"
+    ],
+    "setting": "Battlefield",
+    "emotional_tone": "Tired",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_title": "The Muslims' Tiredness on the Battlefield",
+    "era": "pre_prophetic",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 176",
+    "moral_lesson": "The importance of perseverance and faith during difficult times",
+    "characters": [
+      {
+        "id": "muslim_1",
+        "name": "A Muslim warrior",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "young man, medium build, wearing a worn-out leather armor, a brown woolen cloak with a white turban, and a scimitar at his side"
+      }
+    ],
+    "narrative_text": "The Muslims were fighting bravely, but as the day wore on, they started to feel extremely tired and sleepy. They knew they had to stay awake and alert to defend their faith.",
+    "compliance": {
+      "prophet_check": "NOT_APPLICABLE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A dusty 7th century Arabian Desert battlefield scene on a warm afternoon. In the background, a few palm trees sway gently in the breeze. The sun is low in the sky, casting a warm golden light over the scene. In the foreground, a lone figure sits on the ground, slumped forward with their head seen from behind, eyes getting heavy, and a yawn forming. They wear a worn-out leather armor, a brown woolen cloak with a white turban, and a scimitar at their side. Their hand rests on the hilt of the scimitar, and their legs are stretched out in front of them, tired and weary. The ground beneath them is dry and cracked, with a few scattered rocks and twigs. Medium close shot at eye level. Warm beige, golden, and brown palette with touches of green from the palm trees. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'head drooping' -> 'head seen from behind'"
+    ]
+  }
+}

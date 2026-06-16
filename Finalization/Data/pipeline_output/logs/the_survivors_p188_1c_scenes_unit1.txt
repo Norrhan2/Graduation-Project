@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿAmr ibn Umayyah advises al-Mundhir ibn Muḥammad to go back home and tell the Prophet what happened.",
+    "key_visual_action": "ʿAmr ibn Umayyah speaking with a concerned expression",
+    "characters_present": ["ʿAmr ibn Umayyah", "al-Mundhir ibn Muḥammad"],
+    "setting": "A desert or battlefield setting with palm trees",
+    "emotional_tone": "Concerned and advising",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Al-Mundhir ibn Muḥammad decides to fight in revenge for his friend.",
+    "key_visual_action": "Al-Mundhir ibn Muḥammad clenching his fist in determination",
+    "characters_present": ["al-Mundhir ibn Muḥammad"],
+    "setting": "The same desert or battlefield setting",
+    "emotional_tone": "Determined and courageous",
+    "time_of_day": "afternoon"
+  }
+]

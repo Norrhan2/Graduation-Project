@@ -1,0 +1,4 @@
+{
+  "cleaned_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene public square in early Madinah, with a few palm trees and a backdrop of sand-colored buildings. Late afternoon sunlight casts a warm glow on the scene. In the center, the man in the green cloak, seen entirely from behind, stands with his arms extended in a gesture of welcome. A group of adult men, dressed in a variety of off-white and beige thobes with simple head coverings, stand or sit around him, their faces turned towards the man in the green cloak with respect and admiration. Soft warm golden light, dignified and respectful mood. Medium shot at eye level. Earthy tones, beige, and off-white palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+  "changes_made": ["'the central figure' -> 'the man in the green cloak'"]
+}

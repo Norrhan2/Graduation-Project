@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Usayr ibn Rizām approaches ʿ Abdullāh ibn Rawāḥah with a hidden dagger.",
+    "key_visual_action": "Usayr's hand slipping into his cloak, revealing the dagger",
+    "characters_present": ["Usayr ibn Rizām", "ʿ Abdullāh ibn Rawāḥah"],
+    "setting": "A marketplace or public square",
+    "emotional_tone": "Suspense",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "ʿ Abdullāh ibn Rawāḥah senses danger and prepares to defend himself.",
+    "key_visual_action": "ʿ Abdullāh ibn Rawāḥah's eyes widening and hand reaching for his sword",
+    "characters_present": ["Usayr ibn Rizām", "ʿ Abdullāh ibn Rawāḥah"],
+    "setting": "A marketplace or public square",
+    "emotional_tone": "Fear",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Usayr attacks, but ʿ Abdullāh ibn Rawāḥah fights back and kills him.",
+    "key_visual_action": "ʿ Abdullāh ibn Rawāḥah striking Usayr with his sword",
+    "characters_present": ["Usayr ibn Rizām", "ʿ Abdullāh ibn Rawāḥah"],
+    "setting": "A marketplace or public square",
+    "emotional_tone": "Determination",
+    "time_of_day": "afternoon"
+  }
+]

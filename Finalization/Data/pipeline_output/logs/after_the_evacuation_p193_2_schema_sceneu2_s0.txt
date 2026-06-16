@@ -1,0 +1,15 @@
+{
+  "scene_number": 1,
+  "scene_summary": "The Prophet Muhammad observes the poverty of Sahl ibn Ḥanīf and Abū Dujānah.",
+  "era": "madinah_early",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 193",
+  "moral_lesson": "Compassion and kindness towards others in need.",
+  "characters": [
+    {"id": "prophet", "name": "The Prophet Muhammad", "role": "prophet", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "sahl_ibn_ḥanīf", "name": "Sahl ibn Ḥanīf", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "lean build, modest posture, wearing a plain beige thobe and a simple white head covering"},
+    {"id": "abū_dujānah", "name": "Abū Dujānah", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "slender build, slightly stooped shoulders, wearing a worn-out off-white thobe and a simple brown head covering"}
+  ],
+  "narrative_text": "The Prophet Muhammad looked at Sahl ibn Ḥanīf and Abū Dujānah with concern, seeing their poverty and wanting to help.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A bustling 7th century Medina marketplace or public area with a packed-earth floor, partially shaded by a row of palm trees on the left and a series of simple wooden stalls on the right. Late afternoon sunlight filters through the palm fronds, casting dappled shadows on the ground. In the center, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, standing in a contemplative posture with one hand on the hip, looking at two figures in front of him. On the left, a lean man with a plain beige thobe and a simple white head covering, sitting on a low wooden stool, his eyes cast downward in shame. On the right, a slender man with slightly stooped shoulders, wearing a worn-out off-white thobe and a simple brown head covering, standing with his back slightly hunched, looking at the central figure with a mixture of hope and desperation. Soft warm golden light, sympathetic and compassionate mood. Medium shot from above, capturing the scene in a public area. Earthy tones, beige, and warm sand palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

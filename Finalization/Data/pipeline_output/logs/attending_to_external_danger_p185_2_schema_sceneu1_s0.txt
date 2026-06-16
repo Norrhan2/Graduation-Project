@@ -1,0 +1,31 @@
+{
+  "scene_title": "Prophet Muhammad and Abū Salamah Prepare for Battle",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 185",
+  "moral_lesson": "Importance of planning and preparation in achieving goals",
+  "characters": [
+    {
+      "id": "Prophet Muhammad",
+      "name": "Prophet Muhammad",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "Abū Salamah",
+      "name": "Abū Salamah",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "slender older man, slightly stooped shoulders, wearing an off-white thobe, plain brown woolen cloak with a white cloth head covering"
+    }
+  ],
+  "narrative_text": "Prophet Muhammad and Abū Salamah sat under a palm tree in the desert, studying the map of their route to prepare for the coming battle.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene 7th century desert landscape with a few scattered palm trees, their trunks sturdy and gnarled, in shades of warm beige and sandy brown. A clear blue morning sky with a few puffy white clouds is reflected in the calm waters of a nearby oasis. In the foreground, two figures sit on a woven mat, studying a yellowed parchment map spread out between them. On the left, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended, the other gesturing as they point to the map. On the right, a slender older man with slightly stooped shoulders, wearing an off-white thobe and plain brown woolen cloak with a white cloth head covering, intently focused, one hand holding the map, the other hand gesturing as he discusses the route with the central figure. Soft warm golden light, intimate and focused mood. Medium shot at eye level. Earthy, sandy, and blue palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

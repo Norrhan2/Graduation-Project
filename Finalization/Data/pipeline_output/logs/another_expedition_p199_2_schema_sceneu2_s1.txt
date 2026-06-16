@@ -1,0 +1,18 @@
+{
+  "scene_title": "The Arab Tribes Flee",
+  "era": "late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 199",
+  "moral_lesson": "The importance of perseverance and trust in Allah's plan",
+  "characters": [
+    {"id": "arab_tribes", "name": "The Arab tribes in Dūmat al-Jandal", "role": "supporting", "depiction_rule": "FULL", "appearance": "various clothing and builds, carrying belongings"}
+  ],
+  "narrative_text": "The Arab tribes had to flee their homes, leaving behind their belongings and livestock. They ran away, feeling desperate and scared.",
+  "compliance": {
+    "prophet_check": "NONE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast desert landscape with rocky outcrops and sparse palm trees in the distance. The sun rises high in the sky, casting a harsh morning light with long shadows. A group of Arab tribes, dressed in traditional clothing, run frantically across the sand, some carrying bundles of belongings, others leading animals. In the foreground, the belongings they left behind are scattered - a torn tent, a broken water jug, a discarded basket. The tribes' faces show fear and desperation, their eyes fixed on the horizon as they flee. In the background, the silhouette of a mountain range stretches across the sky. Medium wide shot, capturing the vastness of the desert. Warm beige, golden, and dusty brown palette with accents of blue for the sky. No modern objects, historically accurate 7th century scene."
+}

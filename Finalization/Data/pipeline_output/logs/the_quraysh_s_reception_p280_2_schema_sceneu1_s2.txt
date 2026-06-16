@@ -1,0 +1,31 @@
+{
+  "scene_number": 3,
+  "scene_summary": "Prophet Muhammad learns about the rumor and looks concerned, with his Companions around him.",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah|madinah_early|madinah_late",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 280",
+  "moral_lesson": "Importance of staying calm in the face of rumors and uncertainty.",
+  "characters": [
+    {
+      "id": "Prophet Muhammad",
+      "name": "Prophet Muhammad",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "Companions",
+      "name": "Companions",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "various builds and postures, dressed in simple white thobes with brown woolen cloaks"
+    }
+  ],
+  "narrative_text": "The Prophet Muhammad sat in the Muslim camp, surrounded by his Companions. He heard a rumor that made him look worried. His Companions tried to reassure him.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene Muslim camp under the evening desert sky, with the stars beginning to twinkle in the distance. Soft, warm golden light from a small fire in the center casts a warm glow across the scene. A group of men, the Companions, sit in a semi-circle around the fire, their faces turned towards the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. His hands are clasped together, and his head is slightly inclined to one side, conveying a sense of concern and worry. The Companions' faces are shown, each with a different expression, some looking concerned, others trying to reassure the central figure. The desert landscape stretches out behind the camp, with a few palm trees silhouetted against the starry sky. Medium shot, slightly above eye level. Warm beige, golden, and dark blue palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

@@ -1,0 +1,24 @@
+{
+  "scene_number": 1,
+  "scene_summary": "The Muslims approach the Arab tribes' encampment.",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 199",
+  "moral_lesson": "Courage in the face of uncertainty",
+  "characters": [
+    {
+      "id": "messenger",
+      "name": "The Muslims",
+      "role": "supporting",
+      "depiction_rule": "NO_FACE",
+      "appearance": "riding horses, wearing a mix of dark and light brown robes with a white turban, mounted on Arabian horses with flowing manes and tails"
+    }
+  ],
+  "narrative_text": "As they ride towards the Arab tribes' encampment, the Muslims feel a mix of excitement and nervousness. They know they are taking a bold step towards spreading their message.",
+  "compliance": {
+    "prophet_check": "FALSE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": "The depiction of the Muslims riding horses is a way to convey their determination and courage in the face of uncertainty."
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Dūmat al-Jandal desert landscape under a clear blue morning sky with a few wispy clouds. In the distance, a large cluster of beige and brown Arabian tents come into view, surrounded by a few palm trees and rocky outcrops. The central figure of the Muslims is seen from behind, riding a majestic Arabian horse with a flowing mane and tail, wearing a mix of dark and light brown robes with a white turban. The horse's hooves kick up clouds of sand as it gallops across the desert floor. In the foreground, a few smaller tents and makeshift shelters can be seen, with the sound of murmuring voices and the smell of freshly brewed coffee wafting through the air. The sunlight casts a warm golden light across the scene, with a sense of movement and energy. Wide shot from a low angle, looking up at the approaching riders. Warm beige, brown, and golden palette with accents of blue and white. No modern objects, historically accurate 7th century scene."

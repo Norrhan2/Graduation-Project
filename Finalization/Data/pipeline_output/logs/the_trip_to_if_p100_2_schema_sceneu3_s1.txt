@@ -1,0 +1,13 @@
+{
+  "scene_title": "ʿAddās Shows Love and Respect",
+  "era": "ancient_prophets|early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 100",
+  "moral_lesson": "Dedication and loyalty to the Prophet, showing love and respect through actions.",
+  "characters": [
+    {"id":"1","name":"ʿAddās","role":"sahabi","depiction_rule":"NO_FACE|FROM_BEHIND","appearance":"medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id":"2","name":"the central figure","role":"prophet","depiction_rule":"NO_FACE|FROM_BEHIND","appearance":"tall build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "ʿAddās loved and respected the Prophet. He showed this love by kissing the Prophet's hands and feet.",
+  "compliance": {"prophet_check":"COMPLIANT","modesty_check":"COMPLIANT","child_safe":"APPROPRIATE","notes":""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene and sandy 7th century Arabian Desert landscape surrounds two figures standing in a respectful distance from each other. Late afternoon golden sunlight casts warm rays across the scene. In the center, the central figure seen entirely from behind: tall build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. On the left, a slender man with slightly stooped shoulders, wearing an off-white thobe and plain brown woolen cloak with a white cloth head covering, bending forward in a deeply emotional posture - one hand reaching up to gently kiss the central figure's head, while the other hand kisses the central figure's feet. Soft warm golden light, intimate and sacred mood. Medium shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

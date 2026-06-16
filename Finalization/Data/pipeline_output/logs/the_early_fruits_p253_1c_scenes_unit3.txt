@@ -1,0 +1,26 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet Muhammad stands in a small mosque, surrounded by a handful of early Muslims.",
+    "key_visual_action": "Prophet Muhammad gestures to a small group of people",
+    "characters_present": [
+      "Prophet Muhammad",
+      "Early Muslims"
+    ],
+    "setting": "A small mosque",
+    "emotional_tone": "Hopeful",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet Muhammad stands in a large mosque, surrounded by a large crowd of Muslims.",
+    "key_visual_action": "Prophet Muhammad raises his hands in a gesture of praise and gratitude",
+    "characters_present": [
+      "Prophet Muhammad",
+      "Large crowd of Muslims"
+    ],
+    "setting": "A large mosque",
+    "emotional_tone": "Triumphant",
+    "time_of_day": "afternoon"
+  }
+]

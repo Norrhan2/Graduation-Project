@@ -1,0 +1,32 @@
+{
+  "scene_number": 1,
+  "scene_summary": "ʿ Abdullāh ibn Anīs spots Khālid ibn Sufyān searching for a place to encamp his women.",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 185",
+  "moral_lesson": "Importance of hospitality and respect for women's privacy.",
+  "characters": [
+    {
+      "id": "1",
+      "name": "ʿ Abdullāh ibn Anīs",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a simple dark brown woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "2",
+      "name": "Khālid ibn Sufyān",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, wearing a light beige thobe and a simple brown woolen cloak with a white cloth head covering"
+    }
+  ],
+  "narrative_text": "ʿ Abdullāh ibn Anīs notices Khālid ibn Sufyān searching for a place to encamp his women. He points him out to the others, reminding them to be hospitable and respectful of their guests.",
+  "compliance": {
+    "prophet_check": "NOT_APPLICABLE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast expanse of sandy desert landscape, with sparse clusters of palm trees and rocky outcroppings in the background. Late afternoon sunlight casts a warm golden glow across the scene. In the distance, a small group of men are visible, with one figure, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a simple dark brown woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, pointing at another figure. The second figure, Khālid ibn Sufyān, is seen from behind, medium build, wearing a light beige thobe and a simple brown woolen cloak with a white cloth head covering, with a subtle indication of a woman and children following behind him. The air is filled with a sense of alertness, as if the men are on high alert, watching the surroundings. Medium shot, slightly above eye level. Warm beige, golden, and sandy palette with accents of brown and dark brown. No modern objects, historically accurate 7th century scene."
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Abū Sufyān and al-ʿAbbās Observe the Muslim Army",
+    "unit_text": "Abū Sufyān and al-ʿAbbās watch the Muslim army march by, with Abū Sufyān impressed by their strength.",
+    "main_characters": ["Abū Sufyān", "al-ʿAbbās"],
+    "event_summary": "Abū Sufyān and al-ʿAbbās observe the Muslim army's impressive strength."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Abū Sufyān Asks About the Tribes",
+    "unit_text": "Abū Sufyān asks al-ʿAbbās about each tribe as they pass by, but is unimpressed by their names.",
+    "main_characters": ["Abū Sufyān", "al-ʿAbbās"],
+    "event_summary": "Abū Sufyān asks al-ʿAbbās about the tribes, but remains unconvinced by their names."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Prophet's 'Green Battalion' Passes By",
+    "unit_text": "The Prophet and his 'green battalion' composed of Muhājirīn and Anṣār march by, wearing their armour.",
+    "main_characters": ["The Prophet", "Muhājirīn", "Anṣār"],
+    "event_summary": "The Prophet's 'green battalion' marches by, wearing their armour."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Abū Sufyān Recognizes the Prophet",
+    "unit_text": "Abū Sufyān recognizes the Prophet and is impressed by the strength of his battalion.",
+    "main_characters": ["Abū Sufyān", "The Prophet"],
+    "event_summary": "Abū Sufyān recognizes the Prophet and is impressed by his battalion's strength."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Abū Sufyān's Realization",
+    "unit_text": "Abū Sufyān realizes that the Muslim army is too strong to resist and advises surrender.",
+    "main_characters": ["Abū Sufyān"],
+    "event_summary": "Abū Sufyān realizes the Muslim army's strength and advises surrender."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Abū Sufyān Returns to Makkah",
+    "unit_text": "Abū Sufyān returns to Makkah and warns the people of the impending fall of the city.",
+    "main_characters": ["Abū Sufyān"],
+    "event_summary": "Abū Sufyān returns to Makkah and warns the people of the impending fall."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Abū Sufyān's Warning to the Quraysh",
+    "unit_text": "Abū Sufyān warns the Quraysh that resistance is futile and advises them to seek safety in the mosque or his house.",
+    "main_characters": ["Abū Sufyān", "Quraysh"],
+    "event_summary": "Abū Sufyān warns the Quraysh of the impending fall and advises them to seek safety."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Hind's Reaction",
+    "unit_text": "Hind, Abū Sufyān's wife, is outraged by his warning and tries to persuade him to take action against the Prophet.",
+    "main_characters": ["Hind", "Abū Sufyān"],
+    "event_summary": "Hind is outraged by Abū Sufyān's warning and tries to persuade him to take action."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "Abū Sufyān's Response to Hind",
+    "unit_text": "Abū Sufyān refuses to be swayed by Hind's words and reiterates his warning to the Quraysh.",
+    "main_characters": ["Abū Sufyān", "Hind"],
+    "event_summary": "Abū Sufyān refuses to be swayed by Hind's words and reiterates his warning."
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "The Quraysh Disperse",
+    "unit_text": "The Quraysh disperse, with some going to the mosque and others seeking safety in their homes.",
+    "main_characters": ["Quraysh"],
+    "event_summary": "The Quraysh disperse in response to Abū Sufyān's warning."
+  },
+  {
+    "unit_number": 11,
+    "unit_title": "Fear Spreads Through Makkah",
+    "unit_text": "An air of fear spreads through Makkah as the people realize the Muslim army's strength.",
+    "main_characters": ["Quraysh"],
+    "event_summary": "Fear spreads through Makkah as the people realize the Muslim army's strength."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Prophet Muhammad announces the peace agreement to the Muslim community",
+    "key_visual_action": "Prophet Muhammad holding a scroll with the agreement",
+    "characters_present": ["Prophet Muhammad", "Muslim Community"],
+    "setting": "Medina, Mosque",
+    "emotional_tone": "Relief",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Muslims rejoice and celebrate the peace agreement",
+    "key_visual_action": "Muslims smiling and hugging each other",
+    "characters_present": ["Muslim Community"],
+    "setting": "Medina, Streets",
+    "emotional_tone": "Joy",
+    "time_of_day": "afternoon"
+  }
+]

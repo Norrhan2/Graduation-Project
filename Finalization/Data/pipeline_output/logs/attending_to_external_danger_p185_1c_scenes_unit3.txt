@@ -1,0 +1,62 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿ Abdullāh ibn Anīs returns from his successful mission, meeting the Prophet's eyes.",
+    "key_visual_action": "ʿ Abdullāh ibn Anīs looks up at the Prophet with a smile",
+    "characters_present": [
+      "ʿ Abdullāh ibn Anīs",
+      "Prophet Muhammad"
+    ],
+    "setting": "Medina, Prophet's Mosque",
+    "emotional_tone": "Joyful",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet extends his hand to congratulate ʿ Abdullāh ibn Anīs.",
+    "key_visual_action": "Prophet Muhammad extends his right hand for a handshake",
+    "characters_present": [
+      "ʿ Abdullāh ibn Anīs",
+      "Prophet Muhammad"
+    ],
+    "setting": "Medina, Prophet's Mosque",
+    "emotional_tone": "Warm",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "ʿ Abdullāh ibn Anīs shakes the Prophet's hand, beaming with pride.",
+    "key_visual_action": "ʿ Abdullāh ibn Anīs shakes the Prophet's hand with a big smile",
+    "characters_present": [
+      "ʿ Abdullāh ibn Anīs",
+      "Prophet Muhammad"
+    ],
+    "setting": "Medina, Prophet's Mosque",
+    "emotional_tone": "Proud",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "The Prophet places his hand on ʿ Abdullāh ibn Anīs' shoulder, expressing his pride.",
+    "key_visual_action": "Prophet Muhammad places his hand on ʿ Abdullāh ibn Anīs' shoulder",
+    "characters_present": [
+      "ʿ Abdullāh ibn Anīs",
+      "Prophet Muhammad"
+    ],
+    "setting": "Medina, Prophet's Mosque",
+    "emotional_tone": "Proud",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 5,
+    "scene_summary": "ʿ Abdullāh ibn Anīs looks up at the Prophet with gratitude in his eyes.",
+    "key_visual_action": "ʿ Abdullāh ibn Anīs looks up at the Prophet with a grateful expression",
+    "characters_present": [
+      "ʿ Abdullāh ibn Anīs",
+      "Prophet Muhammad"
+    ],
+    "setting": "Medina, Prophet's Mosque",
+    "emotional_tone": "Grateful",
+    "time_of_day": "Afternoon"
+  }
+]

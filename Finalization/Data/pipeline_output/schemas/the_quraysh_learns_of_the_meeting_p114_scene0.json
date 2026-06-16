@@ -1,0 +1,46 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "The Quraysh spies observe the Prophet and the Ansar from a distance.",
+    "key_visual_action": "Quraysh spies peeking over a rock",
+    "characters_present": [
+      "Quraysh spies"
+    ],
+    "setting": "Desert landscape near ʿAqabah",
+    "emotional_tone": "Suspense",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 1,
+    "scene_summary": "The Quraysh spies observe the Prophet and the Ansar from a distance.",
+    "era": "pre_islamic_prophets",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 114",
+    "moral_lesson": "The importance of humility and faith in the face of adversity.",
+    "characters": [
+      {
+        "id": "Quraysh_spy_1",
+        "name": "A Quraysh spy",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "medium build, rugged features, wearing a simple beige and brown tunic and a wide-brimmed hat, crouched low to the ground, peeking over a rock"
+      },
+      {
+        "id": "Quraysh_spy_2",
+        "name": "Another Quraysh spy",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "slender build, weathered skin, wearing a similar beige and brown tunic and a smaller hat, also crouched low to the ground, peeking over the same rock"
+      }
+    ],
+    "narrative_text": "The Quraysh spies were trying to catch a glimpse of the Prophet and the Ansar as they met in secret.",
+    "compliance": {
+      "prophet_check": "NOT_PRESENT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast and arid 7th century desert landscape under a clear blue sky with a few distant palm trees and rocky outcroppings. Late afternoon sunlight casts long shadows across the sandy ground. In the distance, two figures - the central figure seen entirely from behind: tall and dignified posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, and a companion in a similar outfit - are visible in the distance. Two Quraysh spies, wearing simple beige and brown tunics and wide-brimmed hats, crouch low to the ground and peer over a large rock, trying to get a glimpse of the two figures. Soft warm golden light, sense of tension and suspense. Medium wide shot from a slight elevation. Warm beige, brown, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": []
+  }
+}

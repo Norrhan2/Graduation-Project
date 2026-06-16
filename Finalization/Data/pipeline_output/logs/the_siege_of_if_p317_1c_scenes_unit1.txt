@@ -1,0 +1,47 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet announces his offer of freedom to the deserting slaves.",
+    "key_visual_action": "The Prophet standing on a hill, holding a staff and looking out at the Thaqīf slaves.",
+    "characters_present": ["Prophet"],
+    "setting": "A desert hill overlooking the Thaqīf slaves",
+    "emotional_tone": "Hopeful",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "A slave from the Thaqīf hesitantly approaches the Prophet.",
+    "key_visual_action": "A slave looking back at the Thaqīf, then taking a step forward towards the Prophet.",
+    "characters_present": ["Prophet", "Thaqīf slave"],
+    "setting": "The desert hill",
+    "emotional_tone": "Fearful",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3",
+    "scene_summary": "The Prophet greets the slave warmly and offers him freedom.",
+    "key_visual_action": "The Prophet extending his hand in a gesture of welcome, with a smile on his face.",
+    "characters_present": ["Prophet", "Thaqīf slave"],
+    "setting": "The desert hill",
+    "emotional_tone": "Joyful",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 4",
+    "scene_summary": "The slave is overjoyed and thanks the Prophet for his kindness.",
+    "key_visual_action": "The slave falling to his knees, hands clasped together in gratitude.",
+    "characters_present": ["Prophet", "Thaqīf slave"],
+    "setting": "The desert hill",
+    "emotional_tone": "Grateful",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 5",
+    "scene_summary": "The slave is freed and joins the Muslim community, surrounded by smiling companions.",
+    "key_visual_action": "The slave being welcomed by the Muslim companions, with the Prophet smiling in the background.",
+    "characters_present": ["Prophet", "Thaqīf slave", "Muslim companions"],
+    "setting": "A bustling Muslim community",
+    "emotional_tone": "Celebratory",
+    "time_of_day": "afternoon"
+  }
+]

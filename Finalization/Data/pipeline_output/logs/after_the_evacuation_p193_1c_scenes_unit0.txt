@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet holds a gathering to divide the spoils of war.",
+    "key_visual_action": "Prophet standing in front of a large pile of spoils, holding a sword or a staff.",
+    "characters_present": ["Prophet"],
+    "setting": "Open field or a designated area for gathering",
+    "emotional_tone": "Serious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet begins to divide the spoils among the Muhājirīn.",
+    "key_visual_action": "Prophet holding a portion of the spoils and handing it to a Muhājirīn.",
+    "characters_present": ["Prophet", "Muhājirīn"],
+    "setting": "Open field or a designated area for gathering",
+    "emotional_tone": "Fairness",
+    "time_of_day": "afternoon"
+  }
+]

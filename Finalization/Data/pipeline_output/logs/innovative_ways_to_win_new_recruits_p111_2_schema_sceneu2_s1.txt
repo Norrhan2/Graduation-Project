@@ -1,0 +1,32 @@
+{
+  "scene_number": 2,
+  "scene_summary": "The young men tie ʿAmr's idol to a dead dog, symbolizing its worthlessness.",
+  "era": "late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 111",
+  "moral_lesson": "The futility of idol worship and the power of faith",
+  "characters": [
+    {
+      "id": "young_men_of_salamah",
+      "name": "Young men of Salamah",
+      "role": "supporting",
+      "depiction_rule": "NO_FACE|FULL",
+      "appearance": "youthful build, wearing simple white thobes with brown woolen cloaks, one holding a dead dog, the other tying a rope around an idol"
+    },
+    {
+      "id": "ʿamr_ibn_al-jamūḥ",
+      "name": "ʿAmr ibn al-Jamūḥ",
+      "role": "antagonist",
+      "depiction_rule": "NO_FACE|FROM_BEHIND",
+      "appearance": "medium build, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders, seen entirely from behind"
+    }
+  ],
+  "narrative_text": "The young men of Salamah decided to teach ʿAmr ibn al-Jamūḥ a lesson about the worthlessness of his idol.",
+  "compliance": {
+    "prophet_check": "NO_PROPHET_PRESENT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast expanse of sandy dunes with sparse acacia trees in the background, under a clear afternoon sky with a few wispy clouds. A small rocky outcropping in the center, where two young men sit on the ground, engaged in a humorous and playful activity. One young man, holding a dead dog by the legs, sits with a mischievous grin, while the other young man, wearing simple white and brown clothing, is shown from behind, tying a rope around an idol, which is placed on the ground in front of him. The central figure is wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders, and a white cloth head covering. The scene is bathed in warm, golden light, with the sand and rocks providing a natural backdrop. Medium shot from slightly above, capturing the playful energy of the scene. Warm beige, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

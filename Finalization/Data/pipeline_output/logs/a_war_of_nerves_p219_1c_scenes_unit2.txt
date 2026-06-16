@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Prophet stands firm at his position, ready to face Quraysh.",
+    "key_visual_action": "Prophet standing with his hands on his hips, looking determined",
+    "characters_present": ["Prophet"],
+    "setting": "Battlefield, Medina",
+    "emotional_tone": "Bravery",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Quraysh warriors charge towards Prophet's position, swords drawn.",
+    "key_visual_action": "Quraysh warriors running towards Prophet with their swords raised",
+    "characters_present": ["Quraysh"],
+    "setting": "Battlefield, Medina",
+    "emotional_tone": "Fear",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Prophet's companions try to remind him to pray, but he's too focused on the battle.",
+    "key_visual_action": "Prophet's companions holding their hands up in a prayer gesture, with Prophet in the background looking at the battle",
+    "characters_present": ["Prophet", "Companions"],
+    "setting": "Battlefield, Medina",
+    "emotional_tone": "Concern",
+    "time_of_day": "Afternoon"
+  }
+]

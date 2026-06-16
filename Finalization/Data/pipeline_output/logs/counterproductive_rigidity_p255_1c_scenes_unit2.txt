@@ -1,0 +1,47 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Buṣayr offers to kill his father's enemies",
+    "key_visual_action": "Abū Buṣayr drawing his sword",
+    "characters_present": ["Abū Buṣayr", "Prophet Muhammad"],
+    "setting": "A desert or open area",
+    "emotional_tone": "Serious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet reacts to Abū Buṣayr's statement",
+    "key_visual_action": "Prophet Muhammad placing his hand on Abū Buṣayr's shoulder",
+    "characters_present": ["Abū Buṣayr", "Prophet Muhammad"],
+    "setting": "A desert or open area",
+    "emotional_tone": "Concerned",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet explains the consequences of Abū Buṣayr's action",
+    "key_visual_action": "Prophet Muhammad shaking his head",
+    "characters_present": ["Abū Buṣayr", "Prophet Muhammad"],
+    "setting": "A desert or open area",
+    "emotional_tone": "Wisdom",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "The Prophet warns Abū Buṣayr about the outcome of his action",
+    "key_visual_action": "Prophet Muhammad looking up at the sky",
+    "characters_present": ["Abū Buṣayr", "Prophet Muhammad"],
+    "setting": "A desert or open area",
+    "emotional_tone": "Serious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 5,
+    "scene_summary": "The Prophet notes that Abū Buṣayr's action would cause a war",
+    "key_visual_action": "Prophet Muhammad pointing to the ground",
+    "characters_present": ["Abū Buṣayr", "Prophet Muhammad"],
+    "setting": "A desert or open area",
+    "emotional_tone": "Concerned",
+    "time_of_day": "afternoon"
+  }
+]

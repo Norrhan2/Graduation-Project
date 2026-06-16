@@ -1,0 +1,24 @@
+{
+  "scene_number": 2,
+  "scene_title": "The Young Men of Salamah Sneak into ʿAmr's Village",
+  "era": "pre_islamic_prophets",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 111",
+  "moral_lesson": "Importance of stealth and caution in mission",
+  "characters": [
+    {
+      "id": "young_men_of_salamah",
+      "name": "Young men of Salamah",
+      "role": "supporting",
+      "depiction_rule": "NO_FACE",
+      "appearance": "tall, lean build, wearing traditional 7th century desert attire: simple white or off-white thobes with brown or beige woolen cloaks and head coverings, some may be wearing leather belts and carrying daggers or swords"
+    }
+  ],
+  "narrative_text": "The young men of Salamah snuck into ʿAmr's village under the cover of darkness to gather information.",
+  "compliance": {
+    "prophet_check": "NOT_APPLICABLE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": "No graphic violence or mature themes"
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. ʿAmr's village, late at night, under a starry desert sky. The air is cool and quiet, with the only sound being the soft crunch of sand beneath footsteps. In the distance, a few mud-brick houses with thatched roofs and wooden doors stand in a line, their windows dark and unlit. The young men of Salamah move stealthily through the shadows, their dark cloaks and head coverings blending in with the night. One of them looks back over his shoulder, his face obscured by the darkness. The moon casts long shadows across the sandy ground, and a few scattered palm trees stand like sentinels in the darkness. Medium shot, eye level, with a focus on the young men moving through the shadows. Muted blue and purple palette with touches of golden light from the stars. No modern objects, historically accurate 7th century scene."

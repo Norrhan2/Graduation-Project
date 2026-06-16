@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "The Evil One appears to a young boy, trying to make him feel unhappy with his life.",
+    "key_visual_action": "The Evil One whispering in the boy's ear",
+    "characters_present": [
+      "The Evil One",
+      "Young Boy"
+    ],
+    "setting": "A quiet, dark alleyway",
+    "emotional_tone": "Fearful",
+    "time_of_day": "Evening"
+  },
+  "schema_output": {
+    "scene_title": "The Evil One's Deception",
+    "era": "pre_prophetic",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 375",
+    "moral_lesson": "The importance of resisting Shaytan's whispers and staying on the right path",
+    "characters": [
+      {
+        "id": "1",
+        "name": "The Evil One",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "tall, lean build, dark clothing, hood up, face obscured by shadows"
+      },
+      {
+        "id": "2",
+        "name": "Young Boy",
+        "role": "main character",
+        "depiction_rule": "FULL",
+        "appearance": "slender build, young, wearing a plain white thobe, khimar covering his hair, looking worried and scared"
+      }
+    ],
+    "narrative_text": "A young boy walked alone in a dark alleyway, unaware of the danger lurking nearby. Suddenly, a tall figure appeared before him, whispering lies in his ear.",
+    "compliance": {
+      "prophet_check": "NOT_APPLICABLE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "The scene is set in pre-prophetic era, so there are no prophets present."
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A dimly lit, narrow 7th century Makkah alleyway with rough, unpainted mud-brick walls in dark earth tones and a dusty, packed-earth floor. Late evening shadows stretch across the alley, with a faint moonlight visible above. In the center of the scene, a young woman stands with a worried expression, looking up at a tall, dark figure looming over her. The central figure is seen from behind, wearing a dark cloak with a hood up, casting a long shadow on the wall. The woman's hand is placed on her ear, as if trying to block out the whispers. A small, flickering oil lamp hangs from a nearby wooden beam, casting eerie shadows. Medium wide shot at waist level. Dark, muted palette with touches of warm golden light, creating an ominous and foreboding mood. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'young boy' -> 'young woman'",
+      "'The Evil One' -> 'the central figure'"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "A Muslim woman is shopping at the Qaynuqāʿ market.",
+    "key_visual_action": "Muslim woman holding a basket of goods, smiling at a vendor.",
+    "characters_present": ["Muslim woman"],
+    "setting": "Qaynuqāʿ market",
+    "emotional_tone": "happiness",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "A Jew mockingly sticks the Muslim woman's dress to her shoulders.",
+    "key_visual_action": "Jew sneaking up behind the Muslim woman, hand reaching for her dress.",
+    "characters_present": ["Muslim woman", "Jew"],
+    "setting": "Qaynuqāʿ market",
+    "emotional_tone": "shock/humiliation",
+    "time_of_day": "afternoon"
+  }
+]

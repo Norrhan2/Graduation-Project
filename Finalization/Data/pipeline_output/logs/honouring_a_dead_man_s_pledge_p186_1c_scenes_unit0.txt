@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿĀṣim ibn Thābit is shown with his sister Sulāfah bint Saʿd, preparing for the Battle of Uḥud.",
+    "key_visual_action": "ʿĀṣim is shown tightening his sword belt.",
+    "characters_present": ["ʿĀṣim ibn Thābit", "Sulāfah bint Saʿd"],
+    "setting": "A desert camp, with the sounds of war drums in the background.",
+    "emotional_tone": "Determined",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "ʿĀṣim ibn Thābit is shown fighting two non-believing brothers at the Battle of Uḥud.",
+    "key_visual_action": "ʿĀṣim is shown standing back-to-back with his sword raised, ready to defend himself.",
+    "characters_present": ["ʿĀṣim ibn Thābit"],
+    "setting": "The battlefield of Uḥud, with chaos and noise all around.",
+    "emotional_tone": "Brave",
+    "time_of_day": "afternoon"
+  }
+]

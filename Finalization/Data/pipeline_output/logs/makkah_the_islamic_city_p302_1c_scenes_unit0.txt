@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet approaches the Ka'bah, looking out at the sacred site.",
+    "key_visual_action": "The Prophet gazing out at the Ka'bah with a look of reverence.",
+    "characters_present": ["The Prophet"],
+    "setting": "The Ka'bah, Mecca",
+    "emotional_tone": "Awe",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet touches the Black Stone, and a sense of peace washes over him.",
+    "key_visual_action": "The Prophet gently touching the Black Stone with his hand.",
+    "characters_present": ["The Prophet"],
+    "setting": "The Ka'bah, Mecca",
+    "emotional_tone": "Peace",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet proclaims 'Allah-u-Akbar' to the people gathered around him.",
+    "key_visual_action": "The Prophet raising his hands in a gesture of declaration, with a loud cry of 'Allah-u-Akbar'.",
+    "characters_present": ["The Prophet"],
+    "setting": "The Ka'bah, Mecca",
+    "emotional_tone": "Confidence",
+    "time_of_day": "Afternoon"
+  }
+]

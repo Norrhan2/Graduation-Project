@@ -1,0 +1,58 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Prophet's Delegation Arrives at Ṭā'if",
+    "unit_text": "A delegation from Madinah, led by Khālid ibn al-Walīd and including al-Mughīrah ibn Shu'bah, arrives at Ṭā'if.",
+    "main_characters": ["Khālid ibn al-Walīd", "al-Mughīrah ibn Shu'bah"],
+    "event_summary": "The Prophet's delegation arrives at Ṭā'if to destroy al-Lāt."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Destruction of al-Lāt",
+    "unit_text": "The delegation goes to al-Lāt, and al-Mughīrah ibn Shu'bah pretends to fall down after hitting it with an axe, causing the people of Ṭā'if to cheer.",
+    "main_characters": ["al-Mughīrah ibn Shu'bah", "people of Ṭā'if"],
+    "event_summary": "The people of Ṭā'if are deceived into thinking al-Mughīrah ibn Shu'bah has been killed."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Al-Mughīrah's True Intentions Revealed",
+    "unit_text": "Al-Mughīrah ibn Shu'bah reveals his true intentions and continues to destroy al-Lāt, along with his fellow Muslims.",
+    "main_characters": ["al-Mughīrah ibn Shu'bah", "Muslim delegation"],
+    "event_summary": "Al-Mughīrah ibn Shu'bah reveals his true intentions and continues to destroy al-Lāt."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Destruction of al-Lāt's Foundation",
+    "unit_text": "Al-Mughīrah ibn Shu'bah digs up the foundation of al-Lāt, causing the earth to be turned upside down.",
+    "main_characters": ["al-Mughīrah ibn Shu'bah", "key-keeper of the place"],
+    "event_summary": "Al-Mughīrah ibn Shu'bah digs up the foundation of al-Lāt."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Receiving the Jewellery and Garments",
+    "unit_text": "The Prophet receives the jewellery and fine garments brought back by the Muslim delegation from their mission to destroy al-Lāt.",
+    "main_characters": ["Prophet", "Muslim delegation"],
+    "event_summary": "The Prophet receives the jewellery and fine garments from the Muslim delegation."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Abū Mulayḥ and Qārib's Conversion",
+    "unit_text": "Two young men from the Thaqīf, Abū Mulayḥ and Qārib ibn al-Aswad, come to the Prophet to declare their Islam and ask for his help in paying off their debts.",
+    "main_characters": ["Abū Mulayḥ", "Qārib ibn al-Aswad", "Prophet"],
+    "event_summary": "Abū Mulayḥ and Qārib ibn al-Aswad come to the Prophet to declare their Islam."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Paying Off Debts",
+    "unit_text": "The Prophet orders Abū Sufyān to pay off the debts of Abū Mulayḥ's father and Qārib ibn al-Aswad's uncle.",
+    "main_characters": ["Prophet", "Abū Sufyān", "Abū Mulayḥ", "Qārib ibn al-Aswad"],
+    "event_summary": "The Prophet orders Abū Sufyān to pay off the debts of Abū Mulayḥ's father and Qārib ibn al-Aswad's uncle."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "The Thaqīf's Final Surrender",
+    "unit_text": "The Thaqīf finally surrenders to Islam, marking the last major Arab tribe to do so.",
+    "main_characters": ["Thaqīf", "Prophet"],
+    "event_summary": "The Thaqīf finally surrenders to Islam."
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "scene_number": 2,
+  "scene_summary": "Abu Lahab, Muhammad's uncle, tries to harm him by throwing a rock.",
+  "era": "pre_islamic_prophets|early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 32",
+  "moral_lesson": "The importance of remaining calm in the face of adversity.",
+  "characters": [
+    {"id": "1", "name": "Muhammad", "role": "prophet", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "2", "name": "Abu Lahab", "role": "antagonist", "depiction_rule": "FULL", "appearance": "medium build, slightly hunched posture, wearing a worn beige thobe and a plain brown head covering"}
+  ],
+  "narrative_text": "Abu Lahab, Muhammad's uncle, tried to harm him by throwing a rock. But Muhammad remained calm and patient.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "The scene should be depicted in a way that does not show excessive violence or harm to Muhammad."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A wide open desert landscape with scattered rocky outcroppings and sandy dunes in shades of beige, gold, and deep blue. Late afternoon sunlight casts long shadows across the sand, with a faint haze of heat distortion in the air. In the foreground, a young man in a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades stands with his back turned, looking frightened and fearful. He is seen entirely from behind, with his hands clasped together in a gesture of prayer. In the background, a man in a worn beige thobe and a plain brown head covering is shown from the front, throwing a rock with a look of anger and malice on his face. Soft warm golden light, dramatic and intense mood. Medium wide shot from slightly above the characters. Warm beige, golden, and deep blue palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

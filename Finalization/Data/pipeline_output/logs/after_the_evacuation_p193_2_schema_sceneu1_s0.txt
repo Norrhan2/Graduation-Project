@@ -1,0 +1,38 @@
+{
+  "scene_title": "The Prophet gathers Anṣār leaders",
+  "era": "madinah_early",
+  "region": "madinah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 193",
+  "moral_lesson": "Importance of leadership and community involvement",
+  "characters": [
+    {
+      "id": "1",
+      "name": "The central figure",
+      "role": "prophet",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, hands clasped together"
+    },
+    {
+      "id": "2",
+      "name": "Anṣār leader",
+      "role": "sahabi",
+      "depiction_rule": "FULL",
+      "appearance": "medium build, dignified upright posture, wearing a plain white thobe and a brown woolen cloak with a white cloth head covering, looking respectfully at the central figure"
+    },
+    {
+      "id": "3",
+      "name": "Anṣār leader",
+      "role": "sahabi",
+      "depiction_rule": "FULL",
+      "appearance": "slender build, wearing a plain white thobe and a brown woolen cloak with a white cloth head covering, looking respectfully at the central figure"
+    }
+  ],
+  "narrative_text": "The Prophet stood under a palm tree in Medina, addressing the Anṣār leaders about the distribution of fay'. He wanted to make sure they were involved in the decision-making process.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A sunny afternoon in Medina, with a clear blue sky and a few puffy white clouds. A tall palm tree stands in the center, its trunk thick and gnarled, with a few branches stretching upwards. The Prophet stands under the palm tree, seen from behind, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. His hands are clasped together in a gentle gesture. Two Anṣār leaders stand facing him, looking respectfully at the central figure. One leader is of medium build, wearing a plain white thobe and a brown woolen cloak with a white cloth head covering. The other leader is slender, wearing a plain white thobe and a brown woolen cloak with a white cloth head covering. Soft warm sunlight casts a gentle glow on the scene. Medium shot at eye level. Warm beige, cream, and blue palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

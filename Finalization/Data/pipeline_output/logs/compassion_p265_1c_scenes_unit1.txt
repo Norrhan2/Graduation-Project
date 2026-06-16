@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet discovers Bilal taking Ṣafiyyah to the burial site.",
+    "key_visual_action": "The Prophet's shocked expression",
+    "characters_present": ["The Prophet", "Bilal"],
+    "setting": "A burial site",
+    "emotional_tone": "Surprise",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet reprimands Bilal for his actions, showing disapproval.",
+    "key_visual_action": "The Prophet's stern hand gesture",
+    "characters_present": ["The Prophet", "Bilal"],
+    "setting": "A burial site",
+    "emotional_tone": "Disapproval",
+    "time_of_day": "afternoon"
+  }
+]

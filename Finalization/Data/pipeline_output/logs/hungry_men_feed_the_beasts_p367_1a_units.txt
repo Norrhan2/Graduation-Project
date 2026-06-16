@@ -1,0 +1,51 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Khawlān Delegation Arrives in Madinah",
+    "unit_text": "A delegation from the tribe of Khawlān arrives in Madinah, expressing their faith in God and acceptance of the Prophet's message.",
+    "main_characters": ["Prophet Muhammad", "Khawlān Delegation"],
+    "event_summary": "A delegation from the tribe of Khawlān arrives in Madinah to meet the Prophet."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Reward for Visiting the Prophet",
+    "unit_text": "The Prophet promises the delegation a reward for visiting him, stating that they will be in his camp on the Day of Judgement.",
+    "main_characters": ["Prophet Muhammad", "Khawlān Delegation"],
+    "event_summary": "The Prophet promises a reward to those who visit him in Madinah."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Replacing the Idol with Islam",
+    "unit_text": "The delegation shares their story of replacing their idol, ʿ Amm Anas, with Islam, and their plans to destroy the idol upon their return.",
+    "main_characters": ["Khawlān Delegation", "Prophet Muhammad"],
+    "event_summary": "The delegation shares their story of replacing their idol with Islam."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Idol's Deception",
+    "unit_text": "The delegation shares a story of how their idol, ʿ Amm Anas, was used to deceive them, and how they would give it a share of their crops and cattle.",
+    "main_characters": ["Khawlān Delegation"],
+    "event_summary": "The delegation shares a story of how their idol deceived them."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Prophet's Explanation",
+    "unit_text": "The Prophet explains to the delegation that God had revealed to him the truth about their idol, and that Satan was the one speaking to them.",
+    "main_characters": ["Prophet Muhammad", "Khawlān Delegation"],
+    "event_summary": "The Prophet explains the truth about their idol to the delegation."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Religious Duties and Promises",
+    "unit_text": "The Prophet explains the delegation's religious duties and orders them to honour their promises and pledges.",
+    "main_characters": ["Prophet Muhammad", "Khawlān Delegation"],
+    "event_summary": "The Prophet explains the delegation's religious duties and orders them to honour their promises."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "The Delegation Departs",
+    "unit_text": "The delegation bids the Prophet farewell and returns to their people, destroying the idol upon their arrival.",
+    "main_characters": ["Khawlān Delegation", "Prophet Muhammad"],
+    "event_summary": "The delegation departs and destroys the idol upon their return."
+  }
+]

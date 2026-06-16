@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet's informers arrive with the news of the Arab tribes' attack on trade caravans.",
+    "key_visual_action": "The informers bowing down to the Prophet",
+    "characters_present": ["The Prophet", "The informers"],
+    "setting": "Medina, in the Prophet's house",
+    "emotional_tone": "Serious",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet listens attentively to the informers, taking in the information about the Arab tribes' aggressive behavior.",
+    "key_visual_action": "The Prophet with a thoughtful expression, hands clasped together",
+    "characters_present": ["The Prophet", "The informers"],
+    "setting": "Medina, in the Prophet's house",
+    "emotional_tone": "Concerned",
+    "time_of_day": "Afternoon"
+  }
+]

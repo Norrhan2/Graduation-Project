@@ -1,0 +1,17 @@
+{
+  "scene_number": 2,
+  "scene_title": "Quraysh Nobles Rejected",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|late_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 280",
+  "moral_lesson": "The consequences of rejecting the truth and being blinded by pride and arrogance.",
+  "characters": [
+    {"id": "quraysh_1", "name": "Quraysh Noble", "role": "antagonist", "depiction_rule": "NO_FACE|FROM_BEHIND|SILHOUETTE|FULL", "appearance": "tall build, wearing a dark brown woolen cloak with intricate silver embroidery, turned away in disgust"},
+    {"id": "quraysh_2", "name": "Quraysh Noble", "role": "antagonist", "depiction_rule": "NO_FACE|FROM_BEHIND|SILHOUETTE|FULL", "appearance": "medium build, wearing a light gray thobe with a white turban, covering face with right hand"},
+    {"id": "quraysh_3", "name": "Quraysh Noble", "role": "antagonist", "depiction_rule": "NO_FACE|FROM_BEHIND|SILHOUETTE|FULL", "appearance": "slender build, wearing a dark green woolen cloak with a white head covering, gesturing in disgust with right hand"},
+    {"id": "prophet_muhammad", "name": "The Central Figure", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "companions", "name": "Companions", "role": "supporting", "depiction_rule": "FULL", "appearance": "diverse group of young men, wearing simple white or off-white thobes, standing or sitting behind the central figure"}
+  ],
+  "narrative_text": "Some Quraysh nobles saw the Prophet Muhammad and his Companions, but they looked away in anger, unable to accept the truth.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "historically accurate depiction of Quraysh nobles and their reaction to the Prophet Muhammad and his Companions"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A bustling late afternoon street in 7th century Makkah with sun-dried mud-brick buildings and packed-earth floors. The city's central marketplace is filled with people of all ages and backgrounds. In the distance, a group of Quraysh nobles stand out, their dark-colored woolen cloaks and intricately embroidered silver trim making them noticeable. The central figure, seen entirely from behind, stands tall and dignified in a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. The Companions stand or sit behind him, a diverse group of young men wearing simple white or off-white thobes. The Quraysh nobles, their faces turned away in disgust, cover their faces with their hands or arms. One of them gestures in anger, while another looks on with a scowl. Soft warm golden light, with deep shadows, creates an atmosphere of tension and rejection. Medium shot, eye level. Warm beige, brown, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

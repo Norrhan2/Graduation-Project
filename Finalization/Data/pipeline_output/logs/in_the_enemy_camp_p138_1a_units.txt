@@ -1,0 +1,51 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The Quraysh Approach",
+    "unit_text": "The Quraysh marched into the valley, prompting the Prophet to make a supplication for victory.",
+    "main_characters": ["The Prophet", "The Quraysh"],
+    "event_summary": "The Quraysh approach the Prophet's camp, prompting a supplication for victory."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Quraysh Scouts the Muslim Camp",
+    "unit_text": "A group of Quraysh came to the Muslim camp, but the Prophet instructed his companions not to oppose them.",
+    "main_characters": ["The Prophet", "The Quraysh"],
+    "event_summary": "The Quraysh scouts the Muslim camp, but the Prophet orders his companions to remain calm."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Spies Report Back",
+    "unit_text": "Muslim spies return with a report of fear and disarray in the Quraysh camp, as well as heavy rain.",
+    "main_characters": ["ʿ Ammār", "ʿ Abdullāh ibn Masūd", "The Quraysh"],
+    "event_summary": "Muslim spies report back with a negative assessment of the Quraysh's morale and situation."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "ʿ Umayr's Report",
+    "unit_text": "ʿ Umayr ibn Wahb estimates the Muslim troop strength to be around 300, but warns of a potential catastrophe.",
+    "main_characters": ["ʿ Umayr ibn Wahb", "The Prophet"],
+    "event_summary": "ʿ Umayr ibn Wahb estimates the Muslim troop strength and warns of a potential catastrophe."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Quraysh Divided",
+    "unit_text": "Some Quraysh leaders, including Al-Akhnas ibn Sharīq, advise against a confrontation, but are overruled by Abū Jahl.",
+    "main_characters": ["Al-Akhnas ibn Sharīq", "Abū Jahl", "The Quraysh"],
+    "event_summary": "Quraysh leaders are divided on whether to confront the Prophet, but Abū Jahl prevails."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Prophet's Plea",
+    "unit_text": "The Prophet sends ʿ Umar ibn al-Khaṭṭāb to ask the Quraysh to withdraw, but they refuse.",
+    "main_characters": ["The Prophet", "ʿ Umar ibn al-Khaṭṭāb", "The Quraysh"],
+    "event_summary": "The Prophet pleads with the Quraysh to withdraw, but they refuse."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Quraysh's Grievances",
+    "unit_text": "The Quraysh's grievances against the Prophet are limited to the killing of ʿ Amr ibn al-Ḥaḍramī and the looting of his trade caravan.",
+    "main_characters": ["The Quraysh", "The Prophet"],
+    "event_summary": "The Quraysh's grievances against the Prophet are limited and focused on past incidents."
+  }
+]

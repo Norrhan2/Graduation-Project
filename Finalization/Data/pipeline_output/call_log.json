@@ -1,0 +1,1710 @@
+[
+  {
+    "time": "2026-06-16T17:04:56.831212",
+    "layer": "layer_1a",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:04:57.470723",
+    "layer": "layer_1b",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:05:04.280128",
+    "layer": "layer_1c",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:05:19.567697",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:05:34.434984",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:05:43.590070",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:06:07.194944",
+    "layer": "layer_1c",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:06:08.504081",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:06:42.168887",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:06:42.756926",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:06:44.111117",
+    "layer": "layer_1c",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:07:01.434220",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:07:18.875831",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:07:33.509483",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:07:58.978599",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:08:10.569930",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:08:25.890890",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:08:45.008030",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:09:03.660418",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:09:12.272020",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:09:28.437428",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:09:47.684521",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:09:57.434027",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:10:16.129941",
+    "layer": "layer_1a",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:10:34.366097",
+    "layer": "layer_1b",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:10:45.709734",
+    "layer": "layer_1c",
+    "key_index": 0,
+    "status": "rate_limited",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgstykyhf5vbfjyhvzt6rx09` service "
+  },
+  {
+    "time": "2026-06-16T17:10:47.255557",
+    "layer": "layer_1c",
+    "key_index": 1,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:10:58.376856",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:11:05.113272",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:11:23.321461",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:11:31.976176",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:11:32.695475",
+    "layer": "layer_1c",
+    "key_index": 1,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:11:46.718423",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:11:56.314374",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:12:12.743978",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:12:22.427973",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:12:37.848067",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:12:47.728709",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:12:48.368582",
+    "layer": "layer_1c",
+    "key_index": 1,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:13:03.850728",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:13:24.338423",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:13:34.961152",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:13:35.578408",
+    "layer": "layer_1c",
+    "key_index": 1,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:13:52.769037",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:13:59.343550",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:14:15.706483",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:14:28.361715",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:14:36.710621",
+    "layer": "layer_1a",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:14:49.867184",
+    "layer": "layer_1b",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:15:35.769456",
+    "layer": "layer_1c",
+    "key_index": 1,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:15:36.950006",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:15:37.412810",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:15:38.978566",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:15:39.057781",
+    "layer": "layer_1c",
+    "key_index": 1,
+    "status": "rate_limited",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgxd8ywwfv6aedarv0cvnsq3` service "
+  },
+  {
+    "time": "2026-06-16T17:15:39.734019",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:15:44.914057",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:15:54.535781",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:16:10.472000",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:16:19.077758",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:16:34.739663",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:16:35.633265",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:16:35.972364",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:16:53.350231",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:17:02.648736",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:17:10.371525",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:17:25.376996",
+    "layer": "layer_1a",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:17:48.570683",
+    "layer": "layer_1b",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:17:49.459915",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:18:06.801027",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:18:19.541933",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:18:35.705132",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:18:45.466998",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:18:59.453764",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:19:00.030698",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:19:17.314579",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:19:38.799469",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:19:49.681346",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:19:50.496968",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:19:50.956473",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:20:05.181706",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:20:05.704280",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:20:25.369525",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:20:41.504139",
+    "layer": "layer_1a",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:20:57.557960",
+    "layer": "layer_1b",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:20:58.175605",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:21:18.169057",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:21:26.803425",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:21:41.955299",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:21:50.558581",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:22:06.938513",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:22:07.658212",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:22:20.759981",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:22:29.424488",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:22:48.742112",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:22:54.285564",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:23:09.578007",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:23:22.678119",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:23:23.737677",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:23:38.225695",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:23:55.503221",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:24:04.069812",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:24:19.406141",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:24:32.422578",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:24:33.313119",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:24:45.585441",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:25:06.997561",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:25:16.620001",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:25:31.778196",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:25:38.432185",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:25:57.294239",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:26:11.163162",
+    "layer": "layer_1a",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:26:35.398437",
+    "layer": "layer_1b",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:26:35.912166",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:26:51.268059",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:27:02.893211",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:27:18.214699",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:27:19.169138",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:27:20.035095",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:27:20.894017",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:27:37.152944",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:27:46.968764",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:28:01.527772",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:28:18.622922",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:28:37.820397",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:28:47.432232",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:29:02.740034",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:29:12.511105",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:29:22.770331",
+    "layer": "layer_1a",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:29:32.718609",
+    "layer": "layer_1b",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:29:33.412901",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:29:51.621243",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:30:11.216139",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:30:12.224643",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:30:30.492694",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:30:49.090033",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:30:56.425068",
+    "layer": "layer_3",
+    "key_index": 0,
+    "status": "rate_limited",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgstykyhf5vbfjyhvzt6rx09` service "
+  },
+  {
+    "time": "2026-06-16T17:30:58.034458",
+    "layer": "layer_3",
+    "key_index": 1,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:31:05.543486",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:31:06.632794",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:31:25.399717",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:31:46.082015",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:31:46.917788",
+    "layer": "layer_3",
+    "key_index": 1,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:32:02.716572",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:32:23.987959",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:32:24.550700",
+    "layer": "layer_3",
+    "key_index": 1,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:32:41.695729",
+    "layer": "layer_1a",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:33:03.199973",
+    "layer": "layer_1b",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:33:03.775232",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:33:22.255992",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:33:22.806427",
+    "layer": "layer_3",
+    "key_index": 1,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:33:41.153370",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:33:41.693451",
+    "layer": "layer_3",
+    "key_index": 1,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:33:42.265479",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:33:59.678931",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:34:16.204484",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:34:17.083883",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:34:36.474455",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:34:37.024407",
+    "layer": "layer_3",
+    "key_index": 1,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:34:56.485437",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:34:56.655431",
+    "layer": "layer_3",
+    "key_index": 1,
+    "status": "rate_limited",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgxd8ywwfv6aedarv0cvnsq3` service "
+  },
+  {
+    "time": "2026-06-16T17:34:57.291777",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:35:15.647094",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:35:35.312939",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:35:36.188146",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:35:36.504692",
+    "layer": "layer_1a",
+    "key_index": 0,
+    "status": "rate_limited",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgstykyhf5vbfjyhvzt6rx09` service "
+  },
+  {
+    "time": "2026-06-16T17:35:36.681707",
+    "layer": "layer_1a",
+    "key_index": 1,
+    "status": "rate_limited",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgxd8ywwfv6aedarv0cvnsq3` service "
+  },
+  {
+    "time": "2026-06-16T17:35:38.316480",
+    "layer": "layer_1a",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:35:38.518253",
+    "layer": "layer_1b",
+    "key_index": 0,
+    "status": "rate_limited",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgstykyhf5vbfjyhvzt6rx09` service "
+  },
+  {
+    "time": "2026-06-16T17:35:38.600938",
+    "layer": "layer_1b",
+    "key_index": 1,
+    "status": "rate_limited",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgxd8ywwfv6aedarv0cvnsq3` service "
+  },
+  {
+    "time": "2026-06-16T17:35:39.435056",
+    "layer": "layer_1b",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:35:39.848250",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:35:39.930663",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "rate_limited",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgstykyhf5vbfjyhvzt6rx09` service "
+  },
+  {
+    "time": "2026-06-16T17:35:40.019933",
+    "layer": "layer_2",
+    "key_index": 1,
+    "status": "rate_limited",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgxd8ywwfv6aedarv0cvnsq3` service "
+  },
+  {
+    "time": "2026-06-16T17:35:46.453776",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "rate_limited",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kv62b1wpf3y99crpdf83k7vf` service "
+  },
+  {
+    "time": "2026-06-16T17:35:47.786822",
+    "layer": "layer_2",
+    "key_index": 3,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:35:48.302447",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:36:00.540898",
+    "layer": "layer_2",
+    "key_index": 3,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:36:01.264251",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:36:21.473333",
+    "layer": "layer_2",
+    "key_index": 3,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:36:22.032961",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:36:39.437218",
+    "layer": "layer_2",
+    "key_index": 3,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:37:13.659679",
+    "layer": "layer_2",
+    "key_index": 3,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:37:14.203360",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:37:14.652564",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:37:16.957040",
+    "layer": "layer_2",
+    "key_index": 3,
+    "status": "rate_limited",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kv82zsb5fs593j1eyfwj4p7g` service "
+  },
+  {
+    "time": "2026-06-16T17:38:11.230004",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:38:11.834355",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:38:11.924155",
+    "layer": "layer_2",
+    "key_index": 0,
+    "status": "rate_limited",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgstykyhf5vbfjyhvzt6rx09` service "
+  },
+  {
+    "time": "2026-06-16T17:38:36.271500",
+    "layer": "layer_2",
+    "key_index": 1,
+    "status": "rate_limited",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgxd8ywwfv6aedarv0cvnsq3` service "
+  },
+  {
+    "time": "2026-06-16T17:38:37.289695",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:38:37.818287",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:38:38.412239",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:38:39.578636",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:38:43.160556",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:38:55.578579",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:39:14.207835",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:39:24.916878",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:39:37.203156",
+    "layer": "layer_1a",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:39:52.553133",
+    "layer": "layer_1b",
+    "key_index": 2,
+    "status": "rate_limited",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kv62b1wpf3y99crpdf83k7vf` service "
+  },
+  {
+    "time": "2026-06-16T17:39:53.395012",
+    "layer": "layer_1b",
+    "key_index": 3,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:39:53.849104",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:40:07.197729",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:40:15.938923",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:40:33.155434",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:40:39.713094",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:40:46.680696",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:40:58.808813",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:41:16.985409",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:41:40.363562",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:41:43.988814",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:41:59.473004",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:42:09.118614",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:42:30.576214",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:42:33.250133",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:42:46.045606",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:42:55.426881",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:43:06.076237",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:43:27.656448",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:43:35.001506",
+    "layer": "layer_1a",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:43:36.034264",
+    "layer": "layer_1b",
+    "key_index": 3,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:43:46.631637",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:44:05.895770",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:44:06.455529",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:44:20.629112",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:44:29.210196",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:44:34.803031",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:44:49.970715",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:44:59.779262",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:45:19.421659",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:45:23.958185",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:45:29.748267",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:45:45.907532",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:45:54.670992",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:46:08.827723",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:46:21.448031",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:46:47.774420",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:47:00.346291",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:47:04.972540",
+    "layer": "layer_1c",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:47:21.070369",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:47:24.531605",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:47:39.753865",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:47:49.354845",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  },
+  {
+    "time": "2026-06-16T17:48:05.893176",
+    "layer": "layer_2",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 2048
+  },
+  {
+    "time": "2026-06-16T17:48:18.639620",
+    "layer": "layer_3",
+    "key_index": 2,
+    "status": "success",
+    "tokens": 1024
+  }
+]

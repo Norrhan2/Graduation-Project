@@ -1,0 +1,50 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Khawlān Delegation Arrives in Madinah",
+    "unit_text": "A delegation from the tribe of Khawlān arrives in Madinah, expressing their faith in God and acceptance of the Prophet's message.",
+    "main_characters": [
+      "Prophet Muhammad",
+      "Khawlān Delegation"
+    ],
+    "event_summary": "A delegation from the tribe of Khawlān arrives in Madinah to meet the Prophet.",
+    "selection_reason": "Clear visual moment of the delegation's arrival in Madinah.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Replacing the Idol with Islam",
+    "unit_text": "The delegation shares their story of replacing their idol, ʿ Amm Anas, with Islam, and their plans to destroy the idol upon their return.",
+    "main_characters": [
+      "Khawlān Delegation",
+      "Prophet Muhammad"
+    ],
+    "event_summary": "The delegation shares their story of replacing their idol with Islam.",
+    "selection_reason": "Meaningful lesson on the importance of replacing false beliefs with Islam.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Prophet's Explanation",
+    "unit_text": "The Prophet explains to the delegation that God had revealed to him the truth about their idol, and that Satan was the one speaking to them.",
+    "main_characters": [
+      "Prophet Muhammad",
+      "Khawlān Delegation"
+    ],
+    "event_summary": "The Prophet explains the truth about their idol to the delegation.",
+    "selection_reason": "Clear visual moment of the Prophet's explanation and a meaningful lesson on the nature of Satan.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "The Delegation Departs",
+    "unit_text": "The delegation bids the Prophet farewell and returns to their people, destroying the idol upon their arrival.",
+    "main_characters": [
+      "Khawlān Delegation",
+      "Prophet Muhammad"
+    ],
+    "event_summary": "The delegation departs and destroys the idol upon their return.",
+    "selection_reason": "Clear visual moment of the delegation's departure and a meaningful lesson on the importance of destroying false idols.",
+    "estimated_scenes": 2
+  }
+]

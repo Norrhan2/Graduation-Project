@@ -1,0 +1,58 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The Prophet's Journey to Ṭā'if",
+    "unit_text": "The Prophet Muhammad set out on foot for Ṭā'if, a mountainous town about 110 kilometres from Makkah, accompanied by his faithful servant Zayd ibn Ḥārithah.",
+    "main_characters": ["Muhammad", "Zayd ibn Ḥārithah"],
+    "event_summary": "The Prophet begins his journey to Ṭā'if in search of support for Islam."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "The Prophet's Approach to the Thaqīf",
+    "unit_text": "Once at Ṭā'if, the Prophet approached its leading personalities, explaining his message and calling on them to believe in God and to support him in his efforts to establish the Islamic code of living.",
+    "main_characters": ["Muhammad", "Thaqīf leaders"],
+    "event_summary": "The Prophet attempts to convince the Thaqīf leaders to support Islam."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Thaqīf's Rejection",
+    "unit_text": "For ten days the Prophet spoke to one chief after another, but none gave him a word of encouragement. The worst response came from three brothers, the sons of ʿAmr ibn ʿUmayr, who were extremely rude in their rejection of the Prophet's approach.",
+    "main_characters": ["Muhammad", "Thaqīf leaders (especially ʿAbd Yālīl, Masūd, and Ḥabīb)"],
+    "event_summary": "The Thaqīf leaders reject the Prophet's message."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Prophet's Persecution",
+    "unit_text": "The Thaqīf notables refused the Prophet's request not to publicize his mission, and instead set on him a crowd of their teenagers and servants, who chased and stoned him.",
+    "main_characters": ["Muhammad", "Thaqīf notables"],
+    "event_summary": "The Thaqīf persecute the Prophet."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Prophet's Refuge",
+    "unit_text": "The Prophet sought refuge in an orchard which belonged to two brothers from Makkah, ʿUtbah and Shaybah, who were in their orchard when he entered.",
+    "main_characters": ["Muhammad", "ʿUtbah, Shaybah"],
+    "event_summary": "The Prophet finds refuge in an orchard belonging to ʿUtbah and Shaybah."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "ʿAddās' Encounter with the Prophet",
+    "unit_text": "ʿAddās, a Christian servant of ʿUtbah and Shaybah, was sent to Muhammad with a bunch of grapes, and during their interaction, the Prophet revealed his prophetic status to ʿAddās.",
+    "main_characters": ["Muhammad", "ʿAddās"],
+    "event_summary": "ʿAddās encounters the Prophet and is impressed by his prophetic status."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "ʿAddās' Conversion",
+    "unit_text": "ʿAddās, impressed by the Prophet's words, kissed his head, hands, and feet in a gesture of love and respect, indicating his potential conversion to Islam.",
+    "main_characters": ["Muhammad", "ʿAddās"],
+    "event_summary": "ʿAddās shows signs of conversion to Islam."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "ʿUtbah and Shaybah's Reaction",
+    "unit_text": "ʿUtbah and Shaybah, the owners of the orchard, were initially sympathetic to the Prophet's plight but later expressed their disapproval of his message and warned ʿAddās against converting to Islam.",
+    "main_characters": ["ʿUtbah, Shaybah", "ʿAddās"],
+    "event_summary": "ʿUtbah and Shaybah express their disapproval of the Prophet's message."
+  }
+]

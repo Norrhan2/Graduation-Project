@@ -1,0 +1,48 @@
+{
+  "scene_input": {
+    "scene_number": 4,
+    "scene_summary": "Muhammad and the Angel Jibril arrive in Jerusalem",
+    "key_visual_action": "Muhammad and the Angel Jibril standing in front of the Dome of the Rock",
+    "characters_present": [
+      "Muhammad",
+      "Angel Jibril"
+    ],
+    "setting": "Jerusalem, a holy city",
+    "emotional_tone": "awe",
+    "time_of_day": "night"
+  },
+  "schema_output": {
+    "scene_title": "Muhammad and the Angel Jibril in Jerusalem",
+    "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah|madinah_early|madinah_late",
+    "region": "sinai|levant_ancient|jerusalem",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 104",
+    "moral_lesson": "Importance of spiritual journeys and connection with the divine",
+    "characters": [
+      {
+        "id": "Muhammad",
+        "name": "Muhammad",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "Angel Jibril",
+        "name": "Angel Jibril",
+        "role": "angel",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall, slender figure, radiant light surrounding him, white robes flowing down to his feet"
+      }
+    ],
+    "narrative_text": "Muhammad and the Angel Jibril stood in awe before the majestic Dome of the Rock, their spirits lifted by the grandeur of the holy city.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene and moonlit night in Jerusalem, the holy city, with the majestic Dome of the Rock standing tall in the background. The structure's intricate architecture and ornate decorations are illuminated by the soft glow of the moon, casting a warm silvery light on the surrounding area. In the foreground, two figures stand facing the Dome, their attention fully focused on the sacred site. On the left, the central figure is seen entirely from behind, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. On the right, a radiant being, Angel Jibril, stands tall, surrounded by a soft white light, his head turned away, dressed in flowing white robes that reach down to his feet. The atmosphere is one of reverence and awe, with a sense of wonder and curiosity. Medium shot from a slight angle, focusing on the two figures and the majestic Dome of the Rock. Soft, muted colors with touches of gold and silver, creating a sense of grandeur and sacredness. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure' -> 'the central figure', 'face obscured' -> 'head turned away'"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Buṣayr is captured by a man from the tribe of ʿĀmir.",
+    "key_visual_action": "Abū Buṣayr being tied up by the man",
+    "characters_present": ["Abū Buṣayr", "Man from the tribe of ʿĀmir"],
+    "setting": "Desert",
+    "emotional_tone": "Fear",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Abū Buṣayr kills his captor in a surprise attack.",
+    "key_visual_action": "Abū Buṣayr breaking free and striking the man",
+    "characters_present": ["Abū Buṣayr", "Man from the tribe of ʿĀmir"],
+    "setting": "Desert",
+    "emotional_tone": "Bravery",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Abū Buṣayr meets a servant who helps him on his journey back to Madinah.",
+    "key_visual_action": "Abū Buṣayr shaking hands with the servant",
+    "characters_present": ["Abū Buṣayr", "Servant"],
+    "setting": "Desert",
+    "emotional_tone": "Hope",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "Abū Buṣayr returns to the Prophet in Madinah, safe and sound.",
+    "key_visual_action": "Abū Buṣayr greeting the Prophet",
+    "characters_present": ["Abū Buṣayr", "The Prophet"],
+    "setting": "Madinah",
+    "emotional_tone": "Relief",
+    "time_of_day": "Evening"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "scene_number": 2,
+  "scene_summary": "ʿ Abdullāh ibn Rawāḥah senses danger and prepares to defend himself.",
+  "era": "pre_prophetic",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 259",
+  "moral_lesson": "The importance of being vigilant and prepared for challenges",
+  "characters": [
+    {"id": "usayr", "name": "Usayr ibn Rizām", "role": "antagonist", "depiction_rule": "FULL", "appearance": "tall build, rugged appearance, dark clothing"},
+    {"id": "abdullah", "name": "ʿ Abdullāh ibn Rawāḥah", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, clean appearance, simple white thobe"}
+  ],
+  "narrative_text": "ʿ Abdullāh ibn Rawāḥah sensed something was off and quickly reached for his sword to defend himself.",
+  "compliance": {"prophet_check": "NOT_APPLICABLE", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "No graphic violence depicted."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A bustling 7th century Makkah marketplace or public square with unpainted mud-brick buildings in warm earth tones and a packed-earth floor. Late afternoon golden sunlight casts long shadows across the scene. In the center of the image, two figures stand facing each other: on the left, the antagonist Usayr ibn Rizām, a tall, rugged man with dark clothing and an intense expression; on the right, ʿ Abdullāh ibn Rawāḥah, seen from behind, medium build, wearing a simple white thobe, with one hand reaching for his sword, eyes widening in alarm, as if sensing danger. Soft warm golden light, dynamic and tense mood. Medium shot, eye level. Warm sand, brown, and golden palette with dark colors as accent. No modern objects, historically accurate 7th century scene."

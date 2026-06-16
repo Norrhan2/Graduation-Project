@@ -1,0 +1,15 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Muhammad and Zayd meet Ḥārithah, Zayd's biological father, to finalize the adoption.",
+  "era": "pre_prophetic|late_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 54",
+  "moral_lesson": "The importance of family and the love of a parent for their child",
+  "characters": [
+    {"id": "muhammad", "name": "Muhammad", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "zayd", "name": "Zayd", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "young boy, dressed in simple white thobe"},
+    {"id": "harithah", "name": Ḥārithah", "role": "father", "depiction_rule": "NO_FACE", "appearance": "middle-aged man, wearing a traditional Arabian headdress and a simple white thobe"}
+  ],
+  "narrative_text": "Muhammad and Zayd were about to finalize the adoption of Zayd as Muhammad's son when they met Zayd's biological father, Ḥārithah. Ḥārithah was very emotional as he handed Zayd over to Muhammad.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A bustling 7th century Meccan marketplace or public square with a mixture of stone and mud-brick buildings, some with intricately carved wooden doors and windows. Late afternoon sunlight casts a warm glow across the scene, illuminating the vibrant colors of the traditional Arabian fabrics and carpets. In the center of the scene, three figures stand facing each other: the central figure seen entirely from behind, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, extends one hand in a gentle gesture. To his right, a young boy dressed in simple white thobe, looking up at the central figure with a mix of emotions on his face. To the left, a middle-aged man wearing a traditional Arabian headdress and a simple white thobe, his face tilted slightly upwards, his eyes filled with a mix of sadness and acceptance as he hands the young boy over to the central figure. Soft warm golden light, lively and vibrant mood. Wide shot from slightly above, capturing the bustling atmosphere of the marketplace. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

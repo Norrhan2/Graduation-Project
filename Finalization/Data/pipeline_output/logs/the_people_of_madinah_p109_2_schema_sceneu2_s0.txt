@@ -1,0 +1,30 @@
+{
+  "scene_title": "Arrival at ʿAqabah",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 109",
+  "moral_lesson": "Being curious and open to new experiences",
+  "characters": [
+    {
+      "id": "1",
+      "name": "the central figure",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "2",
+      "name": "companions",
+      "role": "sahabi",
+      "depiction_rule": "FULL",
+      "appearance": "various builds, postures, and clothing - each unique, yet modest, with head coverings"
+    }
+  ],
+  "narrative_text": "The Prophet Muhammad and his companions rode their camels towards the mountain of ʿAqabah, curious about the meeting with the tribes.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A majestic 7th century Arabian Desert landscape with a distant mountain range in the background, set against a clear blue sky with a few wispy clouds. Late afternoon sunlight casts a warm glow across the scene. In the foreground, a lone camel with a saddle and riderless, stands patiently, its head bent low, near a cluster of palm trees. On the horizon, a group of camels can be seen in the distance, led by a central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, riding a camel at a gentle pace. The companions, a diverse group of men, ride camels in a loose procession behind, each wearing simple yet modest clothing and head coverings, showing varying degrees of curiosity and excitement on their faces. Soft warm golden light, open and adventurous mood. Medium wide shot from a slight elevation, capturing the grandeur of the desert landscape. Warm beige, golden, and turquoise palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

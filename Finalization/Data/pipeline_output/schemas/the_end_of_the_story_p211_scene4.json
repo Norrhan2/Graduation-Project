@@ -1,0 +1,41 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "Abū Bakr hears the verse that changes his heart",
+    "key_visual_action": "Abū Bakr looking surprised and thoughtful",
+    "characters_present": [
+      "Abū Bakr"
+    ],
+    "setting": "A quiet, contemplative space",
+    "emotional_tone": "Surprise and contemplation",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_title": "Abū Bakr's Heart Opens",
+    "era": "pre_prophetic",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 211",
+    "moral_lesson": "The power of faith and its impact on one's life",
+    "characters": [
+      {
+        "id": "abu_bakr",
+        "name": "Abū Bakr",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall, slender build, dignified posture, wearing a long white thobe with a plain brown woolen cloak and a white cloth head covering"
+      }
+    ],
+    "narrative_text": "Abū Bakr was a respected leader in Makkah, but when he heard the verse, his heart began to open to the message of Islam.",
+    "compliance": {
+      "prophet_check": "compliant",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A quiet, contemplative space with simple, unadorned walls and a low wooden bench in the center of the room. Late afternoon sunlight streams through a small window on the right, casting a warm glow. A lone figure sits on the bench, seen from behind: tall, slender build, dignified posture, wearing a long white thobe with a plain brown woolen cloak and a white cloth head covering. His head is slightly tilted forward, and his hands are clasped together in a thoughtful gesture. Soft warm golden light, intimate and contemplative mood. Medium close shot at eye level. Warm beige, cream, and golden palette with the plain brown cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'lone figure' could be considered ambiguous, but no change made for now",
+      "considered 'head covering' to be neutral"
+    ]
+  }
+}

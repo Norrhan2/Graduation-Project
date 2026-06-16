@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "The Prophet praises Abū Bakr for his kindness to those in need.",
+    "key_visual_action": "The Prophet smiling at Abū Bakr while speaking",
+    "characters_present": [
+      "The Prophet",
+      "Abū Bakr"
+    ],
+    "setting": "Medina's marketplace",
+    "emotional_tone": "Inspiration and gratitude",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_summary": "The Prophet praises Abū Bakr for his kindness to those in need.",
+    "era": "madinah_early",
+    "region": "makkah|madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 65",
+    "moral_lesson": "The importance of kindness to those in need.",
+    "characters": [
+      {
+        "id": "1",
+        "name": "The Prophet",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "2",
+        "name": "Abū Bakr",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "slender older man with slightly stooped shoulders, wearing an off-white thobe and plain brown woolen cloak with a white cloth head covering"
+      }
+    ],
+    "narrative_text": "The Prophet smiled at Abū Bakr and said, 'You are like a father to those who are in need.'",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "None"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Bustling late afternoon scene in the heart of Medina's marketplace with people milling about in the background, dressed in simple robes in earthy tones. The central figure, the man in the deep green cloak, stands facing a slender older man with a humble expression, wearing a plain brown woolen cloak with a white cloth head covering. The central figure's voice is filled with warmth and appreciation as he speaks to Abū Bakr, his hands gesturing in a gentle, encouraging manner. Abū Bakr's hands are clasped together in a gesture of gratitude, his eyes cast downward. Soft warm sunlight casts a golden glow over the scene, illuminating the faces of the crowd in the background. Medium shot at eye level. Warm beige, sand, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'The Prophet' -> 'the central figure'"
+    ]
+  }
+}

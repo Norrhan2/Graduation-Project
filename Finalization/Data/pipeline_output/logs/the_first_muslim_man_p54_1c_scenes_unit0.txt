@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Zayd is being taken away from his family by Ḥakīm ibn Ḥizām",
+    "key_visual_action": "Zayd's mother holding him back, Ḥakīm ibn Ḥizām pulling Zayd away",
+    "characters_present": ["Ḥakīm ibn Ḥizām", "Zayd", "Zayd's mother"],
+    "setting": "Desert or a marketplace",
+    "emotional_tone": "Sadness and desperation",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Ḥakīm ibn Ḥizām leads Zayd away with other young slaves",
+    "key_visual_action": "Ḥakīm ibn Ḥizām walking ahead, Zayd and other slaves following",
+    "characters_present": ["Ḥakīm ibn Ḥizām", "Zayd", "other young slaves"],
+    "setting": "Makkah, possibly a marketplace or a road",
+    "emotional_tone": "Resignation and uncertainty",
+    "time_of_day": "Afternoon"
+  }
+]

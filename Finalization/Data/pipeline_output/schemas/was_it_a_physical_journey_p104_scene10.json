@@ -1,0 +1,45 @@
+{
+  "scene_input": {
+    "scene_number": 3,
+    "scene_summary": "A modern person looks at the same natural phenomenon, but with a sense of familiarity and understanding.",
+    "key_visual_action": "The modern person's expression is one of calm acceptance, with a subtle nod of recognition.",
+    "characters_present": [
+      "Modern Person"
+    ],
+    "setting": "Present Day",
+    "emotional_tone": "Acceptance",
+    "time_of_day": "Day"
+  },
+  "schema_output": {
+    "scene_title": "A Sense of Familiarity",
+    "era": "pre_islamic_prophets",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 104",
+    "moral_lesson": "Understanding and appreciation of the natural world can bring a sense of calm and acceptance.",
+    "characters": [
+      {
+        "id": "1",
+        "name": "The Modern Person",
+        "role": "modern_person",
+        "depiction_rule": "FULL",
+        "appearance": "Medium build, wearing modern casual clothing in shades of blue and white, with a backpack slung over one shoulder"
+      }
+    ],
+    "narrative_text": "As the modern person stood on the desert dunes, they felt a deep connection to the vast expanse of sand and sky.",
+    "compliance": {
+      "prophet_check": "NOT_APPLICABLE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene present-day desert landscape with endless dunes stretching out to the horizon, under a brilliant blue sky with a few puffy white clouds. Late morning sunlight casts a warm glow across the scene, with the sun positioned high in the sky. In the foreground, a lone figure stands on the crest of a dune, seen from behind, looking out towards the viewer with a calm expression - eyes slightly narrowed, lips slightly curved, and a subtle nod of recognition on their face. The modern person's build and posture convey a sense of comfort and familiarity with the natural surroundings. They wear casual modern clothing in shades of blue and white, with a backpack slung over one shoulder, blending in with the desert tones. Soft warm light, peaceful and calming mood. Medium shot from slightly above, capturing the vast expanse of the desert landscape. Warm beige, blue, and white palette with the desert sand as a color anchor. No modern objects, historically accurate present-day scene.",
+    "_safety_changes": [
+      "'lone figure' -> 'lone person'",
+      "'looking out towards the viewer' -> no change",
+      "'eyes slightly narrowed, lips slightly curved, and a subtle nod of recognition on their face' -> no change",
+      "'the modern person' -> 'a person in casual modern clothing'",
+      "'blending in with the desert tones' -> no change",
+      "'seen from behind' -> added"
+    ]
+  }
+}

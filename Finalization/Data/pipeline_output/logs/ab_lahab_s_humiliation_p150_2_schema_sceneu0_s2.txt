@@ -1,0 +1,25 @@
+{
+  "scene_number": 3,
+  "scene_title": "The Quraysh Army Defeated",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 150",
+  "moral_lesson": "The consequences of rejecting the truth and opposing the will of Allah.",
+  "characters": [
+    {
+      "id": "abu_sufyan",
+      "name": "Abu Sufyan",
+      "role": "antagonist",
+      "depiction_rule": "NO_FACE",
+      "appearance": "tall build, dignified upright posture, wearing a flowing dark brown thobe and a plain brown woolen cloak with a white head covering, riding a horse"
+    }
+  ],
+  "narrative_text": "The Quraysh army thought they could defeat the believers, but they were met with a crushing defeat. Abu Sufyan, their leader, was shocked and humiliated by the loss.",
+  "compliance": {
+    "prophet_check": "NONE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, open desert landscape with a defeated Quraysh army scattered across the sand. Late afternoon sunlight casts long shadows, with a few clouds in the sky. In the distance, a small group of horsemen ride away from the battlefield, while in the foreground, a lone horse lies on the ground, its rider - the man in the dark brown thobe and plain brown woolen cloak - thrown off and lying flat on his back, looking shocked and humiliated. The rider's face is not visible, but his body language conveys his distress. The sand is sandy beige, the sky is a pale blue, and the horse's coat is a warm brown. Medium shot from slightly above, capturing the vastness of the desert and the defeated army. Warm and muted color palette with the sandy beige as a color anchor. No modern objects, historically accurate 7th century scene."
+}

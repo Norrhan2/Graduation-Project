@@ -1,0 +1,25 @@
+{
+  "scene_number": 2,
+  "scene_summary": "Khubayb completes his two rakʿahs",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 186",
+  "moral_lesson": "Importance of prayer and devotion",
+  "characters": [
+    {
+      "id": "Khubayb",
+      "name": "Khubayb ibn ʿAdiy",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "tall build, upright posture, wearing a simple beige tunic and brown woolen cloak with a white cloth head covering, one hand on his hip"
+    }
+  ],
+  "narrative_text": "Khubayb completes his prayer, feeling at peace with Allah.",
+  "compliance": {
+    "prophet_check": "N/A",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene desert landscape with vast sandy dunes stretching into the distance, a few isolated palm trees scattered here and there. Late afternoon sunlight casts long shadows across the sandy terrain, with a warm golden glow in the background. A figure stands out in the foreground - the central figure seen entirely from behind: tall build, dignified upright posture, wearing a simple beige tunic and brown woolen cloak with a white cloth head covering, one hand on his hip, one hand on his chest, indicating he has completed his prayer. The atmosphere is peaceful and serene, with a sense of calm and devotion. Medium shot from the side, slightly elevated to emphasize the peaceful setting. Warm beige, golden, and sandy color palette with the brown cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

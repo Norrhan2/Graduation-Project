@@ -1,0 +1,38 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet arrives at the Ka'bah and calls for 'Uthman ibn Talhah to open it.",
+    "key_visual_action": "The Prophet knocking on the door of the Ka'bah",
+    "characters_present": ["The Prophet", "'Uthman ibn Talhah"],
+    "setting": "The Ka'bah",
+    "emotional_tone": "Curiosity",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "'Uthman ibn Talhah opens the Ka'bah door for the Prophet.",
+    "key_visual_action": "'Uthman ibn Talhah pulling the door open",
+    "characters_present": ["The Prophet", "'Uthman ibn Talhah"],
+    "setting": "The Ka'bah",
+    "emotional_tone": "Excitement",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet enters the Ka'bah and begins to pray.",
+    "key_visual_action": "The Prophet bowing in prayer",
+    "characters_present": ["The Prophet"],
+    "setting": "Inside the Ka'bah",
+    "emotional_tone": "Serenity",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "The Prophet completes his prayer and exits the Ka'bah.",
+    "key_visual_action": "The Prophet standing outside the Ka'bah, looking satisfied",
+    "characters_present": ["The Prophet"],
+    "setting": "Outside the Ka'bah",
+    "emotional_tone": "Contentment",
+    "time_of_day": "morning"
+  }
+]

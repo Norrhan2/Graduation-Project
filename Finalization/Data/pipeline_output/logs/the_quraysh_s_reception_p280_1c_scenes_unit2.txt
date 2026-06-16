@@ -1,0 +1,47 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet Muhammad stands at the gates of Makkah, looking out at the city he has been longing to return to.",
+    "key_visual_action": "Prophet Muhammad looking out at the city gates",
+    "characters_present": ["Prophet Muhammad"],
+    "setting": "The gates of Makkah",
+    "emotional_tone": "Longing",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet Muhammad is greeted by a group of his companions, who have been waiting for his return.",
+    "key_visual_action": "Prophet Muhammad embracing his companions",
+    "characters_present": ["Prophet Muhammad", "Companions"],
+    "setting": "The streets of Makkah",
+    "emotional_tone": "Joy",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3",
+    "scene_summary": "The Prophet Muhammad and his companions walk through the city, with the Prophet Muhammad pointing out the changes that have taken place during his absence.",
+    "key_visual_action": "Prophet Muhammad pointing at the city",
+    "characters_present": ["Prophet Muhammad", "Companions"],
+    "setting": "The streets of Makkah",
+    "emotional_tone": "Curiosity",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "The Prophet Muhammad approaches the Kaaba, the sacred house of worship, and is met with a mixture of curiosity and hostility from the people of Makkah.",
+    "key_visual_action": "Prophet Muhammad approaching the Kaaba",
+    "characters_present": ["Prophet Muhammad", "People of Makkah"],
+    "setting": "The Kaaba",
+    "emotional_tone": "Tension",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 5,
+    "scene_summary": "The Prophet Muhammad prays at the Kaaba, with his companions surrounding him in support.",
+    "key_visual_action": "Prophet Muhammad praying at the Kaaba",
+    "characters_present": ["Prophet Muhammad", "Companions"],
+    "setting": "The Kaaba",
+    "emotional_tone": "Peace",
+    "time_of_day": "Afternoon"
+  }
+]

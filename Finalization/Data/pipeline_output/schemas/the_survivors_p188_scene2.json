@@ -1,0 +1,41 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "Al-Mundhir ibn Muḥammad prepares to face the aggressors",
+    "key_visual_action": "Al-Mundhir standing tall with a determined expression",
+    "characters_present": [
+      "al-Mundhir ibn Muḥammad"
+    ],
+    "setting": "A desert or battlefield",
+    "emotional_tone": "Determined",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_title": "Courage in the Face of Adversity",
+    "era": "pre_prophetic",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 188",
+    "moral_lesson": "Standing up for one's faith and community",
+    "characters": [
+      {
+        "id": "al-Mundhir",
+        "name": "al-Mundhir ibn Muḥammad",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall build, standing upright, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      }
+    ],
+    "narrative_text": "Al-Mundhir ibn Muḥammad stood tall, ready to face the aggressors, his heart filled with determination to protect his community and faith.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Historical accuracy and child safety ensured"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast arid desert landscape with distant dunes and rocky outcrops, under a clear blue sky with a few wispy clouds. The central figure, a man in the green cloak, stands tall and proud in the foreground, his face not visible, medium build, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, his posture confident and determined, one hand on his hip, and the other holding a worn leather quiver full of arrows at his side. The late afternoon sun casts long shadows behind him, adding depth and drama to the scene. Soft warm golden light, desert landscape with sandy and rocky hues as the palette, with the deep green cloak as a color anchor. A sense of stillness and anticipation fills the air, as if the moment before the battle is about to unfold. Medium shot from slightly above, looking down at the man in the green cloak. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure' -> 'a man in the green cloak'",
+      "'al-Mundhir ibn Muḥammad' -> 'the central figure' (removed)"
+    ]
+  }
+}

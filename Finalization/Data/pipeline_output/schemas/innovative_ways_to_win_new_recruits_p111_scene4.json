@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 3,
+    "scene_summary": "The young men throw ʿAmr's idol into a well, making ʿAmr realize its uselessness.",
+    "key_visual_action": "Young men throwing idol into well, ʿAmr looking on",
+    "characters_present": [
+      "Young men of Salamah",
+      "ʿAmr ibn al-Jamūḥ"
+    ],
+    "setting": "Well or a rocky area",
+    "emotional_tone": "Triumphant",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 3,
+    "scene_summary": "The young men throw ʿAmr's idol into a well, making ʿAmr realize its uselessness.",
+    "era": "pre_prophetic",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 111",
+    "moral_lesson": "The futility of idol worship",
+    "characters": [
+      {
+        "id": "1",
+        "name": "Young men of Salamah",
+        "role": "supporting",
+        "depiction_rule": "NO_FACE",
+        "appearance": "youthful build, energetic posture, wearing simple white thobes and brown woolen cloaks, with some carrying wooden staffs"
+      },
+      {
+        "id": "2",
+        "name": "ʿAmr ibn al-Jamūḥ",
+        "role": "antagonist",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "slightly older build, stern posture, wearing a dark brown thobe and a plain white woolen cloak, with one hand on his hip"
+      }
+    ],
+    "narrative_text": "The young men of Salamah, with their newfound faith, showed ʿAmr that his idol was useless.",
+    "compliance": {
+      "prophet_check": "NOT_APPLICABLE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A rocky area in the Arabian Desert with scattered palm trees and vast sandy dunes in the background. Late afternoon sunlight casts warm shadows across the scene. In the center of the image, a group of young men in simple white thobes and brown woolen cloaks stand around a well, their faces seen from behind as they throw an object into the well. One of them carries a wooden staff, and another one has a rope in hand. In the background, a figure seen entirely from behind: slightly older build, stern posture, wearing a dark brown thobe and a plain white woolen cloak, with one hand on his hip, looking on with a mixture of shock and disappointment. Soft warm golden light, a sense of triumph and freedom. Medium shot at eye level. Earthy tones of beige, brown, and sandy colors with accents of deep blue and green. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'idol' -> 'object'"
+    ]
+  }
+}

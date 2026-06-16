@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Prophet Muhammad stands victorious on the battlefield, with the Quraysh retreating.",
+    "key_visual_action": "Prophet Muhammad holds his sword aloft, with a triumphant expression.",
+    "characters_present": ["Prophet Muhammad", "Quraysh"],
+    "setting": "Battlefield",
+    "emotional_tone": "Triumphant",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Quraysh leaders look at each other, realizing they cannot defeat the Muslims.",
+    "key_visual_action": "Quraysh leader looks down, with a defeated expression.",
+    "characters_present": ["Quraysh"],
+    "setting": "Battlefield",
+    "emotional_tone": "Defeated",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Prophet Muhammad extends his hand in peace, as the Quraysh approach him.",
+    "key_visual_action": "Prophet Muhammad offers his hand in a gesture of peace.",
+    "characters_present": ["Prophet Muhammad", "Quraysh"],
+    "setting": "Battlefield",
+    "emotional_tone": "Peaceful",
+    "time_of_day": "Afternoon"
+  }
+]

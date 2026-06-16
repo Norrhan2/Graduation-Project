@@ -1,0 +1,58 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Prophet divides spoils of war among Muhājirīn",
+    "unit_text": "The Prophet divided the spoils of war from the Jews of al-Naḍīr only among the Muhājirīn, excluding the Anṣār.",
+    "main_characters": ["Prophet", "Muhājirīn", "Anṣār"],
+    "event_summary": "The Prophet divides the spoils of war among the Muhājirīn, excluding the Anṣār."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Explanation for excluding Anṣār",
+    "unit_text": "The spoils of war from the Jews of al-Naḍīr were not earned through fighting, making them a different category than the spoils of war from the Battle of Badr.",
+    "main_characters": ["Prophet", "Anṣār"],
+    "event_summary": "The spoils of war from the Jews of al-Naḍīr are a different category than the spoils of war from the Battle of Badr."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Qur'anic verse on fay'",
+    "unit_text": "The Qur'anic verse 59:7 states that fay' belongs to the Muslim state and should be distributed among the poor and needy.",
+    "main_characters": ["Prophet", "Qur'an"],
+    "event_summary": "The Qur'anic verse 59:7 explains the distribution of fay'."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Prophet consults Anṣār on fay' distribution",
+    "unit_text": "The Prophet consulted the Anṣār on how to distribute the fay' gained from the Jews of al-Naḍīr.",
+    "main_characters": ["Prophet", "Anṣār"],
+    "event_summary": "The Prophet consults the Anṣār on the distribution of the fay'."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Anṣār decide to share fay' with Muhājirīn",
+    "unit_text": "The Anṣār decided to share the fay' with the Muhājirīn, allowing them to continue living in their homes.",
+    "main_characters": ["Prophet", "Anṣār", "Muhājirīn"],
+    "event_summary": "The Anṣār decide to share the fay' with the Muhājirīn."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Two poor Anṣār receive a share of fay'",
+    "unit_text": "The two poor Anṣār, Sahl ibn Ḥanīf and Abū Dujānah, received a share of the fay' due to their poverty.",
+    "main_characters": ["Prophet", "Sahl ibn Ḥanīf", "Abū Dujānah"],
+    "event_summary": "The two poor Anṣār receive a share of the fay'."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Prophet's decision to correct imbalance",
+    "unit_text": "The Prophet's decision to share the fay' with the Muhājirīn was to correct the imbalance between the Muhājirīn and the Anṣār.",
+    "main_characters": ["Prophet"],
+    "event_summary": "The Prophet aims to correct the imbalance between the Muhājirīn and the Anṣār."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Boost to Muslim morale",
+    "unit_text": "The victory over the Jews of al-Naḍīr boosted the Muslims' morale and made them a major force to be reckoned with in Arabia.",
+    "main_characters": ["Muslims", "Jews of al-Naḍīr"],
+    "event_summary": "The victory over the Jews of al-Naḍīr boosts the Muslims' morale."
+  }
+]

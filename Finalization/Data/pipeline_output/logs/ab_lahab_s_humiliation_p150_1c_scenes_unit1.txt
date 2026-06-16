@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Lahab confronts al-Mughīrah about the Quraysh's defeat.",
+    "key_visual_action": "Abū Lahab pointing accusingly at al-Mughīrah",
+    "characters_present": ["Abū Lahab", "al-Mughīrah"],
+    "setting": "Zamzam well",
+    "emotional_tone": "anger",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "al-Mughīrah explains the Quraysh's defeat, attributing it to the aid of angels.",
+    "key_visual_action": "al-Mughīrah spreading his hands in a gesture of explanation",
+    "characters_present": ["Abū Lahab", "al-Mughīrah"],
+    "setting": "Zamzam well",
+    "emotional_tone": "calmness",
+    "time_of_day": "afternoon"
+  }
+]

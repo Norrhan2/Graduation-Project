@@ -1,0 +1,15 @@
+{
+  "scene_number": 3,
+  "scene_summary": "Jubayr and al-Ḥārith confront Saʿd's tormentors.",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 114",
+  "moral_lesson": "Standing up for what is right and protecting the vulnerable",
+  "characters": [
+    {"id": "jubayr", "name": "Jubayr ibn Muṭʿim", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, noble posture, wearing a flowing white thobe with a deep blue woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "alharith", "name": "al-Ḥārith ibn Ḥarb", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "slender build, upright posture, wearing a simple white thobe and plain brown woolen cloak with a white cloth head covering"},
+    {"id": "tormentors", "name": "Saʿd ibn ʿUbādah's tormentors", "role": "antagonist", "depiction_rule": "FULL", "appearance": "tall, muscular build, aggressive posture, wearing dark brown thobes and head coverings"}
+  ],
+  "narrative_text": "Jubayr and al-Ḥārith stood strong and faced the tormentors who were harassing Saʿd. They refused to back down and protected their friend.",
+  "compliance": {"prophet_check": "NO_PROPHET", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "Historically accurate depiction of 7th century Arabian Desert setting"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A sun-baked desert marketplace or a sandy plain with scattered palm trees in the background under a clear blue sky. Late afternoon warm sunlight casts long shadows across the scene. Two figures stand facing each other, their backs to the viewer. On the left, the central figure seen entirely from behind: medium build, noble posture, wearing a flowing white thobe with a deep blue woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, standing firmly with feet shoulder-width apart. On the right, a slender older man with upright posture, wearing a simple white thobe and plain brown woolen cloak with a white cloth head covering, standing with his weight shifted onto one leg, the other foot forward in a determined stance. Behind them, a group of men with aggressive postures, wearing dark brown thobes and head coverings, appear menacing and threatening. Soft warm golden light, dramatic and intense mood. Medium shot from slightly above, capturing the tension and courage of the scene. Warm beige, golden, and blue palette with the deep blue cloak as a color anchor. No modern objects, historically accurate 7th century scene."

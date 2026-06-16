@@ -1,0 +1,55 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "Anṣār leaders share their opinions on fay' distribution",
+    "key_visual_action": "Anṣār leaders speaking, gesturing with hands, looking at each other",
+    "characters_present": [
+      "Prophet",
+      "Anṣār leaders"
+    ],
+    "setting": "Medina, outdoors, under a palm tree",
+    "emotional_tone": "Thoughtful",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_title": "Anṣār leaders share their opinions on fay' distribution",
+    "era": "madinah_early",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 193",
+    "moral_lesson": "The importance of consultation and consideration in decision-making",
+    "characters": [
+      {
+        "id": "1",
+        "name": "The central figure",
+        "role": "sahabi",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "2",
+        "name": "Anṣār leader 1",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "slender build, slightly stooped shoulders, wearing an off-white thobe and plain brown woolen cloak with a white cloth head covering"
+      },
+      {
+        "id": "3",
+        "name": "Anṣār leader 2",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall build, straight posture, wearing a beige thobe and a plain gray woolen cloak with a white cloth head covering"
+      }
+    ],
+    "narrative_text": "The leaders of the Anṣār sat under a palm tree to discuss how to distribute the fay'. They wanted to make sure everyone got a fair share.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A shaded area under a tall palm tree in a 7th century Medina oasis, with a few scattered rocks and a pile of dried palm fronds in the background. Late afternoon warm sunlight filters through the palm fronds above, casting dappled shadows on the ground. Three figures sit in a semi-circle, their faces partially turned towards each other. On the far right, the man in the green cloak seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. In the middle, a slender Anṣār leader seen from the side: slightly stooped shoulders, wearing an off-white thobe and plain brown woolen cloak with a white cloth head covering, hands gesturing animatedly as he speaks. On the left, a tall Anṣār leader seen from the side: straight posture, wearing a beige thobe and a plain gray woolen cloak with a white cloth head covering, looking thoughtful as he listens to the others. Soft warm golden light, intimate and contemplative mood. Medium shot from slightly above. Earthy green, beige, and sandy brown palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure' -> 'the man in the green cloak'"
+    ]
+  }
+}

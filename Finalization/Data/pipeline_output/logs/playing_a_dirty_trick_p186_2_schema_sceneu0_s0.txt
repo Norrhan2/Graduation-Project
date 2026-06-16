@@ -1,0 +1,30 @@
+{
+  "scene_title": "The Hudhayl Delegation Arrives",
+  "era": "madinah_early",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 186",
+  "moral_lesson": "The importance of hospitality and welcoming guests",
+  "characters": [
+    {
+      "id": "hudhayl",
+      "name": "Hudhayl",
+      "role": "antagonist",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep blue woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "prophet",
+      "name": "the central figure",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    }
+  ],
+  "narrative_text": "The Hudhayl delegation approaches the Prophet's mosque in Medina, seeking to meet with the Prophet. The Prophet welcomes them with a warm smile, showing the importance of hospitality in Islam.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Exterior of the Prophet's mosque in Medina during the 7th century, with a simple yet elegant mud-brick structure and a flat, sun-baked roof. The late afternoon sun casts long shadows across the sandy floor, and the open doorway on the right welcomes the approaching figures. In the distance, a group of men, dressed in simple white thobes and brown woolen cloaks, walk towards the mosque, their faces visible with a mix of curiosity and respect. They are led by a tall figure, seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep blue woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, walking purposefully towards the mosque. In the foreground, the central figure seen from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, stands near the doorway, looking out at the approaching visitors with a warm and welcoming expression. Soft warm golden light, peaceful and serene mood. Medium shot from a slight angle, looking up at the figures. Warm sand, cream, and golden palette with the deep green and blue cloaks as color anchors. No modern objects, historically accurate 7th century scene."

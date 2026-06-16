@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet arrives at ʿAqabah, a place where pilgrims encamp for three days.",
+    "key_visual_action": "The Prophet dismounts his camel",
+    "characters_present": ["Prophet"],
+    "setting": "ʿAqabah",
+    "emotional_tone": "curiosity",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet meets six men from the Khazraj tribe, including Aws, who are curious about his message.",
+    "key_visual_action": "Aws and other Khazraj men approach the Prophet",
+    "characters_present": ["Prophet", "Aws", "Khazraj"],
+    "setting": "ʿAqabah",
+    "emotional_tone": "curiosity",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet begins to explain his message to the six men from the Khazraj tribe.",
+    "key_visual_action": "The Prophet gestures with his hands",
+    "characters_present": ["Prophet", "Aws", "Khazraj"],
+    "setting": "ʿAqabah",
+    "emotional_tone": "engagement",
+    "time_of_day": "afternoon"
+  }
+]

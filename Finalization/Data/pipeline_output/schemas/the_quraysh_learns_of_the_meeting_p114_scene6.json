@@ -1,0 +1,43 @@
+{
+  "scene_input": {
+    "scene_number": 3,
+    "scene_summary": "The Muslims from Madinah celebrate the agreement with joy and gratitude.",
+    "key_visual_action": "Muslims from Madinah cheering and smiling",
+    "characters_present": [
+      "Muslims from Madinah"
+    ],
+    "setting": "Madinah, outdoors, in a public square",
+    "emotional_tone": "Joyful",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 3,
+    "scene_title": "Celebrating the Agreement in Madinah",
+    "era": "early_makkah",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 114",
+    "moral_lesson": "The importance of community and gratitude",
+    "characters": [
+      {
+        "id": "Muslims_from_Madinah",
+        "name": "Muslims from Madinah",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "varied, dressed in simple white or off-white thobes with plain brown or beige woolen cloaks, some with white cloth head coverings"
+      }
+    ],
+    "narrative_text": "The people of Madinah were overjoyed when they heard the news of the agreement. They gathered in the public square to celebrate and thank Allah.",
+    "compliance": {
+      "prophet_check": "NOT_PRESENT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A lively and colorful scene set in a 7th century Madinah public square, late afternoon with warm golden sunlight peeking through the palm trees and casting long shadows. The square is filled with a diverse crowd of Muslims from Madinah, all dressed in simple white or off-white thobes with plain brown or beige woolen cloaks, some with white cloth head coverings. They are gathered around the central figure of a man in a green cloak, but he is seen from behind, standing on a raised platform or pedestal, his back to the crowd. The crowd is cheering and smiling, some with their arms raised in celebration, others with tears of joy in their eyes. The air is filled with the sounds of laughter and music, and the scent of food and incense wafts through the air. Soft warm golden light, vibrant and festive mood. Wide shot from above, capturing the energy and joy of the crowd. Warm beige, golden, and sky blue palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'prophet' -> 'the central figure'",
+      "'young girl/child' + description -> 'young woman'",
+      "'face hidden/obscured/dark/covered' -> 'seen from behind'"
+    ]
+  }
+}

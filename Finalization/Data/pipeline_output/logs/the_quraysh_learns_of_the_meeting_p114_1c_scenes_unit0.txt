@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Quraysh spies observe the Prophet and the Ansar from a distance.",
+    "key_visual_action": "Quraysh spies peeking over a rock",
+    "characters_present": ["Quraysh spies"],
+    "setting": "Desert landscape near ʿAqabah",
+    "emotional_tone": "Suspense",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "A loud voice shouts out the news of the secret meeting.",
+    "key_visual_action": "Quraysh man shouting with mouth open",
+    "characters_present": ["Quraysh man", "Muhammad", "Ansar"],
+    "setting": "Desert landscape near ʿAqabah",
+    "emotional_tone": "Surprise",
+    "time_of_day": "afternoon"
+  }
+]

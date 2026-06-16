@@ -1,0 +1,47 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet Muhammad confidently prepares for battle against the hypocrites and Jews.",
+    "key_visual_action": "Muhammad drawing his sword",
+    "characters_present": ["Muhammad"],
+    "setting": "Desert battlefield",
+    "emotional_tone": "Confident",
+    "time_of_day": "Morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet Muhammad pauses, reflecting on the potential consequences of battle.",
+    "key_visual_action": "Muhammad lowering his sword, looking thoughtful",
+    "characters_present": ["Muhammad"],
+    "setting": "Desert battlefield",
+    "emotional_tone": "Reflective",
+    "time_of_day": "Morning"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet Muhammad sends a messenger to negotiate with the hypocrites and Jews.",
+    "key_visual_action": "Muhammad sending a messenger, with a calm expression",
+    "characters_present": ["Muhammad", "Messenger"],
+    "setting": "Desert battlefield",
+    "emotional_tone": "Peaceful",
+    "time_of_day": "Morning"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "The Prophet Muhammad prays for guidance and wisdom in his decision.",
+    "key_visual_action": "Muhammad bowing in prayer",
+    "characters_present": ["Muhammad"],
+    "setting": "Desert battlefield",
+    "emotional_tone": "Devout",
+    "time_of_day": "Morning"
+  },
+  {
+    "scene_number": 5,
+    "scene_summary": "The Prophet Muhammad makes the decision to prioritize peace and sends his messenger to negotiate.",
+    "key_visual_action": "Muhammad gesturing to the messenger, with a calm expression",
+    "characters_present": ["Muhammad", "Messenger"],
+    "setting": "Desert battlefield",
+    "emotional_tone": "Resolute",
+    "time_of_day": "Morning"
+  }
+]

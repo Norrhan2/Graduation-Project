@@ -1,0 +1,18 @@
+{
+  "scene_number": 1,
+  "scene_summary": "The Prophet arrives at Zamzam, thirsty and in need of water.",
+  "key_visual_action": "The Prophet bending down to drink from the Zamzam well",
+  "characters_present": [
+    "The central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture is NOT present. Instead, The Prophet: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, is shown from the back, bending down to drink from the Zamzam well."
+  ],
+  "setting": "Ancient Zamzam well, Mecca, with the surrounding rocky landscape in shades of warm beige and dusty brown, worn stone walls and a simple wooden rope handrail at the well. Late afternoon sun casts long shadows across the scene, with a hint of a palm tree's shadow on the ground. The well itself is a simple stone structure with a worn wooden lid. A few scattered stones and pebbles are strewn about the ground.",
+  "era": "pre_islamic_prophets",
+  "region": "mecca",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 302",
+  "moral_lesson": "The importance of seeking help when in need, and the blessings of Allah's provision.",
+  "characters": [
+    {"id": "The Prophet", "name": "The central figure seen from behind", "role": "Prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "The Prophet was traveling through the desert when he became thirsty. He arrived at the Zamzam well, exhausted and in need of water.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Ancient Zamzam well, Mecca, with the surrounding rocky landscape in shades of warm beige and dusty brown, worn stone walls and a simple wooden rope handrail at the well. Late afternoon sun casts long shadows across the scene, with a hint of a palm tree's shadow on the ground. The well itself is a simple stone structure with a worn wooden lid. A few scattered stones and pebbles are strewn about the ground. In the foreground, the Prophet: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, is shown from the back, bending down to drink from the Zamzam well, one hand grasping the wooden lid, the other hand extended to bring the water to his lips. Soft warm golden light, intimate and sacred mood. Medium close shot at eye level. Warm beige, dusty brown, and deep green palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

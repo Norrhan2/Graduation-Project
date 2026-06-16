@@ -1,0 +1,79 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "ʿĀṣim's Bravery at Uḥud",
+    "unit_text": "ʿĀṣim ibn Thābit killed two non-believing brothers at the Battle of Uḥud.",
+    "main_characters": ["ʿĀṣim ibn Thābit", "Sulāfah bint Saʿd"],
+    "event_summary": "ʿĀṣim killed two non-believers at the Battle of Uḥud."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Sulāfah's Vow",
+    "unit_text": "Sulāfah vowed to use ʿĀṣim's skull as a glass to drink wine if she ever got hold of him.",
+    "main_characters": ["Sulāfah bint Saʿd", "ʿĀṣim ibn Thābit"],
+    "event_summary": "Sulāfah vowed to use ʿĀṣim's skull as a glass to drink wine."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "ʿĀṣim's Pledge",
+    "unit_text": "ʿĀṣim pledged to God that he would never touch an unbeliever or let an unbeliever touch him.",
+    "main_characters": ["ʿĀṣim ibn Thābit"],
+    "event_summary": "ʿĀṣim pledged to God to avoid contact with unbelievers."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "ʿĀṣim's Death",
+    "unit_text": "ʿĀṣim was killed, but his body was taken away by floods before his killers could behead him.",
+    "main_characters": ["ʿĀṣim ibn Thābit"],
+    "event_summary": "ʿĀṣim was killed, but his body was taken away by floods."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "ʿUmar's Comment",
+    "unit_text": "ʿUmar ibn al-Khaṭṭāb commented on ʿĀṣim's protection by hornets and wasps.",
+    "main_characters": ["ʿUmar ibn al-Khaṭṭāb", "ʿĀṣim ibn Thābit"],
+    "event_summary": "ʿUmar commented on ʿĀṣim's protection by hornets and wasps."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Khubayb and Zaid's Capture",
+    "unit_text": "Khubayb ibn ʿAdiy and Zaid ibn al-Dathinnah were taken to Makkah and sold to the Quraysh.",
+    "main_characters": ["Khubayb ibn ʿAdiy", "Zaid ibn al-Dathinnah", "Ṣafwān ibn Umayyah", "ʿUqbah ibn al-Ḥārith"],
+    "event_summary": "Khubayb and Zaid were captured and sold to the Quraysh."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Khubayb's Execution",
+    "unit_text": "Khubayb was killed after being allowed to pray two rakʿahs.",
+    "main_characters": ["Khubayb ibn ʿAdiy", "Ṣafwān ibn Umayyah", "Abū Sufyān"],
+    "event_summary": "Khubayb was killed after being allowed to pray two rakʿahs."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Zaid's Execution",
+    "unit_text": "Zaid was killed after being asked if he would rather Muhammad be in his place, being killed now by the Quraysh, and he replied that he would not wish to be with his family now and Muhammad was troubled by a thorn in his body.",
+    "main_characters": ["Zaid ibn al-Dathinnah", "Ṣafwān ibn Umayyah", "Abū Sufyān"],
+    "event_summary": "Zaid was killed after being asked if he would rather Muhammad be in his place."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "Khubayb's Prayer",
+    "unit_text": "Khubayb prayed two rakʿahs before being killed, and his action has become a sunnah.",
+    "main_characters": ["Khubayb ibn ʿAdiy"],
+    "event_summary": "Khubayb prayed two rakʿahs before being killed."
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "Khubayb's Final Words",
+    "unit_text": "Khubayb said his final words, asking God to count his killers and kill them all.",
+    "main_characters": ["Khubayb ibn ʿAdiy"],
+    "event_summary": "Khubayb said his final words, asking God to count his killers and kill them all."
+  },
+  {
+    "unit_number": 11,
+    "unit_title": "The End of an Episode",
+    "unit_text": "The episode of Khubayb and Zaid's execution caused great agony to the Muslims in Madinah.",
+    "main_characters": ["Khubayb ibn ʿAdiy", "Zaid ibn al-Dathinnah"],
+    "event_summary": "The episode of Khubayb and Zaid's execution caused great agony to the Muslims in Madinah."
+  }
+]

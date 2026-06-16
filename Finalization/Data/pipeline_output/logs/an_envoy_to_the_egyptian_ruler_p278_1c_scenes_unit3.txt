@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Ḥāṭib returns to Madinah after meeting with al-Muqawqis.",
+    "key_visual_action": "Ḥāṭib riding a camel, looking determined",
+    "characters_present": ["Ḥāṭib ibn Abī Balta ʿ ah"],
+    "setting": "Desert landscape, with Madinah in the distance",
+    "emotional_tone": "Determined",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Ḥāṭib reports his conversation with al-Muqawqis to the Prophet.",
+    "key_visual_action": "Ḥāṭib speaking to the Prophet, with a serious expression",
+    "characters_present": ["Ḥāṭib ibn Abī Balta ʿ ah", "Muhammad"],
+    "setting": "A simple room in Madinah, with the Prophet sitting on a cushion",
+    "emotional_tone": "Serious",
+    "time_of_day": "evening"
+  }
+]

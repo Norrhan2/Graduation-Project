@@ -1,0 +1,24 @@
+{
+  "scene_number": 1,
+  "scene_summary": "ʿ Abdullāh ibn al-Ziba ʿ rā flees to Najrān, escaping his past",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 326",
+  "moral_lesson": "Seek refuge in Allah's mercy and forgiveness",
+  "characters": [
+    {
+      "id": "1",
+      "name": "ʿ Abdullāh ibn al-Ziba ʿ rā",
+      "role": "antagonist",
+      "depiction_rule": "FULL",
+      "appearance": "young man, medium build, fleeing, wearing a worn-out brown thobe, a simple white cloth head covering, and a pair of worn-out sandals"
+    }
+  ],
+  "narrative_text": "ʿ Abdullāh ibn al-Ziba ʿ rā was running away from his past mistakes, seeking refuge in a new land. He felt fearful of being caught and judged for his wrongdoings.",
+  "compliance": {
+    "prophet_check": "NOT_APPLICABLE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": "The scene depicts a fearful and fleeing character, showcasing the consequences of one's actions."
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast arid desert landscape with a distant background of ruins and crumbling structures in muted shades of beige and brown. The sun beats down on the horizon, casting a warm golden light across the scene. In the foreground, a lone figure, ʿ Abdullāh ibn al-Ziba ʿ rā, is seen from behind, running swiftly across the sandy dunes, his brown thobe blown back by the wind, his simple white cloth head covering slightly askew, and his worn-out sandals kicking up clouds of sand as he flees. The atmosphere is tense and foreboding, with a sense of urgency and desperation. Medium close shot at eye level. Warm beige, brown, and golden palette with accents of sandy dunes and rocky terrain. No modern objects, historically accurate 7th century scene."

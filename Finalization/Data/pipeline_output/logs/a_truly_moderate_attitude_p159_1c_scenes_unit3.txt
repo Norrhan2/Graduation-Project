@@ -1,0 +1,38 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Jews gather near the mosque, their intentions clear.",
+    "key_visual_action": "Jews marching towards the mosque, hands on the hilt of their swords",
+    "characters_present": ["Jews"],
+    "setting": "Medina, near the mosque",
+    "emotional_tone": "tension",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Prophet Muhammad prepares for the confrontation, surrounded by his loyal companions.",
+    "key_visual_action": "Muhammad standing tall, holding the Quran, with companions forming a protective circle around him",
+    "characters_present": ["Muhammad", "companions"],
+    "setting": "Medina, near the mosque",
+    "emotional_tone": "determination",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3",
+    "scene_summary": "The Jews approach the Prophet, their faces filled with anger and hatred.",
+    "key_visual_action": "Jews advancing on Muhammad, their faces twisted in anger",
+    "characters_present": ["Muhammad", "Jews"],
+    "setting": "Medina, near the mosque",
+    "emotional_tone": "anger",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "The Prophet stands firm, his eyes locked on the Jews, as he prepares to defend his faith.",
+    "key_visual_action": "Muhammad standing firm, eyes locked on the Jews, with a resolute expression",
+    "characters_present": ["Muhammad", "Jews"],
+    "setting": "Medina, near the mosque",
+    "emotional_tone": "courage",
+    "time_of_day": "afternoon"
+  }
+]

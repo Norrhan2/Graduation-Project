@@ -1,0 +1,38 @@
+{
+  "scene_number": 2,
+  "scene_title": "The Prophet's Generous Gift",
+  "era": "madinah_early",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 193",
+  "moral_lesson": "The importance of generosity and sharing one's blessings",
+  "characters": [
+    {
+      "id": "Prophet",
+      "name": "the central figure",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "Sahl ibn Ḥanīf",
+      "name": "Sahl ibn Ḥanīf",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "young man, wearing a simple white thobe and a plain brown woolen cloak"
+    },
+    {
+      "id": "Abū Dujānah",
+      "name": "Abū Dujānah",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "slender older man, wearing an off-white thobe and a plain brown woolen cloak"
+    }
+  ],
+  "narrative_text": "The Prophet Muhammad was known for his generosity and kindness. He often gave gifts to his companions, sharing his blessings with those around him.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A sun-drenched public area in Medina, possibly the Prophet's home, with a packed-earth floor partly covered by a woven palm-fiber mat. Late afternoon golden sunlight streams through an open wooden doorway on the right, casting warm rays across the room. In the center, a group of three figures sit on the mat: the central figure seen entirely from behind, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, extends his right hand, offering a small bag of fay' to the two men sitting in front of him. On the left, Sahl ibn Ḥanīf looks up at the central figure with a warm smile, wearing a simple white thobe and a plain brown woolen cloak. On the right, Abū Dujānah gazes at the central figure with a look of gratitude, wearing an off-white thobe and a plain brown woolen cloak. Soft warm golden light, intimate and heartwarming mood. Medium shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

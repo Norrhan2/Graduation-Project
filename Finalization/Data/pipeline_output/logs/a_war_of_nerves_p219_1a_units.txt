@@ -1,0 +1,72 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Ḥuyayy ibn Akhṭab returns to Quraysh",
+    "unit_text": "Ḥuyayy ibn Akhṭab returns to Quraysh with news that Qurayẓah are joining the campaign, boosting Quraysh morale.",
+    "main_characters": ["Ḥuyayy ibn Akhṭab"],
+    "event_summary": "Ḥuyayy ibn Akhṭab informs Quraysh that Qurayẓah are joining their campaign."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Quraysh and Qurayẓah make demands",
+    "unit_text": "Quraysh and Qurayẓah ask for 10 days to prepare for battle, and for Quraysh to increase pressure on Muslims.",
+    "main_characters": ["Quraysh", "Qurayẓah"],
+    "event_summary": "Quraysh and Qurayẓah make demands on Muslims."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Prophet tries to split enemy ranks",
+    "unit_text": "Prophet sends a messenger to Ghaṭafān leaders with an offer to withdraw from alliance in exchange for crops of Madinah.",
+    "main_characters": ["Prophet", "Ghaṭafān leaders"],
+    "event_summary": "Prophet tries to split enemy ranks by offering Ghaṭafān a deal."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Prophet consults Anṣār leaders",
+    "unit_text": "Prophet consults Anṣār leaders Sa ʿ d ibn Mu ʿādh and Sa ʿ d ibn ʿ Ubādah about the agreement with Ghaṭafān.",
+    "main_characters": ["Prophet", "Sa ʿ d ibn Mu ʿādh", "Sa ʿ d ibn ʿ Ubādah"],
+    "event_summary": "Prophet consults Anṣār leaders about the agreement with Ghaṭafān."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Anṣār reject the agreement",
+    "unit_text": "Sa ʿ d ibn Mu ʿādh rejects the agreement, saying they will not give their goods to the enemy, and erases the writing.",
+    "main_characters": ["Sa ʿ d ibn Mu ʿādh"],
+    "event_summary": "Anṣār reject the agreement with Ghaṭafān."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Siege continues",
+    "unit_text": "Siege continues as hard as ever, with no peace made with any party.",
+    "main_characters": ["Prophet", "Muslims", "Quraysh", "Ghaṭafān"],
+    "event_summary": "Siege continues with no peace made."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Prophet gains confidence in Anṣār",
+    "unit_text": "Prophet gains confidence in Anṣār's determination to fight to the end.",
+    "main_characters": ["Prophet", "Anṣār"],
+    "event_summary": "Prophet gains confidence in Anṣār's determination to fight."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Enemy pressure intensifies",
+    "unit_text": "Enemy pressure intensifies, with frequent skirmishes and parades of forces.",
+    "main_characters": ["Quraysh", "Ghaṭafān"],
+    "event_summary": "Enemy pressure intensifies, with frequent skirmishes and parades."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "Battle at Prophet's position",
+    "unit_text": "Battle takes place at Prophet's position, with fierce fighting and missed prayers.",
+    "main_characters": ["Prophet", "Quraysh"],
+    "event_summary": "Battle takes place at Prophet's position."
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "Prayers offered after sunset",
+    "unit_text": "Prayers are offered after sunset, with Bilāl making the call to prayer.",
+    "main_characters": ["Prophet", "Bilāl"],
+    "event_summary": "Prayers are offered after sunset."
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "scene_number": 2,
+  "scene_summary": "Khubayb looks up and asks God to count his killers and kill them all.",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 186",
+  "moral_lesson": "The importance of forgiveness and reliance on God's justice.",
+  "characters": [
+    {
+      "id": "Khubayb ibn ʿAdiy",
+      "name": "Khubayb ibn ʿAdiy",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep red woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, eyes closed, head tilted upwards, hands clasped in prayer"
+    }
+  ],
+  "narrative_text": "Khubayb ibn ʿAdiy, a brave companion, was martyred by the Quraysh. As he lay dying, he asked God to count his killers and kill them all.",
+  "compliance": {
+    "prophet_check": "NO_PROPHET",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene 7th century Arabian Desert landscape with a majestic palm tree in the background, its trunk thick and gnarled, and a few sparse branches reaching up towards the sky. Late afternoon golden sunlight casts long shadows across the sandy dunes, with a few scattered rocks and a small cluster of palm fronds in the foreground. A solitary figure sits cross-legged on the sand, facing upwards, seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep red woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, eyes closed, head tilted upwards, hands clasped in prayer. Soft warm golden light, contemplative and peaceful mood. Low-angle shot from above, looking down on the figure. Earthy, sandy, and warm palette with the deep red cloak as a color anchor. No modern objects, historically accurate 7th century scene."

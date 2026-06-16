@@ -1,0 +1,29 @@
+{
+  "scene_number": 1,
+  "scene_summary": "The Prophet Muhammad is shown with a thoughtful expression, considering his next move.",
+  "key_visual_action": "Muhammad's hand on his chin, deep in thought",
+  "characters_present": [
+    {
+      "id": "Muhammad",
+      "name": "The man in the green cloak",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture"
+    }
+  ],
+  "setting": {
+    "location": "A quiet, private space in Medina",
+    "architecture": "unpainted mud-brick walls in warm earth tones, packed-earth floor partly covered by a woven palm-fiber mat",
+    "furnishings": "a small, intricately carved wooden table, a low wooden shelf with a few simple objects",
+    "objects": "a small, unlit oil lamp, a stack of parchment scrolls"
+  },
+  "moral_lesson": "The importance of contemplation and reflection in making important decisions.",
+  "narrative_text": "The Prophet Muhammad sat in silence, his hand on his chin as he pondered his next move. He knew that the decisions he made would affect not just himself, but his entire community.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A quiet, private space in 7th century Medina with unpainted mud-brick walls in warm earth tones and a packed-earth floor partly covered by a woven palm-fiber mat. Late afternoon golden sunlight streams through an open wooden doorway on the right, casting warm rays across the room. In the center of the room, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture. On the low wooden shelf, a small, unlit oil lamp and a stack of parchment scrolls lie. Soft warm golden light, intimate and contemplative mood. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The Quraysh Discover the Meeting",
+    "unit_text": "The Quraysh discover the meeting between the Prophet and the Ansar in ʿAqabah, and a loud voice shouts out the news.",
+    "main_characters": ["Muhammad", "Ansar"],
+    "event_summary": "The Quraysh discover the secret meeting between the Prophet and the Ansar."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "The Ansar Disperse",
+    "unit_text": "The Ansar disperse quietly under cover of darkness, thanking God for the successful meeting.",
+    "main_characters": ["Muhammad", "Ansar"],
+    "event_summary": "The Ansar disperse quietly after the meeting."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Quraysh Investigate",
+    "unit_text": "The Quraysh investigate the meeting and learn that the Ansar have pledged to fight alongside the Prophet.",
+    "main_characters": ["Quraysh", "Muhammad"],
+    "event_summary": "The Quraysh investigate the meeting and learn of the Ansar's pledge to fight alongside the Prophet."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Madinah Group Denies Knowledge",
+    "unit_text": "The non-believers among the Madinah group deny any knowledge of the meeting, and the Quraysh are reassured.",
+    "main_characters": ["Quraysh", "Madinah Group"],
+    "event_summary": "The non-believers among the Madinah group deny any knowledge of the meeting."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "ʿAbdullāh ibn Ubayy Reassures the Quraysh",
+    "unit_text": "ʿAbdullāh ibn Ubayy reassures the Quraysh that he has no knowledge of the meeting, and they are reassured.",
+    "main_characters": ["ʿAbdullāh ibn Ubayy", "Quraysh"],
+    "event_summary": "ʿAbdullāh ibn Ubayy reassures the Quraysh that he has no knowledge of the meeting."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Quraysh Confirm Their Suspicions",
+    "unit_text": "The Quraysh confirm their suspicions when they seize two men, al-Mundhir ibn ʿAmr and Saʿd ibn ʿUbādah, who are among the 12 leaders of the Muslim group.",
+    "main_characters": ["Quraysh", "al-Mundhir ibn ʿAmr", "Saʿd ibn ʿUbādah"],
+    "event_summary": "The Quraysh confirm their suspicions when they seize two men from the Muslim group."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Saʿd ibn ʿUbādah is Tortured",
+    "unit_text": "Saʿd ibn ʿUbādah is tortured, but a man named Abūal-Bakhtarī ibn Hishām whispers in his ear and asks him to mention his friendship with Jubayr ibn Muṭʿim and al-Ḥārith ibn Ḥarb.",
+    "main_characters": ["Saʿd ibn ʿUbādah", "Abūal-Bakhtarī ibn Hishām", "Jubayr ibn Muṭʿim", "al-Ḥārith ibn Ḥarb"],
+    "event_summary": "Saʿd ibn ʿUbādah is tortured, but a man named Abūal-Bakhtarī ibn Hishām intervenes."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Jubayr and al-Ḥārith Save Saʿd",
+    "unit_text": "Jubayr and al-Ḥārith save Saʿd from his tormentors after they are told that he is being tortured.",
+    "main_characters": ["Jubayr ibn Muṭʿim", "al-Ḥārith ibn Ḥarb", "Saʿd ibn ʿUbādah"],
+    "event_summary": "Jubayr and al-Ḥārith save Saʿd from his tormentors."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "The Covenant is Concluded",
+    "unit_text": "The agreement between the Muslims from Madinah and the Prophet is concluded and sealed, marking the beginning of a new stage in the history of Islam.",
+    "main_characters": ["Muhammad", "Muslims from Madinah"],
+    "event_summary": "The agreement between the Muslims from Madinah and the Prophet is concluded."
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "The Prophet Advises Emigration",
+    "unit_text": "The Prophet advises his followers in Makkah to emigrate to Madinah, saying that God has provided them with a new home and new brethren.",
+    "main_characters": ["Muhammad", "Makkah Muslims"],
+    "event_summary": "The Prophet advises his followers in Makkah to emigrate to Madinah."
+  },
+  {
+    "unit_number": 11,
+    "unit_title": "The Makkah Muslims Leave",
+    "unit_text": "The majority of the Makkah Muslims emigrate to Madinah, leaving only a few behind with the Prophet, Abū Bakr, and ʿAlī.",
+    "main_characters": ["Muhammad", "Makkah Muslims", "Abū Bakr", "ʿAlī"],
+    "event_summary": "The majority of the Makkah Muslims emigrate to Madinah."
+  },
+  {
+    "unit_number": 12,
+    "unit_title": "Abū Bakr Seeks Permission to Leave",
+    "unit_text": "Abū Bakr seeks the Prophet's permission to leave, but the Prophet asks him to delay his departure, hinting that God may provide him with a companion.",
+    "main_characters": ["Muhammad", "Abū Bakr"],
+    "event_summary": "Abū Bakr seeks the Prophet's permission to leave, but is asked to delay his departure."
+  }
+]

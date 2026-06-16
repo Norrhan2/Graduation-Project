@@ -1,0 +1,50 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "The Prophet is teaching the women about the importance of kindness and respect towards each other.",
+    "key_visual_action": "The Prophet pointing to a woman with a gentle gesture, emphasizing her importance",
+    "characters_present": [
+      "The Prophet",
+      "Women listening intently"
+    ],
+    "setting": "A mosque or a public gathering space",
+    "emotional_tone": "Serious and respectful",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_title": "The Prophet teaches kindness and respect",
+    "era": "pre_prophetic|early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 375",
+    "moral_lesson": "Importance of kindness and respect towards each other",
+    "characters": [
+      {
+        "id": "Prophet",
+        "name": "The central figure",
+        "role": "Prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture"
+      },
+      {
+        "id": "Women",
+        "name": "Women listening intently",
+        "role": "Crowd",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Fully covered in loose-fitting, dark-colored jilbabs with khimar head coverings, seated in a respectful posture with hands folded in their laps"
+      }
+    ],
+    "narrative_text": "The Prophet teaches us to be kind and respectful to one another, just like the women in the mosque who are listening to him with great attention.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene and peaceful public gathering space, possibly a mosque, with high ceilings, smooth stone walls in a light beige color, and a large area of polished marble floor. Soft afternoon sunlight filters through a series of narrow, arched windows, casting a warm glow over the space. In the center of the room, a large, intricately patterned carpet covers the floor, and a row of tall, slender columns stands along the back wall, supporting the roof. Two figures stand facing each other near the carpet: the central figure, seen entirely from behind, with a gentle, reassuring gesture, and a group of women seated in a respectful posture, fully covered in loose-fitting, dark-colored jilbabs with khimar head coverings, their faces turned towards the central figure with great attention. Soft warm golden light, intimate and sacred mood. Medium close shot at eye level. Warm beige, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'prophet' -> 'the central figure'",
+      "'young girl' -> 'women'",
+      "'face hidden' -> 'faces turned towards the central figure'"
+    ]
+  }
+}

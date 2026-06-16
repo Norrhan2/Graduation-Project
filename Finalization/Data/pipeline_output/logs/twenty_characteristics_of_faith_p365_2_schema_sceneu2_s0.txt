@@ -1,0 +1,31 @@
+{
+  "scene_title": "The Prophet's Warm Welcome",
+  "era": "pre_prophetic|early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 365",
+  "moral_lesson": "Importance of hospitality and respect",
+  "characters": [
+    {
+      "id": "Prophet",
+      "name": "The central figure",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "Suwayd ibn al-Ḥārith",
+      "name": "Suwayd ibn al-Ḥārith",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "build and clothing not specified, but dressed in traditional 7th century attire"
+    }
+  ],
+  "narrative_text": "The Prophet welcomed Suwayd ibn al-Ḥārith and his delegation with a warm smile, acknowledging their presence.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene desert or open space with a few palm trees or a mosque in the background, possibly with a few rocks or a low wall. Late afternoon sunlight casts warm rays across the scene. In the center, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, extending his right hand in a gesture of welcome. On the right, a figure dressed in traditional 7th century attire, seen from the front, but with his face respectfully turned away, hands together in a gesture of respect. Soft warm golden light, peaceful and respectful mood. Medium shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

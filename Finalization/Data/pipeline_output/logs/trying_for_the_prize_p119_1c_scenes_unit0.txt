@@ -1,0 +1,25 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Surāqah ibn Mālik is riding his horse, scanning the horizon for any signs of the enemy.",
+    "key_visual_action": "Surāqah riding his horse, looking out at the horizon",
+    "characters_present": [
+      "Surāqah ibn Mālik"
+    ],
+    "setting": "Desert landscape",
+    "emotional_tone": "Curious",
+    "time_of_day": "Morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Surāqah ibn Mālik spots the Prophet and his companion in the distance, and his expression changes to one of surprise and recognition.",
+    "key_visual_action": "Surāqah's eyes widening as he sees the Prophet",
+    "characters_present": [
+      "Surāqah ibn Mālik",
+      "The Prophet"
+    ],
+    "setting": "Desert landscape",
+    "emotional_tone": "Surprised",
+    "time_of_day": "Morning"
+  }
+]

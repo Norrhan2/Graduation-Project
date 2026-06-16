@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Buṣayr is moved by the Prophet's words and decides to convert to Islam.",
+    "key_visual_action": "Abū Buṣayr's hands clasped in prayer",
+    "characters_present": ["Abū Buṣayr", "Prophet Muhammad"],
+    "setting": "Desert or a quiet outdoor space",
+    "emotional_tone": "Hopeful",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet reluctantly agrees to send Abū Buṣayr back to the Quraysh.",
+    "key_visual_action": "Prophet Muhammad's worried expression",
+    "characters_present": ["Abū Buṣayr", "Prophet Muhammad"],
+    "setting": "A simple, rustic home or a desert encampment",
+    "emotional_tone": "Concerned",
+    "time_of_day": "afternoon"
+  }
+]

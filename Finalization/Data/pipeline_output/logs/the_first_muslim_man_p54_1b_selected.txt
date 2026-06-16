@@ -1,0 +1,53 @@
+[
+  {
+    "unit_number": 2,
+    "unit_title": "Zayd's Purchase by Ḥakīm",
+    "unit_text": "Ḥakīm ibn Ḥizām bought Zayd and took him to Makkah. He brought several young slaves with him.",
+    "main_characters": [
+      "Ḥakīm ibn Ḥizām",
+      "Zayd"
+    ],
+    "event_summary": "Ḥakīm ibn Ḥizām buys Zayd and takes him to Makkah.",
+    "selection_reason": "Clear visual moment of Zayd being taken away from his family.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Khadījah's Choice",
+    "unit_text": "Ḥakīm's aunt, Khadījah, visited him and chose Zayd as one of her slaves.",
+    "main_characters": [
+      "Khadījah",
+      "Ḥakīm ibn Ḥizām",
+      "Zayd"
+    ],
+    "event_summary": "Khadījah chooses Zayd as one of her slaves.",
+    "selection_reason": "Meaningful lesson on the importance of kindness and compassion in decision-making.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Muhammad's Proposal",
+    "unit_text": "Muhammad proposes that Zayd be given the choice to stay with him or go with his father.",
+    "main_characters": [
+      "Muhammad",
+      "Ḥārithah",
+      "Kaʿb"
+    ],
+    "event_summary": "Muhammad proposes that Zayd be given the choice to stay with him or go with his father.",
+    "selection_reason": "Clear visual moment of Zayd making a difficult decision, and meaningful lesson on the importance of choice and free will.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Muhammad's Adoption of Zayd",
+    "unit_text": "Muhammad formally adopts Zayd as his son, declaring it in front of the people of the Quraysh.",
+    "main_characters": [
+      "Muhammad",
+      "Zayd",
+      "Ḥārithah"
+    ],
+    "event_summary": "Muhammad formally adopts Zayd as his son.",
+    "selection_reason": "Meaningful lesson on the importance of family and belonging, and clear visual moment of Zayd's new relationship with Muhammad.",
+    "estimated_scenes": 2
+  }
+]

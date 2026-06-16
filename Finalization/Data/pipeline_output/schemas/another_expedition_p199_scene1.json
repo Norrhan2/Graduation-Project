@@ -1,0 +1,50 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "The Prophet listens attentively to the informers, taking in the information about the Arab tribes' aggressive behavior.",
+    "key_visual_action": "The Prophet with a thoughtful expression, hands clasped together",
+    "characters_present": [
+      "The Prophet",
+      "The informers"
+    ],
+    "setting": "Medina, in the Prophet's house",
+    "emotional_tone": "Concerned",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_title": "The Prophet Learns of the Arab Tribes' Aggression",
+    "era": "madinah_early",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 199",
+    "moral_lesson": "The importance of staying informed and vigilant in the face of challenges",
+    "characters": [
+      {
+        "id": "1",
+        "name": "The Prophet",
+        "role": "Prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "2",
+        "name": "The informers",
+        "role": "supporting",
+        "depiction_rule": "NO_FACE",
+        "appearance": "two figures with neutral facial expressions, wearing traditional Arabian clothing with a mix of earthy tones and dark colors"
+      }
+    ],
+    "narrative_text": "The Prophet listened carefully to the informers, his hands clasped together in thought as he took in the news about the Arab tribes' aggressive behavior. He was deeply concerned about the safety of his people and the future of Islam.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Interior of a modest 7th century Medina home with unpainted mud-brick walls in warm earth tones and a packed-earth floor partly covered by a woven palm-fiber mat. Late afternoon golden sunlight streams through an open wooden doorway on the right, casting warm rays across the room. In the center, a small wooden table with a low stool sits in front of a low wooden shelf with a small ceramic oil lamp giving a soft warm glow. Two figures sit across from each other on the mat. On the right, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, hands clasped together in a thoughtful expression. On the left, two informants: one slightly younger, one slightly older, both with neutral facial expressions, wearing traditional Arabian clothing with a mix of earthy tones and dark colors, their hands resting on their knees in a relaxed posture. Soft warm golden light, intimate and contemplative mood. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'prophet' -> 'the central figure'",
+      "'young girl/child' -> 'slightly younger informant'"
+    ]
+  }
+}

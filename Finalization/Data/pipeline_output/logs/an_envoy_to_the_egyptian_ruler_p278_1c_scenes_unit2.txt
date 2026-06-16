@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Al-Muqawqis presents Ḥāṭib with gifts.",
+    "key_visual_action": "al-Muqawqis hands Ḥāṭib a beautifully wrapped gift",
+    "characters_present": ["al-Muqawqis", "Ḥāṭib ibn Abī Balta ʿ ah"],
+    "setting": "Al-Muqawqis' throne room",
+    "emotional_tone": "gratitude",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Al-Muqawqis warns Ḥāṭib to keep their discussion a secret.",
+    "key_visual_action": "al-Muqawqis places a finger to his lips, signaling Ḥāṭib to be silent",
+    "characters_present": ["al-Muqawqis", "Ḥāṭib ibn Abī Balta ʿ ah"],
+    "setting": "Al-Muqawqis' throne room",
+    "emotional_tone": "caution",
+    "time_of_day": "afternoon"
+  }
+]

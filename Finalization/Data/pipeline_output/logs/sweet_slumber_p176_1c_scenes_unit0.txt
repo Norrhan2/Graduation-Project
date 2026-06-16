@@ -1,0 +1,47 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Muslims are rallying towards the Prophet during the Battle of Uḥud.",
+    "key_visual_action": "The Muslims are shown marching forward with determination and courage.",
+    "characters_present": ["The Muslims", "The Prophet"],
+    "setting": "Battlefield",
+    "emotional_tone": "Determined",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Muslims start to feel extremely tired and sleepy.",
+    "key_visual_action": "A Muslim is shown with their head drooping, eyes getting heavy, and a yawn forming.",
+    "characters_present": ["The Muslims"],
+    "setting": "Battlefield",
+    "emotional_tone": "Tired",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Muslims fall asleep, exhausted from the battle.",
+    "key_visual_action": "A group of Muslims are shown lying down, fast asleep, with peaceful expressions.",
+    "characters_present": ["The Muslims"],
+    "setting": "Battlefield",
+    "emotional_tone": "Relaxed",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "The Prophet notices the Muslims sleeping and decides to let them rest.",
+    "key_visual_action": "The Prophet is shown looking at the sleeping Muslims with a gentle expression, nodding in approval.",
+    "characters_present": ["The Prophet", "The Muslims"],
+    "setting": "Battlefield",
+    "emotional_tone": "Compassionate",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 5,
+    "scene_summary": "The Muslims wake up feeling refreshed and reassured.",
+    "key_visual_action": "A Muslim is shown waking up, stretching, and smiling, with a sense of relief and calmness.",
+    "characters_present": ["The Muslims"],
+    "setting": "Battlefield",
+    "emotional_tone": "Relieved",
+    "time_of_day": "afternoon"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Muhammad lies down to sleep in Makkah",
+    "key_visual_action": "Muhammad reclining on a prayer mat",
+    "characters_present": ["Muhammad"],
+    "setting": "Makkah, a desert city",
+    "emotional_tone": "calm",
+    "time_of_day": "night"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Angel Jibril (Gabriel) appears to Muhammad",
+    "key_visual_action": "The Angel Jibril descending from the sky, with a radiant glow",
+    "characters_present": ["Muhammad", "Angel Jibril"],
+    "setting": "Makkah, a desert city",
+    "emotional_tone": "surprise",
+    "time_of_day": "night"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Muhammad and the Angel Jibril ascend to the sky",
+    "key_visual_action": "Muhammad and the Angel Jibril rising into the air, with the city of Makkah below",
+    "characters_present": ["Muhammad", "Angel Jibril"],
+    "setting": "Above Makkah, in the sky",
+    "emotional_tone": "excitement",
+    "time_of_day": "night"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "Muhammad and the Angel Jibril arrive in Jerusalem",
+    "key_visual_action": "Muhammad and the Angel Jibril standing in front of the Dome of the Rock",
+    "characters_present": ["Muhammad", "Angel Jibril"],
+    "setting": "Jerusalem, a holy city",
+    "emotional_tone": "awe",
+    "time_of_day": "night"
+  },
+  {
+    "scene_number": 5,
+    "scene_summary": "Muhammad prays with the prophets in Jerusalem",
+    "key_visual_action": "Muhammad standing with other prophets, such as Abraham and Moses, in a circle of prayer",
+    "characters_present": ["Muhammad", "Abraham", "Moses", "other prophets"],
+    "setting": "Jerusalem, a holy city",
+    "emotional_tone": "spiritual",
+    "time_of_day": "night"
+  },
+  {
+    "scene_number": 6,
+    "scene_summary": "Muhammad and the Angel Jibril return to Makkah",
+    "key_visual_action": "Muhammad and the Angel Jibril descending back to Makkah, with the city below",
+    "characters_present": ["Muhammad", "Angel Jibril"],
+    "setting": "Above Makkah, in the sky",
+    "emotional_tone": "relief",
+    "time_of_day": "night"
+  },
+  {
+    "scene_number": 7,
+    "scene_summary": "Muhammad wakes up in Makkah",
+    "key_visual_action": "Muhammad sitting up, looking around in confusion",
+    "characters_present": ["Muhammad"],
+    "setting": "Makkah, a desert city",
+    "emotional_tone": "confusion",
+    "time_of_day": "morning"
+  }
+]

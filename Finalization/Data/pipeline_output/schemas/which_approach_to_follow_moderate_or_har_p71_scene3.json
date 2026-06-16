@@ -1,0 +1,39 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "ʿ Utbah returns to his people after meeting the Prophet",
+    "key_visual_action": "ʿ Utbah walking back to his people with a thoughtful expression",
+    "characters_present": [
+      "ʿ Utbah ibn Rabīʿ ah"
+    ],
+    "setting": "Desert landscape with palm trees",
+    "emotional_tone": "Contemplative",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 1,
+    "scene_summary": "ʿ Utbah returns to his people after meeting the Prophet",
+    "era": "pre_islamic_prophets",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 71",
+    "moral_lesson": "Reflecting on encounters with the Prophet can lead to personal growth and self-reflection.",
+    "characters": [
+      {
+        "id": "ʿ Utbah_ibn_Rabīʿ_ah",
+        "name": "ʿ Utbah ibn Rabīʿ ah",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall, athletic build, wearing a white thobe with a deep red woolen cloak draped over both shoulders, a white turban with a cloth tail hanging between the shoulder blades, and a walking stick in his right hand"
+      }
+    ],
+    "narrative_text": "ʿ Utbah has just met the Prophet and is now returning to his people, deep in thought.",
+    "compliance": {
+      "prophet_check": "NOT_PRESENT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene and expansive desert landscape with a few scattered palm trees in the distance, their leaves rustling gently in the breeze. Late afternoon sunlight casts a warm glow across the sandy dunes and rocky outcroppings, with a few wispy clouds drifting lazily across the sky. In the foreground, a lone figure is seen walking away from the viewer, his back to the camera: tall, athletic build, wearing a white thobe with a deep red woolen cloak draped over both shoulders, a white turban with a cloth tail hanging between the shoulder blades, and a walking stick in his right hand. He walks with a thoughtful expression, his head slightly bowed and his eyes cast downward. Soft warm golden light, contemplative mood. Medium shot from behind the figure, looking out at the expansive desert landscape. Warm beige, golden, and pale blue palette with the deep red cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": []
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Asad Tribe Considers Looting Raid",
+    "unit_text": "The Asad tribe, close to Madinah, considers launching a looting raid on the city, feeling they can do so without punishment.",
+    "main_characters": ["Asad tribe"],
+    "event_summary": "The Asad tribe contemplates a looting raid on Madinah."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Prophet Prepares for Defense",
+    "unit_text": "The Prophet receives intelligence about the Asad tribe's intentions and prepares a force of 150 men to defend Madinah.",
+    "main_characters": ["Prophet Muhammad", "Abū Salamah"],
+    "event_summary": "The Prophet prepares a force to defend Madinah against the Asad tribe's looting raid."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Muslims Defeat the Asad Tribe",
+    "unit_text": "The Muslim force, led by Abū Salamah, attacks the Asad tribe in their own place, taking them by surprise, and achieves a total victory without casualties.",
+    "main_characters": ["Prophet Muhammad", "Abū Salamah", "Asad tribe"],
+    "event_summary": "The Muslim force defeats the Asad tribe in a surprise attack."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Abū Salamah's Death",
+    "unit_text": "Abū Salamah is wounded and later dies from his injuries.",
+    "main_characters": ["Abū Salamah"],
+    "event_summary": "Abū Salamah dies from his wounds."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Prophet Learns of Khālid ibn Sufyān's Plans",
+    "unit_text": "The Prophet receives information that Khālid ibn Sufyān is raising a large force to attack Madinah.",
+    "main_characters": ["Prophet Muhammad", "Khālid ibn Sufyān"],
+    "event_summary": "The Prophet learns of Khālid ibn Sufyān's plans to attack Madinah."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "ʿ Abdullāh ibn Anīs' Mission",
+    "unit_text": "The Prophet sends ʿ Abdullāh ibn Anīs to kill Khālid ibn Sufyān, providing him with a description of the target.",
+    "main_characters": ["Prophet Muhammad", "ʿ Abdullāh ibn Anīs", "Khālid ibn Sufyān"],
+    "event_summary": "ʿ Abdullāh ibn Anīs is sent to kill Khālid ibn Sufyān."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "ʿ Abdullāh ibn Anīs Kills Khālid ibn Sufyān",
+    "unit_text": "ʿ Abdullāh ibn Anīs identifies and kills Khālid ibn Sufyān, who was trying to locate a place for his women to encamp.",
+    "main_characters": ["ʿ Abdullāh ibn Anīs", "Khālid ibn Sufyān"],
+    "event_summary": "ʿ Abdullāh ibn Anīs kills Khālid ibn Sufyān."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Prophet's Reaction to ʿ Abdullāh ibn Anīs' Success",
+    "unit_text": "The Prophet congratulates ʿ Abdullāh ibn Anīs on his successful mission.",
+    "main_characters": ["Prophet Muhammad", "ʿ Abdullāh ibn Anīs"],
+    "event_summary": "The Prophet congratulates ʿ Abdullāh ibn Anīs on his successful mission."
+  }
+]

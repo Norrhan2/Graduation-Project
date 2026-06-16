@@ -1,0 +1,14 @@
+{
+  "scene_number": 1,
+  "scene_summary": "ʿAmr is shown worshiping his idol, unaware of the emptiness within.",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 111",
+  "moral_lesson": "The emptiness of idol worship",
+  "characters": [
+    {"id": "ʿAmr", "name": "ʿAmr ibn al-Jamūḥ", "role": "antagonist", "depiction_rule": "FULL", "appearance": "tall, lean build, dressed in a dark-colored thobe and a plain brown woolen cloak with a white cloth head covering, hands clasped in prayer"}
+  ],
+  "narrative_text": "ʿAmr thought his idol would bring him happiness, but it brought him emptiness.",
+  "compliance": {"prophet_check": "NOT_PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Interior of a modest 7th century Makkah home with unpainted mud-brick walls in warm earth tones and a packed-earth floor partly covered by a woven palm-fiber mat. Early morning soft gentle light filters through a small window high on the wall, casting a soft warm glow across the room. In the center of the room, a large dark-colored stone idol stands on a wooden pedestal, its surface adorned with intricate carvings. On the floor in front of the idol, a slender older man with a tall lean build, dressed in a dark-colored thobe and a plain brown woolen cloak with a white cloth head covering, is shown in a deeply reverent posture - head bowed, hands clasped together in prayer, eyes closed, lost in devotion. Soft warm gentle light, intimate and contemplative mood. Medium shot, slightly above eye level. Dark, muted, and cool palette with earthy tones as a color anchor. No modern objects, historically accurate 7th century scene."
+}

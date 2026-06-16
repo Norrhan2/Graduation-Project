@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Khawlān Delegation arrives at Prophet Muhammad's mosque, eager to share their story.",
+    "key_visual_action": "The delegation's leader, with a smile, is shown knocking on the door of the mosque.",
+    "characters_present": ["Khawlān Delegation", "Prophet Muhammad"],
+    "setting": "Prophet Muhammad's mosque",
+    "emotional_tone": "Excitement",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet Muhammad welcomes the delegation and invites them to share their story.",
+    "key_visual_action": "The Prophet Muhammad is shown with an open arm, gesturing for the delegation to enter.",
+    "characters_present": ["Khawlān Delegation", "Prophet Muhammad"],
+    "setting": "Prophet Muhammad's mosque",
+    "emotional_tone": "Warmth",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The delegation shares their story of replacing their idol, ʿAmm Anas, with Islam.",
+    "key_visual_action": "The delegation's leader is shown speaking, with a confident expression, while pointing to a picture of ʿAmm Anas in the background.",
+    "characters_present": ["Khawlān Delegation", "Prophet Muhammad"],
+    "setting": "Prophet Muhammad's mosque",
+    "emotional_tone": "Pride",
+    "time_of_day": "afternoon"
+  }
+]

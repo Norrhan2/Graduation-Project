@@ -1,0 +1,50 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Surāqah Spots the Prophet",
+    "unit_text": "Surāqah ibn Mālik spots the Prophet and his companion and realizes the opportunity of winning the reward.",
+    "main_characters": [
+      "Surāqah ibn Mālik",
+      "The Prophet"
+    ],
+    "event_summary": "Surāqah spots the Prophet and sees an opportunity to win a reward.",
+    "selection_reason": "Clear visual moment of Surāqah spotting the Prophet.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Surāqah Surrenders",
+    "unit_text": "Surāqah shouts to the Prophet and asks him to stop, promising not to harm him, and the Prophet agrees to write him a note as a token of recognition.",
+    "main_characters": [
+      "Surāqah ibn Mālik",
+      "The Prophet"
+    ],
+    "event_summary": "Surāqah surrenders and asks the Prophet to write him a note of recognition.",
+    "selection_reason": "Meaningful lesson on surrender and recognition.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "The Promise Fulfilled",
+    "unit_text": "ʿUmar, the second Caliph, gives Surāqah Khosaru's bracelets to wear, fulfilling the Prophet's promise.",
+    "main_characters": [
+      "ʿUmar",
+      "Surāqah ibn Mālik"
+    ],
+    "event_summary": "ʿUmar fulfills the Prophet's promise to Surāqah by giving him Khosaru's bracelets.",
+    "selection_reason": "Distinctive moment of the promise being fulfilled.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Surāqah Distracts His Tribe",
+    "unit_text": "Surāqah tells his tribe that he has seen the Prophet's group chasing a stray camel to prevent others from joining him in chasing the Prophet.",
+    "main_characters": [
+      "Surāqah ibn Mālik",
+      "The Prophet's tribe"
+    ],
+    "event_summary": "Surāqah distracts his tribe to prevent them from joining him in chasing the Prophet.",
+    "selection_reason": "Clear visual moment of Surāqah distracting his tribe.",
+    "estimated_scenes": 2
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The delegation, led by ʿUtbah, Shaybah, and Abū Sufyān, confront Abū Ṭālib about the Prophet's preaching.",
+    "key_visual_action": "ʿUtbah pointing accusingly at Abū Ṭālib",
+    "characters_present": ["ʿUtbah", "Shaybah", "Abū Sufyān", "Abū Ṭālib"],
+    "setting": "Abū Ṭālib's home or a public gathering place",
+    "emotional_tone": "angry",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Abū Ṭālib calms down the delegation and refuses to promise to stop the Prophet from preaching.",
+    "key_visual_action": "Abū Ṭālib placing a gentle hand on ʿUtbah's shoulder",
+    "characters_present": ["Abū Ṭālib", "ʿUtbah", "Shaybah", "Abū Sufyān"],
+    "setting": "Abū Ṭālib's home or a public gathering place",
+    "emotional_tone": "reassuring",
+    "time_of_day": "afternoon"
+  }
+]

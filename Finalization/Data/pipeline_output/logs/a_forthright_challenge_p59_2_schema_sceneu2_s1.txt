@@ -1,0 +1,25 @@
+{
+  "scene_number": 2,
+  "scene_title": "The Prophet's Concern",
+  "era": "late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 59",
+  "moral_lesson": "The importance of considering others' feelings and reactions in sharing one's message",
+  "characters": [
+    {
+      "id": "1",
+      "name": "The Prophet",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    }
+  ],
+  "narrative_text": "The Prophet Muhammad was worried about how his uncle Abū Lahab would react to his message. He thought about how Abū Lahab would be angry and might even try to harm him.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A quiet, desert landscape with sand dunes stretching out in the distance and a few rocky outcroppings in the foreground. Late afternoon sunlight casts a warm glow over the scene, illuminating the Prophet's figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. The Prophet's face is furrowed with concern, his brow deeply creased as he thinks about his uncle's potential reaction. Soft warm golden light, contemplative mood. Medium shot at eye level, with the vast desert landscape stretching out behind the Prophet. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

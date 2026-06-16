@@ -1,0 +1,72 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Ṭā ’if's Preparation for Siege",
+    "unit_text": "The Thaqīf prepared for a long siege, stockpiling provisions and refusing to surrender.",
+    "main_characters": ["Thaqīf", "Muslim army"],
+    "event_summary": "The Thaqīf prepares for a long siege, stockpiling provisions and refusing to surrender."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Muslim Army Arrives at Ṭā ’if",
+    "unit_text": "The Muslim army arrives at Ṭā ’if, only to be met with a shower of arrows.",
+    "main_characters": ["Muslim army", "Thaqīf"],
+    "event_summary": "The Muslim army arrives at Ṭā ’if and is met with a shower of arrows."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Initial Battle",
+    "unit_text": "The Muslim army is forced to retreat after suffering casualties, and a siege is imposed on Ṭā ’if.",
+    "main_characters": ["Muslim army", "Thaqīf"],
+    "event_summary": "The Muslim army is forced to retreat after suffering casualties, and a siege is imposed on Ṭā ’if."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Muslim Attempts to Draw Thaqīf Out",
+    "unit_text": "The Muslims try various tactics to draw the Thaqīf out of their fortifications, but are unsuccessful.",
+    "main_characters": ["Muslims", "Thaqīf"],
+    "event_summary": "The Muslims try various tactics to draw the Thaqīf out of their fortifications, but are unsuccessful."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Offer of Freedom to Deserting Slaves",
+    "unit_text": "The Prophet offers freedom to any slave who deserts the Thaqīf and joins the Muslims.",
+    "main_characters": ["Prophet", "Thaqīf slaves"],
+    "event_summary": "The Prophet offers freedom to any slave who deserts the Thaqīf and joins the Muslims."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Provisions and Thaqīf's Resolve",
+    "unit_text": "The Prophet learns that the Thaqīf has enough provisions to last a year and remains resolute in their defiance.",
+    "main_characters": ["Prophet", "Thaqīf"],
+    "event_summary": "The Prophet learns that the Thaqīf has enough provisions to last a year and remains resolute in their defiance."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Nawfal's Advice",
+    "unit_text": "Nawfal ibn Mu ʿāwiyah al-Di’lī advises the Prophet to leave the Thaqīf alone, comparing them to a fox in a hole.",
+    "main_characters": ["Prophet", "Nawfal ibn Mu ʿāwiyah al-Di’lī"],
+    "event_summary": "Nawfal ibn Mu ʿāwiyah al-Di’lī advises the Prophet to leave the Thaqīf alone, comparing them to a fox in a hole."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "The Prophet's Decision",
+    "unit_text": "The Prophet decides to leave Ṭā ’if and move back to Makkah, hoping that the Thaqīf will eventually come to Islam.",
+    "main_characters": ["Prophet", "Thaqīf"],
+    "event_summary": "The Prophet decides to leave Ṭā ’if and move back to Makkah, hoping that the Thaqīf will eventually come to Islam."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "The Prophet's Past Experience",
+    "unit_text": "The Prophet recalls an incident from 11 years earlier, where he was mistreated by the Thaqīf and their leader.",
+    "main_characters": ["Prophet", "Thaqīf"],
+    "event_summary": "The Prophet recalls an incident from 11 years earlier, where he was mistreated by the Thaqīf and their leader."
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "The Prophet's Prayer",
+    "unit_text": "The Prophet prays for the Thaqīf to be guided to the truth, rather than destroyed.",
+    "main_characters": ["Prophet", "Thaqīf"],
+    "event_summary": "The Prophet prays for the Thaqīf to be guided to the truth, rather than destroyed."
+  }
+]

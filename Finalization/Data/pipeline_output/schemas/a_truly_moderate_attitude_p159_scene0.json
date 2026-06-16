@@ -1,0 +1,50 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "ʿAbdullāh ibn Ubayy behaves insolently in front of the Prophet Muhammad.",
+    "key_visual_action": "ʿAbdullāh crossing his arms, looking defiant",
+    "characters_present": [
+      "ʿAbdullāh ibn Ubayy",
+      "Muhammad"
+    ],
+    "setting": "Medina mosque",
+    "emotional_tone": "angry",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_title": "ʿAbdullāh ibn Ubayy's Insolence",
+    "era": "madinah_early",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 159",
+    "moral_lesson": "Respect and humility in the presence of the Prophet",
+    "characters": [
+      {
+        "id": "Abdullah",
+        "name": "ʿAbdullāh ibn Ubayy",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall, athletic build, wearing a dark blue thobe with intricate embroidery, a matching blue turban with a cloth tail hanging between the shoulder blades, and a brown leather belt around his waist"
+      },
+      {
+        "id": "Prophet",
+        "name": "Muhammad",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      }
+    ],
+    "narrative_text": "ʿAbdullāh ibn Ubayy behaved insolently in front of the Prophet Muhammad, crossing his arms and looking defiant. The Prophet remained calm and patient.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Interior of the Medina mosque with high arches and a simple wooden minbar in the background. Late afternoon sunlight filters through the intricate stone carvings above the entrance, casting a warm glow across the room. A crowd of men sit in rows on the floor, some with their heads bowed in prayer, while others engage in quiet conversation. In the center of the scene, a tall figure is seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. On the other side of the central figure, a slender older man with slightly stooped shoulders, wearing a dark blue thobe with intricate embroidery, stands with his arms crossed and a defiant expression on his face, seen from behind. Soft warm golden light, a sense of calm and respect in the air. Medium shot from slightly above, capturing the contrast between the two characters. Dominant colors of beige, cream, and pale blue with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'prophet' -> 'the central figure'",
+      "'young girl/child' -> 'young woman'",
+      "'face hidden/obscured/dark/covered' -> 'seen from behind'"
+    ]
+  }
+}

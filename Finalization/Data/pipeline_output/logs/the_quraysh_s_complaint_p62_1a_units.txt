@@ -1,0 +1,65 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Initial Inaction by Makkah Chiefs",
+    "unit_text": "The chiefs of Makkah initially did not take action against the Prophet due to Abū Ṭālib's protection.",
+    "main_characters": ["Prophet Muhammad", "Abū Ṭālib"],
+    "event_summary": "The Makkah chiefs initially refrain from taking action against the Prophet due to Abū Ṭālib's protection."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Delegation to Abū Ṭālib",
+    "unit_text": "A delegation of influential people from Makkah, including ʿ Utbah, Shaybah, Abū Sufyān, and others, complain to Abū Ṭālib about the Prophet's behavior.",
+    "main_characters": ["Abū Ṭālib", "ʿ Utbah", "Shaybah", "Abū Sufyān"],
+    "event_summary": "A delegation of influential Makkans complains to Abū Ṭālib about the Prophet's behavior."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Abū Ṭālib's Response",
+    "unit_text": "Abū Ṭālib calms down the delegation, but does not promise to stop the Prophet from preaching.",
+    "main_characters": ["Abū Ṭālib", "ʿ Utbah", "Shaybah", "Abū Sufyān"],
+    "event_summary": "Abū Ṭālib responds to the delegation's complaint, but does not agree to stop the Prophet."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Second Delegation to Abū Ṭālib",
+    "unit_text": "The delegation returns to Abū Ṭālib, threatening to fight the Prophet and Abū Ṭālib if he does not stop him.",
+    "main_characters": ["Abū Ṭālib", "ʿ Utbah", "Shaybah", "Abū Sufyān"],
+    "event_summary": "The delegation returns to Abū Ṭālib, threatening to fight the Prophet and Abū Ṭālib."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Abū Ṭālib's Dilemma",
+    "unit_text": "Abū Ṭālib is torn between pleasing his people and protecting his nephew.",
+    "main_characters": ["Abū Ṭālib", "Prophet Muhammad"],
+    "event_summary": "Abū Ṭālib is torn between pleasing his people and protecting his nephew."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Prophet's Response",
+    "unit_text": "The Prophet refuses to abandon his message, even if it means risking his life.",
+    "main_characters": ["Prophet Muhammad", "Abū Ṭālib"],
+    "event_summary": "The Prophet refuses to abandon his message, even if it means risking his life."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Abū Ṭālib's Reassurance",
+    "unit_text": "Abū Ṭālib promises to continue protecting the Prophet, despite the pressure from the Makkans.",
+    "main_characters": ["Abū Ṭālib", "Prophet Muhammad"],
+    "event_summary": "Abū Ṭālib reassures the Prophet that he will continue to protect him."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "The Prophet's Continued Preaching",
+    "unit_text": "The Prophet continues to preach his message, despite the opposition from the Makkans.",
+    "main_characters": ["Prophet Muhammad"],
+    "event_summary": "The Prophet continues to preach his message, despite the opposition from the Makkans."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "The Makkans' Next Steps",
+    "unit_text": "The hardliners among the Makkans gain the upper hand, and they contemplate further measures against the Prophet.",
+    "main_characters": ["Makkans"],
+    "event_summary": "The hardliners among the Makkans gain the upper hand, and they contemplate further measures against the Prophet."
+  }
+]

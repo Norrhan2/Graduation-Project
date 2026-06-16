@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Evil One appears to a young boy, trying to make him feel unhappy with his life.",
+    "key_visual_action": "The Evil One whispering in the boy's ear",
+    "characters_present": ["The Evil One", "Young Boy"],
+    "setting": "A quiet, dark alleyway",
+    "emotional_tone": "Fearful",
+    "time_of_day": "Evening"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The boy resists the Evil One's temptation and chooses to walk away, feeling stronger and more confident.",
+    "key_visual_action": "The boy turning his back on the Evil One and walking away",
+    "characters_present": ["The Evil One", "Young Boy"],
+    "setting": "The same quiet, dark alleyway",
+    "emotional_tone": "Relieved",
+    "time_of_day": "Evening"
+  }
+]

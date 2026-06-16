@@ -1,0 +1,58 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The Jewish tribe of Qaynuqāʿ",
+    "unit_text": "The tribe of Qaynuqāʿ was renowned for its bravery and was closest to the Arabs in their quarters, leading to increased hostility towards the Muslims.",
+    "main_characters": ["Qaynuqāʿ Jews"],
+    "event_summary": "The Jewish tribe of Qaynuqāʿ is introduced as a brave and close-knit community."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "A Muslim woman is mocked",
+    "unit_text": "A Muslim woman was mocked by a Jew at the Qaynuqāʿ market, who stuck her dress to her shoulders, causing her to be exposed.",
+    "main_characters": ["Muslim woman", "Jew"],
+    "event_summary": "A Muslim woman is mocked by a Jew at the Qaynuqāʿ market."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Muslim man kills the Jew",
+    "unit_text": "The Muslim woman's companion attacked and killed the Jew who perpetrated the mockery, but was then killed by several other Jews.",
+    "main_characters": ["Muslim man", "Jew"],
+    "event_summary": "A Muslim man kills the Jew who mocked the Muslim woman, but is then killed by other Jews."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Prophet intervenes",
+    "unit_text": "The Prophet was informed of the situation and came to calm everybody down, calling for the notables of the Qaynuqāʿ tribe to gather.",
+    "main_characters": ["Prophet"],
+    "event_summary": "The Prophet intervenes to calm the situation and calls for the notables of the Qaynuqāʿ tribe to gather."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Prophet warns the Qaynuqāʿ tribe",
+    "unit_text": "The Prophet warned the Qaynuqāʿ tribe against breaching their treaty and advised them to adopt Islam, citing their own Book and God's promise to them.",
+    "main_characters": ["Prophet", "Qaynuqāʿ notables"],
+    "event_summary": "The Prophet warns the Qaynuqāʿ tribe against breaching their treaty and advises them to adopt Islam."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Qaynuqāʿ tribe refuses to listen",
+    "unit_text": "The Qaynuqāʿ tribe refused to listen to the Prophet's warning, responding with hostility and threats.",
+    "main_characters": ["Qaynuqāʿ notables", "Prophet"],
+    "event_summary": "The Qaynuqāʿ tribe refuses to listen to the Prophet's warning and responds with hostility."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "The Qaynuqāʿ tribe's treachery",
+    "unit_text": "The Qaynuqāʿ tribe's hostility and refusal to listen to the Prophet's warning are seen as a sign of treachery and a breach of their covenant.",
+    "main_characters": ["Qaynuqāʿ notables"],
+    "event_summary": "The Qaynuqāʿ tribe's hostility and refusal to listen to the Prophet's warning are seen as a sign of treachery."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "The Prophet receives a revelation",
+    "unit_text": "The Prophet receives a revelation from God instructing him to cast back the covenant with the Qaynuqāʿ tribe if he fears treachery from them.",
+    "main_characters": ["Prophet", "God"],
+    "event_summary": "The Prophet receives a revelation from God instructing him to cast back the covenant with the Qaynuqāʿ tribe."
+  }
+]

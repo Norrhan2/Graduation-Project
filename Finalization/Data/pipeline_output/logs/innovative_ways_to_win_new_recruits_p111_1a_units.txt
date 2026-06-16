@@ -1,0 +1,51 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "New Converts in Madinah",
+    "unit_text": "The new converts to Islam in Madinah were enthusiastic about their new faith and wanted to win new recruits.",
+    "main_characters": ["New converts to Islam"],
+    "event_summary": "New converts in Madinah were eager to spread Islam and win new followers."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Persuading ʿAmr ibn al-Jamūḥ",
+    "unit_text": "Young Muslims from the clan of Salamah tried to persuade ʿAmr ibn al-Jamūḥ to join Islam, but he was hesitant due to his age and attachment to his idol.",
+    "main_characters": ["ʿAmr ibn al-Jamūḥ", "Young Muslims from Salamah"],
+    "event_summary": "Young Muslims from Salamah tried to persuade ʿAmr ibn al-Jamūḥ to convert to Islam."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Targeting ʿAmr's Idol",
+    "unit_text": "The young men of Salamah decided to target ʿAmr's idol by stealing and destroying it, hoping to make ʿAmr realize its uselessness.",
+    "main_characters": ["Young men of Salamah", "ʿAmr ibn al-Jamūḥ"],
+    "event_summary": "The young men of Salamah targeted ʿAmr's idol to make him see its uselessness."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "ʿAmr's Reaction",
+    "unit_text": "ʿAmr was irritated by the repeated theft of his idol but couldn't figure out who was behind it, and he even gave his sword to the idol to defend itself.",
+    "main_characters": ["ʿAmr ibn al-Jamūḥ"],
+    "event_summary": "ʿAmr was frustrated by the repeated theft of his idol but didn't know who was behind it."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Final Destruction of the Idol",
+    "unit_text": "The young men of Salamah took ʿAmr's idol, tied it to a dead dog, and threw it into a well, making ʿAmr realize its uselessness.",
+    "main_characters": ["Young men of Salamah", "ʿAmr ibn al-Jamūḥ"],
+    "event_summary": "The young men of Salamah finally destroyed ʿAmr's idol, making him see its uselessness."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "ʿAmr's Conversion",
+    "unit_text": "ʿAmr accepted Islam after realizing the uselessness of his idol and was convinced by the message of Islam.",
+    "main_characters": ["ʿAmr ibn al-Jamūḥ", "Young men of Salamah"],
+    "event_summary": "ʿAmr ibn al-Jamūḥ accepted Islam after realizing the uselessness of his idol."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Muṣʿab ibn ʿUmayr's Return",
+    "unit_text": "Muṣʿab ibn ʿUmayr, the Prophet's emissary, returned to Madinah before the next pilgrimage season, reporting on the spread of Islam in the city.",
+    "main_characters": ["Muṣʿab ibn ʿUmayr", "The Prophet"],
+    "event_summary": "Muṣʿab ibn ʿUmayr returned to Madinah, reporting on the spread of Islam in the city."
+  }
+]

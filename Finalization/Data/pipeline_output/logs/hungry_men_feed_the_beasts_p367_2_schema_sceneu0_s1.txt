@@ -1,0 +1,19 @@
+Here is the generated schema for the scene:
+
+```json
+{
+  "scene_number": 2,
+  "scene_title": "Warm Greeting at the City Gate",
+  "era": "madinah_early",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 367",
+  "moral_lesson": "Hospitality and welcoming others",
+  "characters": [
+    {"id":"1","name":"Prophet Muhammad","role":"prophet","depiction_rule":"NO_FACE","appearance":"medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id":"2","name":"Khawlān Delegation","role":"crowd","depiction_rule":"NO_SPECIFIC","appearance":"diverse group of men with varying builds and clothing"}
+  ],
+  "narrative_text": "The Prophet Muhammad greeted the Khawlān Delegation with a warm smile, extending his right hand for a handshake. This kind gesture made the visitors feel welcome and at ease.",
+  "compliance": {"prophet_check":"COMPLIANT","modesty_check":"COMPLIANT","child_safe":"APPROPRIATE","notes":"Historically accurate depiction of the Prophet Muhammad and the Khawlān Delegation."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Exterior of the Madinah City Gate in the warm golden light of late afternoon. The sun casts long shadows across the packed-earth road, where a group of men from the Khawlān Delegation walk towards the gate, dressed in a variety of traditional clothing including white, beige, and brown thobes with woolen cloaks. In the center of the scene, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, extending his right hand in a warm gesture of welcome. Soft warm golden light, inviting and friendly mood. Medium shot at eye level. Earthy, golden, and beige palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}
+```

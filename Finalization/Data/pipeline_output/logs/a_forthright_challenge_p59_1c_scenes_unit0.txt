@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet stands on the hill of al-Ṣafā, looking out at the people of Makkah.",
+    "key_visual_action": "The Prophet raises his hands to the sky, a gesture of supplication and declaration.",
+    "characters_present": ["The Prophet"],
+    "setting": "Hill of al-Ṣafā, Makkah",
+    "emotional_tone": "Serious",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet begins to speak to the people of Makkah, his words carrying across the valley.",
+    "key_visual_action": "The Prophet's mouth is open, as if shouting his message to the crowd.",
+    "characters_present": ["The Prophet"],
+    "setting": "Hill of al-Ṣafā, Makkah",
+    "emotional_tone": "Determined",
+    "time_of_day": "Afternoon"
+  }
+]

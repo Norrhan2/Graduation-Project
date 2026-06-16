@@ -1,0 +1,58 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Peace Agreement Benefits",
+    "unit_text": "The Muslims enjoyed a period of calm after the peace agreement, no longer worrying about the Quraysh.",
+    "main_characters": ["Prophet Muhammad", "Quraysh"],
+    "event_summary": "The Muslims experienced a period of calm after the peace agreement."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Quraysh's Hostility",
+    "unit_text": "The Quraysh had been hostile to the Prophet and Islam, accusing him of various things and plotting against him.",
+    "main_characters": ["Prophet Muhammad", "Quraysh"],
+    "event_summary": "The Quraysh had been hostile to the Prophet and Islam."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Quraysh's Defeat",
+    "unit_text": "The Quraysh had to climb down and seek peace, recognizing the legitimacy of the Muslim state.",
+    "main_characters": ["Prophet Muhammad", "Quraysh"],
+    "event_summary": "The Quraysh sought peace and recognized the Muslim state."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Moral Victory",
+    "unit_text": "The Prophet realized that the moral victory opened up great new horizons for the cause of Islam.",
+    "main_characters": ["Prophet Muhammad"],
+    "event_summary": "The Prophet realized the significance of the moral victory."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Establishing Contacts",
+    "unit_text": "The Muslims were able to establish contacts with other tribes and explain the principles of Islam.",
+    "main_characters": ["Prophet Muhammad", "Muslims"],
+    "event_summary": "The Muslims established contacts with other tribes and explained Islam."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Islam's Expansion",
+    "unit_text": "Islam made inroads into many tribes and won new followers all over Arabia, including Makkah.",
+    "main_characters": ["Prophet Muhammad", "Muslims"],
+    "event_summary": "Islam expanded and gained new followers."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Historical Significance",
+    "unit_text": "Most historians regard the peace of al- Ḥudaybiyah as a great victory, with Al-Zuhrī calling it the greatest victory in Islamic history.",
+    "main_characters": ["Prophet Muhammad", "Al-Zuhrī"],
+    "event_summary": "The peace of al- Ḥudaybiyah is considered a great victory by historians."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Rapid Growth",
+    "unit_text": "The number of Muslims multiplied rapidly, with the Prophet able to raise an army of 10,000 two years later.",
+    "main_characters": ["Prophet Muhammad", "Muslims"],
+    "event_summary": "The number of Muslims grew rapidly."
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "The Prophet arrives at ʿAqabah, a place where pilgrims encamp for three days.",
+    "key_visual_action": "The Prophet dismounts his camel",
+    "characters_present": [
+      "Prophet"
+    ],
+    "setting": "ʿAqabah",
+    "emotional_tone": "curiosity",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_title": "The Prophet Arrives at ʿAqabah",
+    "era": "pre_prophetic",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 109",
+    "moral_lesson": "The importance of patience and perseverance in spreading the message of Islam",
+    "characters": [
+      {
+        "id": "Prophet",
+        "name": "the man in the green cloak",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      }
+    ],
+    "narrative_text": "The Prophet arrived at ʿAqabah, a sacred place where pilgrims would encamp for three days. He dismounted his camel, curious about the people and the land.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A wide open expanse of sandy terrain stretches out in the background, with a few palm trees in the distance. In the foreground, a lone figure in the distance is seen dismounting a camel, walking towards the viewer, seen from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. The sun beats down in the late afternoon sky, casting a warm golden light across the scene. Soft low hills rise up in the background, with a few scattered rocks and bushes. Medium shot from a slight distance, capturing the sense of vastness and emptiness of the desert landscape. Warm beige, golden, and sandy palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'prophet' -> 'the central figure'"
+    ]
+  }
+}

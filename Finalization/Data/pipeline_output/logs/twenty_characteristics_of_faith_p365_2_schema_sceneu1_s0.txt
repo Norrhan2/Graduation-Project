@@ -1,0 +1,32 @@
+{
+  "scene_number": 1,
+  "scene_summary": "The Prophet sees the delegation approaching and smiles in anticipation.",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 365",
+  "moral_lesson": "The importance of hospitality and welcoming others",
+  "characters": [
+    {
+      "id": "prophet",
+      "name": "The Prophet",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture"
+    },
+    {
+      "id": "suwayd",
+      "name": "Suwayd ibn al-Ḥārith",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "tall, wearing a simple white thobe and a brown woolen cloak, carrying a staff"
+    }
+  ],
+  "narrative_text": "The Prophet saw the delegation approaching and smiled in anticipation. He was known for his kindness and hospitality, and he welcomed everyone with open arms.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene desert or open plain in late afternoon, with the warm sunlight casting a gentle glow across the scene. In the distance, a group of travelers, led by Suwayd ibn al-Ḥārith, a tall figure carrying a staff, can be seen approaching. As they draw closer, the central figure seen from behind, the Prophet, stands tall and smiling, his hand extended in welcome, his flowing white thobe and deep green woolen cloak visible. A sense of warmth and kindness fills the air, as the Prophet's smile radiates across the scene. The warm golden light, the vast open space, and the gentle breeze create a peaceful atmosphere. Medium shot, eye level, with the sun casting a warm glow on the scene. Warm beige, golden, and sandy palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

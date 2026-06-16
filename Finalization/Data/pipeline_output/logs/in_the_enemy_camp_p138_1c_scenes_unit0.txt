@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "A group of Quraysh approach the Muslim camp",
+    "key_visual_action": "Quraysh walking towards the camp with curious expressions",
+    "characters_present": ["The Quraysh"],
+    "setting": "Desert landscape with the Muslim camp in the distance",
+    "emotional_tone": "Curiosity",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet instructs his companions to remain calm",
+    "key_visual_action": "The Prophet holding up his hand in a calming gesture",
+    "characters_present": ["The Prophet", "Companions"],
+    "setting": "Inside the Muslim camp",
+    "emotional_tone": "Calmness",
+    "time_of_day": "afternoon"
+  }
+]

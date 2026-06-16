@@ -1,0 +1,24 @@
+{
+  "scene_title": "The Muslims Wake Up Feeling Refreshed",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 176",
+  "moral_lesson": "The importance of trust and reassurance in times of difficulty",
+  "characters": [
+    {
+      "id": "Muslim Leader",
+      "name": "The Muslims",
+      "role": "supporting",
+      "depiction_rule": "FULL",
+      "appearance": "young adults, dressed in traditional Arabian clothing with a mix of earthy tones and white, some with head coverings"
+    }
+  ],
+  "narrative_text": "The Muslims woke up feeling refreshed and reassured. They knew they had made the right decision to stand by the truth.",
+  "compliance": {
+    "prophet_check": "NO_PROPHET",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, open 7th century Arabian Desert battlefield landscape with sandy dunes and rocky outcroppings stretching towards the horizon. Late afternoon sunlight casts long shadows across the sandy terrain, with scattered palm trees and rocky outcroppings in the distance. In the center of the scene, a group of young adults, dressed in traditional Arabian clothing with a mix of earthy tones and white, are shown waking up, stretching, and smiling, their faces filled with a sense of relief and calmness. Some are shown with head coverings, while others have their heads uncovered. They are seated or lying down on the sandy ground, surrounded by their belongings, including leather water flasks, woven bags, and wooden walking sticks. Soft warm golden light, vast and peaceful mood. Wide-angle shot from above, capturing the expansive landscape and the sense of community. Warm beige, sandy, and golden palette with accents of turquoise and indigo. No modern objects, historically accurate 7th century scene."
+}

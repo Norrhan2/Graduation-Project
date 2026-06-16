@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Khadījah arrives at Ḥakīm's house to inspect the slaves.",
+    "key_visual_action": "Khadījah walking through the doorway, looking at the slaves.",
+    "characters_present": ["Khadījah", "Ḥakīm ibn Ḥizām"],
+    "setting": "Ḥakīm's house",
+    "emotional_tone": "curious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Khadījah chooses Zayd as one of her slaves, showing kindness and compassion.",
+    "key_visual_action": "Khadījah gently placing her hand on Zayd's shoulder, smiling.",
+    "characters_present": ["Khadījah", "Ḥakīm ibn Ḥizām", "Zayd"],
+    "setting": "Ḥakīm's house",
+    "emotional_tone": "kind",
+    "time_of_day": "afternoon"
+  }
+]

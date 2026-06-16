@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Sufyān and al-ʿAbbās stand on a hill, looking out at the horizon.",
+    "key_visual_action": "Abū Sufyān and al-ʿAbbās looking out at the horizon",
+    "characters_present": ["Abū Sufyān", "al-ʿAbbās"],
+    "setting": "A hill overlooking a landscape",
+    "emotional_tone": "Curiosity",
+    "time_of_day": "Morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Muslim army comes into view, marching towards them.",
+    "key_visual_action": "The Muslim army marching in the distance",
+    "characters_present": ["Abū Sufyān", "al-ʿAbbās"],
+    "setting": "A hill overlooking a landscape with the Muslim army in the distance",
+    "emotional_tone": "Surprise",
+    "time_of_day": "Morning"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Abū Sufyān's expression changes from surprise to admiration as he watches the Muslim army.",
+    "key_visual_action": "Abū Sufyān's expression changing from surprise to admiration",
+    "characters_present": ["Abū Sufyān", "al-ʿAbbās"],
+    "setting": "A hill overlooking a landscape with the Muslim army in the distance",
+    "emotional_tone": "Admiration",
+    "time_of_day": "Morning"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "scene_number": 2,
+  "scene_summary": "A loud voice shouts out the news of the secret meeting.",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 114",
+  "moral_lesson": "Importance of secrecy in spreading the message of Islam",
+  "characters": [
+    {"id": "quraysh_man", "name": "Quraysh man", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "medium build, muscular posture, wearing a traditional Arabian headdress and a white and brown striped thobe"},
+    {"id": "muhammad", "name": "Muhammad", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "ansar", "name": "Ansar", "role": "supporting", "depiction_rule": "NO_FACE", "appearance": "slender build, wearing a simple white thobe and a plain brown woolen cloak"}
+  ],
+  "narrative_text": "A loud voice shouted in the desert, 'The Prophet Muhammad has been invited to a secret meeting with the Ansar!'",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "COMPLIANT", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast expanse of the Arabian Desert landscape stretches out before us, with sandy dunes and rocky outcroppings in shades of beige, golden brown, and dusty blue. Late afternoon sunlight casts a warm glow across the scene, illuminating the faces of three figures in the distance. In the foreground, a Quraysh man stands with his mouth open, shouting out the news in a loud voice, his face red with excitement. Behind him, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. To his right, a slender Ansar man with a simple white thobe and plain brown woolen cloak, looking on with a mixture of surprise and curiosity. Soft warm golden light, dynamic and energetic mood. Wide shot from a slightly elevated angle. Warm beige, golden, and dusty blue palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

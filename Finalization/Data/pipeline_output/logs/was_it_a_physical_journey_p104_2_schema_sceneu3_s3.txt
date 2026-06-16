@@ -1,0 +1,23 @@
+{
+  "scene_title": "God's Guidance in the Natural World",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic",
+  "region": "arabian_desert|sinai",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 104",
+  "moral_lesson": "Appreciating the blessings of nature and the guidance of Allah.",
+  "characters": [
+    {
+      "id": "God",
+      "name": "The Creator",
+      "role": "God",
+      "depiction_rule": "FROM_BEHIND|NO_FACE",
+      "appearance": "a gentle, serene figure seen from behind, with a flowing white robe and a cloak of deep blue, one hand outstretched in a guiding gesture, with a subtle smile of satisfaction."
+    }
+  ],
+  "narrative_text": "Allah gently guides the natural world, and what we consider ordinary today was once seen as a miracle.",
+  "compliance": {
+    "prophet_check": "NOT_APPLICABLE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": "No depiction of idols or modern objects."
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. The vast expanse of a serene desert landscape, with towering sand dunes and a clear blue sky with a few wispy clouds. Late morning sunlight casts a warm glow, with the sun a small disk low in the sky. In the distance, a gentle figure is seen from behind: medium build, flowing white robe with a cloak of deep blue draped over both shoulders, one hand extended in a guiding gesture, with a subtle smile of satisfaction. Soft warm light, peaceful and contemplative mood. Medium shot from a low angle, looking up at the figure. Earthy, blue, and golden palette with the deep blue cloak as a color anchor. No modern objects, historically accurate desert scene."

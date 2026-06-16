@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Ṭālib finds Muhammad crying after falling while playing in the courtyard.",
+    "key_visual_action": "Muhammad holding his knee in pain",
+    "characters_present": ["Abū Ṭālib", "Muhammad"],
+    "setting": "Courtyard of the house",
+    "emotional_tone": "Concerned",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Abū Ṭālib gently lifts Muhammad up and wipes away his tears.",
+    "key_visual_action": "Abū Ṭālib cradling Muhammad in his arms",
+    "characters_present": ["Abū Ṭālib", "Muhammad"],
+    "setting": "Courtyard of the house",
+    "emotional_tone": "Comforting",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Abū Ṭālib teaches Muhammad how to ride a horse, showing patience and encouragement.",
+    "key_visual_action": "Abū Ṭālib guiding Muhammad on the horse",
+    "characters_present": ["Abū Ṭālib", "Muhammad"],
+    "setting": "Open field near the house",
+    "emotional_tone": "Encouraging",
+    "time_of_day": "Morning"
+  }
+]

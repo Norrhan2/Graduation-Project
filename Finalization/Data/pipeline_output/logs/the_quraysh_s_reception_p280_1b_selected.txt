@@ -1,0 +1,51 @@
+[
+  {
+    "unit_number": 3,
+    "unit_title": "Nobility's Reaction",
+    "unit_text": "Some Quraysh nobles did not want to look at the Muslims, as the sight of them infuriated them.",
+    "main_characters": [
+      "Quraysh Nobles",
+      "Prophet Muhammad",
+      "Companions"
+    ],
+    "event_summary": "Some Quraysh nobles reacted negatively to the Prophet's entry into Makkah.",
+    "selection_reason": "Clear visual moment of Quraysh nobles reacting to the Prophet's entry, and a meaningful lesson about how people can react differently to the same situation.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Rumors about the Muslims' Condition",
+    "unit_text": "A rumor spread that the Muslims were weakened by an epidemic, which made the Quraysh eager to see them.",
+    "main_characters": [
+      "Quraysh",
+      "Prophet Muhammad",
+      "Companions"
+    ],
+    "event_summary": "A rumor about the Muslims' weakened condition spread among the Quraysh.",
+    "selection_reason": "Interesting plot twist and a lesson about the power of rumors, with clear visual moments of the rumor spreading.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Prophet's Entry into Makkah",
+    "unit_text": "The Prophet's entry into Makkah, seven years after his forced departure, was a significant event.",
+    "main_characters": [
+      "Prophet Muhammad"
+    ],
+    "event_summary": "The Prophet Muhammad entered Makkah after a seven-year absence.",
+    "selection_reason": "Important historical event with a clear visual moment, and a meaningful lesson about perseverance and determination.",
+    "estimated_scenes": 1
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Quraysh's Reaction to the Prophet's Entry",
+    "unit_text": "When the Quraysh saw the Prophet's entry, they started thinking and wondering.",
+    "main_characters": [
+      "Quraysh",
+      "Prophet Muhammad"
+    ],
+    "event_summary": "The Quraysh reacted with curiosity and wonder upon seeing the Prophet's entry into Makkah.",
+    "selection_reason": "Clear visual moment of the Quraysh's reaction, and a meaningful lesson about how people can change their minds and perspectives.",
+    "estimated_scenes": 2
+  }
+]

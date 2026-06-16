@@ -1,0 +1,48 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "The Muslims are rallying towards the Prophet during the Battle of Uḥud.",
+    "key_visual_action": "The Muslims are shown marching forward with determination and courage.",
+    "characters_present": [
+      "The Muslims",
+      "The Prophet"
+    ],
+    "setting": "Battlefield",
+    "emotional_tone": "Determined",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_title": "The Muslims Rally",
+    "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah|madinah_early|madinah_late",
+    "region": "arabian_desert|sinai",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 176",
+    "moral_lesson": "The power of unity and determination in the face of adversity.",
+    "characters": [
+      {
+        "id": "Muslim Leader",
+        "name": "The Leader of the Muslims",
+        "role": "sahabi",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "The Prophet",
+        "name": "The Central Figure",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "similar to the Muslim Leader, but with a distinct green cloak"
+      }
+    ],
+    "narrative_text": "The Muslims marched forward with determination and courage, ready to face the challenges of the Battle of Uḥud. They were led by their brave companions, who stood strong and united behind their beloved leader.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, open 7th century Arabian Desert battlefield with sandy dunes and rocky outcrops stretching towards the horizon. Late afternoon sunlight casts a warm glow, with a few scattered clouds in the sky. In the distance, a large group of men, dressed in simple white thobes and woolen cloaks, are marching forward in a determined procession, their faces set with courage and resolve. The man in the green cloak seen entirely from behind, medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, leads the charge. The men are shown from behind, their faces turned towards the central figure, their expressions filled with determination and courage. Soft warm golden light, epic and heroic mood. Wide shot from a slightly elevated angle. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure' -> 'the man in the green cloak'"
+    ]
+  }
+}

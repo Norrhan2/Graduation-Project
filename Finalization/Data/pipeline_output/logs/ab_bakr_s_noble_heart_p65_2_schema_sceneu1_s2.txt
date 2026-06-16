@@ -1,0 +1,32 @@
+{
+  "scene_number": 3,
+  "scene_title": "Abū Bakr sets ʿĀmir ibn Fuhayrah free",
+  "era": "pre_prophetic",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 65",
+  "moral_lesson": "The importance of compassion and setting free the oppressed",
+  "characters": [
+    {
+      "id": "abu_bakr",
+      "name": "Abū Bakr",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "amir_ibn_fuhayrah",
+      "name": "ʿĀmir ibn Fuhayrah",
+      "role": "antagonist",
+      "depiction_rule": "FULL",
+      "appearance": "tall and lean, wearing a plain brown woolen cloak with a white cloth head covering, with chains around his wrists"
+    }
+  ],
+  "narrative_text": "Abū Bakr set ʿĀmir ibn Fuhayrah free, showing compassion and kindness to one who had wronged him.",
+  "compliance": {
+    "prophet_check": "None",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene private home or garden in 7th century Makkah, with a soft warm golden light casting long shadows across the room. Late evening, with the sun setting behind the walls. In the center, a figure in the green cloak stands facing a seated man, with his back to the viewer. The man in the green cloak has one hand extended, with his palm upwards, and a gentle expression on his face. On the floor beside the seated man lies a set of heavy chains, partially uncoiled, with a few links still wrapped around his wrists. The seated man looks up at the man in the green cloak with a mix of gratitude and relief on his face. Soft warm golden light, intimate and sacred mood. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

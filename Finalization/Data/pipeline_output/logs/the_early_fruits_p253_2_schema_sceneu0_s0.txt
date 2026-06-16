@@ -1,0 +1,13 @@
+{
+  "scene_title": "The Peace Agreement Announced",
+  "era": "madinah_early",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 253",
+  "moral_lesson": "The importance of peace and unity in the Muslim community",
+  "characters": [
+    {"id": "1", "name": "the central figure", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture"},
+    {"id": "2", "name": "a member of the Muslim community", "role": "supporting", "depiction_rule": "NO_FACE", "appearance": "young woman, wearing a hijab and a long white jilbab with intricate embroidery, standing with her hands clasped together in front of her chest"}
+  ],
+  "narrative_text": "The Prophet Muhammad stood in the mosque, holding a scroll with the peace agreement. The Muslim community gathered around him, eager to hear the news.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Interior of a grand 7th century Medina mosque with high ceiling and large windows on the sides, allowing natural light to filter in. Late afternoon golden sunlight casts a warm glow across the room, illuminating the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture. The central figure stands in front of a large wooden minbar, with a simple wooden lectern on top, where the scroll with the peace agreement lies. The Muslim community surrounds him, a diverse group of men and women, dressed in their finest clothing, wearing white thobes and head coverings, some with their hands clasped together in front of their chests, others with their faces filled with joy and relief. Soft warm golden light, intimate and sacred mood. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

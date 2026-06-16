@@ -1,0 +1,24 @@
+{
+  "scene_number": 2,
+  "scene_summary": "The Khawlān Delegation destroys the idol upon their return",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 367",
+  "moral_lesson": "The destruction of idols brings freedom and triumph over false beliefs",
+  "characters": [
+    {
+      "id": "khawlan_delegation",
+      "name": "The Khawlān Delegation",
+      "role": "supporting",
+      "depiction_rule": "FROM_BEHIND|FULL",
+      "appearance": "men of medium to tall build, wearing traditional 7th century clothing: white or off-white thobes, brown or beige woolen cloaks, and head coverings, with some carrying sticks and stones"
+    }
+  ],
+  "narrative_text": "The Khawlān Delegation returns home, determined to destroy the idol that had been a source of false worship and oppression. With sticks and stones, they smash the idol to pieces, feeling a sense of triumph and liberation.",
+  "compliance": {
+    "prophet_check": "NOT_APPLICABLE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast desert or village setting in Khawlān, with sandy dunes and rocky outcroppings in the background. Late morning sunlight casts a warm glow over the scene, illuminating the dust and debris kicked up by the Delegation's actions. In the center of the image, a group of men, the Khawlān Delegation, are seen from behind, dressed in traditional 7th century clothing: white or off-white thobes, brown or beige woolen cloaks, and head coverings. Each man is engaged in the act of smashing the idol with sticks and stones, their faces set with determination and triumph. The idol lies broken and shattered at their feet, its fragments scattered across the sand. Soft warm golden light, dynamic and energetic mood. Medium shot, slightly elevated to emphasize the Delegation's triumph. Earthy, sandy, and golden palette with accents of brown and beige. No modern objects, historically accurate 7th century scene."

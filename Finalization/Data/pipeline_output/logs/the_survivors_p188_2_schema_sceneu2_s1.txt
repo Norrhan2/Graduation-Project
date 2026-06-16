@@ -1,0 +1,32 @@
+{
+  "scene_number": 2,
+  "scene_summary": "Al-Mundhir ibn Muḥammad charges at the aggressors",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 188",
+  "moral_lesson": "Standing up for what is right and protecting others takes courage and bravery",
+  "characters": [
+    {
+      "id": "al-Mundhir",
+      "name": "Al-Mundhir ibn Muḥammad",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "tall and athletic build, wearing a flowing white thobe with a deep blue woolen cloak draped over both shoulders, a white turban with a cloth tail hanging between the shoulder blades, holding a sword in one hand and running forward with a determined expression"
+    },
+    {
+      "id": "aggressor",
+      "name": "Aggressor",
+      "role": "antagonist",
+      "depiction_rule": "FULL",
+      "appearance": "medium build, wearing a worn leather tunic and carrying a club, with a fierce and aggressive expression"
+    }
+  ],
+  "narrative_text": "Al-Mundhir ibn Muḥammad bravely charges at the aggressors to protect his family and friends.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": "No graphic violence or explicit content"
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast expanse of sandy desert landscape with rocky outcroppings in the distance. Late afternoon sunlight casts long shadows across the sand, with a few wispy clouds scattered across the sky. In the foreground, a lone figure is seen from behind: the central figure seen entirely from behind, tall and athletic build, wearing a flowing white thobe with a deep blue woolen cloak draped over both shoulders, a white turban with a cloth tail hanging between the shoulder blades, holding a sword in one hand and running forward with a determined expression. In the background, a group of figures can be seen, wearing worn leather tunics and carrying clubs, with a fierce and aggressive expression. Soft warm golden light, dramatic and action-packed mood. Medium shot at eye level. Warm beige, golden, and blue palette with the deep blue cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

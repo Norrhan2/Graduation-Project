@@ -1,0 +1,31 @@
+{
+  "scene_title": "The Khawlān Delegation says goodbye",
+  "era": "madinah_early",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 367",
+  "moral_lesson": "Appreciate the companionship and support of others",
+  "characters": [
+    {
+      "id": "khawlan_delegation_leader",
+      "name": "The Leader of the Khawlān Delegation",
+      "role": "antagonist",
+      "depiction_rule": "FULL",
+      "appearance": "a tall, slender man with a dignified build, wearing a beige thobe with a white turban and a brown woolen cloak"
+    },
+    {
+      "id": "prophet_muhammad",
+      "name": "The Central Figure",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    }
+  ],
+  "narrative_text": "The Khawlān Delegation had come to Medina to meet the Prophet Muhammad. They had many questions and were curious to learn from him. After a day of talking and learning, it was time for them to leave. The Prophet Muhammad was sad to see them go, but he was also grateful for their visit and the new friendships they had formed.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene desert oasis setting with a few palm trees and sandy dunes in the background. Late afternoon golden sunlight casts a warm glow across the scene, with a few wispy clouds in the sky. In the center of the image, the Central Figure is seen entirely from behind, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. He stands facing a group of men, dressed in various earth-toned thobes and cloaks, who are gathered around him. The Leader of the Khawlān Delegation, a tall, slender man with a dignified build, stands out among the group, wearing a beige thobe with a white turban and a brown woolen cloak. He extends a hand in a friendly gesture, and the Central Figure reaches out to shake it, their hands clasped together in a warm farewell. Soft warm golden light, intimate and sacred mood. Medium shot at eye level. Warm beige, sand, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

@@ -1,0 +1,40 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "The Prophet holds up a small bag, filled with personal belongings.",
+    "key_visual_action": "The Prophet holds up the bag, with a hint of sadness",
+    "characters_present": [
+      "The Prophet"
+    ],
+    "setting": "A large outdoor gathering in Medina",
+    "emotional_tone": "Bittersweet",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_title": "The Prophet's Departure",
+    "era": "pre_prophetic",
+    "region": "madinah_early",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 375",
+    "moral_lesson": "Letting go of attachments can be difficult, but it's a necessary part of growth.",
+    "characters": [
+      {
+        "id": "the_prophet",
+        "name": "The Prophet",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      }
+    ],
+    "narrative_text": "The Prophet Muhammad stood in the middle of a large gathering in Medina, holding up a small bag. He looked sad, but also determined. The people around him were quiet, watching him with concern.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A large outdoor gathering in Medina during the early days of Islam, with people seated on colorful blankets and rugs on the ground. Late afternoon sunlight casts long shadows across the scene, with a few palm trees and buildings in the background. In the center of the gathering, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. The central figure holds up a small, intricately woven leather bag in one hand, with the other hand resting on the bag's strap. The people around him look on with a mix of concern and empathy, their faces a blur of emotion. Soft warm golden light, intimate and bittersweet mood. Medium shot from slightly above, with the gathering's colorful fabrics as a dominant feature. Warm beige, golden, and deep green palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'prophet' -> 'the central figure'"
+    ]
+  }
+}

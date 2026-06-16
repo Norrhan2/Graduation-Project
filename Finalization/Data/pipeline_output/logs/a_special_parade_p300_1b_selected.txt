@@ -1,0 +1,49 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Abū Sufyān and al-ʿAbbās Observe the Muslim Army",
+    "unit_text": "Abū Sufyān and al-ʿAbbās watch the Muslim army march by, with Abū Sufyān impressed by their strength.",
+    "main_characters": [
+      "Abū Sufyān",
+      "al-ʿAbbās"
+    ],
+    "event_summary": "Abū Sufyān and al-ʿAbbās observe the Muslim army's impressive strength.",
+    "selection_reason": "Visual moment of the Muslim army marching by, and Abū Sufyān's reaction.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Abū Sufyān Recognizes the Prophet",
+    "unit_text": "Abū Sufyān recognizes the Prophet and is impressed by the strength of his battalion.",
+    "main_characters": [
+      "Abū Sufyān",
+      "The Prophet"
+    ],
+    "event_summary": "Abū Sufyān recognizes the Prophet and is impressed by his battalion's strength.",
+    "selection_reason": "Key moment of Abū Sufyān's realization and his reaction to the Prophet.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Abū Sufyān's Realization",
+    "unit_text": "Abū Sufyān realizes that the Muslim army is too strong to resist and advises surrender.",
+    "main_characters": [
+      "Abū Sufyān"
+    ],
+    "event_summary": "Abū Sufyān realizes the Muslim army's strength and advises surrender.",
+    "selection_reason": "Important lesson of humility and recognizing one's limitations.",
+    "estimated_scenes": 1
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Abū Sufyān's Warning to the Quraysh",
+    "unit_text": "Abū Sufyān warns the Quraysh that resistance is futile and advises them to seek safety in the mosque or his house.",
+    "main_characters": [
+      "Abū Sufyān",
+      "Quraysh"
+    ],
+    "event_summary": "Abū Sufyān warns the Quraysh of the impending fall and advises them to seek safety.",
+    "selection_reason": "Important lesson of prioritizing safety and well-being.",
+    "estimated_scenes": 2
+  }
+]

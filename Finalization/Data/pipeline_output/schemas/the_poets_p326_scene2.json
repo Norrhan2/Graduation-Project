@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 4,
+    "scene_summary": "A poet is shown embracing Islam, inspired by the Prophet Muhammad's message.",
+    "key_visual_action": "The poet is shown with a radiant expression, holding a copy of the Quran, while the Prophet Muhammad is shown in the background, smiling in approval.",
+    "characters_present": [
+      "The Converted Poet",
+      "The Prophet Muhammad"
+    ],
+    "setting": "A serene, natural setting, such as a garden or a mountain meadow",
+    "emotional_tone": "Joyful",
+    "time_of_day": "Morning"
+  },
+  "schema_output": {
+    "scene_number": 4,
+    "scene_summary": "A poet is shown embracing Islam, inspired by the Prophet Muhammad's message.",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 326",
+    "moral_lesson": "Embracing faith brings joy and inner peace.",
+    "characters": [
+      {
+        "id": "1",
+        "name": "The Converted Poet",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "slender build, dignified posture, wearing a white thobe and a green turban, radiant expression, holding a copy of the Quran in his right hand"
+      },
+      {
+        "id": "2",
+        "name": "The Prophet Muhammad",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, smiling in approval"
+      }
+    ],
+    "narrative_text": "The poet's heart was filled with joy when he accepted Islam, inspired by the Prophet Muhammad's message.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene, natural setting with lush green grass and colorful wildflowers, reminiscent of a garden or mountain meadow. Soft morning sunlight filters through the trees, casting dappled shadows on the ground. In the distance, a majestic mountain range rises in the background. In the foreground, a young man with a slender build, wearing a white thobe and a green turban, stands with a radiant expression, holding a copy of the Quran in his right hand. He is shown in a joyful gesture, embracing his faith, with a sense of inner peace. Behind him, the man in the green cloak seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, smiling in approval. The atmosphere is peaceful and serene, with a sense of hope and renewal. Medium close shot at eye level. Soft, muted palette with shades of green, blue, and yellow, evoking a sense of nature and tranquility. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'prophet' -> 'the man in the green cloak'"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Lahab hits Abū Rāfiʿ for no reason.",
+    "key_visual_action": "Abū Lahab swinging his fist at Abū Rāfiʿ",
+    "characters_present": ["Abū Lahab", "Abū Rāfiʿ"],
+    "setting": "Medina marketplace",
+    "emotional_tone": "anger",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Umm al-Faḍl intervenes and hits Abū Lahab.",
+    "key_visual_action": "Umm al-Faḍl standing up to Abū Lahab, her hand raised to defend Abū Rāfiʿ",
+    "characters_present": ["Umm al-Faḍl", "Abū Lahab", "Abū Rāfiʿ"],
+    "setting": "Medina marketplace",
+    "emotional_tone": "determination",
+    "time_of_day": "afternoon"
+  }
+]

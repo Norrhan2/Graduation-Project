@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet approaches the Qaynuqāʿ tribe's gathering",
+    "key_visual_action": "Prophet walking towards the tribe with a gentle yet firm expression",
+    "characters_present": ["Prophet", "Qaynuqāʿ notables"],
+    "setting": "Open desert area with palm trees",
+    "emotional_tone": "Serious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet warns the Qaynuqāʿ tribe against breaching their treaty",
+    "key_visual_action": "Prophet pointing to the treaty with a concerned expression",
+    "characters_present": ["Prophet", "Qaynuqāʿ notables"],
+    "setting": "Open desert area with palm trees",
+    "emotional_tone": "Warning",
+    "time_of_day": "afternoon"
+  }
+]

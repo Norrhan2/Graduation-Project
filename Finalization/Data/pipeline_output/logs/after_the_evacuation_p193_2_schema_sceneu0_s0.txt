@@ -1,0 +1,24 @@
+{
+  "scene_title": "The Prophet's Gathering for Spoils",
+  "era": "pre_prophetic",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 193",
+  "moral_lesson": "Gratitude and humility in receiving blessings",
+  "characters": [
+    {
+      "id": "1",
+      "name": "the central figure",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    }
+  ],
+  "narrative_text": "The Prophet held a gathering to divide the spoils of war. He stood before a large pile of treasure, reminding everyone of their blessings and the importance of gratitude.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast open field or designated gathering area with a warm sandy terrain and minimal vegetation. Late afternoon golden sunlight casts long shadows across the scene. In the center stands the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. His right hand grasps a sturdy wooden staff or a sword with a worn leather scabbard, while his left hand rests on the hilt. A large pile of treasure lies before him, consisting of gold coins, precious jewels, and intricately woven textiles. Soft warm golden light, dignified and serious mood. Medium shot at eye level. Warm beige, golden, and deep green palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

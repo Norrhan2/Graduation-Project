@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿAddās listens to the Prophet's words, showing interest.",
+    "key_visual_action": "ʿAddās leaning forward, eyes wide with curiosity",
+    "characters_present": ["ʿAddās", "Muhammad"],
+    "setting": "A desert or open area where the Prophet is speaking",
+    "emotional_tone": "curiosity",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "ʿAddās shows his love and respect for the Prophet through a gesture.",
+    "key_visual_action": "ʿAddās kissing the Prophet's head, hands, and feet",
+    "characters_present": ["ʿAddās", "Muhammad"],
+    "setting": "The same desert or open area",
+    "emotional_tone": "love and respect",
+    "time_of_day": "afternoon"
+  }
+]

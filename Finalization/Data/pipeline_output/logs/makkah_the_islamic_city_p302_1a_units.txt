@@ -1,0 +1,72 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The Prophet Declines to Use Any House in Makkah",
+    "unit_text": "The Prophet declined to use any house in Makkah and instead set up a tent in al-Ḥajūn.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet establishes a temporary residence in al-Ḥajūn."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "The Prophet's Arrival at the Ka'bah",
+    "unit_text": "The Prophet arrives at the Ka'bah, touches the Black Stone, and proclaims 'Allah-u-Akbar'.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet arrives at the Ka'bah and declares his presence."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Prophet Performs Tawaf",
+    "unit_text": "The Prophet performs tawaf on his she-camel, touching the Black Stone with his stick after each round.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet performs tawaf around the Ka'bah."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Prophet Prays at Maqam Ibrahim",
+    "unit_text": "The Prophet dismounts, prays two rak'ahs at Maqam Ibrahim, and then moves on to Zamzam.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet prays at Maqam Ibrahim."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Prophet's Visit to Zamzam",
+    "unit_text": "The Prophet drinks water from Zamzam and renews his ablutions, with the Muslims competing to gather water from his face and hands.",
+    "main_characters": ["The Prophet", "Muslims"],
+    "event_summary": "The Prophet visits Zamzam and renews his ablutions."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Prophet Opens the Ka'bah",
+    "unit_text": "The Prophet calls 'Uthman ibn Talhah, who opens the Ka'bah for the Prophet, who then prays two rak'ahs inside.",
+    "main_characters": ["The Prophet", "'Uthman ibn Talhah"],
+    "event_summary": "The Prophet opens the Ka'bah and prays inside."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "The Prophet's Speech at the Ka'bah",
+    "unit_text": "The Prophet delivers a speech, praising God and clarifying rulings, including a general pardon for the people of Makkah.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet delivers a speech at the Ka'bah."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "The Prophet Pardons the People of Makkah",
+    "unit_text": "The Prophet asks the Quraysh what judgment they expect, and they reply that they expect a benevolent one; the Prophet then pardons them.",
+    "main_characters": ["The Prophet", "Quraysh"],
+    "event_summary": "The Prophet pardons the people of Makkah."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "ʿAlī Requests the Privilege of Looking After the Ka'bah",
+    "unit_text": "ʿAlī requests the privilege of looking after the Ka'bah, but the Prophet refuses, citing a day of honesty.",
+    "main_characters": ["The Prophet", "ʿAlī"],
+    "event_summary": "ʿAlī requests the privilege of looking after the Ka'bah, but is refused."
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "The Prophet's General Pardon",
+    "unit_text": "The Prophet's pardon includes all those who fought against him in previous battles, despite previous orders to kill certain individuals.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet issues a general pardon for those who fought against him."
+  }
+]

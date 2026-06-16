@@ -1,0 +1,58 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The Prophet's Distress",
+    "unit_text": "After the people left, the Prophet stood alone, realizing he faced the world with no human support except for a few dozen people.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet is left alone after the people leave, feeling the weight of his mission."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "The Prophet's Realization",
+    "unit_text": "The Prophet understood that he must put his message above all human values and considerations.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet comes to terms with the difficulty of his mission and the need to prioritize his message."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Historic Event",
+    "unit_text": "The Prophet's declaration on the hill of al-Ṣafā brought home the scope of the new call to the people of Makkah.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet makes his first public announcement of his mission, revealing the scope of the new call."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Aim of the New Call",
+    "unit_text": "The Prophet called for a total change in the life of Arab society, its values, standards, and practices.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet outlines the aim of the new call, which is to bring about a comprehensive change in Arab society."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Opposition",
+    "unit_text": "The opposition to the Prophet's declaration was fierce due to the challenge to established ideas and social traditions.",
+    "main_characters": ["The Prophet", "The people of Makkah"],
+    "event_summary": "The people of Makkah react strongly to the Prophet's call for change."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Prophet's Courage",
+    "unit_text": "The Prophet showed great courage by calling for a total and comprehensive change, embracing all aspects of human life.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet demonstrates his courage in calling for a radical change in society."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "The Prophet's Approach to Relatives",
+    "unit_text": "The Prophet wanted to approach his immediate relatives with his message, but feared his uncle Abū Lahab's opposition.",
+    "main_characters": ["The Prophet", "Abū Lahab"],
+    "event_summary": "The Prophet considers how to approach his relatives with his new faith, but is concerned about his uncle's reaction."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Abū Lahab's Character",
+    "unit_text": "Abū Lahab was a rich and narrow-minded man who felt that Arabian traditions must always be accepted.",
+    "main_characters": ["Abū Lahab"],
+    "event_summary": "The character of Abū Lahab is described as a wealthy and traditionalist individual."
+  }
+]

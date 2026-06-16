@@ -1,0 +1,14 @@
+{
+  "scene_number": 2,
+  "scene_summary": "The Prophet extends his hand to congratulate ʿ Abdullāh ibn Anīs.",
+  "era": "madinah_early",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 185",
+  "moral_lesson": "The importance of showing kindness and respect to others",
+  "characters": [
+    {"id": "1", "name": "ʿ Abdullāh ibn Anīs", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "slim build, wearing a plain beige thobe and a white cloth head covering"},
+    {"id": "2", "name": "the central figure", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "The Prophet Muhammad smiled warmly at ʿ Abdullāh ibn Anīs, extending his right hand for a handshake to congratulate him.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Interior of the Prophet's Mosque in Medina during the early days of Islam. Late afternoon sunlight streams through large windows on the left, casting warm rays across the prayer hall. The room is filled with men sitting on the floor, their faces turned towards the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle gesture. In front of him stands a slender older man with a gentle smile, wearing a plain beige thobe and a white cloth head covering, his right hand outstretched for a handshake. Soft warm golden light, intimate and sacred mood. Medium close shot at eye level. Warm beige, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

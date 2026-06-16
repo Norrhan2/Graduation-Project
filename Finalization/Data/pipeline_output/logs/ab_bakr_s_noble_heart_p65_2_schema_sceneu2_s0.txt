@@ -1,0 +1,15 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Abū Bakr sees Zunayrah being tortured by Abū Jahl",
+  "era": "pre_prophetic",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 65",
+  "moral_lesson": "The cruel treatment of others can evoke strong emotions and reactions.",
+  "characters": [
+    {"id": "abu_bakr", "name": "Abū Bakr", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a plain brown woolen cloak draped over both shoulders and a white cloth head covering, one hand extended in a futile attempt to cover his face in shock and sadness"},
+    {"id": "zunayrah", "name": "Zunayrah", "role": "family_of_prophet", "depiction_rule": "FULL", "appearance": "young woman, fully and modestly dressed in a long brown jilbab and khimar covering her hair, with her hands tied behind her back and her face contorted in pain"},
+    {"id": "abu_jahl", "name": "Abū Jahl", "role": "antagonist", "depiction_rule": "FULL", "appearance": "tall and muscular build, wearing a dark brown thobe and a red woolen cloak with a white turban, his face twisted in a cruel expression as he holds Zunayrah in a tight grip"}
+  ],
+  "narrative_text": "Abū Bakr watched in horror as Abū Jahl tortured Zunayrah, feeling helpless and overcome with sadness.",
+  "compliance": {"prophet_check": "NOT_PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Bustling marketplace in 7th century Makkah with a mixture of mud-brick and wooden stalls, and people milling about in the background. Late afternoon sunlight casts long shadows across the scene. In the center, a young woman, fully and modestly dressed in a long brown jilbab and khimar covering her hair, is tied up and held by a tall and muscular man, wearing a dark brown thobe and a red woolen cloak with a white turban. He is twisting her arm in a cruel manner. A slender older man, medium build, dignified upright posture, wearing a flowing white thobe with a plain brown woolen cloak draped over both shoulders and a white cloth head covering, stands nearby, his face covered with one hand in shock and sadness. The crowd around them is blurred and backgrounded. Soft warm golden light, a mix of emotions and reactions. Medium shot at eye level. Earthy, brown, and beige palette with the red cloak as a color anchor. No modern objects, historically accurate 7th century scene."

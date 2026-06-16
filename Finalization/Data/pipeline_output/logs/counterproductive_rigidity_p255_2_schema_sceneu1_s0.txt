@@ -1,0 +1,15 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Abū Buṣayr is captured by a man from the tribe of ʿĀmir.",
+  "era": "pre_islamic_prophets",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 255",
+  "moral_lesson": "The importance of being prepared for challenges and hardships",
+  "characters": [
+    {"id": "abu_busayr", "name": "Abū Buṣayr", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "tall, athletic build, wearing a worn beige thobe, a beige turban with a cloth tail hanging between the shoulder blades, and a leather belt around his waist"},
+    {"id": "man_from_tribe_of_amir", "name": "Man from the tribe of ʿĀmir", "role": "antagonist", "depiction_rule": "FULL", "appearance": "burly, robust build, wearing a dark brown thobe, a matching turban, and a leather belt with a silver buckle"}
+  ],
+  "narrative_text": "Abū Buṣayr was captured by a man from the tribe of ʿĀmir while out on his own.",
+  "compliance": {"prophet_check": "N/A", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "No graphic violence or idols"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast arid landscape with rocky outcroppings and sparse acacia trees stretches out in the background. Late afternoon sunlight casts long shadows across the sandy terrain. In the foreground, a man with his back to the viewer - medium build, wearing a flowing beige thobe with a deep brown woolen cloak draped over both shoulders and a beige turban with a cloth tail hanging between the shoulder blades - stands with his arms held behind his back, as if tied together by rope. A figure seen from behind - burly build, wearing a dark brown thobe and matching turban - stands facing the man, one hand grasping a length of rope that binds the other's wrists. Soft warm golden light, tense and foreboding mood. Medium close shot at eye level. Warm beige, dark brown, and golden palette with the deep brown cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

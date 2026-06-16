@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 3,
+    "scene_summary": "The Prophet Muhammad greets ʿ Alī with a smile",
+    "key_visual_action": "The Prophet Muhammad smiling and embracing ʿ Alī",
+    "characters_present": [
+      "ʿ Alī",
+      "The Prophet Muhammad"
+    ],
+    "setting": "Desert or a nearby settlement",
+    "emotional_tone": "Joy",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 3,
+    "scene_summary": "The Prophet Muhammad greets ʿ Alī with a smile",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 176",
+    "moral_lesson": "The importance of welcoming and showing love to one's family",
+    "characters": [
+      {
+        "id": "1",
+        "name": "ʿ Alī",
+        "role": "family_of_prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "young man, medium build, wearing a simple white thobe and a brown woolen cloak with a white cloth head covering"
+      },
+      {
+        "id": "2",
+        "name": "The Prophet Muhammad",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      }
+    ],
+    "narrative_text": "The Prophet Muhammad was so happy to see his beloved son ʿ Alī returning home from a long journey. He warmly greeted him with a big smile and a big hug.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "None"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene and peaceful desert landscape with a few palm trees in the background, set against a bright blue sky with a few wispy white clouds. Late afternoon golden sunlight casts long shadows across the sandy dunes. In the foreground, a figure stands with their back to the viewer: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one arm extended in a warm embracing gesture. Beside the figure, a young woman with a medium build, wearing a simple white thobe and a brown woolen cloak with a white cloth head covering, stands facing the embracing figure, with a look of joy and love on her face. Soft warm golden light, intimate and sacred mood. Medium shot at eye level. Warm beige, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'young man' -> 'young woman'"
+    ]
+  }
+}

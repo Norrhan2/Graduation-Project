@@ -1,0 +1,48 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "A Quraysh messenger arrives at the Muslim camp, curious about their condition.",
+    "key_visual_action": "Quraysh messenger approaching the Muslim camp gate",
+    "characters_present": [
+      "Quraysh messenger",
+      "Companions"
+    ],
+    "setting": "Muslim camp",
+    "emotional_tone": "curiosity",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_title": "A Quraysh Messenger's Curiosity",
+    "era": "pre_prophetic",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 280",
+    "moral_lesson": "The importance of being open to new ideas and experiences.",
+    "characters": [
+      {
+        "id": "quraysh_messenger",
+        "name": "A Quraysh messenger",
+        "role": "antagonist/supporting",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall build, wearing a white turban and a brown cloak with a red sash, carrying a staff"
+      },
+      {
+        "id": "companions",
+        "name": "The Companions",
+        "role": "sahabi",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, wearing white thawbs with brown cloaks and white head coverings"
+      }
+    ],
+    "narrative_text": "A Quraysh messenger arrives at the Muslim camp, curious about their condition. He is met with a group of Companions who are busy with their daily activities.",
+    "compliance": {
+      "prophet_check": "NOT_APPLICABLE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Ensure the Quraysh messenger's staff is depicted in a non-threatening manner."
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A sprawling Muslim camp set against the vast expanse of the Arabian Desert, with sandy dunes rising in the distance. Late afternoon sunlight casts a warm glow across the camp, with the Companions scattered about, engaged in various activities. In the foreground, a tall figure with a white turban and a brown cloak with a red sash approaches the camp gate, carrying a staff. The man in the green cloak seen from behind: medium build, dignified upright posture, wearing a white thawb with a brown cloak draped over both shoulders and a white head covering, one hand extended in a gesture of welcome. Soft warm golden light, open and inviting mood. Medium shot from slightly above, capturing the vastness of the desert landscape. Warm beige, golden, and sandy palette with the red sash as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure' -> 'the man in the green cloak'"
+    ]
+  }
+}

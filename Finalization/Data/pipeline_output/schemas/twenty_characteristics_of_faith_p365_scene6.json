@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 3,
+    "scene_summary": "Suwayd ibn al- Ḥārith looks puzzled, unsure of the Prophet's message",
+    "key_visual_action": "Suwayd ibn al- Ḥārith tilting his head",
+    "characters_present": [
+      "The Prophet",
+      "Suwayd ibn al- Ḥārith"
+    ],
+    "setting": "A simple desert tent",
+    "emotional_tone": "Confused and inquisitive",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 3,
+    "scene_summary": "Suwayd ibn al- Ḥārith looks puzzled, unsure of the Prophet's message",
+    "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 365",
+    "moral_lesson": "Importance of questioning and seeking knowledge",
+    "characters": [
+      {
+        "id": "1",
+        "name": "The central figure",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "2",
+        "name": "Suwayd ibn al- Ḥārith",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "young man with a slender build, wearing a plain brown woolen cloak and a white cloth head covering, with a hint of a puzzled expression"
+      }
+    ],
+    "narrative_text": "The Prophet shared a message with Suwayd ibn al- Ḥārith, but he looked puzzled and unsure.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A simple 7th century desert tent with woven goat-hair walls in a warm sandy beige color and a central support beam made of a sturdy palm tree branch. Late afternoon sunlight filters through the open flap on the right, casting warm rays across the interior of the tent. In the center of the tent, two figures sit facing each other on a low pile of cushions. On the left, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture. On the right, a young man with a slender build, wearing a plain brown woolen cloak and a white cloth head covering, sits in a puzzled posture - head tilted slightly to one side, eyes looking upwards, one hand raised to his forehead in a questioning gesture. Soft warm golden light, intimate and inquisitive mood. Medium close shot at eye level. Warm beige, golden, and deep green palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'young man' -> 'young figure'"
+    ]
+  }
+}

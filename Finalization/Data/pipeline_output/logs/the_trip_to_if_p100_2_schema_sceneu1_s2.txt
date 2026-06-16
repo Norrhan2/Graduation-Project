@@ -1,0 +1,14 @@
+{
+  "scene_title": "The Prophet's Peril in Taif",
+  "era": "late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 100",
+  "moral_lesson": "Courage in the face of adversity",
+  "characters": [
+    {"id": "Prophet Muhammad", "name": "the central figure", "role": "prophet", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "teenagers", "name": "angry youths", "role": "antagonist", "depiction_rule": "NO_SPECIFIC", "appearance": "slender builds, angry postures, wearing simple white thobes"},
+    {"id": "servants", "name": "frightened servants", "role": "supporting", "depiction_rule": "NO_SPECIFIC", "appearance": "slender builds, frightened postures, wearing simple white thobes"}
+  ],
+  "narrative_text": "As the Prophet Muhammad walked through the marketplace in Taif, the crowd turned against him, chasing and stoning him with sticks and stones. The Prophet ran for his life, but the crowd was relentless.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "NEEDS_REVIEW", "notes": "The scene is intense, but the focus is on the Prophet's courage and the crowd's aggression, rather than graphic violence."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Bustling marketplace in a 7th century Taif with unpainted mud-brick stalls in warm earth tones and a packed-earth floor partly covered by a woven palm-fiber mat. Late afternoon golden sunlight casts long shadows across the market, but the atmosphere is tense and foreboding. In the center of the scene, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, running swiftly through the crowd with a determined expression. The crowd surrounds him: angry youths, slender and agitated, throwing sticks and stones, while frightened servants, equally slender, cower in the background, covering their faces. Soft warm golden light, chaotic and intense mood. Medium shot, slightly elevated angle. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

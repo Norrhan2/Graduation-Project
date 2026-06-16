@@ -1,0 +1,72 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Surāqah Spots the Prophet",
+    "unit_text": "Surāqah ibn Mālik spots the Prophet and his companion and realizes the opportunity of winning the reward.",
+    "main_characters": ["Surāqah ibn Mālik", "The Prophet"],
+    "event_summary": "Surāqah spots the Prophet and sees an opportunity to win a reward."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Surāqah Distracts His Tribe",
+    "unit_text": "Surāqah tells his tribe that he has seen the Prophet's group chasing a stray camel to prevent others from joining him in chasing the Prophet.",
+    "main_characters": ["Surāqah ibn Mālik", "The Prophet's tribe"],
+    "event_summary": "Surāqah distracts his tribe to prevent them from joining him in chasing the Prophet."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Surāqah Prepares to Chase the Prophet",
+    "unit_text": "Surāqah orders his servant to prepare his horse and meets him outside the tribe's encampment, then takes his spear and sword and rides fast to catch up with the Prophet.",
+    "main_characters": ["Surāqah ibn Mālik", "His servant"],
+    "event_summary": "Surāqah prepares to chase the Prophet and rides after him."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Surāqah's First Attempt Fails",
+    "unit_text": "Surāqah's horse tumbles and he falls down, but he persists and rides on.",
+    "main_characters": ["Surāqah ibn Mālik"],
+    "event_summary": "Surāqah's first attempt to catch the Prophet fails when his horse tumbles."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Surāqah's Second Attempt Fails",
+    "unit_text": "Surāqah's horse tumbles again, but he rides on.",
+    "main_characters": ["Surāqah ibn Mālik"],
+    "event_summary": "Surāqah's second attempt to catch the Prophet fails when his horse tumbles again."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Surāqah's Third Attempt Fails",
+    "unit_text": "Surāqah's horse's front legs sink into the sand and he falls down, but he sees a column of smoke and realizes he cannot overpower the Prophet.",
+    "main_characters": ["Surāqah ibn Mālik"],
+    "event_summary": "Surāqah's third attempt to catch the Prophet fails when his horse sinks into the sand."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Surāqah Surrenders",
+    "unit_text": "Surāqah shouts to the Prophet and asks him to stop, promising not to harm him, and the Prophet agrees to write him a note as a token of recognition.",
+    "main_characters": ["Surāqah ibn Mālik", "The Prophet"],
+    "event_summary": "Surāqah surrenders and asks the Prophet to write him a note of recognition."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Surāqah's Note",
+    "unit_text": "Surāqah takes the note from Abū Bakr and uses it to gain access to the Prophet during the conquest of Makkah.",
+    "main_characters": ["Surāqah ibn Mālik", "Abū Bakr"],
+    "event_summary": "Surāqah takes the note from Abū Bakr and uses it to gain access to the Prophet."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "Surāqah's Return",
+    "unit_text": "Surāqah returns home and meets people who are chasing in the same direction, telling them that the Prophet does not go that way.",
+    "main_characters": ["Surāqah ibn Mālik"],
+    "event_summary": "Surāqah returns home and tells others that the Prophet does not go in that direction."
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "The Promise Fulfilled",
+    "unit_text": "ʿUmar, the second Caliph, gives Surāqah Khosaru's bracelets to wear, fulfilling the Prophet's promise.",
+    "main_characters": ["ʿUmar", "Surāqah ibn Mālik"],
+    "event_summary": "ʿUmar fulfills the Prophet's promise to Surāqah by giving him Khosaru's bracelets."
+  }
+]

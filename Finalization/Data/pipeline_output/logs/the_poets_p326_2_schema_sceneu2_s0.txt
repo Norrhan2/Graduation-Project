@@ -1,0 +1,24 @@
+{
+  "scene_number": 1,
+  "scene_summary": "A poet is introduced, pondering the call of Islam.",
+  "era": "pre_prophetic",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 326",
+  "moral_lesson": "The importance of reflection and contemplation when faced with new ideas and challenges.",
+  "characters": [
+    {
+      "id": "The Poet",
+      "name": "The Poet",
+      "role": "antagonist",
+      "depiction_rule": "FULL",
+      "appearance": "A slender, middle-aged man with a thoughtful expression, wearing a simple white thobe and a pair of spectacles perched on the end of his nose. His dark hair is flecked with grey, and he has a short beard."
+    }
+  ],
+  "narrative_text": "The poet sat in his quiet study, surrounded by dusty scrolls and parchments. He stared at the words 'La ilaha illallah' (There is no god but Allah) scrawled on a piece of parchment in front of him. He pondered the meaning of these words, and wondered if they might be the answer to the questions that had been weighing on his mind.",
+  "compliance": {
+    "prophet_check": "NOT_PRESENT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A quiet, dimly lit study or library with worn wooden bookshelves and a low wooden desk in the center of the room. Late afternoon sun casts a warm glow through a small window high above the desk. The poet sits at the desk, his slender figure hunched over a piece of parchment on a wooden writing surface. His eyes are cast downward, a thoughtful expression on his face, as he contemplates the words 'La ilaha illallah' written in elegant calligraphy. A pair of spectacles perched on the end of his nose, and a simple white thobe with a small white cloth head covering. Soft warm golden light, intimate and contemplative mood. Medium close shot at eye level. Warm beige, cream, and golden palette with the poet's white thobe as a color anchor. No modern objects, historically accurate 7th century scene."

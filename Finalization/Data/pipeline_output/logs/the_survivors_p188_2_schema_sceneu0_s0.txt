@@ -1,0 +1,32 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Two friends, ʿAmr ibn Umayyah and al-Mundhir ibn Muḥammad, notice a large number of birds concentrating on the spot where they left their people.",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 188",
+  "moral_lesson": "Curiosity and observation can lead to discovery and learning.",
+  "characters": [
+    {
+      "id": "amr_ibn_umayyah",
+      "name": "ʿAmr ibn Umayyah",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "tall and slender build, wearing a beige thobe and a light brown woolen cloak with a white cloth head covering, turned towards the scene with an inquiring expression"
+    },
+    {
+      "id": "al_mundhir_ibn_muhammad",
+      "name": "al-Mundhir ibn Muḥammad",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, wearing a white thobe and a dark brown woolen cloak with a white cloth head covering, slightly turned away with a thoughtful expression"
+    }
+  ],
+  "narrative_text": "ʿAmr and al-Mundhir noticed a large number of birds flying and perching on the ground. They wondered what had attracted the birds to this spot.",
+  "compliance": {
+    "prophet_check": "None",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": "Historically accurate depiction of the Arabian Desert environment and clothing of the time."
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A wide open desert plain with soft golden sandy dunes and scattered rock outcroppings, late afternoon sunlight casting long shadows across the scene. In the distance, a small group of birds fly in unison, while others perch on the ground nearby. Two figures stand facing each other, seen entirely from behind: ʿAmr ibn Umayyah, medium build, dignified upright posture, wearing a beige thobe and a light brown woolen cloak with a white cloth head covering, turned towards the scene; and al-Mundhir ibn Muḥammad, medium build, wearing a white thobe and a dark brown woolen cloak with a white cloth head covering, slightly turned away. Soft warm golden light, expansive and curious mood. Wide landscape shot at eye level. Warm beige, golden, and sandy palette with accents of dark brown and light brown. No modern objects, historically accurate 7th century scene."
+}

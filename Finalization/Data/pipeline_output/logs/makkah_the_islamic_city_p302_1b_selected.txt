@@ -1,0 +1,48 @@
+[
+  {
+    "unit_number": 2,
+    "unit_title": "The Prophet's Arrival at the Ka'bah",
+    "unit_text": "The Prophet arrives at the Ka'bah, touches the Black Stone, and proclaims 'Allah-u-Akbar'.",
+    "main_characters": [
+      "The Prophet"
+    ],
+    "event_summary": "The Prophet arrives at the Ka'bah and declares his presence.",
+    "selection_reason": "Clear visual moment of the Prophet's arrival and declaration of presence.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Prophet Performs Tawaf",
+    "unit_text": "The Prophet performs tawaf on his she-camel, touching the Black Stone with his stick after each round.",
+    "main_characters": [
+      "The Prophet"
+    ],
+    "event_summary": "The Prophet performs tawaf around the Ka'bah.",
+    "selection_reason": "Meaningful lesson on the importance of tawaf and a clear visual moment of the Prophet performing the ritual.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Prophet's Visit to Zamzam",
+    "unit_text": "The Prophet drinks water from Zamzam and renews his ablutions, with the Muslims competing to gather water from his face and hands.",
+    "main_characters": [
+      "The Prophet",
+      "Muslims"
+    ],
+    "event_summary": "The Prophet visits Zamzam and renews his ablutions.",
+    "selection_reason": "Distinctive and engaging visual moment of the Prophet's interaction with the Muslims.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Prophet Opens the Ka'bah",
+    "unit_text": "The Prophet calls 'Uthman ibn Talhah, who opens the Ka'bah for the Prophet, who then prays two rak'ahs inside.",
+    "main_characters": [
+      "The Prophet",
+      "'Uthman ibn Talhah"
+    ],
+    "event_summary": "The Prophet opens the Ka'bah and prays inside.",
+    "selection_reason": "Clear visual moment of the Prophet opening the Ka'bah and praying inside.",
+    "estimated_scenes": 2
+  }
+]

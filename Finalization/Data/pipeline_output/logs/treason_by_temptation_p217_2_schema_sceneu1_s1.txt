@@ -1,0 +1,14 @@
+{
+  "scene_number": 2,
+  "scene_title": "Ḥuyayy's Provocation",
+  "era": "late_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 217",
+  "moral_lesson": "Patience and self-control in the face of provocation",
+  "characters": [
+    {"id": "Ḥuyayy", "name": "Ḥuyayy ibn Akhṭab", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "tall build, confident posture, wearing a dark brown thobe and plain beige woolen cloak with a red cloth head covering"},
+    {"id": "Ka ʿ b", "name": "Ka ʿ b ibn Asad", "role": "sahabi", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, upright posture, wearing a light brown thobe and plain beige woolen cloak with a white cloth head covering"}
+  ],
+  "narrative_text": "Ḥuyayy ibn Akhṭab was known for his insults and provocations. He tried to get Ka ʿ b ibn Asad to let him in by insulting him. Ka ʿ b stood firm and did not let Ḥuyayy in.",
+  "compliance": {"prophet_check": "NOT_PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "No graphic violence or idols"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Exterior of a modest 7th century Makkah home with unpainted mud-brick walls in warm earth tones and a packed-earth courtyard. Late afternoon golden sunlight casts warm rays across the scene. Two figures stand facing each other in the courtyard. On the left, Ḥuyayy ibn Akhṭab, seen entirely from behind: tall build, confident posture, wearing a dark brown thobe and plain beige woolen cloak with a red cloth head covering, shouting insults with one arm raised and fist clenched. On the right, Ka ʿ b ibn Asad: medium build, upright posture, seen from behind, wearing a light brown thobe and plain beige woolen cloak with a white cloth head covering, standing firm with crossed arms. Soft warm golden light, tense and confrontational mood. Medium shot from slightly above. Warm sand, beige, and golden palette with the red cloth head covering as a color anchor. No modern objects, historically accurate 7th century scene."

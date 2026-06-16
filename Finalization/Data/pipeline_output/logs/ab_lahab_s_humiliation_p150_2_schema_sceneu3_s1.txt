@@ -1,0 +1,15 @@
+{
+  "scene_number": 2,
+  "scene_summary": "Umm al-Faḍl intervenes and hits Abū Lahab.",
+  "era": "madinah_early",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 150",
+  "moral_lesson": "Standing up for what is right and protecting others.",
+  "characters": [
+    {"id":"Umm_al_Faḍl","name":"Umm al-Faḍl","role":"sahabi","depiction_rule":"NO_FACE","appearance":"medium build, dignified upright posture, wearing a long-sleeved blue jilbab and a khimar covering her hair, a white cloth headscarf tied under her chin"},
+    {"id":"Abū_Lahab","name":"Abū Lahab","role":"antagonist","depiction_rule":"NO_FACE","appearance":"stocky build, wearing a coarse brown thobe and a woolen cloak with a dark brown turban"},
+    {"id":"Abū_Rāfiʿ","name":"Abū Rāfiʿ","role":"supporting","depiction_rule":"NO_FACE","appearance":"slender build, wearing a simple white thobe and a plain brown turban"}
+  ],
+  "narrative_text": "Umm al-Faḍl saw Abū Lahab hurting Abū Rāfiʿ and stood up to defend him.",
+  "compliance": {"prophet_check":"NOT_PRESENT","modesty_check":"COMPLIANT","child_safe":"APPROPRIATE","notes":"Historical accuracy and modesty ensured."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Bustling 7th century Medina marketplace with merchants and traders walking in the background, a mix of earthy tones and vibrant colors. Late afternoon sunlight casts warm rays across the scene, illuminating the cobblestone street and the stalls selling goods. In the center, a woman, Umm al-Faḍl, stands up to a man, Abū Lahab, her hand raised in defense of a young man, Abū Rāfiʿ. The woman wears a long-sleeved blue jilbab and a khimar covering her hair, a white cloth headscarf tied under her chin. The man, Abū Lahab, has his back turned to Umm al-Faḍl, wearing a coarse brown thobe and a woolen cloak with a dark brown turban. Abū Rāfiʿ stands between them, wearing a simple white thobe and a plain brown turban. The atmosphere is tense, yet determined. Medium shot at eye level. Earthy tones, blues, and whites dominate the palette, with the woman's jilbab as a color anchor. No modern objects, historically accurate 7th century scene."

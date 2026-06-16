@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Sa ʿ d ibn Mu ʿādh reads the agreement",
+    "key_visual_action": "Sa ʿ d ibn Mu ʿādh holding a scroll or parchment",
+    "characters_present": ["Sa ʿ d ibn Mu ʿādh"],
+    "setting": "A meeting room or a gathering place",
+    "emotional_tone": "Serious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Sa ʿ d ibn Mu ʿādh rejects the agreement",
+    "key_visual_action": "Sa ʿ d ibn Mu ʿādh shaking his head or crossing his arms",
+    "characters_present": ["Sa ʿ d ibn Mu ʿādh"],
+    "setting": "A meeting room or a gathering place",
+    "emotional_tone": "Determined",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Sa ʿ d ibn Mu ʿādh erases the writing",
+    "key_visual_action": "Sa ʿ d ibn Mu ʿādh holding a writing instrument and erasing the text",
+    "characters_present": ["Sa ʿ d ibn Mu ʿādh"],
+    "setting": "A meeting room or a gathering place",
+    "emotional_tone": "Resolute",
+    "time_of_day": "afternoon"
+  }
+]

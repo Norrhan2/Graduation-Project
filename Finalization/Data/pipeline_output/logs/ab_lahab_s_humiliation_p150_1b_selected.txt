@@ -1,0 +1,50 @@
+[
+  {
+    "unit_number": 2,
+    "unit_title": "The Quraysh's Defeat at Badr",
+    "unit_text": "The Quraysh were soundly beaten by a force one-third their size and inferior in equipment, leading to a great humiliation.",
+    "main_characters": [
+      "Quraysh"
+    ],
+    "event_summary": "The Quraysh were defeated at Badr, suffering a great humiliation.",
+    "selection_reason": "Clear visual moment of a battle, and a meaningful lesson about the power of faith and determination.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Abū Lahab's Conversation at Zamzam",
+    "unit_text": "Abū Lahab asked al-Mughīrah about the Quraysh's defeat, and al-Mughīrah replied that the Muslims were aided by angels.",
+    "main_characters": [
+      "Abū Lahab",
+      "al-Mughīrah",
+      "Abū Rāfi ʿ"
+    ],
+    "event_summary": "Abū Lahab asked al-Mughīrah about the Quraysh's defeat, and al-Mughīrah attributed it to the aid of angels.",
+    "selection_reason": "Interesting conversation and a meaningful lesson about faith and the power of angels.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Abū Lahab's Outburst",
+    "unit_text": "Abū Lahab became furious when Abū Rāfi ʿ identified the angels, and he hit Abū Rāfi ʿ in the face.",
+    "main_characters": [
+      "Abū Lahab",
+      "Abū Rāfi ʿ"
+    ],
+    "event_summary": "Abū Lahab became furious and hit Abū Rāfi ʿ in the face.",
+    "selection_reason": "Clear visual moment of a dramatic outburst, and a meaningful lesson about the consequences of anger.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Umm al-Faḍl's Intervention",
+    "unit_text": "Umm al-Faḍl intervened and hit Abū Lahab, cutting his head badly, after he hit Abū Rāfi ʿ.",
+    "main_characters": [
+      "Umm al-Faḍl",
+      "Abū Lahab"
+    ],
+    "event_summary": "Umm al-Faḍl intervened and hit Abū Lahab, cutting his head badly.",
+    "selection_reason": "Interesting and empowering moment for a female character, and a meaningful lesson about standing up for oneself.",
+    "estimated_scenes": 2
+  }
+]

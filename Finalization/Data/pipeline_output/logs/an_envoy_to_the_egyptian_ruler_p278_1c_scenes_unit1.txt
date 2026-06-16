@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Ḥāṭib sets out on his journey to Egypt",
+    "key_visual_action": "Ḥāṭib walking away from the city",
+    "characters_present": ["Ḥāṭib ibn Abī Balta ʿ ah"],
+    "setting": "Desert landscape",
+    "emotional_tone": "determined",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Ḥāṭib meets with al-Muqawqis in his throne room",
+    "key_visual_action": "Ḥāṭib presenting the letter to al-Muqawqis",
+    "characters_present": ["Ḥāṭib ibn Abī Balta ʿ ah", "al-Muqawqis"],
+    "setting": "Egyptian throne room",
+    "emotional_tone": "serious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Ḥāṭib warns al-Muqawqis of the consequences of rejecting a prophet",
+    "key_visual_action": "Ḥāṭib pointing to the letter, looking stern",
+    "characters_present": ["Ḥāṭib ibn Abī Balta ʿ ah", "al-Muqawqis"],
+    "setting": "Egyptian throne room",
+    "emotional_tone": "authoritative",
+    "time_of_day": "afternoon"
+  }
+]

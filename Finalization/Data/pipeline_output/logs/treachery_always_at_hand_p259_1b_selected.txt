@@ -1,0 +1,39 @@
+[
+  {
+    "unit_number": 2,
+    "unit_title": "The Prophet's Response",
+    "unit_text": "The Prophet sends 30 companions, led by ʿ Abdullāh ibn Rawāḥah, to persuade Usayr to adopt a more peaceful approach.",
+    "main_characters": [
+      "The Prophet",
+      "ʿ Abdullāh ibn Rawāḥah",
+      "Usayr ibn Rizām"
+    ],
+    "event_summary": "The Prophet sends a delegation to persuade Usayr to adopt a more peaceful approach.",
+    "selection_reason": "Clear visual moment of the Prophet sending a delegation and the potential for a meaningful lesson on peaceful resolution.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Meeting at Khaybar",
+    "unit_text": "ʿ Abdullāh ibn Rawāḥah and his men meet with Usayr at Khaybar, agreeing to exchange pledges of security and safety.",
+    "main_characters": [
+      "ʿ Abdullāh ibn Rawāḥah",
+      "Usayr ibn Rizām"
+    ],
+    "event_summary": "ʿ Abdullāh ibn Rawāḥah and Usayr agree to exchange pledges of security and safety.",
+    "selection_reason": "Visual moment of the meeting and the potential for a lesson on trust and agreements.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Usayr's Betrayal",
+    "unit_text": "Usayr tries to assassinate ʿ Abdullāh ibn Rawāḥah, but is killed instead.",
+    "main_characters": [
+      "ʿ Abdullāh ibn Rawāḥah",
+      "Usayr ibn Rizām"
+    ],
+    "event_summary": "Usayr attempts to assassinate ʿ Abdullāh ibn Rawāḥah, but is killed instead.",
+    "selection_reason": "Clear visual moment of the betrayal and the potential for a lesson on consequences of actions.",
+    "estimated_scenes": 3
+  }
+]

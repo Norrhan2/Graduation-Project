@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Ṭālib is approached by the people of Mecca, demanding he stop protecting Prophet Muhammad.",
+    "key_visual_action": "Abū Ṭālib standing with his hands raised, surrounded by angry people",
+    "characters_present": ["Abū Ṭālib", "People of Mecca"],
+    "setting": "Marketplace in Mecca",
+    "emotional_tone": "Anxious",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Abū Ṭālib looks worried as he thinks about pleasing his people versus protecting his nephew.",
+    "key_visual_action": "Abū Ṭālib's worried expression, with Prophet Muhammad in the background",
+    "characters_present": ["Abū Ṭālib", "Prophet Muhammad"],
+    "setting": "Abū Ṭālib's home",
+    "emotional_tone": "Sad",
+    "time_of_day": "Evening"
+  }
+]

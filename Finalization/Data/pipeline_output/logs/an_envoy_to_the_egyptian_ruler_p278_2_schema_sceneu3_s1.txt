@@ -1,0 +1,32 @@
+{
+  "scene_number": 2,
+  "scene_title": "Ḥāṭib Reports His Conversation with al-Muqawqis",
+  "era": "madinah_early",
+  "region": "madinah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 278",
+  "moral_lesson": "Importance of perseverance and seeking knowledge",
+  "characters": [
+    {
+      "id": "Ḥāṭib ibn Abī Balṭah",
+      "name": "Ḥāṭib ibn Abī Balṭah",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE|FROM_BEHIND|SILHOUETTE|FULL",
+      "appearance": "medium build, dignified upright posture, wearing a simple white thobe and a plain brown woolen cloak with a white cloth head covering"
+    },
+    {
+      "id": "Muhammad",
+      "name": "the Prophet",
+      "role": "prophet",
+      "depiction_rule": "NO_FACE|FROM_BEHIND",
+      "appearance": "the central figure, medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    }
+  ],
+  "narrative_text": "Ḥāṭib ibn Abī Balṭah reported to the Prophet about his conversation with al-Muqawqis, the ruler of Alexandria, who promised to send a delegation to support the Prophet.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A simple 7th century room in Madinah with unpainted mud-brick walls in warm earth tones and a packed-earth floor partly covered by a woven palm-fiber mat. Soft evening sunlight streams through an open wooden window on the left, casting warm rays across the room. In the center sits a cushion on the floor, and on it sits the Prophet, dressed in his traditional attire, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. Beside him stands Ḥāṭib ibn Abī Balṭah, a slender older man with slightly stooped shoulders, wearing an off-white thobe and a plain brown woolen cloak with a white cloth head covering. Ḥāṭib is speaking to the Prophet with a serious expression, his mouth slightly open as if sharing a story. Soft warm golden light, intimate and solemn mood. Medium shot from slightly above. Warm beige, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

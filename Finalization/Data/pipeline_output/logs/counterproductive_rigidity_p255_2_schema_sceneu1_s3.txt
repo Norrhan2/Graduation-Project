@@ -1,0 +1,14 @@
+{
+  "scene_number": 4,
+  "scene_title": "Abū Buṣayr Returns Safe and Sound",
+  "era": "madinah_early",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 255",
+  "moral_lesson": "The importance of perseverance and trust in Allah's plan",
+  "characters": [
+    {"id": "1", "name": "Abū Buṣayr", "role": "sahabi", "depiction_rule": "FULL", "appearance": "young man with a lean build, wearing a light brown thobe and a white cloth head covering, smiling broadly"},
+    {"id": "2", "name": "The Prophet", "role": "prophet", "depiction_rule": "NO_FACE", "appearance": "the central figure seen from behind, medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle welcoming gesture"}
+  ],
+  "narrative_text": "Abū Buṣayr, a companion of the Prophet, had been sent on a mission to gather information. He returns to the Prophet in Madinah, safe and sound, bringing good news.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Exterior of a 7th century Madinah home with unpainted mud-brick walls in warm earth tones and a packed-earth floor partly covered by a woven palm-fiber mat. Warm golden evening sunlight casts long shadows across the room. The door, adorned with intricate wooden carvings, is slightly ajar, revealing a glimpse of the Prophet's faceless form standing in the doorway, turned slightly to the right. In the center of the room, Abū Buṣayr stands with his arms open wide, beaming with joy, wearing a light brown thobe and a white cloth head covering. Soft warm golden light, intimate and welcoming mood. Medium shot at eye level. Earthy brown, beige, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

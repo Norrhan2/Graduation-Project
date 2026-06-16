@@ -1,0 +1,15 @@
+{
+  "scene_number": 2,
+  "scene_title": "The Prophet Listens and Reassures",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 217",
+  "moral_lesson": "Importance of listening and providing reassurance",
+  "characters": [
+    {"id": "1", "name": "The Prophet", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "2", "name": "Sa ʿ d ibn Mu ʿādh", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "slender build, wearing a beige thobe and a plain brown woolen cloak with a white cloth head covering"},
+    {"id": "3", "name": "Sa ʿ d ibn ʿ Ubādah", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "slender build, wearing a beige thobe and a plain brown woolen cloak with a white cloth head covering"}
+  ],
+  "narrative_text": "The Prophet Muhammad listened calmly to the delegation's report, reassuring the Muslims with his gentle words.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene and open desert landscape with a few palm trees in the background, under a clear blue sky with a few white clouds. The sun is high in the sky, casting a warm golden light across the scene. In the foreground, a makeshift meeting area with a simple mat made of woven palm fibers, partially shaded by a large piece of fabric draped over a wooden frame. Three figures sit on the mat: the central figure seen entirely from behind, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, sits calmly and gently, with a reassuring expression. On either side of the central figure, two men with their faces turned away, one wearing a beige thobe and a plain brown woolen cloak with a white cloth head covering, the other wearing a similar outfit. The men on the sides look relieved, while the central figure listens attentively. Soft warm golden light, peaceful and serene mood. Medium close shot at eye level. Warm beige, golden, and green palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

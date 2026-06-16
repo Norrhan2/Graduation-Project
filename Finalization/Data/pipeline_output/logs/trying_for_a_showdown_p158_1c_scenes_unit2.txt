@@ -1,0 +1,38 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet receives news of the situation",
+    "key_visual_action": "Prophet receiving a messenger or a letter",
+    "characters_present": ["Prophet"],
+    "setting": "A quiet, private space (e.g. home, mosque)",
+    "emotional_tone": "Concerned",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet decides to intervene",
+    "key_visual_action": "Prophet's determined expression or gesture",
+    "characters_present": ["Prophet"],
+    "setting": "A quiet, private space (e.g. home, mosque)",
+    "emotional_tone": "Determined",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet arrives at the Qaynuqāʿ tribe's gathering",
+    "key_visual_action": "Prophet walking towards the crowd or a dramatic entrance",
+    "characters_present": ["Prophet", "Notables of the Qaynuqāʿ tribe"],
+    "setting": "A public space (e.g. market, town square)",
+    "emotional_tone": "Calm and authoritative",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "The Prophet calls for the notables to gather",
+    "key_visual_action": "Prophet raising his hands or voice to get attention",
+    "characters_present": ["Prophet", "Notables of the Qaynuqāʿ tribe"],
+    "setting": "A public space (e.g. market, town square)",
+    "emotional_tone": "Calm and authoritative",
+    "time_of_day": "afternoon"
+  }
+]

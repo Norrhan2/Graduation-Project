@@ -1,0 +1,15 @@
+{
+  "scene_number": 2,
+  "scene_summary": "Ḥāṭib meets with al-Muqawqis in his throne room",
+  "era": "pre_prophetic",
+  "region": "egypt_ancient",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 278",
+  "moral_lesson": "Importance of diplomacy and representation",
+  "characters": [
+    {"id": "Ḥāṭib ibn Abī Balta ʿ ah", "name": "Ḥāṭib", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a simple white thobe and a brown woolen cloak with a white cloth head covering"},
+    {"id": "al-Muqawqis", "name": "al-Muqawqis", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "tall, imposing figure, wearing a richly embroidered golden cloak and a crown, with a sceptre in his hand"}
+  ],
+  "narrative_text": "Ḥāṭib, a trusted companion of the Prophet, traveled to Egypt to meet with the Byzantine ruler, al-Muqawqis. He presented a letter from the Prophet, seeking al-Muqawqis' aid in the struggle against the Quraysh.",
+  "compliance": {"prophet_check": "NOT_PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "Historical accuracy maintained"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A grand Egyptian throne room with marble walls in soft cream and pale blue hues, and a high vaulted ceiling adorned with intricate gold filigree. Late afternoon sunlight streams through large windows on the left, casting a warm glow across the room. In the center, a majestic throne sits on a raised platform, with al-Muqawqis, the central figure seen entirely from behind, wearing a richly embroidered golden cloak and a crown, with a sceptre in his hand, and a look of seriousness on his face. Before him, Ḥāṭib, a slender man with slightly stooped shoulders, wearing a simple white thobe and a brown woolen cloak with a white cloth head covering, stands with a letter in his hand, presenting it to al-Muqawqis with a respectful gesture. Soft warm golden light, formal and dignified mood. Medium shot at eye level. Cool blue, cream, and gold palette with the golden cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

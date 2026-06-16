@@ -1,0 +1,13 @@
+{
+  "scene_title": "The Prophet's Unexpected Discovery",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 265",
+  "moral_lesson": "The importance of being mindful of others' feelings and actions",
+  "characters": [
+    {"id": "1", "name": "The Prophet", "role": "prophet", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "2", "name": "Bilal", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, wearing a simple brown thobe and a plain white cloth head covering"}
+  ],
+  "narrative_text": "The Prophet had asked Bilal to take Ṣafiyyah to a special place. But when he saw them approaching, he was shocked to discover that it was a burial site.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "The scene is respectful and free from graphic content."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A desolate 7th century burial site in the Arabian Desert, with undulating sand dunes in the background and a cluster of weathered palm trees on the left. Late afternoon sunlight casts a warm golden glow across the scene, with a few wispy clouds drifting lazily in the sky. In the center of the image, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, visible shock and surprise on his face. Behind him, a slender older man with medium build, wearing a simple brown thobe and a plain white cloth head covering, stands with his back straight and his hands clasped together, leading a young woman, Ṣafiyyah, who walks beside him with her head covered in a simple white khimar and her hands folded in her lap. Soft warm golden light, a sense of quiet reverence and surprise. Medium shot at eye level. Warm beige, golden, and sand palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

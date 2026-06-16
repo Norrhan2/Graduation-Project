@@ -1,0 +1,27 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Rāfi ʿ identifies the angels to Abū Lahab.",
+    "key_visual_action": "Abū Rāfi ʿ pointing to the angels",
+    "characters_present": [
+      "Abū Lahab",
+      "Abū Rāfi ʿ",
+      "Angels"
+    ],
+    "setting": "Inside the house",
+    "emotional_tone": "Surprise",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Abū Lahab hits Abū Rāfi ʿ in the face.",
+    "key_visual_action": "Abū Lahab's raised fist",
+    "characters_present": [
+      "Abū Lahab",
+      "Abū Rāfi ʿ"
+    ],
+    "setting": "Inside the house",
+    "emotional_tone": "Anger",
+    "time_of_day": "afternoon"
+  }
+]

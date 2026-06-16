@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The young men of Salamah gather around ʿAmr's idol, preparing to destroy it.",
+    "key_visual_action": "Young men holding ropes, looking determined",
+    "characters_present": ["Young men of Salamah", "ʿAmr ibn al-Jamūḥ"],
+    "setting": "Desert or a sandy area",
+    "emotional_tone": "Determined",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The young men tie ʿAmr's idol to a dead dog, symbolizing its worthlessness.",
+    "key_visual_action": "Young man tying rope around idol, another holding dead dog",
+    "characters_present": ["Young men of Salamah", "ʿAmr ibn al-Jamūḥ"],
+    "setting": "Desert or a sandy area",
+    "emotional_tone": "Humorous",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The young men throw ʿAmr's idol into a well, making ʿAmr realize its uselessness.",
+    "key_visual_action": "Young men throwing idol into well, ʿAmr looking on",
+    "characters_present": ["Young men of Salamah", "ʿAmr ibn al-Jamūḥ"],
+    "setting": "Well or a rocky area",
+    "emotional_tone": "Triumphant",
+    "time_of_day": "Afternoon"
+  }
+]

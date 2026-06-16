@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet Muhammad looks at the Khawlān Delegation with a gentle yet firm expression.",
+    "key_visual_action": "Prophet Muhammad's gaze",
+    "characters_present": ["Prophet Muhammad", "Khawlān Delegation"],
+    "setting": "A desert or open area, possibly near the idol",
+    "emotional_tone": "Serious",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet Muhammad points to the idol, explaining that Satan was speaking to them through it.",
+    "key_visual_action": "Prophet Muhammad's pointing gesture",
+    "characters_present": ["Prophet Muhammad", "Khawlān Delegation"],
+    "setting": "A desert or open area, possibly near the idol",
+    "emotional_tone": "Authoritative",
+    "time_of_day": "Afternoon"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "scene_title": "ʿĀṣim ibn Thābit's bravery at the Battle of Uḥud",
+  "era": "pre_prophetic|early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 186",
+  "moral_lesson": "Standing up for one's faith in the face of adversity",
+  "characters": [
+    {
+      "id": "1",
+      "name": "ʿĀṣim ibn Thābit",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, standing upright with sword raised, wearing a simple white thobe and brown woolen cloak"
+    }
+  ],
+  "narrative_text": "ʿĀṣim ibn Thābit stood strong and brave on the battlefield of Uḥud, defending himself against two non-believing brothers.",
+  "compliance": {
+    "prophet_check": "NOT_APPLICABLE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. The chaotic battlefield of Uḥud in the late afternoon, with scattered palm trees and rocky outcrops in the background. The air is thick with dust and the sound of clashing steel fills the air. In the center of the image, ʿĀṣim ibn Thābit stands back-to-back with his sword raised, ready to defend himself against two non-believing brothers, shown in the background with their faces set in fierce determination. ʿĀṣim is dressed in a simple white thobe and brown woolen cloak, his stance confident and courageous. The sun beats down on the battlefield, casting long shadows across the dusty ground. Soft warm light, dramatic and intense mood. Medium shot from slightly above, showing ʿĀṣim's bravery and determination. Earthy palette with shades of brown, beige, and golden sand, evoking a sense of rugged battle-scarred terrain. No modern objects, historically accurate 7th century scene."

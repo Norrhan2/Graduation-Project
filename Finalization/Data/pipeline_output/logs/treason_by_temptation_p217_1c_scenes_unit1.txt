@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Ḥuyayy ibn Akhṭab approaches Ka ʿ b ibn Asad's home, looking for a way in.",
+    "key_visual_action": "Ḥuyayy knocking on the door",
+    "characters_present": ["Ḥuyayy ibn Akhṭab", "Ka ʿ b ibn Asad"],
+    "setting": "Ka ʿ b ibn Asad's home",
+    "emotional_tone": "curiosity",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Ḥuyayy ibn Akhṭab insults Ka ʿ b ibn Asad to provoke him into admitting him into his home.",
+    "key_visual_action": "Ḥuyayy shouting insults at Ka ʿ b",
+    "characters_present": ["Ḥuyayy ibn Akhṭab", "Ka ʿ b ibn Asad"],
+    "setting": "outside Ka ʿ b ibn Asad's home",
+    "emotional_tone": "anger",
+    "time_of_day": "afternoon"
+  }
+]

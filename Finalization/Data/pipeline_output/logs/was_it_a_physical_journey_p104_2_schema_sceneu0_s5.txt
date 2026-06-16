@@ -1,0 +1,19 @@
+{
+  "scene_number": 6,
+  "scene_summary": "Muhammad and the Angel Jibril return to Makkah",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah|madinah_early|madinah_late",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 104",
+  "moral_lesson": "Trust in Allah's plan and timing",
+  "characters": [
+    {"id": "Muhammad", "name": "", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "Angel Jibril", "name": "", "role": "angel", "depiction_rule": "NO_FACE", "appearance": "wings spread wide, shining aura, flowing white robes"}
+  ],
+  "narrative_text": "Muhammad and the Angel Jibril descended back to Makkah after a journey, feeling relieved to be back home.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Above the city of Makkah, in a vast starry night sky, two figures descend in mid-air, surrounded by a soft ethereal glow. On the left, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, descending with gentle purpose. On the right, an angelic figure seen from behind, with outstretched wings spread wide, shining with a soft celestial aura, flowing white robes billowing in the wind. The city of Makkah lies below, a cluster of mud-brick houses and palm trees in the moonlight, with the sacred Kaaba at its center. Soft blue and starry night sky, with the deep green cloak as a color anchor. Medium shot, looking down from above. Warm blue and cream palette, with the gentle glow of the angel's aura adding a sense of wonder and peace. No modern objects, historically accurate 7th century scene."

@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Bakr hears the verse that changes his heart",
+    "key_visual_action": "Abū Bakr looking surprised and thoughtful",
+    "characters_present": ["Abū Bakr"],
+    "setting": "A quiet, contemplative space",
+    "emotional_tone": "Surprise and contemplation",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Abū Bakr decides to continue supporting Misṭaḥ",
+    "key_visual_action": "Abū Bakr extending his hand in support or shaking hands with Misṭaḥ",
+    "characters_present": ["Abū Bakr", "Misṭaḥ"],
+    "setting": "A public space, possibly a mosque or gathering area",
+    "emotional_tone": "Determination and loyalty",
+    "time_of_day": "afternoon"
+  }
+]

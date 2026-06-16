@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Ḥāṭib ibn Abī Balta ʿ ah receives the Prophet's letter from the Prophet Muhammad.",
+    "key_visual_action": "Ḥāṭib taking the letter from the Prophet's hand",
+    "characters_present": ["Ḥāṭib ibn Abī Balta ʿ ah", "Prophet Muhammad"],
+    "setting": "Medina",
+    "emotional_tone": "serious",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Ḥāṭib sets off on his journey to deliver the letter to al-Muqawqis in Egypt.",
+    "key_visual_action": "Ḥāṭib walking away from Medina, with the letter in hand",
+    "characters_present": ["Ḥāṭib ibn Abī Balta ʿ ah"],
+    "setting": "Desert road",
+    "emotional_tone": "determined",
+    "time_of_day": "afternoon"
+  }
+]

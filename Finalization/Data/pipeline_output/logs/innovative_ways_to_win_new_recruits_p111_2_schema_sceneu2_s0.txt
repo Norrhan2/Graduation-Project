@@ -1,0 +1,14 @@
+{
+  "scene_number": 1,
+  "scene_summary": "The young men of Salamah gather around ʿAmr's idol, preparing to destroy it.",
+  "era": "pre_islamic_prophets",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 111",
+  "moral_lesson": "The importance of rejecting idol worship and following the truth.",
+  "characters": [
+    {"id": "1", "name": "Young men of Salamah", "role": "supporting", "depiction_rule": "NO_FACE|FULL", "appearance": "slender build, youthful faces, wearing traditional desert clothing with white or light-colored tunics and loose-fitting pants, headscarves or simple head coverings."},
+    {"id": "2", "name": "ʿAmr ibn al-Jamūḥ", "role": "antagonist", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, wearing richly decorated dark-colored clothing with intricate patterns, a decorative belt, and a tall headscarf, holding a staff or a spear."}
+  ],
+  "narrative_text": "The young men of Salamah stood gathered around ʿAmr's idol, their faces determined to destroy it. They were ready to follow the truth and reject the false gods.",
+  "compliance": {"prophet_check": "NOT_PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "None"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, sandy desert landscape with sparse rocky outcroppings in the background, under a clear blue sky with a few wispy clouds. Late afternoon sunlight casts long shadows across the sandy ground. In the center of the scene, a group of young men, dressed in traditional desert clothing, stand in a semi-circle around a large, ornate idol, seen from behind. The central figure, ʿAmr ibn al-Jamūḥ, is wearing richly decorated dark-colored clothing with intricate patterns and holds a staff or spear in one hand. The young men are all seen from the front, with determined expressions, their hands gripping ropes or straps, ready to destroy the idol. Soft warm golden light, dramatic and intense mood. Medium shot from a slight angle, looking down on the scene. Earthy, beige, and golden palette with the dark colors of the idol and ʿAmr's clothing as a color anchor. No modern objects, historically accurate pre-Islamic scene."

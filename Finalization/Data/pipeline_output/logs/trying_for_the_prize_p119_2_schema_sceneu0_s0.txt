@@ -1,0 +1,25 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Surāqah ibn Mālik is riding his horse, scanning the horizon for any signs of the enemy.",
+  "era": "late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 119",
+  "moral_lesson": "Patience and vigilance are essential in times of uncertainty.",
+  "characters": [
+    {
+      "id": "sur_aqah_ibn_malik",
+      "name": "Surāqah ibn Mālik",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "young man, medium build, riding a brown horse with a flowing mane, wearing a simple beige thobe and a wide-brimmed hat to protect himself from the sun"
+    }
+  ],
+  "narrative_text": "As the sun rises over the vast desert landscape, Surāqah ibn Mālik rides his horse, scanning the horizon for any signs of the enemy. He is a brave warrior and a loyal companion of the Prophet Muhammad.",
+  "compliance": {
+    "prophet_check": "N/A",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast 7th century Arabian Desert landscape at sunrise, with a clear blue sky and a few wispy clouds. The sun's golden light casts long shadows across the sandy dunes, creating an air of serenity and calm. In the distance, a lone rider on a brown horse appears as a small figure, dressed in simple beige clothing and a wide-brimmed hat, with his face turned away from the viewer. The rider's horse is shown in detail, with a flowing mane and a determined expression. The composition is a medium shot from behind the rider, capturing the vastness of the desert landscape and the sense of freedom and adventure. Warm beige, sandy, and golden palette with accents of blue for the sky. No modern objects, historically accurate 7th century scene."
+}

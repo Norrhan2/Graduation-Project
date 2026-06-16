@@ -1,0 +1,13 @@
+{
+  "scene_title": "Abū Bakr confronts Misṭaḥ",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 211",
+  "moral_lesson": "Consequences of one's actions",
+  "characters": [
+    {"id":"abu_bakr","name":"Abū Bakr","role":"sahabi","depiction_rule":"NO_FACE","appearance":"medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id":"mistah","name":"Misṭaḥ ibn Athāthah","role":"antagonist","depiction_rule":"NO_FACE","appearance":"medium build, wearing a plain brown woolen cloak with a white cloth head covering"}
+  ],
+  "narrative_text": "Abū Bakr was unhappy with some of Misṭaḥ's actions. He wanted to remind him of the consequences of his mistakes.",
+  "compliance": {"prophet_check":"NONE","modesty_check":"COMPLIANT","child_safe":"APPROPRIATE","notes":""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene 7th century desert oasis with towering palm trees and a natural spring in the center. Late afternoon sunlight casts warm rays across the sandy ground and a few scattered rocks. In the distance, a few camels can be seen resting under the shade of a tree. Two figures stand facing each other near the spring. On the left, the man in the deep green cloak stands with his feet shoulder-width apart, his head held high, and a resolute expression. He points an accusing finger at the man on the right, who stands slightly hunched, wearing a plain brown cloak and a white cloth head covering. Soft warm golden light, a sense of tension and seriousness. Medium shot at eye level. Warm beige, sandy, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

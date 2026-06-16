@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿ Utbah returns to his people after meeting the Prophet",
+    "key_visual_action": "ʿ Utbah walking back to his people with a thoughtful expression",
+    "characters_present": ["ʿ Utbah ibn Rabīʿ ah"],
+    "setting": "Desert landscape with palm trees",
+    "emotional_tone": "Contemplative",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "ʿ Utbah advises his people to leave the Prophet alone",
+    "key_visual_action": "ʿ Utbah standing in front of his people, holding his hands up in a calming gesture",
+    "characters_present": ["ʿ Utbah ibn Rabīʿ ah", "ʿ Utbah's people"],
+    "setting": "Desert gathering with a makeshift tent",
+    "emotional_tone": "Resolute",
+    "time_of_day": "Afternoon"
+  }
+]

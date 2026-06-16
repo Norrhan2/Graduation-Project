@@ -1,0 +1,41 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "Abū Sufyān searches through the bodies, but can't find the Prophet's body, leading to a worried expression.",
+    "key_visual_action": "Abū Sufyān looking down at the bodies with a worried expression",
+    "characters_present": [
+      "Abū Sufyān"
+    ],
+    "setting": "Battlefield",
+    "emotional_tone": "Concerned",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_title": "Abū Sufyān's Worried Search",
+    "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah",
+    "region": "battlefield",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 176",
+    "moral_lesson": "Importance of compassion and empathy in times of crisis",
+    "characters": [
+      {
+        "id": "Abū Sufyān",
+        "name": "Abū Sufyān",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, rugged posture, wearing a dark-colored leather tunic with metal armor plates and a wide leather belt with a scabbard, looking down at the bodies with a worried expression"
+      }
+    ],
+    "narrative_text": "Abū Sufyān searched through the bodies, but he couldn't find the Prophet's body. He looked worried and scared.",
+    "compliance": {
+      "prophet_check": "NOT_PRESENT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A desolate 7th century battlefield scene with scattered bodies and scattered debris under the scorching afternoon sun. The sky above is a pale blue with a few wispy white clouds. In the center of the image, a lone figure stands amidst the chaos - the central figure entirely from behind: medium build, rugged posture, wearing a dark-colored leather tunic with metal armor plates and a wide leather belt with a scabbard, looking down at the bodies with a worried expression. The figure's head is turned away, casting a shadow from the helmet. To the left, a few bodies lie motionless in various states of disarray. The dominant colors are muted earth tones with the dark leather tunic and metal armor plates as accent colors. Soft, diffused sunlight casts long shadows across the scene, creating an atmosphere of desolation and concern. Medium shot, slightly above eye level. Earthy, muted palette with the dark leather tunic as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure' -> 'the central figure', 'face obscured' -> 'head turned away'"
+    ]
+  }
+}

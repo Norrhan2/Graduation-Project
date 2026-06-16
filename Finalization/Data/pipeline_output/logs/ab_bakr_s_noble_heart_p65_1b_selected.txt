@@ -1,0 +1,51 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Abū Bakr's repeated noble actions",
+    "unit_text": "Abū Bakr repeatedly bought and freed slaves who were victims of the campaign of terror.",
+    "main_characters": [
+      "Abū Bakr",
+      "ʿĀmir ibn Fuhayrah"
+    ],
+    "event_summary": "Abū Bakr repeatedly buys and frees slaves who were victims of the campaign of terror.",
+    "selection_reason": "Clear visual moment of Abū Bakr's repeated actions",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Abū Bakr frees ʿĀmir ibn Fuhayrah",
+    "unit_text": "Abū Bakr bought ʿĀmir ibn Fuhayrah, a slave who was a victim of the campaign of terror, and set him free.",
+    "main_characters": [
+      "Abū Bakr",
+      "ʿĀmir ibn Fuhayrah"
+    ],
+    "event_summary": "Abū Bakr buys and frees ʿĀmir ibn Fuhayrah, a slave who was a victim of the campaign of terror.",
+    "selection_reason": "Specific and meaningful event of Abū Bakr's actions",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Abū Bakr frees Zunayrah",
+    "unit_text": "Abū Bakr bought Zunayrah, a slave who was tortured by Abū Jahl, and set her free.",
+    "main_characters": [
+      "Abū Bakr",
+      "Zunayrah",
+      "Abū Jahl"
+    ],
+    "event_summary": "Abū Bakr buys and frees Zunayrah, a slave who was tortured by Abū Jahl.",
+    "selection_reason": "Clear visual moment of Abū Bakr's actions and the contrast with Abū Jahl's cruelty",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Abū Bakr's encouragement by the Prophet",
+    "unit_text": "The Prophet was pleased with Abū Bakr's actions and encouraged him to continue helping those who were victims of the campaign of terror.",
+    "main_characters": [
+      "Abū Bakr",
+      "The Prophet"
+    ],
+    "event_summary": "The Prophet encourages Abū Bakr to continue helping those who were victims of the campaign of terror.",
+    "selection_reason": "Meaningful lesson of the Prophet's encouragement and Abū Bakr's motivation",
+    "estimated_scenes": 2
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Background on Qurayẓah",
+    "unit_text": "The Qurayẓah, a Jewish tribe, lived in Madinah and had a peace treaty with the Prophet.",
+    "main_characters": ["Qurayẓah", "Prophet"],
+    "event_summary": "The Qurayẓah, a Jewish tribe, lived in Madinah and had a peace treaty with the Prophet."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Ḥuyayy ibn Akhṭab's Plan",
+    "unit_text": "Ḥuyayy ibn Akhṭab wanted to persuade the Qurayẓah to join forces with Arab unbelievers and Jewish allies to attack the Muslim army.",
+    "main_characters": ["Ḥuyayy ibn Akhṭab"],
+    "event_summary": "Ḥuyayy ibn Akhṭab planned to persuade the Qurayẓah to join forces with Arab unbelievers and Jewish allies to attack the Muslim army."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Ḥuyayy's Attempt to Meet Ka ʿ b ibn Asad",
+    "unit_text": "Ḥuyayy ibn Akhṭab went to Ka ʿ b ibn Asad's house, but Ka ʿ b refused to open the door.",
+    "main_characters": ["Ḥuyayy ibn Akhṭab", "Ka ʿ b ibn Asad"],
+    "event_summary": "Ḥuyayy ibn Akhṭab went to Ka ʿ b ibn Asad's house, but Ka ʿ b refused to open the door."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Ḥuyayy's Insult and Ka ʿ b's Admission",
+    "unit_text": "Ḥuyayy ibn Akhṭab insulted Ka ʿ b ibn Asad to provoke him into admitting him into his home.",
+    "main_characters": ["Ḥuyayy ibn Akhṭab", "Ka ʿ b ibn Asad"],
+    "event_summary": "Ḥuyayy ibn Akhṭab insulted Ka ʿ b ibn Asad to provoke him into admitting him into his home."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Ḥuyayy's Promise to Ka ʿ b",
+    "unit_text": "Ḥuyayy ibn Akhṭab promised Ka ʿ b ibn Asad that the Qurayẓah would join him in his fortified house if the Quraysh and Ghaṭafān left before they could inflict a defeat on Muhammad.",
+    "main_characters": ["Ḥuyayy ibn Akhṭab", "Ka ʿ b ibn Asad"],
+    "event_summary": "Ḥuyayy ibn Akhṭab promised Ka ʿ b ibn Asad that the Qurayẓah would join him in his fortified house if the Quraysh and Ghaṭafān left before they could inflict a defeat on Muhammad."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Qurayẓah's Treachery",
+    "unit_text": "The Qurayẓah followed their leader Ka ʿ b ibn Asad in his unilateral abrogation of their treaty with the Muslims.",
+    "main_characters": ["Qurayẓah", "Ka ʿ b ibn Asad"],
+    "event_summary": "The Qurayẓah followed their leader Ka ʿ b ibn Asad in his unilateral abrogation of their treaty with the Muslims."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Prophet's Inquiry",
+    "unit_text": "The Prophet sent a delegation to the Qurayẓah to ascertain their position regarding the treaty.",
+    "main_characters": ["Prophet", "Sa ʿ d ibn Mu ʿādh", "Sa ʿ d ibn ʿ Ubādah", "ʿ Abdullāh ibn Rawāḥah", "Khawāt ibn Jubayr"],
+    "event_summary": "The Prophet sent a delegation to the Qurayẓah to ascertain their position regarding the treaty."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Qurayẓah's Defiance",
+    "unit_text": "The Qurayẓah took a defiant attitude towards the Muslim delegation, refusing to confirm their alliance with the Prophet.",
+    "main_characters": ["Qurayẓah", "Sa ʿ d ibn Mu ʿādh", "Sa ʿ d ibn ʿ Ubādah", "ʿ Abdullāh ibn Rawāḥah", "Khawāt ibn Jubayr"],
+    "event_summary": "The Qurayẓah took a defiant attitude towards the Muslim delegation, refusing to confirm their alliance with the Prophet."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "Qurayẓah's Treachery Revealed",
+    "unit_text": "The Muslim delegation reported the Qurayẓah's treachery to the Prophet, who remained calm and reassured the Muslims.",
+    "main_characters": ["Prophet", "Sa ʿ d ibn Mu ʿādh", "Sa ʿ d ibn ʿ Ubādah"],
+    "event_summary": "The Muslim delegation reported the Qurayẓah's treachery to the Prophet, who remained calm and reassured the Muslims."
+  }
+]

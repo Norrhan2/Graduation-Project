@@ -1,0 +1,15 @@
+{
+  "scene_number": 2,
+  "scene_summary": "Al-Mundhir ibn ʿAmr and Saʿd ibn ʿUbādah are seized by the Quraysh.",
+  "era": "early_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 114",
+  "moral_lesson": "Perseverance in the face of adversity",
+  "characters": [
+    {"id": "quraysh", "name": "Quraysh warriors", "role": "antagonist", "depiction_rule": "FULL", "appearance": "tall, muscular build, dressed in armor, head and face visible"},
+    {"id": "al-mundhir", "name": "al-Mundhir ibn ʿAmr", "role": "sahabi", "depiction_rule": "FULL", "appearance": "medium build, young adult, dressed in simple thobe, head and face visible"},
+    {"id": "saʿd", "name": "Saʿd ibn ʿUbādah", "role": "sahabi", "depiction_rule": "FULL", "appearance": "slender build, young adult, dressed in simple thobe, head and face visible"}
+  ],
+  "narrative_text": "Al-Mundhir ibn ʿAmr and Saʿd ibn ʿUbādah were seized by the Quraysh while spreading the message of Islam. They were taken to the authorities, but they remained steadfast in their faith.",
+  "compliance": {"prophet_check": "NO_PROPHET", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A sun-baked desert street in 7th century Makkah with sandy terrain and stone buildings in the background. Late afternoon sunlight casts long shadows across the street, with a few palm trees providing shade. In the center of the scene, a group of Quraysh warriors, dressed in armor, grab two young men by the arms - one with a medium build, dressed in a simple thobe, and the other with a slender build, also dressed in a simple thobe. The warriors are tall and muscular, with their heads and faces visible, displaying a sense of strength and authority. The two young men look fearful, with their heads turned towards the warriors, their faces filled with worry. Soft warm sunlight, with a mix of golden and sandy hues, dominates the scene. Medium shot from a slight angle, capturing the drama of the moment. Warm beige, golden, and sandy palette with the armor as a color anchor. No modern objects, historically accurate 7th century scene."

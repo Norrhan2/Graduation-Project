@@ -1,0 +1,16 @@
+{
+  "scene_number": 2,
+  "scene_title": "A Desperate Rescue",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 114",
+  "moral_lesson": "Bravery in the face of danger",
+  "characters": [
+    {"id": "jubayr", "name": "Jubayr ibn Muṭʿim", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "tall build, rugged features, wearing a tan thobe and a brown woolen cloak, carrying a staff"},
+    {"id": "alharith", "name": "al-Ḥārith ibn Ḥarb", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, weathered features, wearing a beige thobe and a gray woolen cloak, carrying a staff"},
+    {"id": "saud", "name": "Saʿd", "role": "family_of_prophet", "depiction_rule": "FROM_BEHIND", "appearance": "young, slender build, wearing a white thobe and a blue woolen cloak, seen from behind, with a swaddled bundle in his arms"}
+  ],
+  "narrative_text": "Jubayr and al-Harith rushed to rescue their friend Sa'd, who was in danger.",
+  "compliance": {"prophet_check": "NOT_PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A sandy 7th century Arabian Desert landscape with a few palm trees in the distance and a marketplace in the foreground. Late afternoon golden sunlight casts long shadows across the scene. In the foreground, two figures are seen running towards the viewer, their faces obscured by the depiction rule. Jubayr, on the left, has a determined expression, his rugged features set in a resolute face, wearing a tan thobe and a brown woolen cloak with a staff in his right hand. Al-Harith, on the right, has a similar expression, his weathered features set in a determined face, wearing a beige thobe and a gray woolen cloak with a staff in his right hand. In the background, a young man is seen from behind, carrying a swaddled bundle in his arms, wearing a white thobe and a blue woolen cloak. Soft warm golden light, energetic and action-packed mood. Medium shot from a low angle. Warm sand, beige, and golden palette with the blue woolen cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

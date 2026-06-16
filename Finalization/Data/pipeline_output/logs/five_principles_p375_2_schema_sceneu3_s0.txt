@@ -1,0 +1,24 @@
+{
+  "scene_title": "The Journey Begins",
+  "era": "late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 375",
+  "moral_lesson": "Perseverance and determination in the face of adversity",
+  "characters": [
+    {
+      "id": "the_prophet",
+      "name": "",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, staff in hand"
+    }
+  ],
+  "narrative_text": "The Prophet Muhammad sets out on his journey to Mecca, determined to fulfill his duty and perform the pilgrimage.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast expanse of sandy dunes stretches out before us in the early morning light, with a few sparse palm trees dotting the horizon. The sun rises high in the sky, casting a warm golden glow over the scene. In the distance, a lone camel walks steadily along the desert path, its owner - the central figure seen entirely from behind - walking beside it, staff in hand. The man wears a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, exuding a sense of determination and purpose. The sandy dunes glisten with a soft golden light, and the warm colors of the scene evoke a sense of adventure and journey. Medium shot from a slight distance, capturing the vastness of the desert landscape. Warm beige, golden, and cream palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

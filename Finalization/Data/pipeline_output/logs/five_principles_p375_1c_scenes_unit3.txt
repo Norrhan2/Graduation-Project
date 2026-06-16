@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet sets out on his journey to Mecca for the pilgrimage.",
+    "key_visual_action": "The Prophet walking with his camel, staff in hand",
+    "characters_present": ["The Prophet"],
+    "setting": "Desert landscape",
+    "emotional_tone": "Determination",
+    "time_of_day": "Morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet and his companions arrive at the Kaaba, the sacred house in Mecca.",
+    "key_visual_action": "The Prophet dismounting his camel, looking up at the Kaaba",
+    "characters_present": ["The Prophet", "Companions"],
+    "setting": "The Kaaba, Mecca",
+    "emotional_tone": "Awe",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet completes his pilgrimage, circumambulating the Kaaba one last time.",
+    "key_visual_action": "The Prophet walking around the Kaaba, hands clasped together in prayer",
+    "characters_present": ["The Prophet"],
+    "setting": "The Kaaba, Mecca",
+    "emotional_tone": "Serenity",
+    "time_of_day": "Evening"
+  }
+]

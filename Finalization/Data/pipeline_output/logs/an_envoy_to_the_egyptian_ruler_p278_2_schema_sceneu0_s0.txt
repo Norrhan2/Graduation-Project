@@ -1,0 +1,14 @@
+{
+  "scene_title": "A Message from the Prophet",
+  "era": "madinah_early",
+  "region": "medina",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 278",
+  "moral_lesson": "Importance of receiving messages from the Prophet",
+  "characters": [
+    {"id": "Ḥāṭib ibn Abī Balta ʿ ah", "name": "Ḥāṭib ibn Abī Balta ʿ ah", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a white thobe with a plain brown woolen cloak with a white cloth head covering"},
+    {"id": "Prophet Muhammad", "name": "the central figure", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "Ḥāṭib ibn Abī Balta ʿ ah receives a letter from the Prophet Muhammad, and he is eager to hear the message.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Exterior of a modest 7th century Medina home with unpainted mud-brick walls in warm earth tones and a packed-earth floor partly covered by a woven palm-fiber mat. Morning sunlight casts long shadows across the room. In the center of the scene, a man in the green cloak stands with one hand extended, holding a rolled-up parchment, and the other figure to his right, Ḥāṭib ibn Abī Balta ʿ ah, reaches out with his right hand to take the parchment from the Prophet's hand. Ḥāṭib's eyes are cast downward, and his expression is one of focus and attention. The Prophet's dignified posture and the deep green cloak create a sense of authority and importance. Soft warm morning light, with long shadows and a sense of quiet contemplation. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

@@ -1,0 +1,15 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Abū Buṣayr is moved by the Prophet's words and decides to convert to Islam.",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 255",
+  "moral_lesson": "The importance of seeking knowledge and guidance.",
+  "characters": [
+    {"id": "Abū Buṣayr", "name": "Abū Buṣayr", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a simple white thobe with a plain brown woolen cloak and a white cloth head covering, hands clasped together in a prayerful gesture"},
+    {"id": "Prophet Muhammad", "name": "the central figure", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "Abū Buṣayr was deeply moved by the Prophet's words and felt a sense of hope and peace. He knew that he had found the truth and decided to convert to Islam.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene and peaceful desert landscape with sandy dunes stretching out to the horizon and a few sparse palm trees dotting the landscape. Late afternoon golden sunlight casts long shadows across the ground. In the distance, a figure in the distance is seen walking towards the viewer. On the left, a quiet and contemplative figure sits cross-legged on the ground, hands clasped together in a prayerful gesture, wearing a simple white thobe with a plain brown woolen cloak and a white cloth head covering, seen from behind with no facial features visible. Soft warm golden light, peaceful and contemplative mood. Medium close shot at eye level. Warm beige, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Prophet Muhammad receives intelligence about the Asad tribe's intentions",
+    "key_visual_action": "Prophet Muhammad looking at a map or receiving a message",
+    "characters_present": ["Prophet Muhammad"],
+    "setting": "Madinah, a meeting room or a private space",
+    "emotional_tone": "concerned",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Prophet Muhammad shares the news with Abū Salamah and begins planning the defense",
+    "key_visual_action": "Prophet Muhammad speaking to Abū Salamah, with a map or a plan in the background",
+    "characters_present": ["Prophet Muhammad", "Abū Salamah"],
+    "setting": "Madinah, a meeting room or a private space",
+    "emotional_tone": "serious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Prophet Muhammad and his companions prepare to defend Madinah, gathering their gear and horses",
+    "key_visual_action": "Prophet Muhammad and his companions loading gear onto horses",
+    "characters_present": ["Prophet Muhammad", "Abū Salamah", "other companions"],
+    "setting": "Madinah, an open area or a stable",
+    "emotional_tone": "determined",
+    "time_of_day": "late afternoon"
+  }
+]

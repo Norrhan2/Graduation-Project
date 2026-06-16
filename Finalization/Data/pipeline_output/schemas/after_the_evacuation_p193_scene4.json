@@ -1,0 +1,38 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "The Muslims prepare for battle against the Jews of al-Naḍīr.",
+    "key_visual_action": "Muslim warriors drawing swords, readying for battle",
+    "characters_present": [
+      "Muslims"
+    ],
+    "setting": "Desert landscape near al-Naḍīr",
+    "emotional_tone": "Determined",
+    "time_of_day": "morning"
+  },
+  "schema_output": {
+    "scene_title": "Preparing for Battle",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 193",
+    "moral_lesson": "Perseverance and determination in the face of adversity",
+    "characters": [
+      {
+        "id": "1",
+        "name": "The Muslims",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "medieval-style armor, turbans, and thobes in earthy tones"
+      }
+    ],
+    "narrative_text": "The Muslims are preparing for battle against the Jews of al-Naḍīr. They are determined to protect their faith and community.",
+    "compliance": {
+      "prophet_check": "NOT_PRESENT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast desert landscape with sparse palm trees in the distance, under a clear morning sky with a light breeze blowing. The sun rises high in the east, casting a warm golden light across the scene. In the foreground, a group of Muslim warriors are gathered, dressed in medieval-style armor, turbans, and thobes in earthy tones. They stand with their backs to a small cluster of rocks, some crouched, others standing with their hands on the hilts of their swords, ready for battle. The central figure, seen from behind, wears a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. The other warriors have slightly stooped shoulders, their faces set in determined expressions, their eyes fixed on the horizon. Soft warm golden light, epic and heroic mood. Medium shot from a slightly elevated angle. Earthy, beige, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "The Prophet stands in front of his followers, looking out at the crowd.",
+    "key_visual_action": "The Prophet's gaze sweeps across the crowd",
+    "characters_present": [
+      "The Prophet"
+    ],
+    "setting": "A large outdoor gathering in Medina",
+    "emotional_tone": "Serene and reflective",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_title": "Standing in Front of the Crowd",
+    "era": "madinah_early",
+    "region": "makkah|madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 375",
+    "moral_lesson": "Importance of leadership and connection with followers",
+    "characters": [
+      {
+        "id": "1",
+        "name": "The Prophet",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      }
+    ],
+    "narrative_text": "The Prophet stood before his followers, his eyes scanning the crowd with a serene and reflective gaze.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A large open-air gathering in early 7th century Medina, with a crowd of people gathered around a central figure. The sun shines brightly overhead, casting warm rays across the scene. In the center stands the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, his hands clasped together in a contemplative gesture. The crowd is a mix of men and women, all dressed in their finest traditional clothing, with a variety of colors and textures. Soft warm light, calm and peaceful mood. Medium shot from slightly above, looking out at the crowd. Earthy, sandy, and blue palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": []
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "unit_number": 4,
+    "unit_title": "The Prophet Meets the Khazrajis",
+    "unit_text": "The Prophet met six men from the Khazraj tribe at ʿ Aqabah, where pilgrims encamped for three days, and explained his message to them.",
+    "main_characters": [
+      "Prophet",
+      "Aws",
+      "Khazraj"
+    ],
+    "event_summary": "The Prophet met six men from the Khazraj tribe and explained his message to them.",
+    "selection_reason": "Clear visual moment of the Prophet meeting the Khazrajis, introducing a key event in the story.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Khazrajis Accept Islam",
+    "unit_text": "The six Khazrajis accepted the Prophet's message and declared their belief in God and the message of Muhammad.",
+    "main_characters": [
+      "Prophet",
+      "Khazraj"
+    ],
+    "event_summary": "The six Khazrajis accepted Islam and declared their belief in God and the Prophet's message.",
+    "selection_reason": "Meaningful lesson on the acceptance of Islam by the Khazrajis, a pivotal moment in the story.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "The Next Pilgrimage Season",
+    "unit_text": "The next pilgrimage season, the Prophet met 12 men, including the original six, at ʿ Aqabah, and entered into a covenant with them.",
+    "main_characters": [
+      "Prophet",
+      "Aws",
+      "Khazraj"
+    ],
+    "event_summary": "The Prophet met 12 men at ʿ Aqabah and entered into a covenant with them.",
+    "selection_reason": "Key event of the Prophet meeting the 12 men and entering into a covenant, a turning point in the story.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "Muṣʿab's Mission",
+    "unit_text": "The Prophet sent Muṣʿab ibn ʿ Umayr to Madinah to educate the new Muslims, teach them the Qur'ān, and lead them in prayer.",
+    "main_characters": [
+      "Prophet",
+      "Muṣʿab"
+    ],
+    "event_summary": "The Prophet sent Muṣʿab ibn ʿ Umayr to Madinah to educate and lead the new Muslims.",
+    "selection_reason": "Clear visual moment of the Prophet sending Muṣʿab on a mission, introducing a new character and plot thread.",
+    "estimated_scenes": 2
+  }
+]

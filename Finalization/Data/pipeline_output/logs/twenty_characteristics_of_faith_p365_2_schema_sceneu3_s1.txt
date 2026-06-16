@@ -1,0 +1,30 @@
+{
+  "scene_title": "The Prophet's Cautionary Lesson",
+  "era": "pre_prophetic|early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 365",
+  "moral_lesson": "The dangers of accumulating wealth and material possessions",
+  "characters": [
+    {
+      "id": "1",
+      "name": "The Prophet",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "2",
+      "name": "Suwayd ibn al- Ḥārith",
+      "role": "sahabi",
+      "depiction_rule": "FULL",
+      "appearance": "slender build, wearing a simple off-white thobe with a plain brown woolen cloak and a white cloth head covering"
+    }
+  ],
+  "narrative_text": "The Prophet teaches the delegation about the dangers of accumulating wealth and material possessions, using a handful of sand to illustrate his point.",
+  "compliance": {
+    "prophet_check": "Compliant",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A simple desert tent with a low ceiling and a small entrance, its walls made of a mixture of goat hair and plant fibers, with a few woven palm-fiber mats scattered about. Late afternoon sunlight casts warm rays across the interior. In the center of the tent, a lone figure stands with their back to the viewer: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle teaching gesture, holding up a handful of sand. Next to the central figure, a slender older man with slightly stooped shoulders, wearing a simple off-white thobe and plain brown woolen cloak with a white cloth head covering, sits cross-legged on a mat, intently listening to the lesson. Soft warm golden light, serious and cautionary mood. Medium close shot at eye level. Warm beige, golden, and deep green palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

@@ -1,0 +1,38 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Prophet Muhammad and Abū Salamah prepare for battle",
+    "key_visual_action": "Prophet Muhammad and Abū Salamah looking at a map, planning their strategy",
+    "characters_present": ["Prophet Muhammad", "Abū Salamah"],
+    "setting": "A desert landscape with palm trees",
+    "emotional_tone": "Focused",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Muslim force sneaks up on the Asad tribe",
+    "key_visual_action": "Muslim warriors hiding behind rocks, peeking out to see the Asad tribe",
+    "characters_present": ["Muslim warriors", "Asad tribe"],
+    "setting": "A desert landscape with rocks and palm trees",
+    "emotional_tone": "Stealthy",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Muslim force attacks the Asad tribe by surprise",
+    "key_visual_action": "Muslim warriors charging forward, swords raised, while the Asad tribe looks on in shock",
+    "characters_present": ["Muslim warriors", "Asad tribe"],
+    "setting": "A desert landscape with palm trees and rocks",
+    "emotional_tone": "Exciting",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "The Muslim force achieves a total victory without casualties",
+    "key_visual_action": "Muslim warriors standing victorious, while the Asad tribe surrenders or flees",
+    "characters_present": ["Muslim warriors", "Asad tribe"],
+    "setting": "A desert landscape with palm trees and rocks",
+    "emotional_tone": "Triumphant",
+    "time_of_day": "morning"
+  }
+]

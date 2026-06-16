@@ -1,0 +1,50 @@
+{
+  "scene_input": {
+    "scene_number": 4,
+    "scene_summary": "Abū Bakr decides not to support Misṭaḥ any longer",
+    "key_visual_action": "Abū Bakr crosses his arms, a firm expression on his face",
+    "characters_present": [
+      "Abū Bakr",
+      "Misṭaḥibn Athāthah"
+    ],
+    "setting": "A desert oasis or a meeting place",
+    "emotional_tone": "Disapproval",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 4,
+    "scene_summary": "Abū Bakr decides not to support Misṭaḥ any longer",
+    "era": "pre_prophetic",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 211",
+    "moral_lesson": "Standing up for what is right, even if it's difficult",
+    "characters": [
+      {
+        "id": "Abu Bakr",
+        "name": "Abū Bakr",
+        "role": "sahabi",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a plain brown woolen cloak draped over both shoulders and a white cloth head covering, firm expression on his face"
+      },
+      {
+        "id": "Misṭaḥibn Athāthah",
+        "name": "Misṭaḥibn Athāthah",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "slender build, wearing a dark-colored thobe and a turban"
+      }
+    ],
+    "narrative_text": "Abū Bakr looked at Misṭaḥ with a firm expression. He had decided that he could no longer support him. He crossed his arms, showing that he was not willing to listen to his ideas.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Historically accurate depiction of a 7th century desert oasis or meeting place"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene desert oasis or a meeting place with palm trees and a few rocky outcrops in the background. Late afternoon sunlight casts long shadows across the sandy floor. Two figures sit facing each other on a large stone or a low rock, separated by a short distance. On the left, the man in the green cloak seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a plain brown woolen cloak draped over both shoulders and a white cloth head covering, firm expression on his face, arms crossed and hands clasped together. On the right, a young man seen from the front: slender build, dark-colored thobe and a turban, looking at the man in the green cloak with a mixture of surprise and disappointment, one hand raised in a gentle questioning gesture. Soft warm golden light, calm and reflective mood. Medium close shot at eye level. Warm sand, beige, and turquoise palette with the white thobe as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure' -> 'the man in the green cloak'",
+      "'young girl/child' -> 'young man'"
+    ]
+  }
+}

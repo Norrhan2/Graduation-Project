@@ -1,0 +1,79 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The delegation of Azd Suwayd ibn al- Ḥārith arrives",
+    "unit_text": "A delegation of seven men from the tribe of Azd Suwayd ibn al- Ḥārith visits the Prophet.",
+    "main_characters": ["Suwayd ibn al- Ḥārith", "The Prophet"],
+    "event_summary": "A delegation from the tribe of Azd Suwayd ibn al- Ḥārith visits the Prophet."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "The Prophet's initial reaction",
+    "unit_text": "The Prophet is pleased with the delegation's appearance and asks them what they are.",
+    "main_characters": ["The Prophet", "Suwayd ibn al- Ḥārith"],
+    "event_summary": "The Prophet is pleased with the delegation's appearance and asks them about their identity."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The delegation's response",
+    "unit_text": "The delegation responds that they are believers and lists 15 characteristics of their faith.",
+    "main_characters": ["Suwayd ibn al- Ḥārith", "The Prophet"],
+    "event_summary": "The delegation responds that they are believers and lists 15 characteristics of their faith."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Prophet's question about the characteristics",
+    "unit_text": "The Prophet asks the delegation to explain the substance of their statement and the five characteristics they were ordered to believe in.",
+    "main_characters": ["The Prophet", "Suwayd ibn al- Ḥārith"],
+    "event_summary": "The Prophet asks the delegation to explain the substance of their statement and the five characteristics they were ordered to believe in."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The delegation's response to the Prophet's question",
+    "unit_text": "The delegation lists the five characteristics they were ordered to believe in: God, angels, books, messengers, and resurrection after death.",
+    "main_characters": ["Suwayd ibn al- Ḥārith", "The Prophet"],
+    "event_summary": "The delegation lists the five characteristics they were ordered to believe in."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Prophet's question about implementation",
+    "unit_text": "The Prophet asks the delegation to explain the five characteristics they were ordered to implement.",
+    "main_characters": ["The Prophet", "Suwayd ibn al- Ḥārith"],
+    "event_summary": "The Prophet asks the delegation to explain the five characteristics they were ordered to implement."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "The delegation's response to the Prophet's question",
+    "unit_text": "The delegation lists the five characteristics they were ordered to implement: declaring the oneness of God, attending prayers, paying Zakāt, fasting in Ramaḍān, and performing pilgrimage.",
+    "main_characters": ["Suwayd ibn al- Ḥārith", "The Prophet"],
+    "event_summary": "The delegation lists the five characteristics they were ordered to implement."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "The Prophet's question about pre-Islamic practices",
+    "unit_text": "The Prophet asks the delegation to explain the five characteristics they adopted in pre-Islamic days.",
+    "main_characters": ["The Prophet", "Suwayd ibn al- Ḥārith"],
+    "event_summary": "The Prophet asks the delegation to explain the five characteristics they adopted in pre-Islamic days."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "The delegation's response to the Prophet's question",
+    "unit_text": "The delegation lists the five characteristics they adopted in pre-Islamic days: being thankful in times of plenty, being patient in times of trial, accepting fate, showing commitment in battle, and not expressing pleasure at misfortunes befalling enemies.",
+    "main_characters": ["Suwayd ibn al- Ḥārith", "The Prophet"],
+    "event_summary": "The delegation lists the five characteristics they adopted in pre-Islamic days."
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "The Prophet's praise and new teachings",
+    "unit_text": "The Prophet praises the delegation for their wisdom and adds five new characteristics to their list.",
+    "main_characters": ["The Prophet", "Suwayd ibn al- Ḥārith"],
+    "event_summary": "The Prophet praises the delegation for their wisdom and adds five new characteristics to their list."
+  },
+  {
+    "unit_number": 11,
+    "unit_title": "The Prophet's new teachings",
+    "unit_text": "The Prophet teaches the delegation to avoid accumulating wealth, building unnecessary houses, competing for things they will leave behind, fearing God, and looking forward to the afterlife.",
+    "main_characters": ["The Prophet", "Suwayd ibn al- Ḥārith"],
+    "event_summary": "The Prophet teaches the delegation to avoid accumulating wealth, building unnecessary houses, competing for things they will leave behind, fearing God, and looking forward to the afterlife."
+  }
+]

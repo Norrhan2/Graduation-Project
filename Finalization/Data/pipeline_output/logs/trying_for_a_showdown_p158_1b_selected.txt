@@ -1,0 +1,49 @@
+[
+  {
+    "unit_number": 2,
+    "unit_title": "A Muslim woman is mocked",
+    "unit_text": "A Muslim woman was mocked by a Jew at the Qaynuqāʿ market, who stuck her dress to her shoulders, causing her to be exposed.",
+    "main_characters": [
+      "Muslim woman",
+      "Jew"
+    ],
+    "event_summary": "A Muslim woman is mocked by a Jew at the Qaynuqāʿ market.",
+    "selection_reason": "Clear visual moment and meaningful lesson about respect and empathy.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Muslim man kills the Jew",
+    "unit_text": "The Muslim woman's companion attacked and killed the Jew who perpetrated the mockery, but was then killed by several other Jews.",
+    "main_characters": [
+      "Muslim man",
+      "Jew"
+    ],
+    "event_summary": "A Muslim man kills the Jew who mocked the Muslim woman, but is then killed by other Jews.",
+    "selection_reason": "Clear visual moment and meaningful lesson about consequences of actions.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Prophet intervenes",
+    "unit_text": "The Prophet was informed of the situation and came to calm everybody down, calling for the notables of the Qaynuqāʿ tribe to gather.",
+    "main_characters": [
+      "Prophet"
+    ],
+    "event_summary": "The Prophet intervenes to calm the situation and calls for the notables of the Qaynuqāʿ tribe to gather.",
+    "selection_reason": "Meaningful lesson about the Prophet's leadership and conflict resolution.",
+    "estimated_scenes": 1
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Prophet warns the Qaynuqāʿ tribe",
+    "unit_text": "The Prophet warned the Qaynuqāʿ tribe against breaching their treaty and advised them to adopt Islam, citing their own Book and God's promise to them.",
+    "main_characters": [
+      "Prophet",
+      "Qaynuqāʿ notables"
+    ],
+    "event_summary": "The Prophet warns the Qaynuqāʿ tribe against breaching their treaty and advises them to adopt Islam.",
+    "selection_reason": "Meaningful lesson about the importance of treaties and the Prophet's message.",
+    "estimated_scenes": 2
+  }
+]

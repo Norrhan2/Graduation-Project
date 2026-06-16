@@ -1,0 +1,15 @@
+{
+  "scene_number": 2,
+  "scene_summary": "Abū Buṣayr kills his captor in a surprise attack.",
+  "era": "late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 255",
+  "moral_lesson": "Courage in the face of adversity",
+  "characters": [
+    {"id": "1", "name": "Abū Buṣayr", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "lean build, muscular, wearing a brown woolen cloak and a white head covering"},
+    {"id": "2", "name": "Man from the tribe of ʿĀmir", "role": "antagonist", "depiction_rule": "FULL", "appearance": "medium build, wearing a beige thobe and a dark brown woolen cloak"}
+  ],
+  "narrative_text": "Abū Buṣayr, a brave companion of the Prophet, was captured by a man from the tribe of ʿĀmir. In a surprise attack, Abū Buṣayr broke free and struck his captor.",
+  "compliance": {"prophet_check": "NO_PROPHET", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "No graphic violence"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast arid desert landscape with sparse palm trees and rocky outcrops in the background. Late afternoon sun casts a warm golden light on the scene. In the foreground, two figures are shown in a dramatic struggle. The central figure seen entirely from behind: lean build, muscular, wearing a brown woolen cloak and a white head covering, is shown breaking free from the grasp of a slightly taller man seen from the side: medium build, wearing a beige thobe and a dark brown woolen cloak. The man is shown in mid-stride, his arm raised in a striking motion, while his opponent is shown in a moment of shock and surprise, his face contorted in pain. Soft warm golden light, dynamic and intense mood. Medium close shot at eye level. Warm beige, golden, and sandy palette with the brown woolen cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

@@ -1,0 +1,31 @@
+{
+  "scene_title": "Abū Sufyān's Respect for the Prophet",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 300",
+  "moral_lesson": "Respect for the Prophet's strength and leadership",
+  "characters": [
+    {
+      "id": "Abū Sufyān",
+      "name": "Abū Sufyān",
+      "role": "antagonist",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, dignified upright posture, wearing a white thobe and a deep red woolen cloak draped over both shoulders with a white turban and a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "The Prophet",
+      "name": "The central figure",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture"
+    }
+  ],
+  "narrative_text": "Abū Sufyān watched the Prophet's battalion in awe, impressed by their strength and unity.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. The vast expanse of the Arabian Desert stretches out in the background with a distant battalion of warriors visible on the horizon, their spears and shields glinting in the late afternoon sunlight. The sky above is a brilliant blue with a few wispy clouds drifting lazily by. In the foreground, a tall, imposing figure stands with his back to the viewer: medium build, dignified upright posture, wearing a white thobe and a deep red woolen cloak draped over both shoulders with a white turban and a cloth tail hanging between the shoulder blades, his eyes fixed intently on the Prophet's battalion. His jaw is slightly dropped in amazement, and his face is turned upwards, drinking in the sight before him. The central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture. Soft warm golden light, expansive and majestic mood. Wide shot from a low angle, looking up at the two figures. Warm beige, sand, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

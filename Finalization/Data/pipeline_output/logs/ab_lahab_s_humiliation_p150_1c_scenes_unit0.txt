@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Quraysh army is shown preparing for battle, with their leader Abu Sufyan looking confident.",
+    "key_visual_action": "Abu Sufyan riding a horse, looking at his army with a determined expression",
+    "characters_present": ["Abu Sufyan"],
+    "setting": "A desert landscape with the Quraysh army gathered",
+    "emotional_tone": "Confident",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet Muhammad and his companions are shown arriving at Badr, with a sense of determination and faith.",
+    "key_visual_action": "The Prophet Muhammad riding a horse, looking at his companions with a determined expression",
+    "characters_present": ["Prophet Muhammad", "companions"],
+    "setting": "A desert landscape with the Prophet Muhammad and his companions arriving at Badr",
+    "emotional_tone": "Determined",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Quraysh army is shown being defeated, with their leader Abu Sufyan looking shocked and humiliated.",
+    "key_visual_action": "Abu Sufyan falling off his horse, looking shocked and humiliated",
+    "characters_present": ["Abu Sufyan"],
+    "setting": "A desert landscape with the Quraysh army being defeated",
+    "emotional_tone": "Humiliated",
+    "time_of_day": "afternoon"
+  }
+]

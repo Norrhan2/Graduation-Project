@@ -1,0 +1,32 @@
+{
+  "scene_number": 2,
+  "scene_title": "The Prophet's Reaction to the Report",
+  "era": "madinah_early",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 188",
+  "moral_lesson": "Importance of empathy and compassion in the face of adversity",
+  "characters": [
+    {
+      "id": "1",
+      "name": "ʿAmr ibn Umayyah",
+      "role": "antagonist",
+      "depiction_rule": "NO_FACE",
+      "appearance": "standing, wearing a brown cloak with a white turban, possibly holding a scroll or parchment"
+    },
+    {
+      "id": "2",
+      "name": "The Prophet",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand resting on the back of a chair or on his thigh"
+    }
+  ],
+  "narrative_text": "The Prophet's expression changed to sadness and outrage upon hearing ʿAmr's report. He felt deeply for his people and was determined to protect them.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Interior of a modest 7th century Madinah home with unpainted mud-brick walls in warm earth tones and a packed-earth floor partly covered by a woven palm-fiber mat. Late afternoon golden sunlight streams through an open wooden doorway on the right, casting warm rays across the room. In the center of the room, a large wooden chair stands near the wall, with a low wooden table beside it. On the table, a small ceramic oil lamp casts a soft glow. Two figures are present: on the left, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand resting on the back of the chair or on his thigh. On the right, a tall, slender man with a stern expression, wearing a brown cloak with a white turban, stands facing the central figure, possibly holding a scroll or parchment in his hand. The Prophet's expression has changed to one of sadness and outrage, his back slightly hunched, and his head bowed in distress. Soft warm golden light, intimate and somber mood. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

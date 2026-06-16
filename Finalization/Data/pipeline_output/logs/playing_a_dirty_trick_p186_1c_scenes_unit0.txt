@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Hudhayl delegation arrives at the Prophet's mosque.",
+    "key_visual_action": "Hudhayl delegation approaching the mosque",
+    "characters_present": ["Hudhayl", "Prophet"],
+    "setting": "Medina mosque",
+    "emotional_tone": "Neutral",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet greets the Hudhayl delegation with a warm smile.",
+    "key_visual_action": "Prophet smiling and extending his hand",
+    "characters_present": ["Hudhayl", "Prophet"],
+    "setting": "Medina mosque",
+    "emotional_tone": "Friendly",
+    "time_of_day": "afternoon"
+  }
+]

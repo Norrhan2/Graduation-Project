@@ -1,0 +1,14 @@
+{
+  "scene_number": 2,
+  "scene_summary": "The army is met with a shower of arrows from the Thaqīf tribe.",
+  "era": "late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 317",
+  "moral_lesson": "The importance of patience and perseverance in the face of adversity",
+  "characters": [
+    {"id": "military_leader", "name": "The man in the green cloak", "role": "sahabi", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "antagonist", "name": "The Thaqīf tribe", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "fully armed warriors with a mix of armor and leather, dressed in dark earth tones"}
+  ],
+  "narrative_text": "The Muslim army was met with a fierce attack from the Thaqīf tribe, who showered them with arrows. The Muslims stood strong, but it was a challenging moment.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "The scene does not show any graphic violence, but it does depict a tense and potentially scary situation."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast desert landscape with rocky outcroppings and sparse palm trees on the horizon. Late morning sunlight casts a harsh glare, with the sun high in the sky. In the distance, the Muslim army is visible, with figures in light-colored robes and turbans, seen from behind as they stand shoulder to shoulder, shields and spears at the ready. The Thaqīf tribe, a group of fully armed warriors with a mix of armor and leather, dressed in dark earth tones, are seen from behind as they charge towards the Muslim army, a shower of arrows flying towards them. The central figure of the Muslim army, seen entirely from behind, stands tall and resolute, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. The scene is set against a backdrop of rocky terrain, with the sound of distant screams and clashing steel. Medium wide shot, with the sun at eye level. Earthy, sandy, and dusty palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

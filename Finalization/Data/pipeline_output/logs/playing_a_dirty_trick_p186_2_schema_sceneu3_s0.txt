@@ -1,0 +1,17 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Marthad, Khālid, and ʿĀṣim are approached by the Hudhayl tribe, who ask them to pledge allegiance.",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 186",
+  "moral_lesson": "Importance of loyalty and commitment to one's community",
+  "characters": [
+    {"id": "marthad", "name": "Marthad", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a long-sleeved beige thobe and a brown woolen cloak with a white cloth head covering"},
+    {"id": "khalid", "name": "Khālid", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "slender build, wearing a short-sleeved white thobe and a plain brown woolen cloak with a white cloth head covering"},
+    {"id": "asim", "name": "ʿĀṣim", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "tall build, wearing a long-sleeved beige thobe and a brown woolen cloak with a white cloth head covering"},
+    {"id": "hudhayl", "name": "Hudhayl", "role": "antagonist", "depiction_rule": "FROM_BEHIND", "appearance": "group of men in traditional Arabian attire, wearing white thobes and head coverings, with various facial expressions and postures"}
+  ],
+  "narrative_text": "The Hudhayl tribe approached Marthad, Khālid, and ʿĀṣim with outstretched hands, asking them to pledge allegiance.",
+  "compliance": {"prophet_check": "NO_PROPHET", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "No graphic violence or idols"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast open plain in the Arabian Desert during the late afternoon, under a vast sky with a few scattered clouds. The sun casts a warm golden light across the scene. In the distance, a group of men in the Hudhayl tribe, dressed in traditional Arabian attire, approach three companions - Marthad, Khālid, and ʿĀṣim - who stand together, looking out at the approaching tribe. The men in the Hudhayl tribe are seen from behind, with some of them turned towards the companions, their hands outstretched in a gesture of peace and friendship. The companions, Marthad, Khālid, and ʿĀṣim, are seen in profile, wearing traditional Arabian clothing, their faces obscured. Soft warm golden light, tense and suspenseful mood. Medium shot with a slight bird's-eye view. Warm beige, golden, and brown palette with accents of white. No modern objects, historically accurate 7th century scene."
+}

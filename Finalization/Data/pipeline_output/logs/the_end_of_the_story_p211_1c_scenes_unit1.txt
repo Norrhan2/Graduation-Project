@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Prophet asks Zaynab if she has seen or heard anything suspicious of ʿĀʼishah.",
+    "key_visual_action": "Prophet looking at Zaynab with a concerned expression",
+    "characters_present": ["Prophet", "Zaynab bint Jaḥsh"],
+    "setting": "Medina, a quiet room in the Prophet's house",
+    "emotional_tone": "Concerned",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Zaynab denies any suspicion of ʿĀʼishah and affirms her good character.",
+    "key_visual_action": "Zaynab placing her hand on her heart, looking sincere",
+    "characters_present": ["Prophet", "Zaynab bint Jaḥsh"],
+    "setting": "Medina, a quiet room in the Prophet's house",
+    "emotional_tone": "Loyal",
+    "time_of_day": "afternoon"
+  }
+]

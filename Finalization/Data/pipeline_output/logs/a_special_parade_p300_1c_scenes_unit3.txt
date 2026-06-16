@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Sufyān sees the massive army approaching the city",
+    "key_visual_action": "Abū Sufyān looking out at the approaching army with a worried expression",
+    "characters_present": ["Abū Sufyān"],
+    "setting": "A rooftop or high vantage point in Makkah",
+    "emotional_tone": "Concerned",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Abū Sufyān rushes to warn the Quraysh of the impending danger",
+    "key_visual_action": "Abū Sufyān running through the streets, shouting to the Quraysh",
+    "characters_present": ["Abū Sufyān", "Quraysh"],
+    "setting": "The streets of Makkah",
+    "emotional_tone": "Urgent",
+    "time_of_day": "Afternoon"
+  }
+]

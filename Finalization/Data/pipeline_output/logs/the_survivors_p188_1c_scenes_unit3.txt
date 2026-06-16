@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿAmr arrives at the Prophet's presence, looking worried and concerned.",
+    "key_visual_action": "ʿAmr's worried expression",
+    "characters_present": ["ʿAmr ibn Umayyah", "The Prophet"],
+    "setting": "The Prophet's residence in Madinah",
+    "emotional_tone": "concerned",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet's expression changes to sadness and outrage upon hearing ʿAmr's report.",
+    "key_visual_action": "The Prophet's sad and outraged expression",
+    "characters_present": ["ʿAmr ibn Umayyah", "The Prophet"],
+    "setting": "The Prophet's residence in Madinah",
+    "emotional_tone": "sad and outraged",
+    "time_of_day": "afternoon"
+  }
+]

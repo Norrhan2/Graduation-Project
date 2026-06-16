@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet greets the delegation from Taif",
+    "key_visual_action": "The Prophet extending his hand for a handshake",
+    "characters_present": ["The Prophet", "Suwayd ibn al- Ḥārith"],
+    "setting": "A desert landscape with palm trees",
+    "emotional_tone": "Warm and welcoming",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet begins to teach the delegation about the dangers of accumulating wealth",
+    "key_visual_action": "The Prophet holding up a handful of sand",
+    "characters_present": ["The Prophet", "Suwayd ibn al- Ḥārith"],
+    "setting": "A simple desert tent",
+    "emotional_tone": "Serious and cautionary",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Suwayd ibn al- Ḥārith looks puzzled, unsure of the Prophet's message",
+    "key_visual_action": "Suwayd ibn al- Ḥārith tilting his head",
+    "characters_present": ["The Prophet", "Suwayd ibn al- Ḥārith"],
+    "setting": "A simple desert tent",
+    "emotional_tone": "Confused and inquisitive",
+    "time_of_day": "afternoon"
+  }
+]

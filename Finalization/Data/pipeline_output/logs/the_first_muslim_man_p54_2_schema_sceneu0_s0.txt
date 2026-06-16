@@ -1,0 +1,14 @@
+{
+  "scene_title": "Zayd's Distressing Farewell",
+  "era": "pre_prophetic|early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 54",
+  "moral_lesson": "The importance of compassion and empathy towards others",
+  "characters": [
+    {"id": "1", "name": "Ḥakīm ibn Ḥizām", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "tall build, dignified posture, wearing a dark brown thobe and a plain white woolen cloak with a red turban"},
+    {"id": "2", "name": "Zayd", "role": "supporting", "depiction_rule": "NO_FACE", "appearance": "young, slender build, wearing a simple white thobe and a small white cloth head covering"},
+    {"id": "3", "name": "Zayd's mother", "role": "family_of_prophet", "depiction_rule": "FULL", "appearance": "modest, fully covered, wearing a long dark brown jilbab with a white khimar, her hands clasped together in distress"}
+  ],
+  "narrative_text": "Zayd's mother tried to hold onto her beloved son as Ḥakīm ibn Ḥizām pulled him away, taking him from his family.",
+  "compliance": {"prophet_check": "NOT_APPLICABLE", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "Historical accuracy ensured"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A bustling desert marketplace with sandy dunes and palm trees in the background, under a clear blue sky with a few puffy white clouds. Late afternoon sunlight casts a warm glow across the scene. In the foreground, a woman in a long dark brown jilbab with a white khimar is seen from the side, her hands clasped together in distress, as she tries to hold onto a young boy in a simple white thobe with a small white cloth head covering. On the opposite side, a tall man in a dark brown thobe and a plain white woolen cloak with a red turban is seen from behind, his arm extended in a firm grip, pulling the boy away from his mother. The atmosphere is tense and emotional, with a sense of desperation and sadness. Medium close shot at eye level. Warm beige, cream, and light blue palette with the dark brown jilbab as a color anchor. No modern objects, historically accurate 7th century scene."

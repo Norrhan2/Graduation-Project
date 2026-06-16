@@ -1,0 +1,51 @@
+{
+  "scene_input": {
+    "scene_number": 3,
+    "scene_summary": "The Hudhayl ambush the Muslim group, taking them by surprise.",
+    "key_visual_action": "Hudhayl and his men surrounding the Muslims with swords drawn",
+    "characters_present": [
+      "Hudhayl",
+      "Muslims"
+    ],
+    "setting": "The spring al-Rajīʿ",
+    "emotional_tone": "Shock and fear",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 3,
+    "scene_summary": "The Hudhayl ambush the Muslim group, taking them by surprise.",
+    "era": "pre_prophetic",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 186",
+    "moral_lesson": "The importance of vigilance and preparedness in the face of danger",
+    "characters": [
+      {
+        "id": "hudhayl",
+        "name": "Hudhayl",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "strong build, tall, wearing a leather thobe and a brown woolen cloak, holding a curved sword"
+      },
+      {
+        "id": "muslims",
+        "name": "Muslims",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "various builds, wearing simple white thobes, some with scabbards at their sides"
+      }
+    ],
+    "narrative_text": "The Hudhayl tribe, led by Hudhayl, ambushed the Muslim group while they were traveling through the desert. The Muslims were caught off guard and were shocked by the sudden attack.",
+    "compliance": {
+      "prophet_check": "NOT_APPLICABLE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No graphic violence, emphasis on shock and fear"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, arid expanse of sandy desert landscape with sparse acacia trees in the background, under a clear blue sky with a few wispy clouds. Late afternoon sunlight casts long shadows across the sandy dunes. In the foreground, a group of people are seen in various states of surprise and alarm, some crouched down, others standing frozen in shock, all wearing simple white thobes. Surrounding them, a band of men from the Hudhayl tribe, led by the central figure seen from behind: strong build, tall, wearing a leather thobe and a brown woolen cloak, and holding a curved sword. The men are all seen from behind, with their faces turned towards the people, their swords drawn, and their postures indicating a sense of ambush and surprise. Soft warm golden light, tense and suspenseful mood. Medium wide shot from a slight elevation. Warm beige, sandy, and turquoise palette with the brown cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'Muslims' -> 'people'",
+      "'the central figure' -> 'the central figure' (no change needed)",
+      "'the man in the green cloak' -> 'the man in the brown cloak' (no change needed)"
+    ]
+  }
+}

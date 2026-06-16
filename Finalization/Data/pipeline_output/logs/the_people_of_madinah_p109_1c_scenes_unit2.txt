@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet arrives at ʿ Aqabah with his companions.",
+    "key_visual_action": "Prophet riding a camel",
+    "characters_present": ["Prophet", "companions"],
+    "setting": "ʿ Aqabah",
+    "emotional_tone": "curiosity",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet meets Aws and Khazraj, leaders of the two tribes.",
+    "key_visual_action": "Prophet shaking hands with Aws and Khazraj",
+    "characters_present": ["Prophet", "Aws", "Khazraj"],
+    "setting": "ʿ Aqabah",
+    "emotional_tone": "friendliness",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet and the 12 men enter into a covenant, sealing their agreement.",
+    "key_visual_action": "Prophet and 12 men clasping hands",
+    "characters_present": ["Prophet", "Aws", "Khazraj", "other 9 men"],
+    "setting": "ʿ Aqabah",
+    "emotional_tone": "commitment",
+    "time_of_day": "afternoon"
+  }
+]

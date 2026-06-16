@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Muslims approach the Arab tribes' encampment.",
+    "key_visual_action": "The Muslims riding horses, with a determined expression on their faces",
+    "characters_present": ["The Muslims"],
+    "setting": "Dūmat al-Jandal, desert landscape",
+    "emotional_tone": "Determined",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Arab tribes flee, leaving behind their abandoned cattle.",
+    "key_visual_action": "Arab tribes running away, with their belongings scattered around",
+    "characters_present": ["The Arab tribes in Dūmat al-Jandal"],
+    "setting": "Dūmat al-Jandal, desert landscape",
+    "emotional_tone": "Desperate",
+    "time_of_day": "morning"
+  }
+]

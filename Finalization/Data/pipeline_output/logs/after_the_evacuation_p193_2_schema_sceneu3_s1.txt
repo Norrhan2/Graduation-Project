@@ -1,0 +1,14 @@
+{
+  "scene_number": 2,
+  "scene_summary": "The Muslims emerge victorious, defeating the Jews of al-Naḍīr.",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 193",
+  "moral_lesson": "Perseverance and faith lead to triumph over adversity.",
+  "characters": [
+    {"id": "Muslims", "name": "Muslim warriors", "role": "supporting", "depiction_rule": "FULL", "appearance": "various builds, wearing simple tunics and turbans, with some carrying swords and shields"},
+    {"id": "Jews of al-Naḍīr", "name": "Defeated Jews", "role": "antagonist", "depiction_rule": "FULL", "appearance": "slender builds, wearing simple white garments, with some looking dejected and defeated"}
+  ],
+  "narrative_text": "The Muslims, led by the Prophet Muhammad, emerged victorious from the Battle of al-Naḍīr, defeating the Jews who had opposed them.",
+  "compliance": {"prophet_check": "NOT_PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "This scene depicts a historical event, but please ensure the image is not too graphic or disturbing for young children."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, arid desert landscape with rocky outcrops and sparse palm trees stretches out to the horizon. Late afternoon sunlight casts long shadows across the scene, with a warm orange glow illuminating the dusty terrain. In the foreground, a group of Muslim warriors stand triumphantly, their faces set in determined expressions, arms raised in victory, and some holding aloft the Prophet's banner. Surrounding them are defeated Jews, slumped and disheveled, some covering their faces in distress. The central figure seen entirely from behind, wearing a simple white tunic and a brown turban, stands tall among the victorious warriors. In the background, the distant silhouette of a rocky outcrop rises against the sky. Medium wide shot, capturing the sense of triumph and victory. Warm beige, golden, and dusty orange palette with accents of deep blue for the desert sky. No modern objects, historically accurate 7th century scene."

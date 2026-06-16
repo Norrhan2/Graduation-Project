@@ -1,0 +1,14 @@
+{
+  "scene_number": 2,
+  "scene_summary": "The Prophet Muhammad stands in a large mosque, surrounded by a large crowd of Muslims.",
+  "era": "early_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 253",
+  "moral_lesson": "The importance of gratitude and praise to God.",
+  "characters": [
+    {"id": "muhammad", "name": "The Prophet Muhammad", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "crowd", "name": "Large crowd of Muslims", "role": "supporting", "depiction_rule": "FULL", "appearance": "diverse group of men and women, all dressed in modest attire, with some wearing white or off-white thobes and head coverings"}
+  ],
+  "narrative_text": "The Prophet Muhammad stood in the mosque, surrounded by his community. He raised his hands in a gesture of praise and gratitude, thanking God for the blessings they had received.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A grand 7th century mosque with high ceilings and large windows, its walls adorned with intricate geometric patterns and calligraphy. Late afternoon golden sunlight pours in through the windows, casting a warm glow across the space. A large crowd of Muslims sits on the floor, their faces filled with devotion and adoration. At the center of the scene stands the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, both hands raised in a gesture of praise and gratitude. The crowd's diverse group of men and women, all dressed in modest attire, with some wearing white or off-white thobes and head coverings, are seen from the front, their faces filled with joy and gratitude. Soft warm golden light, intimate and sacred mood. Medium shot from above, looking down at the scene. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

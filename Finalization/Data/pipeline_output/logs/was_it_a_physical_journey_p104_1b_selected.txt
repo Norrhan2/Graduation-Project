@@ -1,0 +1,47 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The Miracle of the Night Journey",
+    "unit_text": "Muhammad's night journey from Makkah to Jerusalem and back was considered a miracle by his contemporaries, as it defied the laws of physics and time.",
+    "main_characters": [
+      "Muhammad"
+    ],
+    "event_summary": "Muhammad's night journey was seen as a supernatural event that raised questions about its true nature and purpose.",
+    "selection_reason": "Clear visual moment of Muhammad's journey",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Journey's Impact on Muhammad",
+    "unit_text": "The night journey had a greatly reassuring effect on Muhammad, enabling him to experience God's limitless ability and putting the dispute with the Makkans into perspective.",
+    "main_characters": [
+      "Muhammad"
+    ],
+    "event_summary": "The night journey had a profound impact on Muhammad, giving him confidence and reassurance in the face of adversity.",
+    "selection_reason": "Meaningful lesson on the impact of faith on individuals",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Nature of the Journey",
+    "unit_text": "Most Islamic scholars believe that the night journey was not purely spiritual, but rather a physical journey that Muhammad undertook in body and spirit.",
+    "main_characters": [
+      "Muhammad",
+      "God"
+    ],
+    "event_summary": "Islamic scholars generally agree that the night journey was a physical experience for Muhammad, rather than a purely spiritual one.",
+    "selection_reason": "Distinctive perspective on the nature of the journey",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "The Nature of Miracles",
+    "unit_text": "Miracles are not necessarily supernatural, but rather events that occur because God has willed them to occur, and what is considered natural today may have been considered miraculous in the past.",
+    "main_characters": [
+      "God"
+    ],
+    "event_summary": "Miracles are events that occur because of God's will, and what is considered natural today may have been considered miraculous in the past.",
+    "selection_reason": "Meaningful lesson on the nature of miracles",
+    "estimated_scenes": 1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The young men of Salamah gather in secret to plan their action.",
+    "key_visual_action": "group of young men huddled around a map",
+    "characters_present": ["Young men of Salamah"],
+    "setting": "a hidden cave or secret meeting place",
+    "emotional_tone": "determined",
+    "time_of_day": "night"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The young men of Salamah sneak into ʿAmr's village under the cover of darkness.",
+    "key_visual_action": "young men creeping through shadows",
+    "characters_present": ["Young men of Salamah"],
+    "setting": "ʿAmr's village at night",
+    "emotional_tone": "stealthy",
+    "time_of_day": "night"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The young men of Salamah steal and destroy ʿAmr's idol.",
+    "key_visual_action": "young men smashing the idol",
+    "characters_present": ["Young men of Salamah", "ʿAmr ibn al-Jamūḥ (in the background, unaware)"],
+    "setting": "ʿAmr's village at night",
+    "emotional_tone": "excited",
+    "time_of_day": "night"
+  }
+]

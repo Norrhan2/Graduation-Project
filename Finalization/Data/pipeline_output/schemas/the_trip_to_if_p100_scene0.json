@@ -1,0 +1,48 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "The Prophet Muhammad arrives at the Thaqīf's city, hoping to share his message with their leaders.",
+    "key_visual_action": "Muhammad riding a camel, looking determined",
+    "characters_present": [
+      "Muhammad"
+    ],
+    "setting": "The city of Thaqīf, with palm trees and buildings in the background",
+    "emotional_tone": "Hopeful",
+    "time_of_day": "Morning"
+  },
+  "schema_output": {
+    "scene_number": 1,
+    "scene_summary": "The Prophet Muhammad arrives at the Thaqīf's city, hoping to share his message with their leaders.",
+    "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah|madinah_early|madinah_late",
+    "region": "arabian_desert|levant_ancient|other",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 100",
+    "moral_lesson": "The importance of sharing one's message with others",
+    "characters": [
+      {
+        "id": "1",
+        "name": "Muhammad",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, riding a camel"
+      },
+      {
+        "id": "2",
+        "name": "Thaqīf's city guard",
+        "role": "supporting",
+        "depiction_rule": "NO_FACE|FROM_BEHIND",
+        "appearance": "tall, muscular build, wearing a dark brown woolen cloak and a white turban"
+      }
+    ],
+    "narrative_text": "The Prophet Muhammad rode his camel into the city of Thaqīf, hoping to share his message with the leaders.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Historically accurate 7th century scene."
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. In the foreground, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, riding a camel. In the background, a cityscape with palm trees and buildings, set against a bright blue morning sky with a few fluffy white clouds. The camel's hooves are just about to touch the ground, as if about to dismount. The city guard, seen entirely from behind, stands tall with a muscular build, wearing a dark brown woolen cloak and a white turban, looking out over the city. Soft warm morning light, hopeful and optimistic mood. Medium shot at eye level. Warm beige, cream, and blue palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure'"
+    ]
+  }
+}

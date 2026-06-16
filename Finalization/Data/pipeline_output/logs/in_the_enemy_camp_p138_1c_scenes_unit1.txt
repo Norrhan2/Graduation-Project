@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Quraysh leaders discuss their concerns about confronting the Prophet",
+    "key_visual_action": "Al-Akhnas ibn Sharīq holds up his hands in a cautionary gesture",
+    "characters_present": ["Al-Akhnas ibn Sharīq", "Abū Jahl", "The Quraysh"],
+    "setting": "A gathering in the Quraysh marketplace",
+    "emotional_tone": "Concerned",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Abū Jahl dismisses Al-Akhnas' concerns and calls for action",
+    "key_visual_action": "Abū Jahl points a stern finger at Al-Akhnas",
+    "characters_present": ["Al-Akhnas ibn Sharīq", "Abū Jahl"],
+    "setting": "A gathering in the Quraysh marketplace",
+    "emotional_tone": "Determined",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Quraysh leaders reluctantly follow Abū Jahl's lead",
+    "key_visual_action": "The Quraysh nod in agreement, with some looking uncertain",
+    "characters_present": ["Abū Jahl", "The Quraysh"],
+    "setting": "A gathering in the Quraysh marketplace",
+    "emotional_tone": "Resigned",
+    "time_of_day": "afternoon"
+  }
+]

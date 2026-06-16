@@ -1,0 +1,50 @@
+[
+  {
+    "unit_number": 3,
+    "unit_title": "The Thaqīf's Rejection",
+    "unit_text": "For ten days the Prophet spoke to one chief after another, but none gave him a word of encouragement. The worst response came from three brothers, the sons of ʿAmr ibn ʿUmayr, who were extremely rude in their rejection of the Prophet's approach.",
+    "main_characters": [
+      "Muhammad",
+      "Thaqīf leaders (especially ʿAbd Yālīl, Masūd, and Ḥabīb)"
+    ],
+    "event_summary": "The Thaqīf leaders reject the Prophet's message.",
+    "selection_reason": "Clear visual moment of rejection and rude behavior.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Prophet's Persecution",
+    "unit_text": "The Thaqīf notables refused the Prophet's request not to publicize his mission, and instead set on him a crowd of their teenagers and servants, who chased and stoned him.",
+    "main_characters": [
+      "Muhammad",
+      "Thaqīf notables"
+    ],
+    "event_summary": "The Thaqīf persecute the Prophet.",
+    "selection_reason": "Meaningful lesson on persecution and courage.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "ʿAddās' Encounter with the Prophet",
+    "unit_text": "ʿAddās, a Christian servant of ʿUtbah and Shaybah, was sent to Muhammad with a bunch of grapes, and during their interaction, the Prophet revealed his prophetic status to ʿAddās.",
+    "main_characters": [
+      "Muhammad",
+      "ʿAddās"
+    ],
+    "event_summary": "ʿAddās encounters the Prophet and is impressed by his prophetic status.",
+    "selection_reason": "Clear visual moment of encounter and revelation.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "ʿAddās' Conversion",
+    "unit_text": "ʿAddās, impressed by the Prophet's words, kissed his head, hands, and feet in a gesture of love and respect, indicating his potential conversion to Islam.",
+    "main_characters": [
+      "Muhammad",
+      "ʿAddās"
+    ],
+    "event_summary": "ʿAddās shows signs of conversion to Islam.",
+    "selection_reason": "Meaningful lesson on conversion and faith.",
+    "estimated_scenes": 2
+  }
+]

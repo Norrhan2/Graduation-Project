@@ -1,0 +1,15 @@
+{
+  "scene_number": 2,
+  "scene_title": "al-Mughīrah Explains the Quraysh's Defeat",
+  "era": "late_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 150",
+  "moral_lesson": "The power of faith and the aid of angels in times of need.",
+  "characters": [
+    {"id": "1", "name": "Abū Lahab", "role": "antagonist", "depiction_rule": "FROM_BEHIND", "appearance": "tall, imposing build, black thobe and red woolen cloak"},
+    {"id": "2", "name": "al-Mughīrah", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified posture, wearing a flowing white thobe with a distinctive deep blue woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "The Quraysh were defeated because they did not have the aid of angels, but the believers did.",
+  "compliance": {"prophet_check": "NO", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "No graphic violence or idols."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Exterior of the Zamzam well in 7th century Makkah with sandy dunes and palm trees in the background. Late afternoon warm sunlight casts long shadows across the scene. In the center, a group of people stand near the well, but the focus is on two figures standing slightly apart from the crowd. On the left, the central figure seen entirely from behind: tall, imposing build, wearing a black thobe and red woolen cloak, arms crossed, looking stern. On the right, a medium build man with dignified posture, wearing a flowing white thobe with a deep blue woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, spreading his hands in a gesture of explanation, speaking to the stern figure. Soft warm golden light, calm and peaceful mood. Medium shot at eye level. Warm beige, cream, and blue palette with the red cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

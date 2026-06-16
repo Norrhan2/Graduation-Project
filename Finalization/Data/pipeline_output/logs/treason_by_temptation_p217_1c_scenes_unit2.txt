@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Muslim delegation arrives at the Prophet's location to report Qurayẓah's treachery.",
+    "key_visual_action": "Sa ʿ d ibn Mu ʿādh and Sa ʿ d ibn ʿ Ubādah approaching the Prophet with worried expressions.",
+    "characters_present": ["Prophet", "Sa ʿ d ibn Mu ʿādh", "Sa ʿ d ibn ʿ Ubādah"],
+    "setting": "Desert landscape or a makeshift meeting area",
+    "emotional_tone": "Concerned",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet listens calmly to the delegation's report, reassuring the Muslims.",
+    "key_visual_action": "The Prophet with a calm and gentle expression, while Sa ʿ d ibn Mu ʿādh and Sa ʿ d ibn ʿ Ubādah look relieved.",
+    "characters_present": ["Prophet", "Sa ʿ d ibn Mu ʿādh", "Sa ʿ d ibn ʿ Ubādah"],
+    "setting": "Desert landscape or a makeshift meeting area",
+    "emotional_tone": "Reassured",
+    "time_of_day": "afternoon"
+  }
+]

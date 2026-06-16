@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "A Quraysh messenger arrives at the Muslim camp, curious about their condition.",
+    "key_visual_action": "Quraysh messenger approaching the Muslim camp gate",
+    "characters_present": ["Quraysh messenger", "Companions"],
+    "setting": "Muslim camp",
+    "emotional_tone": "curiosity",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Quraysh messenger shares the rumor with his fellow Quraysh, who eagerly listen.",
+    "key_visual_action": "Quraysh messenger speaking to a group of Quraysh",
+    "characters_present": ["Quraysh messenger", "Quraysh"],
+    "setting": "Quraysh marketplace",
+    "emotional_tone": "excitement",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Prophet Muhammad learns about the rumor and looks concerned, with his Companions around him.",
+    "key_visual_action": "Prophet Muhammad looking worried, with Companions in the background",
+    "characters_present": ["Prophet Muhammad", "Companions"],
+    "setting": "Muslim camp",
+    "emotional_tone": "concern",
+    "time_of_day": "evening"
+  }
+]

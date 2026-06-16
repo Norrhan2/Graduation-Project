@@ -1,0 +1,46 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "The Prophet politely declines ʿ Utbah's offer, showing his commitment to his message.",
+    "key_visual_action": "The Prophet shaking his head, with a gentle smile",
+    "characters_present": [
+      "ʿ Utbah ibn Rabīʿ ah",
+      "Muhammad"
+    ],
+    "setting": "The same grand courtyard or palace",
+    "emotional_tone": "Resolute and calm",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_title": "A Polite Decline",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 71",
+    "moral_lesson": "Importance of staying committed to one's values and message",
+    "characters": [
+      {
+        "id": "Utba",
+        "name": "ʿ Utbah ibn Rabīʿah",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall, athletic build, wearing a richly embroidered black thobe and a matching black turban with a small, intricately designed golden pin at the front, a sign of his wealth and status"
+      },
+      {
+        "id": "Prophet",
+        "name": "Muhammad",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      }
+    ],
+    "narrative_text": "The Prophet Muhammad politely declined ʿ Utbah's offer, showing his commitment to his message of monotheism.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A grand courtyard or palace in early 7th century Makkah with intricately designed arches and columns, painted in warm earth tones. Late afternoon golden sunlight casts a warm glow across the scene. In the center of the courtyard, two figures stand facing each other. On the left, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle gesture of decline. On the right, a tall, athletic man with a confident posture, wearing a richly embroidered black thobe and a matching black turban with a small, intricately designed golden pin at the front, a sign of his wealth and status, standing with his arms crossed, a look of disappointment on his face. Soft warm golden light, serene and dignified mood. Medium shot at eye level. Warm beige, gold, and deep green palette. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": []
+  }
+}

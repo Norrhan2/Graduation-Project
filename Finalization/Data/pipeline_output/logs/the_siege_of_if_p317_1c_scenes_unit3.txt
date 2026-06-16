@@ -1,0 +1,47 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet stands on a mountain overlooking the city of Thaqīf, looking out at the people with concern.",
+    "key_visual_action": "The Prophet looks out at the city with a worried expression.",
+    "characters_present": ["Prophet"],
+    "setting": "Mountain overlooking Thaqīf",
+    "emotional_tone": "Concerned",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet bows his head in prayer, hands clasped together, as he asks Allah to guide the people of Thaqīf.",
+    "key_visual_action": "The Prophet bows his head, hands clasped together in prayer.",
+    "characters_present": ["Prophet"],
+    "setting": "Mountain overlooking Thaqīf",
+    "emotional_tone": "Devout",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet's eyes are closed in concentration as he prays for the guidance of the Thaqīf.",
+    "key_visual_action": "The Prophet's eyes are closed, with a look of deep concentration.",
+    "characters_present": ["Prophet"],
+    "setting": "Mountain overlooking Thaqīf",
+    "emotional_tone": "Focused",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "The people of Thaqīf are shown in the background, going about their daily lives, unaware of the Prophet's prayer.",
+    "key_visual_action": "The people of Thaqīf are shown in the background, with the Prophet in the foreground.",
+    "characters_present": ["Thaqīf", "Prophet"],
+    "setting": "Mountain overlooking Thaqīf",
+    "emotional_tone": "Serene",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 5,
+    "scene_summary": "The Prophet stands up from his prayer, looking hopeful and confident that Allah will answer his prayer.",
+    "key_visual_action": "The Prophet stands up, with a look of hope and confidence.",
+    "characters_present": ["Prophet"],
+    "setting": "Mountain overlooking Thaqīf",
+    "emotional_tone": "Hopeful",
+    "time_of_day": "Afternoon"
+  }
+]

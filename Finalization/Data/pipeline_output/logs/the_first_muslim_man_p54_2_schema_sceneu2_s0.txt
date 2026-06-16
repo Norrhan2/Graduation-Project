@@ -1,0 +1,39 @@
+{
+  "scene_number": 1,
+  "scene_title": "Muhammad meets with Ḥārithah and Kaʿb to discuss Zayd's future",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|late_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 54",
+  "moral_lesson": "Importance of discussing and planning for the future",
+  "characters": [
+    {
+      "id": "1",
+      "name": "Muhammad",
+      "role": "prophet",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "2",
+      "name": "Ḥārithah",
+      "role": "sahabi",
+      "depiction_rule": "FULL",
+      "appearance": "medium build, wearing a plain beige thobe and a simple woolen cloak with a beige cloth head covering"
+    },
+    {
+      "id": "3",
+      "name": "Kaʿb",
+      "role": "sahabi",
+      "depiction_rule": "FULL",
+      "appearance": "slender build, wearing a light brown thobe and a simple woolen cloak with a light brown cloth head covering"
+    }
+  ],
+  "narrative_text": "Muhammad gathered Ḥārithah and Kaʿb to discuss Zayd's future, but they had different opinions.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A quiet room in the mosque with simple wooden pillars and a high ceiling, the walls made of unpainted mud-brick in a warm beige color. Late afternoon golden sunlight filters through the open wooden door on the left, casting a warm glow across the room. In the center, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, gesturing with his hands, looking concerned. To the right, two men sit on a low bench, one with a medium build wearing a plain beige thobe and a simple woolen cloak with a beige cloth head covering, the other with a slender build wearing a light brown thobe and a simple woolen cloak with a light brown cloth head covering, engaged in conversation, their faces filled with a mix of concern and curiosity. Soft warm golden light, intimate and contemplative mood. Medium shot at eye level. Warm beige, golden, and deep green palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

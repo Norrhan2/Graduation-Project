@@ -1,0 +1,14 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Hudhayl secretly meets with the delegation to plan the Muslim group's arrest.",
+  "era": "pre_prophetic",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 186",
+  "moral_lesson": "Importance of caution and secrecy",
+  "characters": [
+    {"id": "Hudhayl", "name": "Hudhayl", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a dark brown thobe and a black woolen cloak with a white cloth head covering"},
+    {"id": "Delegation", "name": "Delegation", "role": "supporting", "depiction_rule": "FROM_BEHIND", "appearance": "group of men wearing dark-colored robes and head coverings, varying builds and postures"}
+  ],
+  "narrative_text": "Hudhayl gathered a secret delegation to plan the Muslim group's arrest, using a map of al-Rajīʿ to strategize.",
+  "compliance": {"prophet_check": "NOT_APPLICABLE", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "None"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A dimly lit, small hidden cave with rough stone walls and a low ceiling, lit by a few flickering torches casting warm orange and yellow light. Nighttime darkness outside, with a faint hint of stars visible through the cave entrance. In the center of the cave, Hudhayl stands with his back to the viewer, seen from behind: medium build, dignified upright posture, wearing a dark brown thobe and a black woolen cloak with a white cloth head covering, pointing to a worn leather map of al-Rajīʿ spread out on a rocky outcropping. The delegation stands around him, their faces turned towards Hudhayl, wearing dark-colored robes and head coverings, varying builds and postures. Soft warm light, tense and suspenseful mood. Medium close shot at eye level. Dark blues, greys, and browns palette with a hint of warm orange from the torches, emphasizing the secrecy and danger of the scene. No modern objects, historically accurate pre-prophetic scene."

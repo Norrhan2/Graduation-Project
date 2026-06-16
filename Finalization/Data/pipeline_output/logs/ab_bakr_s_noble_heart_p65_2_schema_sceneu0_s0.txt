@@ -1,0 +1,14 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Abū Bakr sees a slave being sold at the market.",
+  "era": "pre_prophetic",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 65",
+  "moral_lesson": "The importance of treating all people with kindness and respect, regardless of their status or circumstances.",
+  "characters": [
+    {"id": "abu_bakr", "name": "Abū Bakr", "role": "family_of_prophet", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a plain brown woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "slave_owner", "name": "ʿĀmir ibn Fuhayrah", "role": "antagonist", "depiction_rule": "FULL", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe and a plain brown woolen cloak"}
+  ],
+  "narrative_text": "Abū Bakr was at the market when he saw a slave being sold. He looked at the slave with concern, wondering what would become of this person.",
+  "compliance": {"prophet_check": "NOT_PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "No graphic violence or mature themes."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Bustling 7th century Makkah market scene during late afternoon with warm sunlight casting long shadows across the sandy floor. Various merchants and traders in traditional attire, including the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a plain brown woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, standing with his back to the viewer, looking at a nearby slave with a concerned expression. On the opposite side of the slave, a man of medium build, wearing a flowing white thobe and a plain brown woolen cloak, stands with his arms crossed, looking uninterested. The slave, a young man with a worn expression, stands with his head slightly bowed, wearing a simple white tunic. Soft warm golden light, lively and detailed mood. Medium close shot at eye level. Earthy, beige, and golden palette with the warm tones of the market as a color anchor. No modern objects, historically accurate 7th century scene."

@@ -1,0 +1,16 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Khubayb is led to the execution site, surrounded by his captors.",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 186",
+  "moral_lesson": "Perseverance in the face of adversity and the importance of standing up for one's faith.",
+  "characters": [
+    {"id": "khubayb", "name": "Khubayb ibn ʿAdiy", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, hands tied behind his back, wearing a plain white thobe with a simple brown woolen cloak"},
+    {"id": "safwan", "name": "Ṣafwān ibn Umayyah", "role": "antagonist", "depiction_rule": "NORMAL", "appearance": "tall build, stern expression, wearing a dark-colored thobe and a red woolen cloak"},
+    {"id": "abusufyan", "name": "Abū Sufyān", "role": "antagonist", "depiction_rule": "NORMAL", "appearance": "slender build, confident posture, wearing a dark-colored thobe and a white woolen cloak"}
+  ],
+  "narrative_text": "Khubayb was led to the execution site, surrounded by his captors. He walked with his hands tied behind his back, showing his courage and faith.",
+  "compliance": {"prophet_check": "NOT PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, open desert landscape with sparse palm trees and rocky outcroppings in the background. Late afternoon sunlight casts a warm glow over the scene. In the center, a group of men walk towards the viewer, led by a tall figure in the foreground: medium build, dignified posture, seen entirely from behind, wearing a flowing white thobe with a simple brown woolen cloak draped over both shoulders and a white cloth head covering. He walks with his hands tied behind his back, demonstrating his courage and faith. Behind him, two men with stern expressions walk in a line: one wearing a dark-colored thobe and a red woolen cloak, the other wearing a dark-colored thobe and a white woolen cloak. Soft warm golden light, serious and somber mood. Medium shot from a slight angle, emphasizing the path ahead. Earthy, beige, and sienna palette with touches of warm golden light. No modern objects, historically accurate 7th century scene."
+}

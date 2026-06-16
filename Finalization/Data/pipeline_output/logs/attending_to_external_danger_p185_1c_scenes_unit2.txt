@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿ Abdullāh ibn Anīs spots Khālid ibn Sufyān searching for a place to encamp his women.",
+    "key_visual_action": "ʿ Abdullāh ibn Anīs pointing at Khālid ibn Sufyān",
+    "characters_present": ["ʿ Abdullāh ibn Anīs", "Khālid ibn Sufyān"],
+    "setting": "Desert landscape",
+    "emotional_tone": "Alertness",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "ʿ Abdullāh ibn Anīs confronts and kills Khālid ibn Sufyān.",
+    "key_visual_action": "ʿ Abdullāh ibn Anīs drawing his sword",
+    "characters_present": ["ʿ Abdullāh ibn Anīs", "Khālid ibn Sufyān"],
+    "setting": "Desert landscape",
+    "emotional_tone": "Determination",
+    "time_of_day": "Afternoon"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet chooses Marthad ibn Abī Marthad as the leader of the companions.",
+    "key_visual_action": "The Prophet extending his hand to point to Marthad ibn Abī Marthad",
+    "characters_present": ["Prophet", "Marthad ibn Abī Marthad"],
+    "setting": "Medina, the Prophet's Mosque",
+    "emotional_tone": "serious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet sends the six companions, led by Marthad ibn Abī Marthad, to the Hudhayl.",
+    "key_visual_action": "The Prophet giving a gentle push to the departing companions",
+    "characters_present": ["Prophet", "Marthad ibn Abī Marthad", "Hudhayl"],
+    "setting": "Medina, the Prophet's Mosque",
+    "emotional_tone": "encouraging",
+    "time_of_day": "afternoon"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet Muhammad and the Muslims from Madinah gather to finalize the agreement.",
+    "key_visual_action": "Hands clasped in a gesture of unity",
+    "characters_present": ["Muhammad", "Muslims from Madinah"],
+    "setting": "Madinah, outdoors, in a public square",
+    "emotional_tone": "Hopeful",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet Muhammad signs the agreement, symbolizing the beginning of a new era.",
+    "key_visual_action": "The Prophet's hand moving to sign the document",
+    "characters_present": ["Muhammad"],
+    "setting": "Madinah, outdoors, in a public square",
+    "emotional_tone": "Triumphant",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Muslims from Madinah celebrate the agreement with joy and gratitude.",
+    "key_visual_action": "Muslims from Madinah cheering and smiling",
+    "characters_present": ["Muslims from Madinah"],
+    "setting": "Madinah, outdoors, in a public square",
+    "emotional_tone": "Joyful",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "The Prophet Muhammad and the Muslims from Madinah share a moment of mutual respect and admiration.",
+    "key_visual_action": "The Prophet and the Muslims from Madinah shaking hands",
+    "characters_present": ["Muhammad", "Muslims from Madinah"],
+    "setting": "Madinah, outdoors, in a public square",
+    "emotional_tone": "Respectful",
+    "time_of_day": "afternoon"
+  }
+]

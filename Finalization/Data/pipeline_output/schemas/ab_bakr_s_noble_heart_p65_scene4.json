@@ -1,0 +1,48 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "The Prophet approaches Abū Bakr after seeing his selfless actions.",
+    "key_visual_action": "The Prophet extending his hand to Abū Bakr",
+    "characters_present": [
+      "The Prophet",
+      "Abū Bakr"
+    ],
+    "setting": "Medina's marketplace",
+    "emotional_tone": "Warmth and appreciation",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_title": "The Prophet's Appreciation",
+    "era": "madinah_early",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 65",
+    "moral_lesson": "Selfless actions can lead to great rewards",
+    "characters": [
+      {
+        "id": "Prophet_Muhammad",
+        "name": "The Prophet",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing green cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture"
+      },
+      {
+        "id": "Abu_Bakr",
+        "name": "Abū Bakr",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "slender older man with slightly stooped shoulders, wearing an off-white thobe and plain brown woolen cloak with a white cloth head covering"
+      }
+    ],
+    "narrative_text": "The Prophet saw Abū Bakr's selfless actions and was filled with warmth and appreciation.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Bustling ancient Medina marketplace with narrow cobblestone streets and wooden stalls selling fresh produce and goods. Late afternoon golden sunlight casts warm rays across the scene, illuminating the vibrant colors of the market. In the center, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing green cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture. Standing in front of him, a slender older man with slightly stooped shoulders, wearing an off-white thobe and plain brown woolen cloak with a white cloth head covering, looking up at the central figure with a sense of humility and gratitude. Soft warm golden light, lively and vibrant mood. Medium close shot at eye level. Earthy palette with the green cloak as a color anchor and accents of warm golden light. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure'"
+    ]
+  }
+}

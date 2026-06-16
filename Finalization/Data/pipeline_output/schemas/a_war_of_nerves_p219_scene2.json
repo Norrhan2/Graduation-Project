@@ -1,0 +1,39 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "Prophet stands firm at his position, ready to face Quraysh.",
+    "key_visual_action": "Prophet standing with his hands on his hips, looking determined",
+    "characters_present": [
+      "Prophet"
+    ],
+    "setting": "Battlefield, Medina",
+    "emotional_tone": "Bravery",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 1,
+    "scene_title": "The Prophet Stands Firm",
+    "era": "madinah_early",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 219",
+    "moral_lesson": "Standing up for one's beliefs and being brave in the face of adversity",
+    "characters": [
+      {
+        "id": "1",
+        "name": "The Prophet",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, hands on hips"
+      }
+    ],
+    "narrative_text": "The Prophet stood firm on the battlefield, his hands on his hips, ready to face the Quraysh.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast open 7th century battlefield in the Arabian Desert, with worn sandy terrain and scattered palm trees in the background. Late afternoon sunlight casts a warm glow over the landscape. In the foreground, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, hands firmly placed on his hips in a determined gesture. The ground beneath his feet is dry and cracked, with a few scattered rocks and palm fronds scattered about. Soft warm golden light, epic and heroic mood. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": []
+  }
+}

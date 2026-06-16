@@ -1,0 +1,15 @@
+{
+  "scene_number": 2,
+  "scene_summary": "The Quraysh mention the killing of ʿAmr ibn al-Ḥaḍramī as one of their grievances.",
+  "era": "late_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 138",
+  "moral_lesson": "The consequences of violence and the importance of forgiveness",
+  "characters": [
+    {"id": "quraysh_leader", "name": "The Quraysh leader", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep red woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, holding a spear in his right hand"},
+    {"id": "ʿamr_ibn_al_Ḥaḍramī", "name": "ʿAmr ibn al-Ḥaḍramī", "role": "ghostly image", "depiction_rule": "NO_FACE", "appearance": "a faint, ghostly image in the background, dressed in traditional Arab attire, with a sorrowful expression"}
+  ],
+  "narrative_text": "The Quraysh gathered in a large meeting place in Makkah, remembering the killing of ʿAmr ibn al-Ḥaḍramī.",
+  "compliance": {"prophet_check": "NOT_PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "The scene focuses on the Quraysh's grief and does not depict any violence or harm to children."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A large, open gathering place in 7th century Makkah with a high, domed roof supported by intricately carved wooden pillars. Late afternoon sunlight streams through the large windows, casting warm rays across the room. The air is thick with the scent of incense and the murmurs of the Quraysh. A group of men, dressed in traditional white thobes and woolen cloaks, sit or stand in a circle, their faces a mix of sadness and anger. One man, a Quraysh leader, stands at the center of the circle, his back to the viewer, wearing a flowing white thobe with a deep red woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, holding a spear in his right hand. In the background, a faint, ghostly image of ʿAmr ibn al-Ḥaḍramī appears, dressed in traditional Arab attire, with a sorrowful expression. Soft warm golden light, a sense of sorrow and loss. Medium long shot at eye level. Warm beige, golden, and deep red palette with the deep red cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

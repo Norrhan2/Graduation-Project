@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Sufyān arrives at the Muslim camp, looking for the Prophet.",
+    "key_visual_action": "Abū Sufyān riding a horse, looking around with a concerned expression",
+    "characters_present": ["Abū Sufyān"],
+    "setting": "Desert landscape with the Muslim camp in the distance",
+    "emotional_tone": "Suspenseful",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Abū Sufyān confronts ʿUmar, asking if the Muslims have killed the Prophet.",
+    "key_visual_action": "Abū Sufyān pointing at ʿUmar, with a stern expression, while ʿUmar stands firm",
+    "characters_present": ["Abū Sufyān", "ʿ Umar"],
+    "setting": "The Muslim camp, with the Prophet's tent in the background",
+    "emotional_tone": "Tense",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "ʿUmar confidently tells Abū Sufyān that the Prophet is still alive.",
+    "key_visual_action": "ʿUmar smiling and shaking his head, while Abū Sufyān looks surprised",
+    "characters_present": ["Abū Sufyān", "ʿ Umar"],
+    "setting": "The Muslim camp, with the Prophet's tent in the background",
+    "emotional_tone": "Relieved",
+    "time_of_day": "Afternoon"
+  }
+]

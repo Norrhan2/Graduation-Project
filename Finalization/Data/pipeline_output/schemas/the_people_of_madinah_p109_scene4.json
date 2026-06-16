@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "The Prophet calls Muṣʿab aside for a private conversation.",
+    "key_visual_action": "The Prophet extending his hand to Muṣʿab, inviting him to come closer.",
+    "characters_present": [
+      "Prophet",
+      "Muṣʿab"
+    ],
+    "setting": "A quiet corner of the mosque",
+    "emotional_tone": "Serious",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 1,
+    "scene_summary": "The Prophet calls Muṣʿab aside for a private conversation.",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 109",
+    "moral_lesson": "Importance of private conversations in Islam",
+    "characters": [
+      {
+        "id": "Prophet",
+        "name": "The Prophet",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "Muṣʿab",
+        "name": "Muṣʿab",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, wearing a simple off-white thobe and a plain brown woolen cloak"
+      }
+    ],
+    "narrative_text": "The Prophet wanted to talk to Muṣʿab about a special task.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A quiet corner of a 7th century Makkah mosque with rough-hewn stone walls in warm beige tones and a simple earthen floor partly covered by a woven straw mat. Late afternoon sunlight streams through a small window high above, casting warm rays across the room. A few scattered papyrus scrolls and a clay inkwell sit on a low wooden shelf against the wall. Two figures stand facing each other, one slightly apart from the other. On the left, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle, inviting gesture. On the right, a slender young man with a humble posture, wearing a simple off-white thobe and plain brown woolen cloak, standing with his feet shoulder-width apart, looking slightly uncertain, yet open to the man in the green cloak's words. Soft warm golden light, contemplative and respectful mood. Medium close shot at eye level, slightly from the side. Warm beige, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'Prophet' -> 'the man in the green cloak'"
+    ]
+  }
+}

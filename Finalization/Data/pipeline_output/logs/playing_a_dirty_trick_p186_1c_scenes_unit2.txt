@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Hudhayl secretly meets with the delegation to plan the Muslim group's arrest.",
+    "key_visual_action": "Hudhayl pointing to a map of al-Rajīʿ",
+    "characters_present": ["Hudhayl", "Delegation"],
+    "setting": "A hidden cave",
+    "emotional_tone": "Suspenseful",
+    "time_of_day": "Night"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Muslim group arrives at the spring al-Rajīʿ, unaware of the impending danger.",
+    "key_visual_action": "Muslims laughing and drinking from the spring",
+    "characters_present": ["Muslims"],
+    "setting": "The spring al-Rajīʿ",
+    "emotional_tone": "Carefree",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Hudhayl ambush the Muslim group, taking them by surprise.",
+    "key_visual_action": "Hudhayl and his men surrounding the Muslims with swords drawn",
+    "characters_present": ["Hudhayl", "Muslims"],
+    "setting": "The spring al-Rajīʿ",
+    "emotional_tone": "Shock and fear",
+    "time_of_day": "Afternoon"
+  }
+]

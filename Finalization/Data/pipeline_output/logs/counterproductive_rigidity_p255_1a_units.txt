@@ -1,0 +1,30 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The Quraysh's Rigid Attitude",
+    "unit_text": "The Quraysh insisted on harsh terms in the peace agreement, including forcing Muslims to return apostates.",
+    "main_characters": ["Quraysh", "Prophet Muhammad"],
+    "event_summary": "The Quraysh adopts a rigid and inflexible attitude in the peace agreement, trying to dictate harsh terms."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Abū Buṣayr's Conversion and Return",
+    "unit_text": "Abū Buṣayr, a Thaqīf man, converts to Islam and is sent back to the Quraysh, despite the Prophet's reservations.",
+    "main_characters": ["Abū Buṣayr", "Prophet Muhammad", "Quraysh"],
+    "event_summary": "Abū Buṣayr is sent back to the Quraysh after converting to Islam, despite the Prophet's concerns."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Abū Buṣayr's Escape",
+    "unit_text": "Abū Buṣayr kills his captor and escapes, returning to the Prophet in Madinah.",
+    "main_characters": ["Abū Buṣayr", "Man from the tribe of ʿĀmir", "Servant"],
+    "event_summary": "Abū Buṣayr kills his captor and escapes, returning to the Prophet in Madinah."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Prophet's Reaction",
+    "unit_text": "The Prophet comments on Abū Buṣayr's action, noting that he would cause a war if supported.",
+    "main_characters": ["Prophet Muhammad", "Abū Buṣayr"],
+    "event_summary": "The Prophet comments on Abū Buṣayr's action, noting that he would cause a war if supported."
+  }
+]

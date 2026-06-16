@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "A group of unbelievers gather to discuss their plan to use poetry to insult the Prophet and his companions.",
+    "key_visual_action": "a poet scribbling on a parchment",
+    "characters_present": ["unbeliever poet", "other unbelievers"],
+    "setting": "a dark, dimly lit cave",
+    "emotional_tone": "malicious",
+    "time_of_day": "evening"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "A poet from the unbelievers stands in front of the Prophet and his companions, reciting a poem filled with insults.",
+    "key_visual_action": "the poet pointing a finger at the Prophet",
+    "characters_present": ["unbeliever poet", "Prophet", "companions"],
+    "setting": "a public square in Mecca",
+    "emotional_tone": "anger and offense",
+    "time_of_day": "afternoon"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Quraysh leaders discuss their concerns about confronting the Prophet",
+  "era": "late_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 138",
+  "moral_lesson": "The importance of careful consideration and caution in decision-making",
+  "characters": [
+    {
+      "id": "al_akhnas_ibn_shariq",
+      "name": "Al-Akhnas ibn Sharīq",
+      "role": "leader",
+      "depiction_rule": "NO_FACE",
+      "appearance": "tall build, dignified upright posture, wearing a white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, hands raised in a cautionary gesture"
+    },
+    {
+      "id": "abu_jahl",
+      "name": "Abū Jahl",
+      "role": "leader",
+      "depiction_rule": "FULL",
+      "appearance": "medium build, stern facial expression, wearing a brown leather tunic with a red woolen cloak and a white cloth head covering"
+    },
+    {
+      "id": "the_quraysh",
+      "name": "The Quraysh",
+      "role": "crowd",
+      "depiction_rule": "FULL",
+      "appearance": "group of men with various facial expressions, dressed in a mix of white and brown thobes with woolen cloaks"
+    }
+  ],
+  "narrative_text": "The Quraysh leaders gathered in the marketplace, their faces filled with concern as they discussed the Prophet's growing influence.",
+  "compliance": {
+    "prophet_check": "not present in this scene",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": "Historically accurate depiction of the Quraysh marketplace in 7th century Makkah"
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A bustling 7th century Makkah marketplace with unpainted mud-brick buildings in warm earth tones and a packed-earth floor partly covered by a woven palm-fiber mat. Late afternoon golden sunlight streams through the open air, casting warm rays across the scene. In the center, a group of men in white and brown thobes with woolen cloaks stand in a semi-circle, their faces filled with concern and discussion. On the left, the central figure seen entirely from behind: tall build, dignified upright posture, wearing a white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, hands raised in a cautionary gesture. On the right, a medium-sized man with a stern facial expression, wearing a brown leather tunic with a red woolen cloak and a white cloth head covering, stands with a hand on his hip, engaged in a heated discussion. Soft warm golden light, lively and dynamic mood. Wide shot at eye level. Earthy, sandy, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

@@ -1,0 +1,59 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "A group of Quraysh approach the Muslim camp",
+    "key_visual_action": "Quraysh walking towards the camp with curious expressions",
+    "characters_present": [
+      "The Quraysh"
+    ],
+    "setting": "Desert landscape with the Muslim camp in the distance",
+    "emotional_tone": "Curiosity",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 1,
+    "scene_summary": "A group of Quraysh approach the Muslim camp",
+    "era": "late_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 138",
+    "moral_lesson": "Curiosity can lead to understanding and acceptance.",
+    "characters": [
+      {
+        "id": "quraysh_1",
+        "name": "A Quraysh leader",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, wearing a dark brown thobe with a white turban and a brown woolen cloak draped over both shoulders"
+      },
+      {
+        "id": "quraysh_2",
+        "name": "Another Quraysh man",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "slender build, wearing a light brown thobe and a plain white woolen cloak with a white cloth head covering"
+      },
+      {
+        "id": "quraysh_3",
+        "name": "A Quraysh woman",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "modestly dressed in a long, dark blue jilbab with a khimar covering her hair and a white headscarf beneath"
+      }
+    ],
+    "narrative_text": "A group of curious Quraysh from Makkah approached the Muslim camp, wondering what this new community was all about.",
+    "compliance": {
+      "prophet_check": "none",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, arid desert landscape stretches out in every direction with a few scattered palm trees in the distance. In the near foreground, a small Muslim camp comes into view, with several simple tents made of woven goat hair and wooden poles. Late afternoon sunlight casts a warm glow across the scene, with a few wispy clouds scattered across the sky. In the distance, a group of three figures, dressed in traditional attire, can be seen walking towards the camp with curious expressions on their faces, which are not visible as they are seen from behind. The central figure is a Quraysh leader, medium build, wearing a dark brown thobe with a white turban and a brown woolen cloak draped over both shoulders. The second figure is another Quraysh man, slender build, wearing a light brown thobe and a plain white woolen cloak with a white cloth head covering. The third figure is a woman, modestly dressed in a long, dark blue garment with a head covering and a white headscarf beneath. Soft warm golden light, expansive and curious mood. Medium wide shot from a low angle. Warm beige, sandy, and golden palette with the dark brown thobe as a color anchor. No modern objects, historically accurate late 7th century scene.",
+    "_safety_changes": [
+      "'the central figure' / 'the man in the green cloak' -> 'the central figure'",
+      "'Quraysh woman' -> 'woman'",
+      "'Quraysh attire' -> 'traditional attire'",
+      "'Quraysh leader' -> 'Quraysh leader' (kept as is, but could be 'the leader' for more generality)",
+      "'Quraysh man' -> 'Quraysh man' (kept as is, but could be 'the man' for more generality)"
+    ]
+  }
+}

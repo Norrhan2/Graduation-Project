@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Al-Mughīrah ibn Shu'bah and the delegation approach al-Lāt.",
+    "key_visual_action": "al-Mughīrah ibn Shu'bah holding an axe, with a determined look on his face",
+    "characters_present": ["al-Mughīrah ibn Shu'bah", "delegation"],
+    "setting": "al-Lāt, Ṭā'if",
+    "emotional_tone": "determined",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Al-Mughīrah ibn Shu'bah pretends to fall down after hitting al-Lāt with an axe.",
+    "key_visual_action": "al-Mughīrah ibn Shu'bah falling to the ground, with his axe still in hand",
+    "characters_present": ["al-Mughīrah ibn Shu'bah", "people of Ṭā'if"],
+    "setting": "al-Lāt, Ṭā'if",
+    "emotional_tone": "surprised",
+    "time_of_day": "afternoon"
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "ʿ Abdullāh ibn Anīs confronts and kills Khālid ibn Sufyān.",
+    "key_visual_action": "ʿ Abdullāh ibn Anīs drawing his sword",
+    "characters_present": [
+      "ʿ Abdullāh ibn Anīs",
+      "Khālid ibn Sufyān"
+    ],
+    "setting": "Desert landscape",
+    "emotional_tone": "Determination",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_summary": "ʿ Abdullāh ibn Anīs confronts and kills Khālid ibn Sufyān.",
+    "era": "pre_prophetic",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 185",
+    "moral_lesson": "Standing up for what is right, even in the face of danger",
+    "characters": [
+      {
+        "id": "1",
+        "name": "ʿ Abdullāh ibn Anīs",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall, athletic build, wearing a simple beige thobe with a brown leather belt and a white scarf wrapped around his head, one hand drawing his sword"
+      },
+      {
+        "id": "2",
+        "name": "Khālid ibn Sufyān",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, wearing a dark brown thobe with a reddish-brown cloak draped over both shoulders, one hand raised in a defiant gesture"
+      }
+    ],
+    "narrative_text": "ʿ Abdullāh ibn Anīs stood firm, determined to defend his faith, as he confronted Khālid ibn Sufyān. With a swift motion, he drew his sword, ready to face whatever lay ahead.",
+    "compliance": {
+      "prophet_check": "NOT_APPLICABLE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Historically accurate 7th century desert scene"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, arid desert landscape with towering sand dunes in shades of beige and golden brown, stretching as far as the eye can see. Late afternoon sunlight casts long shadows across the sand, with a few scattered palm trees providing a meager shade. Two figures stand facing each other in the distance, set against the backdrop of the endless dunes. On the left, the man in the beige thobe is seen from behind: tall, athletic build, with one hand drawing his sword and the other hand gripping the hilt firmly. On the right, the central figure is seen entirely from behind: medium build, wearing a dark brown thobe with a reddish-brown cloak draped over both shoulders, one hand raised in a defiant gesture. Soft warm golden light, intense and dramatic mood. Medium long shot, capturing the vast expanse of the desert. Earthy tones of beige, brown, and golden palette with a hint of red from the cloak. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": []
+  }
+}

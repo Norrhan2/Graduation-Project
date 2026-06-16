@@ -1,0 +1,49 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "ʿĀṣim's Bravery at Uḥud",
+    "unit_text": "ʿĀṣim ibn Thābit killed two non-believing brothers at the Battle of Uḥud.",
+    "main_characters": [
+      "ʿĀṣim ibn Thābit",
+      "Sulāfah bint Saʿd"
+    ],
+    "event_summary": "ʿĀṣim killed two non-believers at the Battle of Uḥud.",
+    "selection_reason": "Visual moment of ʿĀṣim's bravery and clear lesson on courage.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Khubayb's Execution",
+    "unit_text": "Khubayb was killed after being allowed to pray two rakʿahs.",
+    "main_characters": [
+      "Khubayb ibn ʿAdiy",
+      "Ṣafwān ibn Umayyah",
+      "Abū Sufyān"
+    ],
+    "event_summary": "Khubayb was killed after being allowed to pray two rakʿahs.",
+    "selection_reason": "Important lesson on prayer and acceptance of death, with a clear visual moment.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "Khubayb's Prayer",
+    "unit_text": "Khubayb prayed two rakʿahs before being killed, and his action has become a sunnah.",
+    "main_characters": [
+      "Khubayb ibn ʿAdiy"
+    ],
+    "event_summary": "Khubayb prayed two rakʿahs before being killed.",
+    "selection_reason": "Clear lesson on the importance of prayer, with a distinctive and meaningful visual moment.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "Khubayb's Final Words",
+    "unit_text": "Khubayb said his final words, asking God to count his killers and kill them all.",
+    "main_characters": [
+      "Khubayb ibn ʿAdiy"
+    ],
+    "event_summary": "Khubayb said his final words, asking God to count his killers and kill them all.",
+    "selection_reason": "Important lesson on forgiveness and trust in God, with a clear visual moment.",
+    "estimated_scenes": 2
+  }
+]

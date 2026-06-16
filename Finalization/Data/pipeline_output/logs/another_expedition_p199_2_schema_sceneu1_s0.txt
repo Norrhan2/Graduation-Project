@@ -1,0 +1,30 @@
+{
+  "scene_title": "The Prophet's Army Prepares for Battle",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 199",
+  "moral_lesson": "Importance of preparation and teamwork",
+  "characters": [
+    {
+      "id": "1",
+      "name": "The Central Figure",
+      "role": "Prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, holding a staff in one hand"
+    },
+    {
+      "id": "2",
+      "name": "The Muslims",
+      "role": "Supporting",
+      "depiction_rule": "NO_FACE",
+      "appearance": "1,000 men, dressed in simple white thobes, some wearing turbans, others not, standing at attention in a formation on the desert floor"
+    }
+  ],
+  "narrative_text": "The Prophet stood on a hill, looking out at his army of 1,000 men. He held a staff in one hand and wore a deep green cloak over his shoulders. The men stood at attention, ready to prepare for battle.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene desert landscape with rolling hills and palm trees swaying gently in the morning breeze. Late morning sunlight casts a warm glow over the scene, with the sun rising above the horizon on the right. In the distance, a small army of 1,000 men stands at attention on the desert floor, dressed in simple white thobes, some wearing turbans, others not. On a hill in the center, the central figure is seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, holding a staff in one hand. The staff is raised slightly, as if giving a command. Soft warm golden light, majestic and inspiring mood. Medium shot at eye level. Warm beige, sandy, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

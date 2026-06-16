@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Ḥamnah sees her sister Zaynab with the Prophet",
+    "key_visual_action": "Ḥamnah pointing at Zaynab and the Prophet",
+    "characters_present": ["Ḥamnah bint Jaḥsh", "Zaynab bint Jaḥsh", "Prophet"],
+    "setting": "Medina marketplace",
+    "emotional_tone": "envy",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Ḥamnah's jealousy turns to anger and plotting",
+    "key_visual_action": "Ḥamnah biting her lip in anger, with a thought bubble of a plan",
+    "characters_present": ["Ḥamnah bint Jaḥsh"],
+    "setting": "Ḥamnah's home",
+    "emotional_tone": "anger",
+    "time_of_day": "evening"
+  }
+]

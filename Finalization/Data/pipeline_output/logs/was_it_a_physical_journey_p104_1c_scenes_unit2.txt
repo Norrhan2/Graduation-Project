@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Muhammad falls asleep in the mosque, unaware of the journey that awaits him.",
+    "key_visual_action": "Muhammad's head nods forward, resting on his hands",
+    "characters_present": ["Muhammad"],
+    "setting": "The mosque",
+    "emotional_tone": "Peaceful",
+    "time_of_day": "Night"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Muhammad is transported to Jerusalem, where he meets with God and other prophets.",
+    "key_visual_action": "Muhammad stands in awe, looking up at God",
+    "characters_present": ["Muhammad", "God"],
+    "setting": "Jerusalem",
+    "emotional_tone": "Awe-inspiring",
+    "time_of_day": "Night"
+  }
+]

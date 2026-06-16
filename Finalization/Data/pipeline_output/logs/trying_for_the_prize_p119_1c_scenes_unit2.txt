@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿUmar recalls the Prophet's promise to Surāqah.",
+    "key_visual_action": "ʿUmar looking through an old scroll or manuscript",
+    "characters_present": ["ʿUmar"],
+    "setting": "ʿUmar's study or library",
+    "emotional_tone": "Reflective",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "ʿUmar finds Khosaru's bracelets and decides to give them to Surāqah.",
+    "key_visual_action": "ʿUmar holding up the bracelets, a smile on his face",
+    "characters_present": ["ʿUmar"],
+    "setting": "ʿUmar's study or library",
+    "emotional_tone": "Joyful",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "ʿUmar meets with Surāqah and gives him the bracelets.",
+    "key_visual_action": "ʿUmar handing the bracelets to Surāqah, Surāqah's surprised expression",
+    "characters_present": ["ʿUmar", "Surāqah ibn Mālik"],
+    "setting": "A public gathering or meeting place",
+    "emotional_tone": "Grateful",
+    "time_of_day": "afternoon"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 3,
+    "scene_summary": "The Prophet arrives at the Qaynuqāʿ tribe's gathering",
+    "key_visual_action": "Prophet walking towards the crowd or a dramatic entrance",
+    "characters_present": [
+      "Prophet",
+      "Notables of the Qaynuqāʿ tribe"
+    ],
+    "setting": "A public space (e.g. market, town square)",
+    "emotional_tone": "Calm and authoritative",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 3,
+    "scene_title": "Arrival of the Central Figure",
+    "era": "pre_prophetic",
+    "region": "levant_ancient",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 158",
+    "moral_lesson": "Importance of dignified and respectful behavior",
+    "characters": [
+      {
+        "id": "1",
+        "name": "The Central Figure",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "2",
+        "name": "Notables of the Qaynuqāʿ tribe",
+        "role": "supporting",
+        "depiction_rule": "NO_FACE|FROM_BEHIND",
+        "appearance": "various builds, dignified upright postures, wearing traditional Levantine clothing"
+      }
+    ],
+    "narrative_text": "The Central Figure walks towards the gathering, surrounded by the curious Notables of the Qaynuqāʿ tribe.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "None"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A bustling ancient Levantine town square in the late afternoon sunlight. The packed-earth floor is partly covered by a woven palm-fiber mat, and a few stalls selling local goods are set up around the square. The central figure, seen entirely from behind, walks towards the crowd with a calm and authoritative demeanor. He wears a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. The Notables of the Qaynuqāʿ tribe, dressed in traditional Levantine clothing, turn to face him, their faces filled with curiosity and respect. Soft warm golden light, intimate and sacred mood. Medium shot at eye level. Earthy, beige, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate pre-central figure scene.",
+    "_safety_changes": [
+      "'prophet' -> 'central figure'"
+    ]
+  }
+}

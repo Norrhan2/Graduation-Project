@@ -1,0 +1,25 @@
+{
+  "scene_number": 2,
+  "scene_summary": "Ḥāṭib sets off on his journey to deliver the letter to al-Muqawqis in Egypt.",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah|madinah_early",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 278",
+  "moral_lesson": "Importance of perseverance and determination in fulfilling one's responsibilities.",
+  "characters": [
+    {
+      "id": "Ḥāṭib_ibn_Abī_Balta_ʿah",
+      "name": "Ḥāṭib ibn Abī Balta ʿ ah",
+      "role": "sahabi",
+      "depiction_rule": "FULL",
+      "appearance": "modestly dressed, wearing a simple brown woolen cloak and a white cloth head covering, carrying a rolled-up parchment in his right hand, walking with a determined stride"
+    }
+  ],
+  "narrative_text": "Ḥāṭib ibn Abī Balta ʿ ah set off on his journey to deliver an important letter to al-Muqawqis in Egypt.",
+  "compliance": {
+    "prophet_check": "NOT_APPLICABLE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A long, winding desert road stretches into the distance, with a few scattered palm trees and rocky outcrops in the background. Late afternoon sunlight casts a warm golden glow across the scene, with a few puffy clouds drifting lazily across the sky. In the foreground, a young man with a determined stride walks away from the viewer, carrying a rolled-up parchment in his right hand. He wears a simple brown woolen cloak and a white cloth head covering, and his dark hair is visible beneath his head covering. The central figure is seen entirely from behind, with a strong, upright posture and a confident gait. Soft warm golden light, vast open space, and a sense of movement. Medium shot from behind, with the figure walking off into the distance. Warm beige, golden, and blue palette with the earthy tones of the desert as a dominant color. No modern objects, historically accurate 7th century scene."
+}

@@ -1,0 +1,14 @@
+{
+  "scene_number": 2,
+  "scene_summary": "The Muslim army comes into view, marching towards them.",
+  "era": "late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 300",
+  "moral_lesson": "Perseverance and faith in the face of unexpected challenges",
+  "characters": [
+    {"id": "Abū Sufyān", "name": "Abū Sufyān", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a dark-brown thobe and a black woolen cloak with a white turban and a cloth tail hanging between the shoulder blades"},
+    {"id": "al-ʿAbbās", "name": "al-ʿAbbās", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "slender build, wearing a light-brown thobe and a beige woolen cloak with a white cloth head covering"}
+  ],
+  "narrative_text": "As they stood on the hill, they saw the Muslim army in the distance, marching towards them with determination and purpose.",
+  "compliance": {"prophet_check": "NOT_PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "None"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A rugged yet serene 7th century Arabian Desert landscape with two figures standing on a rocky outcropping, gazing out at the horizon. The sky above is a pale blue with a few wispy clouds, and the morning sunlight casts a warm glow across the scene. In the distance, the Muslim army is visible, marching in formation with banners and standards held high. The two figures stand facing the army, their faces not visible as they are seen entirely from behind. The central figure seen from behind: medium build, dignified upright posture, wearing a dark-brown thobe and a black woolen cloak with a white turban and a cloth tail hanging between the shoulder blades. To his right, a slender build, wearing a light-brown thobe and a beige woolen cloak with a white cloth head covering. The rocky outcropping beneath their feet is weathered and worn, with a few sparse desert plants growing in the cracks. Soft warm golden light, expansive and awe-inspiring mood. Medium wide shot from a slight elevation. Earthy tones with the dark-brown thobe as a color anchor. No modern objects, historically accurate 7th century scene."}

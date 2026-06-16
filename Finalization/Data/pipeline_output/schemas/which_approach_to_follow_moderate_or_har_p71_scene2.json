@@ -1,0 +1,47 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "Muhammad responds to ʿ Utbah's offer with a powerful recitation from the Qur'ān.",
+    "key_visual_action": "Muhammad standing, reciting from the Qur'ān with confidence and conviction",
+    "characters_present": [
+      "ʿ Utbah ibn Rabīʿ ah",
+      "Muhammad"
+    ],
+    "setting": "A desert or a marketplace",
+    "emotional_tone": "Inspiring",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_title": "Muhammad Accepts ʿ Utbah's Offer",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 71",
+    "moral_lesson": "The importance of faith and conviction in the face of adversity",
+    "characters": [
+      {
+        "id": "utbah_ibn_rabiah",
+        "name": "ʿ Utbah ibn Rabīʿ ah",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall build, wearing a flowing white thobe and a deep red woolen cloak with intricate tribal patterns, turned slightly away with a mixture of curiosity and skepticism"
+      },
+      {
+        "id": "muhammad",
+        "name": "Muhammad",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      }
+    ],
+    "narrative_text": "ʿ Utbah ibn Rabīʿ ah offered to protect Muhammad from his enemies, but Muhammad accepted only if ʿ Utbah would accept Islam.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "no concerns"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast expanse of arid desert sand dunes with scattered palm trees in the background, stretching towards a distant horizon. Late afternoon sunlight casts long shadows across the sandy ground. In the foreground, two figures stand facing each other on a rocky outcropping. On the left, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle gesture of acceptance. On the right, a tall man with a stern expression, wearing a flowing white thobe and a deep red woolen cloak with intricate tribal patterns, turned slightly away with a mixture of curiosity and skepticism, one hand raised in a gesture of offering. The air is filled with the warm glow of the setting sun, and the atmosphere is one of contemplation and introspection. Medium shot at eye level. Earthy, golden, and sandy palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": []
+  }
+}

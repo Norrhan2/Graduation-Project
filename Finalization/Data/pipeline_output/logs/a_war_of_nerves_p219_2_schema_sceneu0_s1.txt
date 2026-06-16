@@ -1,0 +1,32 @@
+{
+  "scene_number": 2,
+  "scene_summary": "Ghaṭafān leaders discuss the Prophet's offer, considering the benefits of withdrawing from the alliance.",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 219",
+  "moral_lesson": "Considering the consequences of one's actions and weighing the benefits of change",
+  "characters": [
+    {
+      "id": "ghatfan_leader_1",
+      "name": "Ghaṭafān leader",
+      "role": "antagonist",
+      "depiction_rule": "NO_FACE|FROM_BEHIND|SILHOUETTE|FULL",
+      "appearance": "tall, muscular build, dark beard, wearing a dark brown thobe and matching woolen cloak with a white turban, standing with hands on hips"
+    },
+    {
+      "id": "ghatfan_leader_2",
+      "name": "Ghaṭafān leader",
+      "role": "antagonist",
+      "depiction_rule": "NO_FACE|FROM_BEHIND|SILHOUETTE|FULL",
+      "appearance": "short, slender build, light beard, wearing a light beige thobe and matching woolen cloak with a white turban, standing with hands clasped behind back"
+    }
+  ],
+  "narrative_text": "The Ghaṭafān leaders looked at each other, thinking about the benefits of leaving the alliance. They had heard the Prophet's offer and were considering it carefully.",
+  "compliance": {
+    "prophet_check": "NOT_PRESENT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A large, imposing 7th century Arabian Desert tent with a sturdy wooden frame and woven goat-hair fabric walls, set against a backdrop of vast dunes and rocky outcroppings. Late afternoon sunlight casts a warm glow across the scene, with the leaders' faces seen from behind as they stand facing each other in conversation. The central figure seen from behind, wearing a dark brown thobe and matching woolen cloak with a white turban, stands with hands on hips, while the second figure, wearing a light beige thobe and matching woolen cloak with a white turban, stands with hands clasped behind back. Soft warm golden light, serious and contemplative mood. Medium shot at eye level. Sandy beige, golden, and dark brown palette with warm earth tones as a color anchor. No modern objects, historically accurate 7th century scene."
+}

@@ -1,0 +1,13 @@
+{
+  "scene_title": "Muhammad's Desert Playtime",
+  "era": "pre_islamic_prophets",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 32",
+  "moral_lesson": "The importance of play and joy in childhood",
+  "characters": [
+    {"id": "m1", "name": "Muhammad", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a white thobe and a deep green woolen cloak draped over both shoulders, white turban with a cloth tail hanging between the shoulder blades, laughing and chasing after a goat"},
+    {"id": "g1", "name": "Goat", "role": "animal", "depiction_rule": "FULL", "appearance": "brown and white coat, agile body, playful demeanor"}
+  ],
+  "narrative_text": "Muhammad loved playing with his friends in the desert. One day, he chased after a playful goat, laughing with joy.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "None"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, sun-baked desert landscape with sandy dunes stretching towards the horizon and a few scattered palm trees in the distance. Late afternoon golden sunlight casts long shadows across the sandy ground, with a few tufts of grass and small rocks scattered about. In the foreground, two figures are seen from a medium close shot at eye level. On the left, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe and a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, laughing and chasing after a brown and white goat with a playful demeanor, the goat agilely running and leaping across the sandy ground. Soft warm golden light, joyful and carefree mood. Warm beige, golden, and deep green palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

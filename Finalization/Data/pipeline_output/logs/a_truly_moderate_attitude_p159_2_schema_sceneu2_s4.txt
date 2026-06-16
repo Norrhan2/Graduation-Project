@@ -1,0 +1,30 @@
+{
+  "scene_title": "The Prophet Muhammad's Decision for Peace",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 159",
+  "moral_lesson": "Prioritizing peace and resolving conflicts through negotiation",
+  "characters": [
+    {
+      "id": "1",
+      "name": "Muhammad",
+      "role": "Prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "2",
+      "name": "Messenger",
+      "role": "Supporting",
+      "depiction_rule": "NO_FACE",
+      "appearance": "young man, wearing a plain white thobe and a simple head cloth"
+    }
+  ],
+  "narrative_text": "The Prophet Muhammad knew that a war would bring only destruction and suffering. He decided to send a messenger to negotiate with the opposing tribe, hoping to find a peaceful solution.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, open desert battlefield stretching in every direction under a clear morning sky with a few puffy white clouds. The sun rises high in the east, casting a warm golden light across the scene. In the distance, a group of men stand waiting on the horizon, silhouetted against the bright blue sky. In the center of the scene, two figures stand facing each other - the central figure seen entirely from behind, medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture, while the other figure, seen from the front, is a young man with a kind and focused expression, wearing a plain white thobe and a simple head cloth, looking directly at the central figure. The air is calm, with a gentle breeze rustling the sandy dunes. Medium shot at eye level. Soft warm golden light, hopeful and determined mood. Earthy brown, beige, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

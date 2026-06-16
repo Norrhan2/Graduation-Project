@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Prophet gathers Anṣār leaders to discuss fay' distribution",
+    "key_visual_action": "Prophet standing, hands clasped, addressing Anṣār leaders",
+    "characters_present": ["Prophet", "Anṣār leaders"],
+    "setting": "Medina, outdoors, under a palm tree",
+    "emotional_tone": "Respectful",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Anṣār leaders share their opinions on fay' distribution",
+    "key_visual_action": "Anṣār leaders speaking, gesturing with hands, looking at each other",
+    "characters_present": ["Prophet", "Anṣār leaders"],
+    "setting": "Medina, outdoors, under a palm tree",
+    "emotional_tone": "Thoughtful",
+    "time_of_day": "afternoon"
+  }
+]

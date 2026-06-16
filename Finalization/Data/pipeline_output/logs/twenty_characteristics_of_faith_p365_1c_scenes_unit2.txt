@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet greets the delegation with a warm smile, acknowledging their presence.",
+    "key_visual_action": "The Prophet extending his hand for a handshake",
+    "characters_present": ["The Prophet", "Suwayd ibn al- Ḥārith"],
+    "setting": "A desert or open space, possibly with palm trees or a mosque in the background",
+    "emotional_tone": "Warmth and respect",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet praises Suwayd ibn al- Ḥārith for his wisdom and adds five new characteristics to their list.",
+    "key_visual_action": "The Prophet holding a scroll or parchment, pointing to the new characteristics",
+    "characters_present": ["The Prophet", "Suwayd ibn al- Ḥārith"],
+    "setting": "A desert or open space, possibly with palm trees or a mosque in the background",
+    "emotional_tone": "Wisdom and admiration",
+    "time_of_day": "Afternoon"
+  }
+]

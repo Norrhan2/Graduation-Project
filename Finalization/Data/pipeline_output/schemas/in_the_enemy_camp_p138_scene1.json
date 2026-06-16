@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "The Prophet instructs his companions to remain calm",
+    "key_visual_action": "The Prophet holding up his hand in a calming gesture",
+    "characters_present": [
+      "The Prophet",
+      "Companions"
+    ],
+    "setting": "Inside the Muslim camp",
+    "emotional_tone": "Calmness",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_title": "The Prophet's Calming Word",
+    "era": "pre_prophetic|early_makkah|late_makkah|madinah_early|madinah_late",
+    "region": "arabian_desert|makkah|madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 138",
+    "moral_lesson": "Importance of calmness in times of uncertainty",
+    "characters": [
+      {
+        "id": "prophet",
+        "name": "The Prophet",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture"
+      },
+      {
+        "id": "companions",
+        "name": "Companions",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "various builds, dressed in off-white thobes and brown woolen cloaks with white cloth head coverings, some with anxious or concerned expressions"
+      }
+    ],
+    "narrative_text": "The Prophet held up his hand, and the companions fell silent, listening intently to his words of reassurance.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A tranquil scene inside a Muslim camp during the afternoon, with a sandy floor and simple fabric tents in the background. Soft natural light filters through the fabric, casting warm shadows on the ground. In the center of the scene, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture. Surrounding him, a group of companions with diverse builds and facial expressions, some looking anxious, others calm, all dressed in off-white thobes and brown woolen cloaks with white cloth head coverings. The atmosphere is peaceful, with a sense of calmness and trust. Medium shot at eye level. Soothing beige, cream, and pale blue palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'prophet' -> 'the central figure'"
+    ]
+  }
+}

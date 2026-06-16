@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Quraysh sees Prophet Muhammad entering Makkah",
+    "key_visual_action": "Quraysh looking up in surprise",
+    "characters_present": ["Quraysh", "Prophet Muhammad"],
+    "setting": "Makkah streets",
+    "emotional_tone": "curiosity",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Quraysh starts wondering and thinking about the Prophet's entry",
+    "key_visual_action": "Quraysh scratching head in thought",
+    "characters_present": ["Quraysh"],
+    "setting": "Makkah streets",
+    "emotional_tone": "wonder",
+    "time_of_day": "afternoon"
+  }
+]

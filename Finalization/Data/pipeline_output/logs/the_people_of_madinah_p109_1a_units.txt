@@ -1,0 +1,79 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The City of Yathrib",
+    "unit_text": "The city of Yathrib, now known as Madinah, was inhabited by two major Arab tribes, the Aws and the Khazraj, and a large Jewish community.",
+    "main_characters": ["Aws", "Khazraj", "Jews"],
+    "event_summary": "The city of Yathrib was inhabited by two Arab tribes and a Jewish community."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "The Last Battle",
+    "unit_text": "The last battle between the Aws and Khazraj, named Bu ʿāth, took place about two years before the events we are now relating.",
+    "main_characters": ["Aws", "Khazraj"],
+    "event_summary": "The last battle between the Aws and Khazraj took place two years before the events described."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Jewish Community",
+    "unit_text": "A large Jewish community had lived in Madinah for well over a century, and they were instrumental in keeping the two Arab tribes at each other's throats.",
+    "main_characters": ["Jews", "Aws", "Khazraj"],
+    "event_summary": "The Jewish community had lived in Madinah for over a century and fueled the conflict between the Aws and Khazraj."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Prophet Meets the Khazrajis",
+    "unit_text": "The Prophet met six men from the Khazraj tribe at ʿ Aqabah, where pilgrims encamped for three days, and explained his message to them.",
+    "main_characters": ["Prophet", "Aws", "Khazraj"],
+    "event_summary": "The Prophet met six men from the Khazraj tribe and explained his message to them."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Khazrajis Accept Islam",
+    "unit_text": "The six Khazrajis accepted the Prophet's message and declared their belief in God and the message of Muhammad.",
+    "main_characters": ["Prophet", "Khazraj"],
+    "event_summary": "The six Khazrajis accepted Islam and declared their belief in God and the Prophet's message."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Prophet's Emissaries",
+    "unit_text": "The six Khazrajis became the Prophet's emissaries, carrying his message to their own people and explaining the religion of Islam to them.",
+    "main_characters": ["Prophet", "Khazraj"],
+    "event_summary": "The six Khazrajis became the Prophet's emissaries, spreading Islam to their people."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Madinah's Fertile Environment",
+    "unit_text": "Madinah was a fertile environment for Islam to spread, as it was free from hostile feelings and the monotheistic idea was appealing to the Arabs.",
+    "main_characters": ["Prophet", "Madinah"],
+    "event_summary": "Madinah was a fertile environment for Islam to spread."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "The Next Pilgrimage Season",
+    "unit_text": "The next pilgrimage season, the Prophet met 12 men, including the original six, at ʿ Aqabah, and entered into a covenant with them.",
+    "main_characters": ["Prophet", "Aws", "Khazraj"],
+    "event_summary": "The Prophet met 12 men at ʿ Aqabah and entered into a covenant with them."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "The Covenant of Women",
+    "unit_text": "The covenant included terms that the 12 men pledged themselves to worship no deity other than God, commit no crimes, and obey the Prophet.",
+    "main_characters": ["Prophet", "Aws", "Khazraj"],
+    "event_summary": "The 12 men entered into a covenant with the Prophet, pledging to worship God and obey the Prophet."
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "Muṣʿab's Mission",
+    "unit_text": "The Prophet sent Muṣʿab ibn ʿ Umayr to Madinah to educate the new Muslims, teach them the Qur'ān, and lead them in prayer.",
+    "main_characters": ["Prophet", "Muṣʿab"],
+    "event_summary": "The Prophet sent Muṣʿab ibn ʿ Umayr to Madinah to educate and lead the new Muslims."
+  },
+  {
+    "unit_number": 11,
+    "unit_title": "Muṣʿab's Task",
+    "unit_text": "Muṣʿab was tasked with studying the situation in Madinah, making an assessment of likely reactions, and reporting back to the Prophet.",
+    "main_characters": ["Prophet", "Muṣʿab"],
+    "event_summary": "Muṣʿab was tasked with studying the situation in Madinah and reporting back to the Prophet."
+  }
+]

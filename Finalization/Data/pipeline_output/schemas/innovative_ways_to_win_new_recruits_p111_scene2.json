@@ -1,0 +1,56 @@
+{
+  "scene_input": {
+    "scene_number": 3,
+    "scene_summary": "The young men of Salamah steal and destroy ʿAmr's idol.",
+    "key_visual_action": "young men smashing the idol",
+    "characters_present": [
+      "Young men of Salamah",
+      "ʿAmr ibn al-Jamūḥ (in the background, unaware)"
+    ],
+    "setting": "ʿAmr's village at night",
+    "emotional_tone": "excited",
+    "time_of_day": "night"
+  },
+  "schema_output": {
+    "scene_number": 3,
+    "scene_title": "The Brave Young Men of Salamah",
+    "era": "pre_islamic_prophets",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 111",
+    "moral_lesson": "Bravery and faith can lead to great deeds",
+    "characters": [
+      {
+        "id": "1",
+        "name": "Young men of Salamah",
+        "role": "supporting",
+        "depiction_rule": "NO_FACE",
+        "appearance": "youthful, athletic build, dark clothing with white head coverings, seen from behind, moving with excitement"
+      },
+      {
+        "id": "2",
+        "name": "ʿAmr ibn al-Jamūḥ",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, dressed in dark clothing with a hood, seen from behind, unaware of the action"
+      },
+      {
+        "id": "3",
+        "name": "a villager",
+        "role": "crowd",
+        "depiction_rule": "FULL",
+        "appearance": "slender build, dressed in dark clothing, seen from behind, watching the scene unfold"
+      }
+    ],
+    "narrative_text": "The young men of Salamah decided to take a brave step and destroy ʿAmr's idol. Under the cover of night, they snuck into ʿAmr's village and smashed the idol to pieces.",
+    "compliance": {
+      "prophet_check": "NOT_APPLICABLE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "None"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A dark and moonlit 7th century Arabian Desert village at night, with a few thatched-roof houses made of mud and palm fronds. In the center of the scene, a group of young men in dark clothing with white head coverings are seen from behind, moving with excitement and energy, as they smash and destroy a large, intricately decorated idol. The idol lies on a wooden platform, and the young men are using wooden clubs and stones to break it. In the background, a figure in dark clothing with a hood is seen from behind, unaware of the action, and a few villagers are watching the scene unfold from a distance. Soft blue and gray moonlight casts a mystical and eerie glow over the scene. Medium close shot at eye level. Dark, muted palette with accents of white and a hint of blue, reflecting the night sky. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'young men' -> 'group of young men' (no change), 'young men in dark clothing with white head coverings are seen from behind' -> 'young men in dark clothing with white head coverings are moving with excitement and energy, as they smash and destroy a large, intricately decorated idol, seen from behind' (no change), 'figure in dark clothing with a hood is seen from behind' -> 'figure in dark clothing with a hood is seen from behind, unaware of the action' (no change), 'a few villagers are watching the scene unfold from a distance' -> 'a few villagers are watching the scene unfold from a distance' (no change)"
+    ]
+  }
+}

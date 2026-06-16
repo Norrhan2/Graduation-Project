@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿAbdullāh ibn Ubayy behaves insolently in front of the Prophet Muhammad.",
+    "key_visual_action": "ʿAbdullāh crossing his arms, looking defiant",
+    "characters_present": ["ʿAbdullāh ibn Ubayy", "Muhammad"],
+    "setting": "Medina mosque",
+    "emotional_tone": "angry",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet Muhammad reacts angrily to ʿAbdullāh's insolence.",
+    "key_visual_action": "Muhammad scowling, pointing a finger at ʿAbdullāh",
+    "characters_present": ["ʿAbdullāh ibn Ubayy", "Muhammad"],
+    "setting": "Medina mosque",
+    "emotional_tone": "disappointed",
+    "time_of_day": "afternoon"
+  }
+]

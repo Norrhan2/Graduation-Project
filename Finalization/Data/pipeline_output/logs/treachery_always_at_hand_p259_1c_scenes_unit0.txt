@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet calls ʿ Abdullāh ibn Rawāḥah to his side to discuss the mission.",
+    "key_visual_action": "The Prophet extending his hand to ʿ Abdullāh ibn Rawāḥah",
+    "characters_present": ["The Prophet", "ʿ Abdullāh ibn Rawāḥah"],
+    "setting": "The Prophet's mosque",
+    "emotional_tone": "serious",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "ʿ Abdullāh ibn Rawāḥah sets off with 30 companions to meet Usayr ibn Rizām.",
+    "key_visual_action": "ʿ Abdullāh ibn Rawāḥah riding a camel, with 30 companions following behind",
+    "characters_present": ["ʿ Abdullāh ibn Rawāḥah", "Usayr ibn Rizām"],
+    "setting": "Desert landscape",
+    "emotional_tone": "determined",
+    "time_of_day": "afternoon"
+  }
+]

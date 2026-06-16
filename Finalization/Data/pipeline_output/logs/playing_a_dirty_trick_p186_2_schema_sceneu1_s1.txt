@@ -1,0 +1,14 @@
+{
+  "scene_title": "The Prophet's Encouragement",
+  "era": "madinah_early",
+  "region": "makkah|madinah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 186",
+  "moral_lesson": "Importance of perseverance and faith in difficult times",
+  "characters": [
+    {"id": "1", "name": "the central figure", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "2", "name": "Marthad ibn Abī Marthad", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "slender build, wearing a simple off-white thobe and plain brown woolen cloak with a white cloth head covering"},
+    {"id": "3", "name": "Hudhayl", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "tall and imposing, wearing a dark-colored headscarf and a simple white thobe"}
+  ],
+  "narrative_text": "The Prophet Muhammad encourages his companions to go to the Hudhayl and spread the message of Islam, giving them a gentle push to show his support.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "The scene is set in a mosque, which is a sacred space, and the Prophet's action is one of encouragement and support."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Interior of the Prophet's Mosque in Medina, with a simple yet elegant wooden mihrab at the far end and a large congregational prayer mat in the center of the room. Late afternoon golden sunlight streams through narrow windows on the upper walls, casting warm rays across the space. The floor is made of smooth, dark-hued stone and is partly covered by a woven palm-fiber mat. A group of six companions, led by a slender older man with a simple off-white thobe and plain brown woolen cloak with a white cloth head covering, stand before the mihrab, ready to depart. The central figure, seen entirely from behind, stands among them, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. With a gentle and reassuring gesture, the central figure gives a soft push to the departing companions, urging them forward. The atmosphere is one of calm determination and faith, with the warm golden light casting a sense of hope and encouragement. Medium shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

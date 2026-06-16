@@ -1,0 +1,16 @@
+{
+  "scene_number": 1,
+  "scene_summary": "The Muslim delegation arrives at the Prophet's location to report Qurayẓah's treachery.",
+  "era": "pre_prophetic|early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 217",
+  "moral_lesson": "Importance of loyalty and integrity in the face of adversity",
+  "characters": [
+    {"id": "Prophet", "name": "the central figure", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "Sa ʿ d ibn Mu ʿādh", "name": "Sa ʿ d ibn Mu ʿādh", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "slender build, youthful appearance, wearing a plain brown thobe and a simple white cloth head covering"},
+    {"id": "Sa ʿ d ibn ʿ Ubādah", "name": "Sa ʿ d ibn ʿ Ubādah", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "slender build, slightly older appearance, wearing a plain brown thobe and a simple white cloth head covering"}
+  ],
+  "narrative_text": "The Muslim delegation arrived at the Prophet's location with a worried expression, concerned about Qurayẓah's treachery.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "Historical accuracy ensured."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A desert landscape with a few scattered palm trees in the background, and a makeshift meeting area in the foreground. Late afternoon sunlight casts warm golden rays across the scene. In the center of the meeting area, the central figure is seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. On either side of the central figure stand two men, seen from behind as well, with worried expressions: slender build, wearing plain brown thobes and simple white cloth head coverings. Soft warm golden light, concerned and somber mood. Medium shot from slightly above eye level. Warm sandy, beige, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

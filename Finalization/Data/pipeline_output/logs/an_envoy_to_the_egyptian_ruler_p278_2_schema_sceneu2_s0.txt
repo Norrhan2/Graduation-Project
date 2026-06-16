@@ -1,0 +1,31 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Al-Muqawqis presents Ḥāṭib with gifts.",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah|madinah_early|madinah_late",
+  "region": "egypt_ancient",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 278",
+  "moral_lesson": "Gratitude and generosity are appreciated by all.",
+  "characters": [
+    {
+      "id": "al-Muqawqis",
+      "name": "al-Muqawqis",
+      "role": "antagonist/supporting",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "Ḥāṭib ibn Abī Balta ʿ ah",
+      "name": "Ḥāṭib ibn Abī Balta ʿ ah",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    }
+  ],
+  "narrative_text": "Al-Muqawqis, the Christian ruler of Egypt, shows his gratitude to Ḥāṭib for helping the Muslims by presenting him with gifts.",
+  "compliance": {
+    "prophet_check": "NOT_APPLICABLE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Interior of an opulent 7th century Egyptian throne room with intricately carved wooden walls in a rich dark wood tone and a gleaming marble floor partly covered by a luxurious red and gold woven carpet. Late afternoon golden sunlight streams through a series of tall, narrow windows on the left, casting warm rays across the room. On a raised dais at the far end of the room, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle gesture of presentation. On the floor below, a slender older man with slightly stooped shoulders, wearing a flowing white thobe and plain brown woolen cloak with a white cloth head covering, sitting in a deeply respectful posture - head slightly tilted forward, shoulders gently straightened, one hand extended to receive a beautifully wrapped gift from the central figure. Soft warm golden light, formal and regal mood. Medium close shot at eye level. Rich dark wood, gold, and deep green palette with the red and gold carpet as a color anchor. No modern objects, historically accurate 7th century scene."

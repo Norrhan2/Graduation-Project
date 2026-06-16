@@ -1,0 +1,27 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet and Bilal are walking through the desert, approaching a group of people who have been causing trouble.",
+    "key_visual_action": "The Prophet and Bilal walking towards the group, with the Prophet's hands open and inviting.",
+    "characters_present": [
+      "The Prophet",
+      "Bilal"
+    ],
+    "setting": "Desert",
+    "emotional_tone": "Serious",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet shows kindness and mercy to the group, offering them food and drink, and Bilal is surprised by the Prophet's actions.",
+    "key_visual_action": "The Prophet offering food to one of the group members, with Bilal looking on in surprise.",
+    "characters_present": [
+      "The Prophet",
+      "Bilal",
+      "Enemy group"
+    ],
+    "setting": "Desert",
+    "emotional_tone": "Surprise",
+    "time_of_day": "Afternoon"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "scene_title": "The Prophet Muhammad Greets the Khawlān Delegation",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 367",
+  "moral_lesson": "The importance of remaining calm and firm in the face of adversity",
+  "characters": [
+    {
+      "id": "prophet",
+      "name": "The Prophet Muhammad",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture"
+    },
+    {
+      "id": "delegation",
+      "name": "The Khawlān Delegation",
+      "role": "antagonist",
+      "depiction_rule": "FULL",
+      "appearance": "a group of men with various ages and builds, wearing traditional 7th century Arabian attire, some with turbans and cloaks, others with simple thobes"
+    }
+  ],
+  "narrative_text": "The Prophet Muhammad stood tall, his deep green cloak a symbol of his wisdom and guidance, as he looked at the Khawlān Delegation with a gentle yet firm expression.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": "No graphic violence or idols in detail"
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast open desert area with a few palm trees in the background, possibly near a small rocky outcropping where an idol might be situated. Late afternoon golden sunlight casts long shadows across the sandy ground. In the foreground, a man in the deep green cloak stands tall, seen entirely from behind, with one hand extended in a gentle gesture. He looks at a group of men, the Khawlān Delegation, who stand before him with varying expressions of curiosity and concern. The delegation is dressed in traditional 7th century Arabian attire, with some wearing turbans and cloaks, others with simple thobes. Soft warm golden light, open and expansive mood. Medium shot from slightly above, capturing the contrast between the Prophet's calm demeanor and the delegation's uncertainty. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

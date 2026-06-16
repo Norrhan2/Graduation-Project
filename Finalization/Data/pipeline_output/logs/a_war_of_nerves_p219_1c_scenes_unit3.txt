@@ -1,0 +1,38 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Bilāl stands on a hill, looking out at the city as the sun sets.",
+    "key_visual_action": "Bilāl standing with arms outstretched, gazing at the sunset",
+    "characters_present": ["Bilāl"],
+    "setting": "A hill overlooking a city",
+    "emotional_tone": "Reflective",
+    "time_of_day": "evening"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Bilāl raises his hands to the sky, calling out the adhan.",
+    "key_visual_action": "Bilāl's hands raised in a call to prayer gesture",
+    "characters_present": ["Bilāl"],
+    "setting": "The same hill overlooking the city",
+    "emotional_tone": "Energetic",
+    "time_of_day": "evening"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet steps out of his home, responding to Bilāl's call to prayer.",
+    "key_visual_action": "The Prophet stepping out of a doorway, looking towards Bilāl",
+    "characters_present": ["Prophet", "Bilāl"],
+    "setting": "A residential area in the city",
+    "emotional_tone": "Respectful",
+    "time_of_day": "evening"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "The Prophet and Bilāl stand together, leading the congregation in prayer.",
+    "key_visual_action": "The Prophet and Bilāl standing side by side, leading the congregation in prayer",
+    "characters_present": ["Prophet", "Bilāl"],
+    "setting": "A mosque or open area in the city",
+    "emotional_tone": "Spiritual",
+    "time_of_day": "evening"
+  }
+]

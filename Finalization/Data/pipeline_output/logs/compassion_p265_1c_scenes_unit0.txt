@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Ṣafiyyah's cousin sees the dead bodies and covers their face",
+    "key_visual_action": "Ṣafiyyah's cousin covering their face with their hands",
+    "characters_present": ["Ṣafiyyah's cousin"],
+    "setting": "A battlefield or a place where the dead bodies are found",
+    "emotional_tone": "Shock and horror",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Ṣafiyyah's cousin starts crying and lamenting loudly",
+    "key_visual_action": "Ṣafiyyah's cousin crying and wailing with their hands on their head",
+    "characters_present": ["Ṣafiyyah's cousin"],
+    "setting": "A battlefield or a place where the dead bodies are found",
+    "emotional_tone": "Sadness and grief",
+    "time_of_day": "afternoon"
+  }
+]

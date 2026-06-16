@@ -1,0 +1,14 @@
+{
+  "scene_number": 2,
+  "scene_summary": "Al-Mughīrah ibn Shu'bah digs up the foundation of al-Lāt, causing chaos.",
+  "era": "pre_islamic_prophets",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 349",
+  "moral_lesson": "The importance of respecting the beliefs of others, even if they are misguided.",
+  "characters": [
+    {"id": "al-Mughīrah", "name": "al-Mughīrah ibn Shu'bah", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "tall build, energetic posture, wearing a simple white thobe and a brown woolen cloak with a cloth head covering"},
+    {"id": "key-keeper", "name": "key-keeper of the place", "role": "supporting", "depiction_rule": "NO_FACE", "appearance": "medium build, slightly stooped shoulders, wearing a worn-out brown thobe and a beige head covering"}
+  ],
+  "narrative_text": "Al-Mughīrah ibn Shu'bah, a young man from the tribe of Tameem, decided to dig up the foundation of the idol al-Lāt, which was revered by the people of Makkah. He was not aware of the consequences of his actions, but his determination caused chaos and excitement among the crowd.",
+  "compliance": {"prophet_check": "NOT_APPLICABLE", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "The scene depicts a historical event and does not contain any graphic violence or mature themes."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, open desert landscape with sandy dunes and rocky outcrops stretching towards the horizon. Early morning sunlight casts a warm golden glow over the scene, with a few wispy clouds drifting lazily across the sky. In the center of the image, a young man in a simple white thobe and a brown woolen cloak, seen entirely from behind: tall build, energetic posture, one hand grasping a shovel and the other pushing earth up as he digs, causing a cloud of dust to rise. A smaller figure, the key-keeper of the place, stands nearby, looking on in a mixture of shock and concern, wearing a worn-out brown thobe and a beige head covering. The atmosphere is one of excitement and chaos, with the sound of shoveling and the smell of dust filling the air. Medium shot, eye level. Warm beige, golden, and sandy palette with deep brown and beige as color anchors. No modern objects, historically accurate 7th century scene."

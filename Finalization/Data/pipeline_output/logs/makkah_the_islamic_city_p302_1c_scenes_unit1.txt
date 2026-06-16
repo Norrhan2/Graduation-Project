@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet arrives at the Ka'bah with his she-camel.",
+    "key_visual_action": "The Prophet riding the she-camel, looking at the Ka'bah.",
+    "characters_present": ["The Prophet"],
+    "setting": "The Ka'bah grounds",
+    "emotional_tone": "Curiosity",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet begins his tawaf, walking around the Ka'bah.",
+    "key_visual_action": "The Prophet walking with his stick, looking at the Ka'bah.",
+    "characters_present": ["The Prophet"],
+    "setting": "The Ka'bah grounds",
+    "emotional_tone": "Concentration",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet touches the Black Stone with his stick after completing a round of tawaf.",
+    "key_visual_action": "The Prophet touching the Black Stone with his stick.",
+    "characters_present": ["The Prophet"],
+    "setting": "The Ka'bah grounds",
+    "emotional_tone": "Serenity",
+    "time_of_day": "morning"
+  }
+]

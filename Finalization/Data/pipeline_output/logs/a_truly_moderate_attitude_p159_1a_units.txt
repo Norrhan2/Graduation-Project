@@ -1,0 +1,65 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The Prophet's Attitude towards Hypocrites and Jews",
+    "unit_text": "The Prophet took a relatively mild attitude towards hypocrites and Jews, allowing ʿAbdullāh ibn Ubayy to keep his alliance with the Qaynuqāʿ Jews.",
+    "main_characters": ["Muhammad", "ʿAbdullāh ibn Ubayy"],
+    "event_summary": "The Prophet chooses to take a conciliatory approach towards hypocrites and Jews."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "ʿAbdullāh's Insolence and Hostility towards Islam",
+    "unit_text": "ʿAbdullāh ibn Ubayy behaved insolently, made the Prophet angry, but continued to be hostile to Islam despite declaring himself a Muslim.",
+    "main_characters": ["ʿAbdullāh ibn Ubayy", "Muhammad"],
+    "event_summary": "ʿAbdullāh ibn Ubayy continues to be hostile to Islam despite his declaration of faith."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "ʿAbdullāh's Influence and Potential for Confrontation",
+    "unit_text": "ʿAbdullāh had a large following in Madinah and was a man of strong influence, with some Arabs considering him a leader.",
+    "main_characters": ["ʿAbdullāh ibn Ubayy"],
+    "event_summary": "ʿAbdullāh's influence and potential for confrontation are highlighted."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Prophet's Decision to Avoid Confrontation",
+    "unit_text": "The Prophet decided to take a conciliatory attitude towards ʿAbdullāh, choosing to win hearts and peace rather than engaging in a confrontation.",
+    "main_characters": ["Muhammad", "ʿAbdullāh ibn Ubayy"],
+    "event_summary": "The Prophet chooses to avoid confrontation with ʿAbdullāh and his followers."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Consequences of Confrontation",
+    "unit_text": "A confrontation between the Muslim Arabs and the non-Muslim Arabs in Madinah could have led to civil war, benefiting the Jews and the Quraysh.",
+    "main_characters": ["Muhammad", "ʿAbdullāh ibn Ubayy"],
+    "event_summary": "Confrontation between Muslims and non-Muslims in Madinah could lead to civil war."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Prophet's Strength and Strategic Thinking",
+    "unit_text": "The Prophet was confident in his ability to win any confrontation with the hypocrites and Jews, but chose to prioritize winning the peace.",
+    "main_characters": ["Muhammad"],
+    "event_summary": "The Prophet's strength and strategic thinking are highlighted."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "The Importance of Propagating Islam",
+    "unit_text": "The Prophet's primary objective was to widen the base of Islam and propagate it far and wide, avoiding actions that could harm its reputation.",
+    "main_characters": ["Muhammad"],
+    "event_summary": "The Prophet prioritizes the propagation of Islam over confrontation with hypocrites and Jews."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "The Confrontation with the Jews",
+    "unit_text": "The confrontation with the Jews was inevitable, as they had been opposing Islam and trying to sow discord among the Muslims.",
+    "main_characters": ["Muhammad", "Jews"],
+    "event_summary": "The confrontation with the Jews is inevitable due to their opposition to Islam."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "The Qur'ān's Role in Addressing Jewish Queries",
+    "unit_text": "The Qur'ān addressed the Jews' queries and gave the Muslims the final word on all aspects of faith and religion.",
+    "main_characters": ["Muhammad", "Jews"],
+    "event_summary": "The Qur'ān provides a response to the Jews' queries and solidifies the Muslims' understanding of faith and religion."
+  }
+]

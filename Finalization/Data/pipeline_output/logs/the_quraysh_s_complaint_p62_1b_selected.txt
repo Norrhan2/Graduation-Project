@@ -1,0 +1,54 @@
+[
+  {
+    "unit_number": 2,
+    "unit_title": "Delegation to Abū Ṭālib",
+    "unit_text": "A delegation of influential people from Makkah, including ʿ Utbah, Shaybah, Abū Sufyān, and others, complain to Abū Ṭālib about the Prophet's behavior.",
+    "main_characters": [
+      "Abū Ṭālib",
+      "ʿ Utbah",
+      "Shaybah",
+      "Abū Sufyān"
+    ],
+    "event_summary": "A delegation of influential Makkans complains to Abū Ṭālib about the Prophet's behavior.",
+    "selection_reason": "Clear visual moment of confrontation between Abū Ṭālib and the delegation.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Abū Ṭālib's Response",
+    "unit_text": "Abū Ṭālib calms down the delegation, but does not promise to stop the Prophet from preaching.",
+    "main_characters": [
+      "Abū Ṭālib",
+      "ʿ Utbah",
+      "Shaybah",
+      "Abū Sufyān"
+    ],
+    "event_summary": "Abū Ṭālib responds to the delegation's complaint, but does not agree to stop the Prophet.",
+    "selection_reason": "Key moment of Abū Ṭālib's character development and a turning point in the story.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Abū Ṭālib's Dilemma",
+    "unit_text": "Abū Ṭālib is torn between pleasing his people and protecting his nephew.",
+    "main_characters": [
+      "Abū Ṭālib",
+      "Prophet Muhammad"
+    ],
+    "event_summary": "Abū Ṭālib is torn between pleasing his people and protecting his nephew.",
+    "selection_reason": "Emotional and relatable moment for children to understand Abū Ṭālib's conflict.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Prophet's Response",
+    "unit_text": "The Prophet refuses to abandon his message, even if it means risking his life.",
+    "main_characters": [
+      "Prophet Muhammad",
+      "Abū Ṭālib"
+    ],
+    "event_summary": "The Prophet refuses to abandon his message, even if it means risking his life.",
+    "selection_reason": "Inspiring moment of the Prophet's courage and conviction.",
+    "estimated_scenes": 2
+  }
+]

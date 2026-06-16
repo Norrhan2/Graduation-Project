@@ -1,0 +1,65 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "ʿAbd Yālīl and his brothers, Masūd and Ḥabīb, mock and insult the Prophet Muhammad, refusing to listen to his message.",
+    "key_visual_action": "ʿAbd Yālīl pointing at Muhammad, with a sneer on his face, while Masūd and Ḥabīb laugh",
+    "characters_present": [
+      "ʿAbd Yālīl",
+      "Masūd",
+      "Ḥabīb",
+      "Muhammad"
+    ],
+    "setting": "A meeting hall or a courtyard in the Thaqīf's city",
+    "emotional_tone": "Angry/Sarcastic",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_title": "ʿAbd Yālīl and his brothers mock the Prophet Muhammad",
+    "era": "pre_prophetic",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 100",
+    "moral_lesson": "The importance of listening to others and respecting their message",
+    "characters": [
+      {
+        "id": "1",
+        "name": "ʿAbd Yālīl",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall, muscular build, wearing a fine white thobe and a black woolen cloak with a white turban, standing with a sneer on his face"
+      },
+      {
+        "id": "2",
+        "name": "Masūd",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "slender build, wearing a white thobe and a brown woolen cloak with a cloth head covering, laughing"
+      },
+      {
+        "id": "3",
+        "name": "Ḥabīb",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "young, lean build, wearing a white thobe and a light brown woolen cloak with a simple head covering, joining in laughter"
+      },
+      {
+        "id": "4",
+        "name": "Muhammad",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, looking calm and patient"
+      }
+    ],
+    "narrative_text": "ʿAbd Yālīl and his brothers mocked the Prophet Muhammad, refusing to listen to his message.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A large, dimly lit meeting hall or courtyard in the Thaqīf's city, with stone or mud-brick walls and a high ceiling. Late afternoon sunlight filters through a series of narrow windows, casting warm rays across the floor. In the center of the room, a group of four men stand facing each other. The man in the green cloak stands calmly with his arms crossed, looking patient. To his left, a tall man with a sneer on his face points at the central figure, wearing a fine white thobe and a black woolen cloak. On the right, two younger men laugh together, one wearing a white thobe and a brown woolen cloak, the other a white thobe and a light brown woolen cloak. The atmosphere is tense and sarcastic, with a sense of mockery in the air. Medium shot from slightly above, looking down on the group. Warm beige, brown, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure' -> 'the man in the green cloak'"
+    ]
+  }
+}

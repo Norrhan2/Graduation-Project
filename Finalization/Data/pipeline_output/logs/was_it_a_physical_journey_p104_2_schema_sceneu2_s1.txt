@@ -1,0 +1,14 @@
+{
+  "scene_title": "The Night Journey",
+  "era": "pre_prophetic",
+  "region": "jerusalem",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 104",
+  "moral_lesson": "The importance of faith and trust in God",
+  "characters": [
+    {"id": "mohammad", "name": "The Man in the Green Cloak", "role": "Prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "god", "name": "The Almighty", "role": "God", "depiction_rule": "NO_FACE", "appearance": "majestic presence, surrounded by light"}
+  ],
+  "narrative_text": "Muhammad was taken on a miraculous journey to Jerusalem, where he met with God and other prophets.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "Historically accurate depiction of the event"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A moonlit night scene in 7th century Jerusalem, with a majestic and sacred atmosphere. In the center of the frame, the man in the deep green cloak stands in awe, his back to the viewer, as he looks up towards the heavens. The Almighty is seen as a majestic presence, surrounded by a brilliant white light that shines from above. The night sky is a deep shade of indigo, with stars twinkling like diamonds. A few scattered palm trees and ancient stone buildings are visible in the background, adding to the sense of history and reverence. The air is filled with a soft, golden light, as if the moon is shining down on the scene. Medium close shot at eye level, with the focus on the man in the green cloak's reaction. Warm beige, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

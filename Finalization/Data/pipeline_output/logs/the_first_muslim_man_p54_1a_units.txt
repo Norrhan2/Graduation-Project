@@ -1,0 +1,72 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Zayd's Early Life",
+    "unit_text": "Zayd was kidnapped and sold as a slave when he was eight years old. He was later bought by Ḥakīm ibn Ḥizām and taken to Makkah.",
+    "main_characters": ["Zayd", "Suʿdābint Thaʿlabah", "Ḥakīm ibn Ḥizām"],
+    "event_summary": "Zayd is kidnapped and sold as a slave at the age of eight."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Zayd's Purchase by Ḥakīm",
+    "unit_text": "Ḥakīm ibn Ḥizām bought Zayd and took him to Makkah. He brought several young slaves with him.",
+    "main_characters": ["Ḥakīm ibn Ḥizām", "Zayd"],
+    "event_summary": "Ḥakīm ibn Ḥizām buys Zayd and takes him to Makkah."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Khadījah's Choice",
+    "unit_text": "Ḥakīm's aunt, Khadījah, visited him and chose Zayd as one of her slaves.",
+    "main_characters": ["Khadījah", "Ḥakīm ibn Ḥizām", "Zayd"],
+    "event_summary": "Khadījah chooses Zayd as one of her slaves."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Zayd's Father's Poetry",
+    "unit_text": "Zayd's father, Ḥārithah, expresses his sorrow through poetry, which is recited by travellers and eventually reaches Zayd in Makkah.",
+    "main_characters": ["Ḥārithah", "Zayd"],
+    "event_summary": "Zayd's father expresses his sorrow through poetry, which reaches Zayd in Makkah."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Zayd's Father's Journey",
+    "unit_text": "Ḥārithah and his brother, Kaʿb, travel to Makkah to find Zayd and appeal to Muhammad to sell him to them.",
+    "main_characters": ["Ḥārithah", "Kaʿb", "Muhammad"],
+    "event_summary": "Ḥārithah and Kaʿb travel to Makkah to find Zayd and appeal to Muhammad."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Muhammad's Proposal",
+    "unit_text": "Muhammad proposes that Zayd be given the choice to stay with him or go with his father.",
+    "main_characters": ["Muhammad", "Ḥārithah", "Kaʿb"],
+    "event_summary": "Muhammad proposes that Zayd be given the choice to stay with him or go with his father."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Zayd's Decision",
+    "unit_text": "Zayd chooses to stay with Muhammad, which shocks his father and uncle.",
+    "main_characters": ["Zayd", "Ḥārithah", "Kaʿb"],
+    "event_summary": "Zayd chooses to stay with Muhammad."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Muhammad's Adoption of Zayd",
+    "unit_text": "Muhammad formally adopts Zayd as his son, declaring it in front of the people of the Quraysh.",
+    "main_characters": ["Muhammad", "Zayd", "Ḥārithah"],
+    "event_summary": "Muhammad formally adopts Zayd as his son."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "Zayd's Loyalty",
+    "unit_text": "Zayd expresses his loyalty to Muhammad, stating that he will never leave him to go anywhere.",
+    "main_characters": ["Zayd", "Muhammad"],
+    "event_summary": "Zayd expresses his loyalty to Muhammad."
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "Zayd's Relationship with Muhammad",
+    "unit_text": "Zayd learns of Muhammad's integrity and kindness, leading him to accept Islam without hesitation.",
+    "main_characters": ["Zayd", "Muhammad"],
+    "event_summary": "Zayd learns of Muhammad's integrity and kindness, leading him to accept Islam."
+  }
+]

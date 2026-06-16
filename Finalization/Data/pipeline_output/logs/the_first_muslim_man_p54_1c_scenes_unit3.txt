@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Muhammad and Zayd meet Ḥārithah, Zayd's biological father, to finalize the adoption.",
+    "key_visual_action": "Ḥārithah hands Zayd to Muhammad",
+    "characters_present": ["Muhammad", "Zayd", "Ḥārithah"],
+    "setting": "A marketplace or public square in Mecca",
+    "emotional_tone": "Serious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Muhammad formally declares Zayd as his son in front of the people of the Quraysh.",
+    "key_visual_action": "Muhammad holds up Zayd and says 'This is my son Zayd'",
+    "characters_present": ["Muhammad", "Zayd"],
+    "setting": "A marketplace or public square in Mecca",
+    "emotional_tone": "Joyful",
+    "time_of_day": "afternoon"
+  }
+]

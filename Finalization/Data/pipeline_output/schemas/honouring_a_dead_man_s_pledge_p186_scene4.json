@@ -1,0 +1,41 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "Khubayb is tied to a tree, awaiting his execution.",
+    "key_visual_action": "Khubayb's hands are tied behind his back, with a rope tied to a tree.",
+    "characters_present": [
+      "Khubayb ibn ʿAdiy"
+    ],
+    "setting": "Desert, with a tree in the background.",
+    "emotional_tone": "Serious",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 1,
+    "scene_summary": "Khubayb is tied to a tree, awaiting his execution.",
+    "era": "pre_prophetic",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 186",
+    "moral_lesson": "The sacrifice of the companions for the sake of their faith.",
+    "characters": [
+      {
+        "id": "khubayb",
+        "name": "Khubayb ibn ʿAdiy",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, dignified upright posture, wearing a simple white thobe with a plain brown woolen cloak and a white cloth head covering, hands tied behind his back, a rope tied to a nearby tree."
+      }
+    ],
+    "narrative_text": "Khubayb was a brave companion who sacrificed his life for the sake of his faith. He was tied to a tree, awaiting his execution, but he remained steadfast in his devotion.",
+    "compliance": {
+      "prophet_check": "NOT_PRESENT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No graphic violence or disturbing imagery, suitable for children aged 6-12."
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene desert landscape with a single majestic tree standing tall in the background, its branches stretching upwards towards the sky. Late afternoon sunlight casts long shadows across the sandy ground, illuminating the scene with a warm golden light. In the foreground, a figure is tied to the tree trunk with a rope, his hands bound behind his back. The man in the green cloak is seen entirely from behind, with a medium build, dignified upright posture, wearing a simple white thobe and a plain brown woolen cloak and a white cloth head covering. A sense of calm and determination emanates from the figure, as if he is ready to face his fate with courage and conviction. Soft warm golden light, serene and contemplative mood. Medium close shot at eye level. Warm beige, golden, and sky blue palette with the brown woolen cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure' -> 'the man in the green cloak'"
+    ]
+  }
+}

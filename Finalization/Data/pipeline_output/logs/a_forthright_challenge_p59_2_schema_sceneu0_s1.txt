@@ -1,0 +1,24 @@
+{
+  "scene_number": 2,
+  "scene_title": "The Prophet's Call to the People of Makkah",
+  "era": "late_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 59",
+  "moral_lesson": "The importance of spreading the message of Islam",
+  "characters": [
+    {
+      "id": "The Prophet",
+      "name": "The central figure",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    }
+  ],
+  "narrative_text": "The Prophet stood on the Hill of al-Ṣafā and called out to the people of Makkah, sharing his message of Islam with hope and determination.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": "Historically accurate depiction of the Hill of al-Ṣafā and the Prophet's attire."
+  },
+  "image_prompt": "Watercolor storybook illustration, soft warm hand-painted style for ages 6-12. The Hill of al-Ṣafā in Makkah, late afternoon, with warm sunlight casting long shadows across the rocky terrain. A large crowd of people can be seen in the distance, scattered across the valley below. In the foreground, the central figure stands at the edge of the hill, seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. His mouth is open, as if shouting his message to the crowd, with a look of determination on his face. Soft warm golden light, with a sense of grandeur and importance. Medium wide shot, looking out over the valley. Earthy tones with the deep green cloak as a color anchor. The people in the crowd are shown in silhouette, with no distinct facial features. No modern objects, historically accurate 7th century scene."

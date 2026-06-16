@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "The Prophet Muhammad reacts angrily to ʿAbdullāh's insolence.",
+    "key_visual_action": "Muhammad scowling, pointing a finger at ʿAbdullāh",
+    "characters_present": [
+      "ʿAbdullāh ibn Ubayy",
+      "Muhammad"
+    ],
+    "setting": "Medina mosque",
+    "emotional_tone": "disappointed",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_summary": "The Prophet Muhammad reacts angrily to ʿAbdullāh's insolence",
+    "era": "madinah_early",
+    "region": "makkah|madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 159",
+    "moral_lesson": "Importance of respecting the Prophet's authority",
+    "characters": [
+      {
+        "id": "1",
+        "name": "ʿAbdullāh ibn Ubayy",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall build, wearing a simple brown woolen cloak and white head covering"
+      },
+      {
+        "id": "2",
+        "name": "Muhammad",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      }
+    ],
+    "narrative_text": "The Prophet Muhammad was disappointed with ʿAbdullāh ibn Ubayy's insolent behavior.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "None"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Interior of the 7th century Medina mosque with a high, domed ceiling and a series of arches supporting a wooden roof. Late afternoon sunlight streams through the eastern windows, casting warm rays across the room. The floor is made of packed earth, and a simple wooden pulpit stands near the wall. Two figures stand facing each other in the center of the room. On the left, the man in the deep green cloak stands with his back to the viewer, his posture upright and dignified, one hand extended in a stern gesture. On the right, a tall man with a slightly scowling face, wearing a simple brown woolen cloak and white head covering, points a finger at the man in the green cloak, his expression one of insolence. Soft warm golden light, intimate and sacred mood. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'man in the deep green cloak' instead of 'prophet'"
+    ]
+  }
+}

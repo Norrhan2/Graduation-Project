@@ -1,0 +1,37 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Bilal's Route",
+    "unit_text": "Bilal took Ṣafiyyah and her cousin to pass by the burial site of the Jews killed in the Battle of Khaybar.",
+    "main_characters": ["Bilal", "Ṣafiyyah", "her cousin"],
+    "event_summary": "Bilal deliberately planned their route to pass by the burial site of the Jews."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Cousin's Reaction",
+    "unit_text": "When they saw the dead, Ṣafiyyah's cousin cried and lamented loudly.",
+    "main_characters": ["Ṣafiyyah's cousin"],
+    "event_summary": "Ṣafiyyah's cousin reacts emotionally to seeing the dead bodies."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Prophet's Disapproval",
+    "unit_text": "The Prophet reproached Bilal severely for his actions, saying he was devoid of mercy.",
+    "main_characters": ["The Prophet", "Bilal"],
+    "event_summary": "The Prophet scolds Bilal for taking Ṣafiyyah to the burial site."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Bilal's Apology",
+    "unit_text": "Bilal apologized, saying he didn't think the Prophet would object and that he thought it might be beneficial for the girl to see the dead.",
+    "main_characters": ["Bilal"],
+    "event_summary": "Bilal apologizes for his actions and explains his reasoning."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Prophet's Teaching",
+    "unit_text": "The Prophet teaches Bilal that kind treatment of enemies might overcome their hostility and lead to better relations.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet shares his wisdom on treating enemies with kindness."
+  }
+]

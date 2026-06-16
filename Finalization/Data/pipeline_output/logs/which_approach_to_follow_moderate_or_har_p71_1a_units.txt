@@ -1,0 +1,51 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The Problem of Makkah",
+    "unit_text": "Makkah faced a protracted problem with Islam, and various solutions were proposed, ranging from moderate to militant approaches.",
+    "main_characters": [],
+    "event_summary": "Makkah's problem with Islam persists, and various solutions are proposed."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "ʿ Utbah's Realization",
+    "unit_text": "ʿ Utbah, a leading figure in Makkah, recognized that Islam was getting stronger despite Quraysh's opposition.",
+    "main_characters": ["ʿ Utbah ibn Rabīʿ ah"],
+    "event_summary": "ʿ Utbah realizes that Islam is gaining strength."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "ʿ Utbah's Proposal",
+    "unit_text": "ʿ Utbah suggested to his friends that they approach the Prophet with offers to resolve their problem with him.",
+    "main_characters": ["ʿ Utbah ibn Rabīʿ ah"],
+    "event_summary": "ʿ Utbah proposes approaching the Prophet with offers."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "ʿ Utbah Meets the Prophet",
+    "unit_text": "ʿ Utbah met the Prophet and offered him wealth, position, and a throne in exchange for stopping his message.",
+    "main_characters": ["ʿ Utbah ibn Rabīʿ ah", "Muhammad"],
+    "event_summary": "ʿ Utbah meets the Prophet and offers him concessions."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Prophet's Response",
+    "unit_text": "The Prophet recited the first 38 verses of Sūrah 41 of the Qur'ān, and then prostrated himself in devotion to God.",
+    "main_characters": ["Muhammad", "ʿ Utbah ibn Rabīʿ ah"],
+    "event_summary": "The Prophet responds to ʿ Utbah's offers with a recitation from the Qur'ān."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "ʿ Utbah's Change of Heart",
+    "unit_text": "ʿ Utbah returned to his people and suggested that they leave the Prophet alone, citing the potential consequences of his message.",
+    "main_characters": ["ʿ Utbah ibn Rabīʿ ah"],
+    "event_summary": "ʿ Utbah changes his opinion and advises his people to leave the Prophet alone."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "The Quraysh's Rejection",
+    "unit_text": "The Quraysh rejected ʿ Utbah's advice and continued to oppose the Prophet.",
+    "main_characters": ["Quraysh"],
+    "event_summary": "The Quraysh rejects ʿ Utbah's advice and continues to oppose the Prophet."
+  }
+]

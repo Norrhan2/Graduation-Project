@@ -1,0 +1,24 @@
+{
+  "scene_title": "The Quraysh Army Prepares for Battle",
+  "era": "late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 150",
+  "moral_lesson": "The importance of preparation and confidence in the face of adversity",
+  "characters": [
+    {
+      "id": "1",
+      "name": "Abu Sufyan",
+      "role": "antagonist",
+      "depiction_rule": "FULL",
+      "appearance": "medium build, confident posture, wearing a white or cream-colored turban, a long white or cream-colored thobe, and a brown or beige cloak with intricate golden or silver embroidery, riding a majestic dark brown or black horse with a flowing mane"
+    }
+  ],
+  "narrative_text": "The Quraysh army is preparing for battle. Abu Sufyan, their leader, is confident and determined.",
+  "compliance": {
+    "prophet_check": "NOT_PRESENT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast and open desert landscape with a group of Quraysh warriors gathered in the distance, their brown or beige cloaks and white thobes visible as they prepare for battle. Late morning sunlight casts a golden glow across the sandy dunes and the warriors. In the foreground, a lone figure on horseback, Abu Sufyan, sits confidently in the saddle, looking out at his army with a determined expression. His dark brown or black horse is majestic and strong, with a flowing mane and a gleaming black or dark brown saddle. Abu Sufyan wears a white or cream-colored turban, a long white or cream-colored thobe, and a brown or beige cloak with intricate golden or silver embroidery. The sky above is a brilliant blue with a few wispy clouds scattered across it. The dominant colors are warm sandy beige, creamy white, and deep blue, with accents of golden brown and dark brown. Medium long shot from slightly above eye level, capturing Abu Sufyan's confident and determined posture. No modern objects, historically accurate 7th century scene."
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Bakr sees ʿĀmir ibn Fuhayrah being sold in the market",
+    "key_visual_action": "Abū Bakr looking at ʿĀmir ibn Fuhayrah with compassion",
+    "characters_present": ["Abū Bakr", "ʿĀmir ibn Fuhayrah", "Slave trader"],
+    "setting": "Market",
+    "emotional_tone": "Sympathy",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Abū Bakr buys ʿĀmir ibn Fuhayrah from the slave trader",
+    "key_visual_action": "Abū Bakr handing money to the slave trader",
+    "characters_present": ["Abū Bakr", "ʿĀmir ibn Fuhayrah", "Slave trader"],
+    "setting": "Market",
+    "emotional_tone": "Determination",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Abū Bakr sets ʿĀmir ibn Fuhayrah free",
+    "key_visual_action": "Abū Bakr releasing ʿĀmir ibn Fuhayrah's chains",
+    "characters_present": ["Abū Bakr", "ʿĀmir ibn Fuhayrah"],
+    "setting": "Private home or garden",
+    "emotional_tone": "Joy",
+    "time_of_day": "Evening"
+  }
+]

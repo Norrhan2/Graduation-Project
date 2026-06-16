@@ -1,0 +1,48 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "Muhammad proposes the choice to Zayd",
+    "key_visual_action": "Muhammad holding Zayd's hands, looking directly at him",
+    "characters_present": [
+      "Muhammad",
+      "Zayd"
+    ],
+    "setting": "A quiet room in the mosque",
+    "emotional_tone": "Empathetic",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_title": "A moment of compassion in the mosque",
+    "era": "early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 54",
+    "moral_lesson": "The importance of empathy and kindness in leadership",
+    "characters": [
+      {
+        "id": "1",
+        "name": "The central figure seen from behind",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "2",
+        "name": "Zayd",
+        "role": "companion",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall, slender build, wearing an off-white thobe and plain brown woolen cloak with a white cloth head covering"
+      }
+    ],
+    "narrative_text": "Muhammad was known for his compassion and kindness towards all people. One day, he sat with Zayd in a quiet room in the mosque, discussing a matter of great importance.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "None"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A quiet, dimly lit room in the 7th century mosque of Makkah with unpainted mud-brick walls in warm earth tones and a simple wooden floor. Late afternoon sunlight filters through a small window high on the wall, casting a soft warm glow across the room. In the center of the room, two figures sit facing each other on a low wooden bench. On the left, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, his hands gently holding those of a young man, who sits with his back straight and his head slightly bowed in contemplation. On the right, the young man's face is not visible, but his slender build and off-white thobe and plain brown woolen cloak with a white cloth head covering are clear. The central figure's hands are wrapped gently around the young man's, conveying a sense of empathy and compassion. Soft, warm, and intimate mood. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure' -> 'the central figure', 'Zayd' -> 'a young man'"
+    ]
+  }
+}

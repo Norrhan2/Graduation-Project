@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet Muhammad arrives at the Thaqīf's city, hoping to share his message with their leaders.",
+    "key_visual_action": "Muhammad riding a camel, looking determined",
+    "characters_present": ["Muhammad"],
+    "setting": "The city of Thaqīf, with palm trees and buildings in the background",
+    "emotional_tone": "Hopeful",
+    "time_of_day": "Morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "ʿAbd Yālīl and his brothers, Masūd and Ḥabīb, mock and insult the Prophet Muhammad, refusing to listen to his message.",
+    "key_visual_action": "ʿAbd Yālīl pointing at Muhammad, with a sneer on his face, while Masūd and Ḥabīb laugh",
+    "characters_present": ["ʿAbd Yālīl", "Masūd", "Ḥabīb", "Muhammad"],
+    "setting": "A meeting hall or a courtyard in the Thaqīf's city",
+    "emotional_tone": "Angry/Sarcastic",
+    "time_of_day": "Afternoon"
+  }
+]

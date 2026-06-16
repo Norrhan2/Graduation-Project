@@ -1,0 +1,20 @@
+{
+  "scene_title": "Abū Ṭālib's Wisdom",
+  "era": "late_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 62",
+  "moral_lesson": "Importance of calmness and wisdom in difficult situations",
+  "characters": [
+    {"id": "1", "name": "Abū Ṭālib", "role": "family_of_prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "2", "name": "ʿUtbah", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "tall, imposing figure, wearing a dark brown thobe and plain white woolen cloak with a black cloth head covering"},
+    {"id": "3", "name": "Shaybah", "role": "supporting", "depiction_rule": "NO_FACE", "appearance": "slender, bespectacled man, wearing a light brown thobe and plain beige woolen cloak with a white cloth head covering"},
+    {"id": "4", "name": "Abū Sufyān", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "young, energetic figure, wearing a dark gray thobe and plain black woolen cloak with a white cloth head covering"}
+  ],
+  "narrative_text": "Abū Ṭālib's calm and wise words soothed ʿUtbah's anger, and he refused to promise to stop the Prophet from preaching.",
+  "compliance": {
+    "prophet_check": "NO_PROPHET_PRESENT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Interior of a modest 7th century Makkah home or public gathering place with unpainted mud-brick walls in warm earth tones and a packed-earth floor partly covered by a woven palm-fiber mat. Late afternoon golden sunlight streams through an open wooden doorway on the right, casting warm rays across the room. In the corner sits a tall clay water jug, and a small ceramic oil lamp rests on a low wooden shelf giving a soft glow. Four figures sit facing each other on the mat. On the far left, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand gently placed on ʿUtbah's shoulder. The three other figures sit in front of him: ʿUtbah, a tall, imposing figure with his face turned away, wearing a dark brown thobe and plain white woolen cloak with a black cloth head covering; Shaybah, a slender, bespectacled man, wearing a light brown thobe and plain beige woolen cloak with a white cloth head covering, looking concerned; and Abū Sufyān, a young, energetic figure, wearing a dark gray thobe and plain black woolen cloak with a white cloth head covering, frowning. Soft warm golden light, intimate and calm mood. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

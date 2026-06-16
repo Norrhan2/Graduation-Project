@@ -1,0 +1,38 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿ Alī sees the Quraysh army retreating",
+    "key_visual_action": "ʿ Alī pointing at the retreating army",
+    "characters_present": ["ʿ Alī", "The Quraysh army"],
+    "setting": "Desert or battlefield",
+    "emotional_tone": "Relief",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "ʿ Alī rushes to share the news with the Prophet Muhammad",
+    "key_visual_action": "ʿ Alī running towards the Prophet Muhammad",
+    "characters_present": ["ʿ Alī", "The Prophet Muhammad"],
+    "setting": "Desert or a nearby settlement",
+    "emotional_tone": "Excitement",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet Muhammad greets ʿ Alī with a smile",
+    "key_visual_action": "The Prophet Muhammad smiling and embracing ʿ Alī",
+    "characters_present": ["ʿ Alī", "The Prophet Muhammad"],
+    "setting": "Desert or a nearby settlement",
+    "emotional_tone": "Joy",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "ʿ Alī shares the news with the other companions",
+    "key_visual_action": "ʿ Alī speaking to a group of companions",
+    "characters_present": ["ʿ Alī", "Companions"],
+    "setting": "Desert or a nearby settlement",
+    "emotional_tone": "Celebration",
+    "time_of_day": "Afternoon"
+  }
+]

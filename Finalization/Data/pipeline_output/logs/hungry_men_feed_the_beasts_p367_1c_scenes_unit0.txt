@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Khawlān Delegation arrives in Madinah, led by their leader.",
+    "key_visual_action": "Leader of Khawlān Delegation dismounts from camel",
+    "characters_present": ["Khawlān Delegation", "Prophet Muhammad"],
+    "setting": "Madinah City Gate",
+    "emotional_tone": "Formal",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet Muhammad greets the Khawlān Delegation with a warm smile.",
+    "key_visual_action": "Prophet Muhammad extends his right hand for a handshake",
+    "characters_present": ["Prophet Muhammad", "Khawlān Delegation"],
+    "setting": "Madinah City Gate",
+    "emotional_tone": "Warm and welcoming",
+    "time_of_day": "Afternoon"
+  }
+]

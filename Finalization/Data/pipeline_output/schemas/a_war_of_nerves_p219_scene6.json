@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 4,
+    "scene_summary": "The Prophet and Bilāl stand together, leading the congregation in prayer.",
+    "key_visual_action": "The Prophet and Bilāl standing side by side, leading the congregation in prayer",
+    "characters_present": [
+      "Prophet",
+      "Bilāl"
+    ],
+    "setting": "A mosque or open area in the city",
+    "emotional_tone": "Spiritual",
+    "time_of_day": "evening"
+  },
+  "schema_output": {
+    "scene_number": 4,
+    "scene_summary": "The Prophet and Bilāl stand together, leading the congregation in prayer.",
+    "era": "pre_prophetic|early_makkah|late_makkah|madinah_early",
+    "region": "makkah|madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 219",
+    "moral_lesson": "The importance of unity and leadership in prayer.",
+    "characters": [
+      {
+        "id": "Prophet",
+        "name": "the central figure",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "Bilāl",
+        "name": "Bilāl",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "slender build, wearing a simple white thobe and a plain brown woolen cloak"
+      }
+    ],
+    "narrative_text": "The Prophet and Bilāl stand together, leading the congregation in prayer. They are a perfect example of unity and leadership.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene and majestic mosque or open area in the city, set against a warm evening sky with a crescent moon shining bright. Soft golden sunlight casts a gentle glow across the scene. In the center, the central figure stands tall and dignified, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. Standing alongside him, a slender man with a simple white thobe and a plain brown woolen cloak, their faces not visible but their postures conveying a sense of devotion and unity. The air is filled with the sound of gentle chanting and the soft rustling of fabric. A large crowd of people, mostly men, stand behind them, their faces visible, all dressed in simple white robes, their eyes closed in prayer. The dominant warm beige and golden color palette, with the deep green cloak as a striking accent, creates a sense of harmony and spiritual connection. Medium shot, capturing the scene from a slight angle, emphasizing the unity and leadership of the central figure and Bilāl. Historically accurate 7th century scene, no modern objects.",
+    "_safety_changes": [
+      "'the central figure'"
+    ]
+  }
+}

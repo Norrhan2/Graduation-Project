@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet Muhammad observes the poverty of Sahl ibn Ḥanīf and Abū Dujānah.",
+    "key_visual_action": "Prophet looking at Sahl and Abū Dujānah with concern",
+    "characters_present": ["Prophet", "Sahl ibn Ḥanīf", "Abū Dujānah"],
+    "setting": "Medina, a marketplace or public area",
+    "emotional_tone": "Sympathetic",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet Muhammad gives Sahl ibn Ḥanīf and Abū Dujānah a share of the fay' as a gift.",
+    "key_visual_action": "Prophet handing Sahl and Abū Dujānah a bag of fay'",
+    "characters_present": ["Prophet", "Sahl ibn Ḥanīf", "Abū Dujānah"],
+    "setting": "Medina, a public area or the Prophet's home",
+    "emotional_tone": "Heartwarming",
+    "time_of_day": "afternoon"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "scene_title": "Abū Sufyān Arrives at the Muslim Camp",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 176",
+  "moral_lesson": "Importance of being prepared for the unexpected",
+  "characters": [
+    {
+      "id": "AbuSufyan",
+      "name": "Abū Sufyān",
+      "role": "antagonist",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, dignified upright posture, wearing a flowing dark brown thobe with a distinctive white woolen cloak draped over both shoulders and a dark brown turban with a cloth tail hanging between the shoulder blades, riding a brown horse"
+    }
+  ],
+  "narrative_text": "Abū Sufyān rode his horse through the desert, looking around with a concerned expression, searching for the Muslim camp.",
+  "compliance": {
+    "prophet_check": "NO_PROPHET_PRESENT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast 7th century Arabian Desert landscape with a distant Muslim camp in view. Late afternoon golden sunlight casts long shadows across the sandy dunes. A lone horse and rider, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing dark brown thobe with a distinctive white woolen cloak draped over both shoulders and a dark brown turban with a cloth tail hanging between the shoulder blades, approaches the camp with a concerned expression. Soft warm golden light, sense of longing and uncertainty. Medium shot from a low angle, emphasizing the vastness of the desert. Earthy brown, beige, and golden palette with the white woolen cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

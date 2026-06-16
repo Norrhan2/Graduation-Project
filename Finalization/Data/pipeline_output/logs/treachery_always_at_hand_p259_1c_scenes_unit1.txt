@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿ Abdullāh ibn Rawāḥah and his men arrive at Khaybar, looking for Usayr.",
+    "key_visual_action": "ʿ Abdullāh ibn Rawāḥah dismounts from his horse",
+    "characters_present": ["ʿ Abdullāh ibn Rawāḥah", "his men"],
+    "setting": "Khaybar, desert landscape",
+    "emotional_tone": "curious",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "ʿ Abdullāh ibn Rawāḥah and Usayr meet and shake hands, exchanging pledges of security and safety.",
+    "key_visual_action": "ʿ Abdullāh ibn Rawāḥah and Usayr shake hands",
+    "characters_present": ["ʿ Abdullāh ibn Rawāḥah", "Usayr ibn Rizām"],
+    "setting": "Khaybar, meeting area",
+    "emotional_tone": "hopeful",
+    "time_of_day": "morning"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "unit_number": 3,
+    "unit_title": "Prophet tries to split enemy ranks",
+    "unit_text": "Prophet sends a messenger to Ghaṭafān leaders with an offer to withdraw from alliance in exchange for crops of Madinah.",
+    "main_characters": [
+      "Prophet",
+      "Ghaṭafān leaders"
+    ],
+    "event_summary": "Prophet tries to split enemy ranks by offering Ghaṭafān a deal.",
+    "selection_reason": "Clear visual moment of Prophet sending a messenger and Ghaṭafān leaders considering the offer.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Anṣār reject the agreement",
+    "unit_text": "Sa ʿ d ibn Mu ʿādh rejects the agreement, saying they will not give their goods to the enemy, and erases the writing.",
+    "main_characters": [
+      "Sa ʿ d ibn Mu ʿādh"
+    ],
+    "event_summary": "Anṣār reject the agreement with Ghaṭafān.",
+    "selection_reason": "Clear visual moment of Sa ʿ d ibn Mu ʿādh rejecting the agreement and erasing the writing.",
+    "estimated_scenes": 1
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "Battle at Prophet's position",
+    "unit_text": "Battle takes place at Prophet's position, with fierce fighting and missed prayers.",
+    "main_characters": [
+      "Prophet",
+      "Quraysh"
+    ],
+    "event_summary": "Battle takes place at Prophet's position.",
+    "selection_reason": "Clear visual moment of the intense battle between Prophet and Quraysh.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "Prayers offered after sunset",
+    "unit_text": "Prayers are offered after sunset, with Bilāl making the call to prayer.",
+    "main_characters": [
+      "Prophet",
+      "Bilāl"
+    ],
+    "event_summary": "Prayers are offered after sunset.",
+    "selection_reason": "Meaningful lesson about the importance of prayer and Bilāl's role in it.",
+    "estimated_scenes": 1
+  }
+]

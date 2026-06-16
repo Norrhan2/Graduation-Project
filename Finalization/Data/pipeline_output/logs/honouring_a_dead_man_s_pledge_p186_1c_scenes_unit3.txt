@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Khubayb is tied to a tree, awaiting his execution.",
+    "key_visual_action": "Khubayb's hands are tied behind his back, with a rope tied to a tree.",
+    "characters_present": ["Khubayb ibn ʿAdiy"],
+    "setting": "Desert, with a tree in the background.",
+    "emotional_tone": "Serious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Khubayb looks up and asks God to count his killers and kill them all.",
+    "key_visual_action": "Khubayb's eyes are closed, and his head is tilted upwards, as if in prayer.",
+    "characters_present": ["Khubayb ibn ʿAdiy"],
+    "setting": "Desert, with a tree in the background.",
+    "emotional_tone": "Resolute",
+    "time_of_day": "afternoon"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Ḥāṭib's Mission",
+    "unit_text": "Ḥāṭib ibn Abī Balta ʿ ah carried the Prophet's letter to the ruler of Egypt, al-Muqawqis, in Alexandria.",
+    "main_characters": ["Ḥāṭib ibn Abī Balta ʿ ah", "al-Muqawqis"],
+    "event_summary": "Ḥāṭib is sent to deliver the Prophet's letter to al-Muqawqis in Egypt."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "The Prophet's Letter",
+    "unit_text": "The Prophet's letter to al-Muqawqis invites him to accept Islam, promising safety and a doubled reward.",
+    "main_characters": ["Muhammad", "al-Muqawqis"],
+    "event_summary": "The Prophet sends a letter to al-Muqawqis, inviting him to accept Islam."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Ḥāṭib's Address to al-Muqawqis",
+    "unit_text": "Ḥāṭib delivers the Prophet's letter to al-Muqawqis, warning him of the fate of those who reject prophets.",
+    "main_characters": ["Ḥāṭib ibn Abī Balta ʿ ah", "al-Muqawqis"],
+    "event_summary": "Ḥāṭib delivers the Prophet's letter to al-Muqawqis, warning him of the consequences of rejecting a prophet."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Al-Muqawqis' Response",
+    "unit_text": "Al-Muqawqis responds to the Prophet's letter, expressing interest in Islam but refusing to accept it.",
+    "main_characters": ["al-Muqawqis", "Ḥāṭib ibn Abī Balta ʿ ah"],
+    "event_summary": "Al-Muqawqis responds to the Prophet's letter, expressing interest but refusing to accept Islam."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Al-Muqawqis' Gift and Warning",
+    "unit_text": "Al-Muqawqis gives Ḥāṭib gifts and warns him not to reveal their discussion, fearing for his authority.",
+    "main_characters": ["al-Muqawqis", "Ḥāṭib ibn Abī Balta ʿ ah"],
+    "event_summary": "Al-Muqawqis gives Ḥāṭib gifts and warns him not to reveal their discussion, fearing for his authority."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Ḥāṭib's Return to Madinah",
+    "unit_text": "Ḥāṭib returns to Madinah and reports his conversation with al-Muqawqis to the Prophet.",
+    "main_characters": ["Ḥāṭib ibn Abī Balta ʿ ah", "Muhammad"],
+    "event_summary": "Ḥāṭib returns to Madinah and reports his conversation with al-Muqawqis to the Prophet."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "The Prophet's Interpretation",
+    "unit_text": "The Prophet interprets al-Muqawqis' actions, saying he feared for his authority, which would not last.",
+    "main_characters": ["Muhammad", "Ḥāṭib ibn Abī Balta ʿ ah"],
+    "event_summary": "The Prophet interprets al-Muqawqis' actions, saying he feared for his authority, which would not last."
+  }
+]

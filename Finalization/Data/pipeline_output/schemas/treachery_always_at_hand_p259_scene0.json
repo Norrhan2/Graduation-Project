@@ -1,0 +1,63 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "ʿ Abdullāh ibn Rawāḥah sets off with 30 companions to meet Usayr ibn Rizām.",
+    "key_visual_action": "ʿ Abdullāh ibn Rawāḥah riding a camel, with 30 companions following behind",
+    "characters_present": [
+      "ʿ Abdullāh ibn Rawāḥah",
+      "Usayr ibn Rizām"
+    ],
+    "setting": "Desert landscape",
+    "emotional_tone": "determined",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_title": "ʿ Abdullāh ibn Rawāḥah and the 30 Companions Set Off to Meet Usayr ibn Rizām",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 259",
+    "moral_lesson": "Determination and courage in the face of danger",
+    "characters": [
+      {
+        "id": "1",
+        "name": "ʿ Abdullāh ibn Rawāḥah",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall, slender build, wearing a light brown thobe, beige turban and a pair of worn leather sandals, riding a majestic dromedary camel with a worn leather saddle"
+      },
+      {
+        "id": "2",
+        "name": "Usayr ibn Rizām",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, wearing a dark grey thobe, black turban and a pair of worn leather sandals, standing in the distance with a subtle air of hostility"
+      },
+      {
+        "id": "3",
+        "name": "Companion 1",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "young man with a medium build, wearing a light beige thobe, white turban and a pair of worn leather sandals, walking behind ʿ Abdullāh ibn Rawāḥah's camel"
+      },
+      {
+        "id": "4",
+        "name": "Companion 2",
+        "role": "supporting",
+        "depiction_rule": "FULL",
+        "appearance": "older man with a slight stoop, wearing a dark brown thobe, plain white turban and a pair of worn leather sandals, walking behind ʿ Abdullāh ibn Rawāḥah's camel"
+      }
+    ],
+    "narrative_text": "ʿ Abdullāh ibn Rawāḥah and his companions were determined to meet Usayr ibn Rizām, despite knowing he might not be friendly.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Historically accurate depiction of 7th century desert landscape and characters"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Vast arid desert landscape with endless sandy dunes stretching towards the horizon, under a clear blue afternoon sky with a few wispy clouds. ʿ Abdullāh ibn Rawāḥah sits confidently on a majestic dromedary camel, riding steadily forward with a determined expression. Behind him, a procession of 30 companions follow on foot, each with their own determined posture and facial expression. In the distance, the central figure seen entirely from behind: medium build, wearing a dark grey thobe, black turban and a pair of worn leather sandals, stands out against the vast expanse of the desert. Soft warm sunlight casts a golden glow across the scene, with the camel's shadow stretching out in front of it. Medium shot at eye level. Warm beige, sandy, and golden palette with the camel's brown coat as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure'"
+    ]
+  }
+}

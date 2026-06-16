@@ -1,0 +1,31 @@
+{
+  "scene_number": 2,
+  "scene_title": "Witnesing Kindness in Salamah",
+  "era": "late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 111",
+  "moral_lesson": "The importance of kindness, generosity, and community",
+  "characters": [
+    {
+      "id": "1",
+      "name": "ʿAmr ibn al-Jamūḥ",
+      "role": "antagonist-turned-supporting",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, dignified upright posture, wearing a brown thobe and a simple white turban"
+    },
+    {
+      "id": "2",
+      "name": "Young men of Salamah",
+      "role": "supporting",
+      "depiction_rule": "FULL",
+      "appearance": "slender builds, smiling faces, wearing white thobes and simple head coverings"
+    }
+  ],
+  "narrative_text": "ʿAmr ibn al-Jamūḥ sat in the public square of Salamah, watching the young men share food and smile at each other. He felt a spark of curiosity about their faith and wanted to learn more.",
+  "compliance": {
+    "prophet_check": "NOT_APPLICABLE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A bustling public square in Salamah during the late afternoon. Soft sunlight casts long shadows across the sandy floor, partially shaded by a series of palm trees with intricately woven date-palm fronds. In the center of the scene, a group of young men sit in a circle on colorful woven mats, sharing food and smiling at each other. One young man with a bright smile hands a small portion of food to another, while a third young man with a gentle expression looks on. In the background, a few more young men and older community members engage in conversation, their faces filled with warmth and kindness. At the edge of the scene, a lone figure sits on a low wall, seen entirely from behind: medium build, dignified upright posture, wearing a brown thobe and a simple white turban, gazing intently at the group. Soft warm golden light, lively and welcoming mood. Medium shot at eye level. Earthy tones, with accents of bright colors from the mats and the young men's clothing. No modern objects, historically accurate 7th century scene."

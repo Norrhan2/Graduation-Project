@@ -1,0 +1,38 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Mulayḥ and Qārib ibn al-Aswad arrive at the Prophet's location, looking worried and uncertain.",
+    "key_visual_action": "Abū Mulayḥ and Qārib ibn al-Aswad walking together, looking back over their shoulders.",
+    "characters_present": ["Abū Mulayḥ", "Qārib ibn al-Aswad"],
+    "setting": "Medina, outside the Prophet's home",
+    "emotional_tone": "anxious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet greets Abū Mulayḥ and Qārib ibn al-Aswad warmly and invites them to sit with him.",
+    "key_visual_action": "The Prophet extending his hand in a gesture of welcome.",
+    "characters_present": ["Abū Mulayḥ", "Qārib ibn al-Aswad", "Prophet"],
+    "setting": "Medina, inside the Prophet's home",
+    "emotional_tone": "kind",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Abū Mulayḥ and Qārib ibn al-Aswad declare their Islam to the Prophet, looking relieved.",
+    "key_visual_action": "Abū Mulayḥ and Qārib ibn al-Aswad standing with their hands on their hearts, looking at the Prophet.",
+    "characters_present": ["Abū Mulayḥ", "Qārib ibn al-Aswad", "Prophet"],
+    "setting": "Medina, inside the Prophet's home",
+    "emotional_tone": "hopeful",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "The Prophet smiles and offers to help Abū Mulayḥ and Qārib ibn al-Aswad with their debts.",
+    "key_visual_action": "The Prophet smiling and holding out his hands in a gesture of generosity.",
+    "characters_present": ["Abū Mulayḥ", "Qārib ibn al-Aswad", "Prophet"],
+    "setting": "Medina, inside the Prophet's home",
+    "emotional_tone": "grateful",
+    "time_of_day": "afternoon"
+  }
+]

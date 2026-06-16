@@ -1,0 +1,38 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "A depiction of the earth and its natural wonders, showcasing the intricate details of creation.",
+    "key_visual_action": "A sweeping illustration of the planet from space, with a subtle hand gesture from God in the background.",
+    "characters_present": ["God"],
+    "setting": "The Earth",
+    "emotional_tone": "Wonder",
+    "time_of_day": "Day"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "An ancient person marvels at a natural phenomenon, such as a massive storm or a rare celestial event.",
+    "key_visual_action": "The ancient person's eyes widened in awe, with a thought bubble showing their wonder.",
+    "characters_present": ["Ancient Person"],
+    "setting": "Ancient Times",
+    "emotional_tone": "Awe",
+    "time_of_day": "Day"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "A modern person looks at the same natural phenomenon, but with a sense of familiarity and understanding.",
+    "key_visual_action": "The modern person's expression is one of calm acceptance, with a subtle nod of recognition.",
+    "characters_present": ["Modern Person"],
+    "setting": "Present Day",
+    "emotional_tone": "Acceptance",
+    "time_of_day": "Day"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "God's hand is shown guiding the natural world, emphasizing the idea that what is considered natural today may have been considered miraculous in the past.",
+    "key_visual_action": "God's hand is shown gently nudging the earth, with a subtle smile of satisfaction.",
+    "characters_present": ["God"],
+    "setting": "The Earth",
+    "emotional_tone": "Contentment",
+    "time_of_day": "Day"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "scene_title": "The Prophet Shares His Message",
+  "era": "pre_prophetic|early_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 109",
+  "moral_lesson": "The importance of sharing knowledge and spreading the message of Islam",
+  "characters": [
+    {"id": "Prophet", "name": "The central figure", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "Aws", "name": "The young man with a thoughtful expression", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "slender build, wearing a simple white thobe with a plain brown woolen cloak and a white cloth head covering"},
+    {"id": "Khazraj", "name": "The group of men from the Khazraj tribe", "role": "crowd", "depiction_rule": "NO_FACE", "appearance": "various builds, wearing simple white thobes with plain brown woolen cloaks and white cloth head coverings"}
+  ],
+  "narrative_text": "The Prophet Muhammad stood before the six men from the Khazraj tribe, eager to share his message with them. He gestured with his hands, explaining the importance of submission to Allah and the oneness of God.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "The scene is set in a natural and respectful environment, suitable for children."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. The rocky outcropping of ʿAqabah, a rugged and barren landscape with sparse vegetation, serves as the backdrop for this historic event. Late afternoon sunlight casts a warm glow over the scene, illuminating the faces of the six men from the Khazraj tribe, who sit at the foot of a rocky outcropping, their faces turned towards the central figure seen from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. The Prophet gestures with his hands, his words animated and expressive. To the left, a young man with a thoughtful expression, wearing a simple white thobe with a plain brown woolen cloak and a white cloth head covering, listens intently. In the background, a group of men from the Khazraj tribe, wearing simple white thobes with plain brown woolen cloaks and white cloth head coverings, sit in a semi-circle, their faces turned towards the Prophet. Soft warm golden light, engaging and inquiring mood. Wide shot from a slight elevation. Earthy tones, with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

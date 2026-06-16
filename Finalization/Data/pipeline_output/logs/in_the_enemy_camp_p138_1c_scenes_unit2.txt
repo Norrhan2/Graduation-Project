@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet sends ʿUmar ibn al-Khaṭṭāb to ask the Quraysh to withdraw.",
+    "key_visual_action": "ʿUmar ibn al-Khaṭṭāb riding a camel, with a determined expression.",
+    "characters_present": ["ʿUmar ibn al-Khaṭṭāb", "The Prophet"],
+    "setting": "A desert area with palm trees, near Mecca.",
+    "emotional_tone": "Determined",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "ʿUmar ibn al-Khaṭṭāb returns, informing the Prophet that the Quraysh refuse to withdraw.",
+    "key_visual_action": "ʿUmar ibn al-Khaṭṭāb dismounting his camel, looking down with a serious expression.",
+    "characters_present": ["ʿUmar ibn al-Khaṭṭāb", "The Prophet"],
+    "setting": "The same desert area as before.",
+    "emotional_tone": "Disappointed",
+    "time_of_day": "Afternoon"
+  }
+]

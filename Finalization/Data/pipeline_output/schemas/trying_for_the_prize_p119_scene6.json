@@ -1,0 +1,40 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "The tribe starts to chase the camel, distracted from their original plan to join Surāqah in chasing the Prophet.",
+    "key_visual_action": "Tribe members running after the camel",
+    "characters_present": [
+      "The Prophet's tribe"
+    ],
+    "setting": "Desert landscape",
+    "emotional_tone": "Excitement",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_title": "The Tribe's Distracted Chase",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 119",
+    "moral_lesson": "Distracted from one's goals can lead to missed opportunities.",
+    "characters": [
+      {
+        "id": 1,
+        "name": "The Tribe's members",
+        "role": "crowd",
+        "depiction_rule": "NO_FACE|FROM_BEHIND|SILHOUETTE|FULL",
+        "appearance": "medium to tall builds, various ages and physical conditions, wearing loose-fitting white or beige thobes, some with plain white or brown head coverings, running in a chaotic and excited manner"
+      }
+    ],
+    "narrative_text": "The tribe was so excited to see the camel that they forgot about their original plan to join Surāqah in chasing the Prophet.",
+    "compliance": {
+      "prophet_check": "NOT_PRESENT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast open desert landscape under a clear blue sky with a few scattered palm trees in the distance. Late afternoon sunlight casts long shadows across the sandy ground. In the center of the image, a group of men from the tribe run in a chaotic manner after a camel, which is seen from behind, its long neck and legs in motion. The camel's rider, dressed in a simple white thobe and a plain brown head covering, is not visible. The men are dressed in loose-fitting white or beige thobes and some wear plain white or brown head coverings, their faces turned back in excitement, their arms and legs in motion as they chase the camel. Soft warm golden light, dynamic and energetic mood. Wide-angle shot from a low perspective. Earthy, sandy, and golden palette with accents of blue for the sky. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'prophet' -> 'the central figure' not needed, 'young girl/child' -> 'young woman' not needed, 'face hidden/obscured/dark/covered' -> 'seen from behind', 'baby/infant' -> 'a small swaddled bundle' not needed, 'naked/bare' -> 'sandaled feet' not needed"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "Abū Bakr sees ʿĀmir ibn Fuhayrah being sold in the market",
+    "key_visual_action": "Abū Bakr looking at ʿĀmir ibn Fuhayrah with compassion",
+    "characters_present": [
+      "Abū Bakr",
+      "ʿĀmir ibn Fuhayrah",
+      "Slave trader"
+    ],
+    "setting": "Market",
+    "emotional_tone": "Sympathy",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 1,
+    "scene_summary": "Abū Bakr sees ʿĀmir ibn Fuhayrah being sold in the market",
+    "era": "pre_prophetic",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 65",
+    "moral_lesson": "Compassion and kindness towards those in need",
+    "characters": [
+      {
+        "id": "AbuBakr",
+        "name": "Abū Bakr",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "Ammir",
+        "name": "ʿĀmir ibn Fuhayrah",
+        "role": "family_of_prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "young man, wearing a simple white thobe and a white cloth head covering, with a look of sadness and resignation on his face"
+      },
+      {
+        "id": "SlaveTrader",
+        "name": "Slave trader",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "middle-aged man, wearing a dark brown thobe and a black turban, with a firm and unyielding expression"
+      }
+    ],
+    "narrative_text": "Abū Bakr saw ʿĀmir ibn Fuhayrah being sold in the market, and his heart went out to the young man.",
+    "compliance": {
+      "prophet_check": "NO",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Bustling 7th century Makkah market scene, late afternoon sunlight casting long shadows across the sandy floor. To the left, a slave trader stands with a firm expression, holding a rope attached to the wrist of a young man with a look of sadness and resignation on his face. The young man, the central figure in a simple white thobe and a white cloth head covering, wears a look of sadness and resignation. To the right, a slender older man with slightly stooped shoulders, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, stands with his head tilted slightly to the side, looking at the young man with compassion and concern. The slave trader is dressed in dark brown and black, and the young man's expression is one of hopelessness. Soft warm golden light, bustling market mood. Medium shot at eye level. Warm earth, beige, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'young man' -> 'the central figure'"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "scene_number": 3,
+  "scene_summary": "Misṭaḥ looks down, ashamed of his mistakes",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah|madinah_early|madinah_late",
+  "region": "arabian_desert|sinai|other",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 211",
+  "moral_lesson": "Taking responsibility for one's actions and owning up to mistakes",
+  "characters": [
+    {"id": "Abū Bakr", "name": "Abū Bakr", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a white turban and a cloth tail hanging between the shoulder blades"},
+    {"id": "Misṭaḥibn Athāthah", "name": "Misṭaḥibn Athāthah", "role": "antagonist", "depiction_rule": "NO_FACE|FROM_BEHIND", "appearance": "slender build, slightly stooped shoulders, wearing a simple beige thobe and a plain brown woolen cloak"}
+  ],
+  "narrative_text": "Abū Bakr gently reprimands Misṭaḥibn Athāthah for his mistakes, but Misṭaḥibn Athāthah hangs his head in shame, realizing his wrongdoing.",
+  "compliance": {"prophet_check": "NO_PROPHET", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "Historically accurate depiction of a 7th century desert oasis or meeting place."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene desert oasis or a simple meeting place with palm trees and a few rocky outcroppings in the background. Late afternoon golden sunlight filters through the palm fronds, casting dappled shadows on the ground. In the center of the scene, two figures stand facing each other - on the left, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a white turban and a cloth tail hanging between the shoulder blades. On the right, a slender man with slightly stooped shoulders, wearing a simple beige thobe and a plain brown woolen cloak, stands with his head hung low in shame, his eyes cast downward. Soft warm golden light, intimate and contemplative mood. Medium shot at eye level, focusing on the two figures. Warm beige, sandy, and golden palette with the white thobe as a color anchor. No modern objects, historically accurate 7th century scene."

@@ -1,0 +1,14 @@
+{
+  "scene_number": 2,
+  "scene_summary": "The Prophet warns the Qaynuqāʿ tribe against breaching their treaty",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 158",
+  "moral_lesson": "Honesty is the best policy, and breaking promises can have severe consequences",
+  "characters": [
+    {"id": "Prophet", "name": "The Messenger of God", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "Qaynuqāʿ notables", "name": "Leaders of the Qaynuqāʿ tribe", "role": "antagonist", "depiction_rule": "FULL", "appearance": "various builds, wearing traditional Arabian clothing with turbans and cloaks"}
+  ],
+  "narrative_text": "The Prophet Muhammad warns the Qaynuqāʿ tribe against breaking their treaty. He reminds them that honesty is the best policy and that breaching their promise will have severe consequences.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A large open desert area with several palm trees scattered in the distance, their trunks swaying gently in the breeze. Late afternoon sunlight casts long shadows across the sandy ground, with a warm golden light illuminating the scene. In the foreground, a group of men sit on a low stone wall, their faces filled with concern and curiosity as they listen to the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle yet firm gesture, pointing to a parchment document held by one of the Qaynuqāʿ notables. The notables wear traditional Arabian clothing with turbans and cloaks, their faces filled with a mix of curiosity and apprehension. Soft warm golden light, a sense of importance and gravity in the air. Medium close shot at eye level. Warm beige, golden, and green palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

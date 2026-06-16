@@ -1,0 +1,15 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Jubayr and al-Ḥārith receive news of Saʿd's torture.",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 114",
+  "moral_lesson": "Importance of compassion and empathy in the face of adversity",
+  "characters": [
+    {"id": "Jubayr", "name": "Jubayr ibn Muṭʿim", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, young adult, wearing a simple white thobe with a woolen cloak draped over the shoulders"},
+    {"id": "al-Ḥārith", "name": "al-Ḥārith ibn Ḥarb", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "slender build, young adult, wearing a simple off-white thobe with a plain woolen cloak"}
+  ],
+  "narrative_text": "Jubayr and al-Ḥārith were deeply concerned when they heard the news of Saʿd's torture. They looked at each other in shock, unsure of what to do.",
+  "compliance": {"prophet_check": "NOT_APPLICABLE", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A desolate desert landscape or a bustling marketplace in a 7th century Arabian setting with sandy dunes or sandy-colored buildings in the background. Late afternoon sunlight casts a warm golden glow across the scene. In the foreground, two young men sit facing each other, their faces obscured from view. On the left, Jubayr ibn Muṭʿim: medium build, young adult, wearing a simple white thobe with a woolen cloak draped over the shoulders, one hand raised in a gesture of concern, his head turned slightly towards al-Ḥārith. On the right, al-Ḥārith ibn Ḥarb: slender build, young adult, wearing a simple off-white thobe with a plain woolen cloak, his head bowed in shock, one hand covering his mouth in distress. Soft warm golden light, concerned and somber mood. Medium close shot at eye level. Warm beige, sandy, and golden palette. No modern objects, historically accurate 7th century scene."
+}

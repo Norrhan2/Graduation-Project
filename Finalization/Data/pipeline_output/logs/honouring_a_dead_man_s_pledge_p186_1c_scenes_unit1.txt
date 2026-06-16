@@ -1,0 +1,29 @@
+[
+    {
+        "scene_number": 1,
+        "scene_summary": "Khubayb is led to the execution site, surrounded by his captors.",
+        "key_visual_action": "Khubayb walking with his hands tied behind his back",
+        "characters_present": ["Khubayb ibn ʿAdiy", "Ṣafwān ibn Umayyah", "Abū Sufyān"],
+        "setting": "Desert or a public area",
+        "emotional_tone": "Serious",
+        "time_of_day": "Afternoon"
+    },
+    {
+        "scene_number": 2,
+        "scene_summary": "Khubayb is given permission to pray two rakʿahs before his execution.",
+        "key_visual_action": "Khubayb bowing down to pray",
+        "characters_present": ["Khubayb ibn ʿAdiy", "Ṣafwān ibn Umayyah"],
+        "setting": "Desert or a public area",
+        "emotional_tone": "Respectful",
+        "time_of_day": "Afternoon"
+    },
+    {
+        "scene_number": 3,
+        "scene_summary": "Khubayb is beheaded after completing his prayer.",
+        "key_visual_action": "Ṣafwān ibn Umayyah holding a sword, with Khubayb's head separated from his body",
+        "characters_present": ["Khubayb ibn ʿAdiy", "Ṣafwān ibn Umayyah", "Abū Sufyān"],
+        "setting": "Desert or a public area",
+        "emotional_tone": "Sad/Haunting",
+        "time_of_day": "Afternoon"
+    }
+]

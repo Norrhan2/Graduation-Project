@@ -1,0 +1,32 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Abū Ṭālib is approached by the people of Mecca, demanding he stop protecting Prophet Muhammad.",
+  "era": "pre_prophetic",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 62",
+  "moral_lesson": "Importance of standing up for one's beliefs",
+  "characters": [
+    {
+      "id": "Abū Ṭālib",
+      "name": "Abū Ṭālib",
+      "role": "family_of_prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "People of Mecca",
+      "name": "People of Mecca",
+      "role": "antagonist",
+      "depiction_rule": "NO_FACE",
+      "appearance": "various builds, postures, and clothing styles, all dressed in traditional 7th century Makkah attire with white or light-colored thobes and head coverings"
+    }
+  ],
+  "narrative_text": "The people of Mecca gathered around Abū Ṭālib, demanding that he stop protecting the Prophet. Abū Ṭālib stood strong, refusing to give in to their demands.",
+  "compliance": {
+    "prophet_check": "NOT_PRESENT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Bustling marketplace in 7th century Mecca with a mix of mud-brick buildings and stalls selling goods. Late afternoon sunlight casts a warm glow over the scene. Abū Ṭālib stands at the center, seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, his hands raised in a gesture of defense or plea. Surrounding him are a crowd of people, their faces obscured, dressed in traditional 7th century Makkah attire with white or light-colored thobes and head coverings, their postures and gestures conveying a sense of anger and urgency. Soft warm golden light, energetic and tense mood. Medium wide shot from slightly above. Warm beige, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

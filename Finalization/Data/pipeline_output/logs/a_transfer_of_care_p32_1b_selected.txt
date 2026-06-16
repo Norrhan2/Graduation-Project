@@ -1,0 +1,51 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "ʿ Abd al-Muṭṭalib's Concern for Muhammad's Future",
+    "unit_text": "ʿ Abd al-Muṭṭalib realized his death was near and asked Abū Ṭālib to care for Muhammad.",
+    "main_characters": [
+      "ʿ Abd al-Muṭṭalib",
+      "Abū Ṭālib",
+      "Muhammad"
+    ],
+    "event_summary": "ʿ Abd al-Muṭṭalib asks Abū Ṭālib to care for Muhammad after his death.",
+    "selection_reason": "Clear visual moment of ʿ Abd al-Muṭṭalib's concern and Abū Ṭālib's responsibility.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Abū Ṭālib's Care for Muhammad",
+    "unit_text": "Abū Ṭālib continued to care for Muhammad until he became a man and even then showed him loving care and guidance.",
+    "main_characters": [
+      "Abū Ṭālib",
+      "Muhammad"
+    ],
+    "event_summary": "Abū Ṭālib provides loving care and guidance to Muhammad throughout his childhood and beyond.",
+    "selection_reason": "Meaningful lesson on the importance of family support and care.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Muhammad's Encounter with the Christian Monk",
+    "unit_text": "Muhammad met a Christian monk, Baḥīrā, who recognized him as the last Prophet and advised Abū Ṭālib to protect him.",
+    "main_characters": [
+      "Muhammad",
+      "Abū Ṭālib",
+      "Baḥīrā"
+    ],
+    "event_summary": "Muhammad meets a Christian monk who recognizes him as the last Prophet and advises Abū ṭālib to protect him.",
+    "selection_reason": "Distinctive and visually interesting encounter between Muhammad and the Christian monk.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Muhammad's Childhood and Recognition",
+    "unit_text": "Muhammad's childhood was pleasant, and he radiated happiness to those around him, but various people recognized him as the future Prophet and tried to harm him.",
+    "main_characters": [
+      "Muhammad"
+    ],
+    "event_summary": "Muhammad's childhood is pleasant, but he is recognized as the future Prophet and faces attempts to harm him.",
+    "selection_reason": "Important lesson on the challenges of being recognized as a Prophet at a young age.",
+    "estimated_scenes": 2
+  }
+]

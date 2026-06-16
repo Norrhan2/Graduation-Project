@@ -1,0 +1,23 @@
+{
+  "scene_title": "Al-Mundhir ibn Muḥammad's Decision",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 188",
+  "moral_lesson": "Courage in the face of adversity",
+  "characters": [
+    {
+      "id": "al-Mundhir",
+      "name": "al-Mundhir ibn Muḥammad",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    }
+  ],
+  "narrative_text": "Al-Mundhir ibn Muḥammad felt sad and angry that his friend had been hurt. He decided to fight in revenge, showing his bravery and courage.",
+  "compliance": {
+    "prophet_check": "NOT_APPLICABLE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A wide, open desert landscape with endless dunes of golden sand stretching towards the horizon. Late afternoon sunlight casts long shadows across the sandy terrain, with a few rocky outcroppings and dry bushes scattered about. A lone figure stands in the distance, seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. One hand is clenched into a fist, a determined gesture, as if preparing for battle. Soft warm golden light, vast and epic mood. Medium shot from a slight distance, emphasizing the vastness of the desert. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

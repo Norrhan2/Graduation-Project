@@ -1,0 +1,53 @@
+[
+  {
+    "unit_number": 2,
+    "unit_title": "The Delegation to the Prophet",
+    "unit_text": "The Hudhayl sent a delegation to the Prophet, claiming their tribesmen wanted to learn about Islam and possibly embrace it.",
+    "main_characters": [
+      "Hudhayl",
+      "Prophet"
+    ],
+    "event_summary": "The Hudhayl send a delegation to the Prophet, pretending to be interested in Islam.",
+    "selection_reason": "Clear visual moment of the delegation and the Prophet's reaction.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Prophet Sends Companions",
+    "unit_text": "The Prophet sent six companions, including Marthad ibn Abī Marthad as their leader, to explain Islam to the Hudhayl.",
+    "main_characters": [
+      "Prophet",
+      "Marthad ibn Abī Marthad",
+      "Hudhayl"
+    ],
+    "event_summary": "The Prophet sends six companions to teach the Hudhayl about Islam.",
+    "selection_reason": "Visual moment of the companions' departure and the Hudhayl's reaction.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Betrayal at al-Rajīʿ",
+    "unit_text": "The delegation secretly sent the Hudhayl to arrest the Muslim group at a spring called al-Rajīʿ, where they were taken by surprise.",
+    "main_characters": [
+      "Hudhayl",
+      "Muslims"
+    ],
+    "event_summary": "The Hudhayl betray the Muslim group at al-Rajīʿ.",
+    "selection_reason": "Action-packed and dramatic scene of betrayal and surprise.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The First Three Muslims Killed",
+    "unit_text": "Marthad, Khālid, and ʿĀṣim refused to accept the Hudhayl's pledge and fought back, but were killed.",
+    "main_characters": [
+      "Marthad",
+      "Khālid",
+      "ʿĀṣim",
+      "Hudhayl"
+    ],
+    "event_summary": "The first three Muslims are killed for refusing to accept the Hudhayl's pledge.",
+    "selection_reason": "Emotional and impactful scene of the first martyrdom.",
+    "estimated_scenes": 2
+  }
+]

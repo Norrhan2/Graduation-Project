@@ -1,0 +1,24 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Abū Sufyān sees the Prophet's battalion approaching from a distance.",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 300",
+  "moral_lesson": "Observing the world with curiosity can lead to important discoveries.",
+  "characters": [
+    {
+      "id": "AbuSufyan",
+      "name": "Abū Sufyān",
+      "role": "antagonist",
+      "depiction_rule": "FULL",
+      "appearance": "tall, slender, wearing a dark brown thobe, a red and white striped head cloth, and a pair of worn leather boots, standing with a look of intense curiosity, hands grasping a worn wooden spyglass to his eyes"
+    }
+  ],
+  "narrative_text": "Abū Sufyān stood at the top of a sandy dune, his eyes fixed through a worn wooden spyglass on a distant group of riders approaching across the desert.",
+  "compliance": {
+    "prophet_check": "NO_PROPHET",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast expanse of sandy dunes stretches out across the desert landscape, with a lone figure standing atop a dune in the foreground. In the distance, a group of riders on horseback approaches, their figures small and indistinct. Late afternoon sunlight casts long shadows across the sand, and a few wispy clouds drift lazily across the sky. The rider, Abū Sufyān, stands at the top of the dune, his tall slender frame silhouetted against the sky, wearing a dark brown thobe, a red and white striped head cloth, and a pair of worn leather boots. He holds a worn wooden spyglass to his eyes, his gaze fixed intently on the approaching riders. Soft warm golden light, vast and expansive mood. Medium shot from slightly above, looking down. Warm beige, golden, and sandy palette with the dark brown thobe as a color anchor. No modern objects, historically accurate 7th century scene."

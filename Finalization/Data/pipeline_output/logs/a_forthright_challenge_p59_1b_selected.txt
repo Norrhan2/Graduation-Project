@@ -1,0 +1,48 @@
+[
+  {
+    "unit_number": 3,
+    "unit_title": "The Historic Event",
+    "unit_text": "The Prophet's declaration on the hill of al-Ṣafā brought home the scope of the new call to the people of Makkah.",
+    "main_characters": [
+      "The Prophet"
+    ],
+    "event_summary": "The Prophet makes his first public announcement of his mission, revealing the scope of the new call.",
+    "selection_reason": "Clear visual moment of the Prophet's declaration, significant event in Islamic history.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Opposition",
+    "unit_text": "The opposition to the Prophet's declaration was fierce due to the challenge to established ideas and social traditions.",
+    "main_characters": [
+      "The Prophet",
+      "The people of Makkah"
+    ],
+    "event_summary": "The people of Makkah react strongly to the Prophet's call for change.",
+    "selection_reason": "Meaningful child-appropriate lesson about facing opposition and standing up for one's beliefs.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "The Prophet's Approach to Relatives",
+    "unit_text": "The Prophet wanted to approach his immediate relatives with his message, but feared his uncle Abū Lahab's opposition.",
+    "main_characters": [
+      "The Prophet",
+      "Abū Lahab"
+    ],
+    "event_summary": "The Prophet considers how to approach his relatives with his new faith, but is concerned about his uncle's reaction.",
+    "selection_reason": "Clear visual moment of the Prophet's dilemma, meaningful lesson about family and faith.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Prophet's Courage",
+    "unit_text": "The Prophet showed great courage by calling for a total and comprehensive change, embracing all aspects of human life.",
+    "main_characters": [
+      "The Prophet"
+    ],
+    "event_summary": "The Prophet demonstrates his courage in calling for a radical change in society.",
+    "selection_reason": "Meaningful child-appropriate lesson about courage and standing up for what is right.",
+    "estimated_scenes": 1
+  }
+]

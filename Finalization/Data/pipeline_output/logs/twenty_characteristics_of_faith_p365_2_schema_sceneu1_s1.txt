@@ -1,0 +1,30 @@
+{
+  "scene_title": "The Prophet Meets Suwayd ibn al- Ḥārith",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah|madinah_early|madinah_late",
+  "region": "arabian_desert|sinai|levant_ancient|other",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 365",
+  "moral_lesson": "Importance of curiosity and openness to new people and experiences",
+  "characters": [
+    {
+      "id": "prophet",
+      "name": "The Prophet",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "suwayd",
+      "name": "Suwayd ibn al- Ḥārith",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "average build, wearing simple beige thobe and a light brown turban"
+    }
+  ],
+  "narrative_text": "The Prophet Muhammad was a curious and open-minded leader who was always eager to meet new people and learn about their lives. One day, he met a man named Suwayd ibn al- Ḥārith, who was traveling through the desert. The Prophet leaned forward with curiosity, asking Suwayd who he was and where he was going.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": "None"
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast open desert or plain with sandy dunes stretching out in the distance, under a clear blue sky with a few wispy clouds. Late afternoon sunlight casts a warm glow over the scene, with long shadows stretching out from the rocks and palm trees scattered here and there. In the foreground, a man in a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades is seen from behind, leaning forward with curiosity, his head slightly tilted to one side, his left hand resting on his right knee, and a look of interest on his face. Next to him stands a man of average build, wearing simple beige thobe and a light brown turban, with his face turned away from the viewer, looking over at the Prophet. Soft warm golden light, open and expansive mood. Wide shot from a low angle, looking up at the two men. Warm beige, golden, and sky blue palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

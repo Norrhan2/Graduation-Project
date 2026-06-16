@@ -1,0 +1,47 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Quraysh gather to discuss their grievances against the Prophet.",
+    "key_visual_action": "Quraysh leaders standing in a circle, pointing fingers at each other",
+    "characters_present": ["The Quraysh"],
+    "setting": "A large gathering place in Makkah",
+    "emotional_tone": "Anger",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Quraysh mention the killing of ʿAmr ibn al-Ḥaḍramī as one of their grievances.",
+    "key_visual_action": "A Quraysh leader holding a spear, with a ghostly image of ʿAmr ibn al-Ḥaḍramī in the background",
+    "characters_present": ["The Quraysh", "ʿAmr ibn al-Ḥaḍramī (ghostly image)"],
+    "setting": "A large gathering place in Makkah",
+    "emotional_tone": "Grief",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Quraysh also mention the looting of his trade caravan as another grievance.",
+    "key_visual_action": "A Quraysh leader holding a sack of gold, with a caravan in the background",
+    "characters_present": ["The Quraysh"],
+    "setting": "A large gathering place in Makkah",
+    "emotional_tone": "Anger",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "The Prophet is informed of the Quraysh's grievances.",
+    "key_visual_action": "The Prophet sitting, with a Quraysh messenger standing before him",
+    "characters_present": ["The Prophet", "Quraysh messenger"],
+    "setting": "The Prophet's home in Makkah",
+    "emotional_tone": "Concern",
+    "time_of_day": "evening"
+  },
+  {
+    "scene_number": 5,
+    "scene_summary": "The Prophet responds to the Quraysh's grievances with forgiveness and understanding.",
+    "key_visual_action": "The Prophet smiling, with his hands open in a gesture of peace",
+    "characters_present": ["The Prophet"],
+    "setting": "The Prophet's home in Makkah",
+    "emotional_tone": "Forgiveness",
+    "time_of_day": "evening"
+  }
+]

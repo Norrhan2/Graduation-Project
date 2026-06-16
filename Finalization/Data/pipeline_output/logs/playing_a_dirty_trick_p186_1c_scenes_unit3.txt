@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Marthad, Khālid, and ʿĀṣim are approached by the Hudhayl tribe, who ask them to pledge allegiance.",
+    "key_visual_action": "Hudhayl tribe approaching with outstretched hands",
+    "characters_present": ["Marthad", "Khālid", "ʿĀṣim", "Hudhayl"],
+    "setting": "Desert or open plain",
+    "emotional_tone": "Tense",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Marthad, Khālid, and ʿĀṣim refuse to pledge allegiance and prepare to fight back.",
+    "key_visual_action": "Marthad, Khālid, and ʿĀṣim standing firm, fists clenched",
+    "characters_present": ["Marthad", "Khālid", "ʿĀṣim"],
+    "setting": "Desert or open plain",
+    "emotional_tone": "Determined",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Marthad, Khālid, and ʿĀṣim are killed in the ensuing battle.",
+    "key_visual_action": "Marthad, Khālid, and ʿĀṣim falling to the ground, wounded or dead",
+    "characters_present": ["Marthad", "Khālid", "ʿĀṣim", "Hudhayl"],
+    "setting": "Desert or open plain, with bodies scattered around",
+    "emotional_tone": "Sad",
+    "time_of_day": "afternoon"
+  }
+]

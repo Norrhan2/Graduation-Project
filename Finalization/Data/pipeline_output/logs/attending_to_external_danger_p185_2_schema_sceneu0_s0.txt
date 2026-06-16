@@ -1,0 +1,24 @@
+{
+  "scene_title": "The Prophet Receives Intelligence",
+  "era": "madinah_early",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 185",
+  "moral_lesson": "Importance of staying informed and vigilant in times of uncertainty",
+  "characters": [
+    {
+      "id": "1",
+      "name": "Prophet Muhammad",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    }
+  ],
+  "narrative_text": "The Prophet Muhammad sat in his meeting room, looking at a map or receiving a message about the Asad tribe's intentions. He was concerned about the news and its potential impact on the Muslim community.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A modest 7th century meeting room in Madinah, with unpainted mud-brick walls in warm earth tones and a packed-earth floor covered by a woven palm-fiber mat. Late afternoon golden sunlight streams through an open wooden window on the right, casting warm rays across the room. In the center of the room, a low wooden table holds a rolled-up parchment or a leather map case, and a small clay inkwell rests on the table giving a soft glow. On the wall behind the table, a simple wooden door with a small window and a pair of intricately carved wooden door handles. The central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a thoughtful gesture, looking intently at the map or message before him. Soft warm golden light, intimate and solemn mood. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

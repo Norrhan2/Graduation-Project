@@ -1,0 +1,72 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Islam's Basic Principles",
+    "unit_text": "The Prophet outlines five basic principles of the Islamic programme of action.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet explains the five basic principles of Islam."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Individual Principles",
+    "unit_text": "Islam has two fundamental principles for individuals: severing ties with Ignorance and guarding against sin.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet explains the two individual principles of Islam."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Consequences of Sin",
+    "unit_text": "Sin has serious consequences in this life and the hereafter, and the Prophet warns against it.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet warns against the consequences of sin."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Idolatrous Worship",
+    "unit_text": "The Prophet clarifies that he does not mean idolatrous worship when referring to sin.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet clarifies the meaning of sin."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Seduction by the Evil One",
+    "unit_text": "The Evil One tries to seduce people into committing sins to lead them astray.",
+    "main_characters": ["The Evil One"],
+    "event_summary": "The Evil One tries to seduce people into sin."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Societal Principles",
+    "unit_text": "Islamic society is founded on three basic principles: Islamic brotherhood, supporting the weak, and cooperation between government and society.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet explains the three societal principles of Islam."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Importance of Kindness to Women",
+    "unit_text": "The Prophet stresses the importance of being kind to women, who are the weaker element in society.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet emphasizes the importance of kindness to women."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Implementation of Islamic Law",
+    "unit_text": "The Prophet emphasizes the importance of implementing Islamic law to remove evil and replace it with good.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet emphasizes the importance of implementing Islamic law."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "The Prophet's Mission",
+    "unit_text": "The Prophet's message and mission are nearing their end, and he prepares his followers for his departure.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet prepares his followers for his departure."
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "The Prophet's Pilgrimage",
+    "unit_text": "The Prophet's pilgrimage is his only performance of this religious duty, and it marks the end of his mission.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet completes his pilgrimage and marks the end of his mission."
+  }
+]

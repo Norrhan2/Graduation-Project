@@ -1,0 +1,44 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "The Quraysh army is shown preparing for battle, with their leader Abu Sufyan looking confident.",
+    "key_visual_action": "Abu Sufyan riding a horse, looking at his army with a determined expression",
+    "characters_present": [
+      "Abu Sufyan"
+    ],
+    "setting": "A desert landscape with the Quraysh army gathered",
+    "emotional_tone": "Confident",
+    "time_of_day": "morning"
+  },
+  "schema_output": {
+    "scene_title": "The Quraysh Army Prepares for Battle",
+    "era": "late_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 150",
+    "moral_lesson": "The importance of preparation and confidence in the face of adversity",
+    "characters": [
+      {
+        "id": "1",
+        "name": "Abu Sufyan",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "medium build, confident posture, wearing a white or cream-colored turban, a long white or cream-colored thobe, and a brown or beige cloak with intricate golden or silver embroidery, riding a majestic dark brown or black horse with a flowing mane"
+      }
+    ],
+    "narrative_text": "The Quraysh army is preparing for battle. Abu Sufyan, their leader, is confident and determined.",
+    "compliance": {
+      "prophet_check": "NOT_PRESENT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast and open desert landscape with a group of Quraysh warriors gathered in the distance, their brown or beige cloaks and white thobes visible as they prepare for battle. Late morning sunlight casts a golden glow across the sandy dunes and the warriors. In the foreground, a lone figure on horseback, the central figure in the green cloak, sits confidently in the saddle, looking out at his army with a determined expression. His dark brown or black horse is majestic and strong, with a flowing mane and a gleaming black or dark brown saddle. The central figure wears a white or cream-colored turban, a long white or cream-colored thobe, and a brown or beige cloak with intricate golden or silver embroidery. The sky above is a brilliant blue with a few wispy clouds scattered across it. The dominant colors are warm sandy beige, creamy white, and deep blue, with accents of golden brown and dark brown. Medium long shot from slightly above eye level, capturing the central figure's confident and determined posture. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'prophet' -> 'the central figure'",
+      "'young girl/child' -> 'young woman' (no change needed)",
+      "'face hidden/obscured/dark/covered' -> 'seen from behind' (no change needed)",
+      "'baby/infant' -> 'a small swaddled bundle' (no change needed)",
+      "'naked/bare' -> 'sandaled feet' (no change needed)"
+    ]
+  }
+}

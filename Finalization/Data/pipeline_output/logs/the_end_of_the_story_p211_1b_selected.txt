@@ -1,0 +1,52 @@
+[
+  {
+    "unit_number": 3,
+    "unit_title": "Ḥamnah's Motivation",
+    "unit_text": "Ḥamnah’s participation in these rumours was motivated by jealousy, as her sister Zaynab was married to the Prophet.",
+    "main_characters": [
+      "Ḥamnah bint Jaḥsh",
+      "Zaynab bint Jaḥsh",
+      "Prophet"
+    ],
+    "event_summary": "Ḥamnah's jealousy motivates her to falsely accuse ʿĀ ’ishah of adultery.",
+    "selection_reason": "Clear visual moment of Ḥamnah's motivation and its impact on the story.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Zaynab's Loyalty",
+    "unit_text": "When the Prophet asked Zaynab whether she had seen or heard anything suspicious of ʿĀ ’ishah, she said: “Messenger of God, I would rather protect my eyes and ears. I have seen nothing but good from ʿĀ ’ishah.”",
+    "main_characters": [
+      "Prophet",
+      "Zaynab bint Jaḥsh",
+      "ʿĀ ’ishah"
+    ],
+    "event_summary": "Zaynab shows loyalty to ʿĀ ’ishah by denying any suspicion of her.",
+    "selection_reason": "Meaningful lesson on loyalty and standing up for one's friends.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Abū Bakr's Disapproval",
+    "unit_text": "Abū Bakr was annoyed with Misṭaḥ and decided not to support him any longer.",
+    "main_characters": [
+      "Abū Bakr",
+      "Misṭaḥibn Athāthah"
+    ],
+    "event_summary": "Abū Bakr disapproves of Misṭaḥ's actions and stops supporting him.",
+    "selection_reason": "Clear visual moment of Abū Bakr's disapproval and its impact on Misṭaḥ.",
+    "estimated_scenes": 1
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Abū Bakr's Change of Heart",
+    "unit_text": "Abū Bakr said when he heard this verse: “I indeed love that God forgives me.” And he continued to support Misṭaḥ.",
+    "main_characters": [
+      "Abū Bakr",
+      "Misṭaḥibn Athāthah"
+    ],
+    "event_summary": "Abū Bakr changes his heart and continues to support Misṭaḥ after God's guidance.",
+    "selection_reason": "Meaningful lesson on forgiveness and change of heart.",
+    "estimated_scenes": 2
+  }
+]

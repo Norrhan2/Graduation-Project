@@ -1,0 +1,31 @@
+{
+  "scene_number": 2,
+  "scene_summary": "The Prophet bows his head in prayer, hands clasped together, as he asks Allah to guide the people of Thaqīf.",
+  "key_visual_action": "The Prophet bows his head, hands clasped together in prayer.",
+  "characters_present": [
+    "The Prophet"
+  ],
+  "setting": "A rugged 7th century mountain overlooking the ancient city of Thaqīf, with a sparse landscape of rocky outcroppings and dry scrubby bushes in shades of beige and umber. The air is hazy with a warm afternoon light that casts long shadows across the terrain. In the distance, the city of Thaqīf can be seen as a cluster of whitewashed buildings with terracotta tile roofs, situated at the foot of the mountain.",
+  "emotional_tone": "Devout",
+  "time_of_day": "Afternoon",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic",
+  "region": "sinai|levant_ancient",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 317",
+  "moral_lesson": "The importance of prayer and seeking guidance from Allah.",
+  "characters": [
+    {
+      "id": "The Prophet",
+      "name": "The Prophet",
+      "role": "Prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, hands clasped together in prayer"
+    }
+  ],
+  "narrative_text": "The Prophet Muhammad would often pray for the guidance of the people of Thaqīf, who were in dire need of it.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": "None"
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A rugged 7th century mountain overlooking the ancient city of Thaqīf, with a sparse landscape of rocky outcroppings and dry scrubby bushes in shades of beige and umber. The air is hazy with a warm afternoon light that casts long shadows across the terrain. In the distance, the city of Thaqīf can be seen as a cluster of whitewashed buildings with terracotta tile roofs, situated at the foot of the mountain. The central figure is seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, hands clasped together in prayer. The atmosphere is one of deep devotion and spiritual connection. Medium close shot at eye level. Warm beige, umber, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

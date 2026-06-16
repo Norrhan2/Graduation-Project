@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿ Utbah approaches the Prophet in a grand setting, eager to make a deal.",
+    "key_visual_action": "ʿ Utbah extending his hand in a gesture of offering",
+    "characters_present": ["ʿ Utbah ibn Rabīʿ ah", "Muhammad"],
+    "setting": "A grand courtyard or palace",
+    "emotional_tone": "Ambitious and persuasive",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet politely declines ʿ Utbah's offer, showing his commitment to his message.",
+    "key_visual_action": "The Prophet shaking his head, with a gentle smile",
+    "characters_present": ["ʿ Utbah ibn Rabīʿ ah", "Muhammad"],
+    "setting": "The same grand courtyard or palace",
+    "emotional_tone": "Resolute and calm",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "ʿ Utbah becomes frustrated and disappointed, realizing the Prophet's unwavering commitment to his faith.",
+    "key_visual_action": "ʿ Utbah's face contorted in frustration, with his arms crossed",
+    "characters_present": ["ʿ Utbah ibn Rabīʿ ah", "Muhammad"],
+    "setting": "The same grand courtyard or palace",
+    "emotional_tone": "Frustrated and disappointed",
+    "time_of_day": "Afternoon"
+  }
+]

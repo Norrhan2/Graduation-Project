@@ -1,0 +1,15 @@
+{
+  "scene_number": 2,
+  "scene_summary": "A group of poets are shown discussing the call of Islam.",
+  "era": "early_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 326",
+  "moral_lesson": "The importance of critical thinking and open-mindedness when considering new ideas.",
+  "characters": [
+    {"id": "poet1", "name": "Poet 1", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "tall, slender build, wearing a richly patterned silk robe with intricate golden embroidery, a matching turban wrapped around his head"},
+    {"id": "poet2", "name": "Poet 2", "role": "supporting", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, wearing a simple yet elegant white thobe with a dark brown woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "poet3", "name": "Poet 3", "role": "supporting", "depiction_rule": "FULL", "appearance": "slender, wearing a plain brown woolen cloak with a white cloth head covering, looking curious with a furrowed brow"}
+  ],
+  "narrative_text": "The poets gathered in the bustling marketplace, discussing the call of a young man from the desert. Some were intrigued, while others were skeptical.",
+  "compliance": {"prophet_check": "NOT_PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vibrant and bustling 7th century Makkah marketplace or coffeehouse with intricately patterned colorful fabrics, intricately carved wooden stalls, and the sounds of merchants calling out their wares. Late afternoon sunlight streams through the intricately carved wooden lattice windows, casting a warm glow across the scene. In the center of the marketplace, three figures sit on intricately patterned cushions, surrounded by the hustle and bustle of the market. On the left, the central figure seen entirely from behind: tall, slender build, dignified upright posture, wearing a richly patterned silk robe with intricate golden embroidery, a matching turban wrapped around his head, gesturing animatedly with one hand as he speaks. Between them, a slender older man with a furrowed brow, wearing a plain brown woolen cloak with a white cloth head covering, looks curious with a questioning expression, leaning forward slightly as he listens intently. On the right, a medium build man, seen from behind: wearing a simple yet elegant white thobe with a dark brown woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, looking thoughtful with a hand on his chin. Soft warm golden light, lively and dynamic mood. Medium shot from above, looking down at the group. Warm sand, cream, and golden palette with the richly patterned silk robe as a color anchor. No modern objects, historically accurate 7th century scene."}

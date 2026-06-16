@@ -1,0 +1,35 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet stands in front of his followers, looking out at the crowd.",
+    "key_visual_action": "The Prophet's gaze sweeps across the crowd",
+    "characters_present": [
+      "The Prophet"
+    ],
+    "setting": "A large outdoor gathering in Medina",
+    "emotional_tone": "Serene and reflective",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet holds up a small bag, filled with personal belongings.",
+    "key_visual_action": "The Prophet holds up the bag, with a hint of sadness",
+    "characters_present": [
+      "The Prophet"
+    ],
+    "setting": "A large outdoor gathering in Medina",
+    "emotional_tone": "Bittersweet",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet looks at his followers with a sense of urgency and importance.",
+    "key_visual_action": "The Prophet's eyes lock onto the crowd, with a determined expression",
+    "characters_present": [
+      "The Prophet"
+    ],
+    "setting": "A large outdoor gathering in Medina",
+    "emotional_tone": "Determined and serious",
+    "time_of_day": "Afternoon"
+  }
+]

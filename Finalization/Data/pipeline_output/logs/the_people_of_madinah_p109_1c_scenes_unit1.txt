@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet Muhammad greets the Khazrajis with a smile, inviting them to learn about Islam.",
+    "key_visual_action": "Prophet extending his hand in greeting",
+    "characters_present": ["Prophet", "Khazraj"],
+    "setting": "Medina, a marketplace or public square",
+    "emotional_tone": "warm and welcoming",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The six Khazrajis, moved by the Prophet's words, raise their hands in a gesture of acceptance.",
+    "key_visual_action": "Khazrajis raising their hands in a gesture of acceptance",
+    "characters_present": ["Prophet", "Khazraj"],
+    "setting": "Medina, a marketplace or public square",
+    "emotional_tone": "excited and hopeful",
+    "time_of_day": "afternoon"
+  }
+]

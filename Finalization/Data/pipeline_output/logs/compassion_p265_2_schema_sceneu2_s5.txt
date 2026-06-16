@@ -1,0 +1,13 @@
+{
+  "scene_title": "Bilal's Understanding",
+  "era": "late_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 265",
+  "moral_lesson": "The importance of kindness and understanding",
+  "characters": [
+    {"id": "1", "name": "The Prophet", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "2", "name": "Bilal", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "young man, slender build, wearing simple white thobe and plain brown woolen cloak with a white cloth head covering"}
+  ],
+  "narrative_text": "The Prophet taught Bilal the importance of kindness and understanding. Bilal listened carefully and nodded his head in agreement.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A simple, serene 7th century mosque interior with unpainted mud-brick walls in warm earth tones and a packed-earth floor partly covered by a woven palm-fiber mat. Late afternoon golden sunlight streams through a series of narrow windows on the left, casting warm rays across the room. In the center of the room stands the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, standing with one hand on the back of a nearby chair and the other hand extended in a gentle gesture towards the figure sitting on the chair. On the chair sits a young man with a slender build, wearing simple white thobe and plain brown woolen cloak with a white cloth head covering, his head tilted slightly forward in deep contemplation, one hand pressed firmly to his chest, as he nods his head in understanding. Soft warm golden light, intimate and sacred mood. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."}

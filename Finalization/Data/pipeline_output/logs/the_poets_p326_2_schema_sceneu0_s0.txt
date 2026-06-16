@@ -1,0 +1,31 @@
+{
+  "scene_number": 1,
+  "scene_summary": "A group of unbelievers gather to discuss their plan to use poetry to insult the Prophet and his companions.",
+  "era": "pre_prophetic",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 326",
+  "moral_lesson": "The dangers of spreading hatred and lies about others.",
+  "characters": [
+    {
+      "id": "poet",
+      "name": "The Unbeliever Poet",
+      "role": "antagonist",
+      "depiction_rule": "NO_FACE",
+      "appearance": "tall, slender build, wearing a dark-colored tunic and a hooded cloak, scribbling on a parchment"
+    },
+    {
+      "id": "unbeliever_crowd",
+      "name": "Other Unbelievers",
+      "role": "antagonist",
+      "depiction_rule": "NORMAL",
+      "appearance": "various ages and builds, dressed in dark-colored clothing, sitting in the shadows"
+    }
+  ],
+  "narrative_text": "A group of unbelievers gathered in a dark cave to plot against the Prophet. They wanted to use poetry to insult him and his companions, but little did they know that their plan would only bring them shame.",
+  "compliance": {
+    "prophet_check": "NOT_PRESENT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A dimly lit cave with rough stone walls and a low ceiling, lit by a few flickering torches casting eerie shadows. Late evening atmosphere with a sense of foreboding. In the center of the cave, a tall figure seen entirely from behind, scribbling on a parchment with a reed pen - medium build, wearing a dark-colored tunic and a hooded cloak with a hood pulled up, slightly hunched posture. Surrounding the figure, a group of shadowy figures, their faces partially hidden by the darkness, dressed in dark-colored clothing, their eyes gleaming with malice. Soft, muted colors with deep shadows, creating an ominous mood. Medium shot from slightly above, looking down. Dark blues, greys, and blacks palette with the torches casting warm orange hues. No modern objects, historically accurate pre-prophetic scene."

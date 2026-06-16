@@ -1,0 +1,30 @@
+{
+  "scene_title": "Abū Bakr Sets Zunayrah Free",
+  "era": "late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 65",
+  "moral_lesson": "The importance of freedom and compassion",
+  "characters": [
+    {
+      "id": "abu_bakr",
+      "name": "Abū Bakr",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "zunayrah",
+      "name": "Zunayrah",
+      "role": "family_of_prophet",
+      "depiction_rule": "FULL",
+      "appearance": "young woman, fully dressed in a long brown jilbab and a khimar covering her hair, with a gentle expression"
+    }
+  ],
+  "narrative_text": "Abū Bakr smiled as he gently released Zunayrah's hand, feeling happy for her newfound freedom.",
+  "compliance": {
+    "prophet_check": "NO_PROPHET",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A peaceful desert scene with sandy dunes stretching out in the background, under a clear starry evening sky. Warm golden light from the setting sun casts a gentle glow across the scene. In the foreground, a man stands with his back to the viewer: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle gesture. He stands beside a young woman, fully dressed in a long brown jilbab and a khimar covering her hair, who looks up at him with a smile. The man's face is not visible, but his expression is one of joy and compassion. The woman's eyes shine with happiness as she looks at the man. Soft warm golden light, intimate and peaceful mood. Medium close shot at eye level. Warm beige, golden, and deep green palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

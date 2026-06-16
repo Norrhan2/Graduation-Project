@@ -1,0 +1,50 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "Prophet Muhammad and the Muslims meet with the leaders of the other tribes and share the message of Islam.",
+    "key_visual_action": "Prophet Muhammad standing in front of a group of tribal leaders, holding a staff and pointing to the Quran.",
+    "characters_present": [
+      "Prophet Muhammad",
+      "Tribal Leaders"
+    ],
+    "setting": "A large tent in the desert",
+    "emotional_tone": "Respectful",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_summary": "Prophet Muhammad and the Muslims meet with the leaders of the other tribes and share the message of Islam.",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 253",
+    "moral_lesson": "Importance of sharing the message of Islam with others and being respectful in doing so.",
+    "characters": [
+      {
+        "id": "prophet",
+        "name": "Prophet Muhammad",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "tribal_leaders",
+        "name": "Tribal Leaders",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE|FROM_BEHIND|SILHOUETTE|FULL",
+        "appearance": "various builds, dignified upright posture, wearing traditional tribal clothing with headscarves and cloaks"
+      }
+    ],
+    "narrative_text": "Prophet Muhammad and the Muslims stood before the leaders of the other tribes, ready to share the message of Islam. The air was filled with respect and curiosity as they listened to the words of the Prophet. The message of Islam was one of peace, love, and unity, and it resonated deeply with the hearts of those who heard it.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A large, imposing 7th century desert tent with a sturdy wooden frame and animal hide covering, set against a backdrop of endless dunes. Late afternoon golden sunlight casts a warm glow through the open entrance on the far left, illuminating the scene. Inside the tent, a group of seated tribal leaders, dressed in traditional clothing with headscarves and cloaks, listen intently to the man in the green cloak seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. The man in the green cloak stands before them, staff in hand, pointing to a large, worn leather-bound book - a sacred text - held tightly in the other hand. Soft warm golden light, respectful and solemn mood. Medium close shot at eye level. Earthy tones, deep greens, and warm golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure' -> 'the man in the green cloak'",
+      "'the Quran' -> 'a sacred text'"
+    ]
+  }
+}

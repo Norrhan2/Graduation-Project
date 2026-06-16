@@ -1,0 +1,31 @@
+{
+  "scene_number": 2,
+  "scene_summary": "The Prophet gives a rousing speech to his army, preparing them for the challenges ahead.",
+  "era": "pre_prophetic|early_makkah|madinah_early",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 199",
+  "moral_lesson": "The importance of courage, unity, and perseverance in the face of adversity.",
+  "characters": [
+    {
+      "id": "1",
+      "name": "The Prophet",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "tall build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a dynamic gesture"
+    },
+    {
+      "id": "2",
+      "name": "The Muslims",
+      "role": "supporting",
+      "depiction_rule": "FULL",
+      "appearance": "various builds and clothing, but all wearing simple white or off-white thobes and head coverings, with some carrying shields and swords"
+    }
+  ],
+  "narrative_text": "The Prophet stood on a rocky outcropping, his deep voice carrying across the desert landscape as he rallied his companions for the battles ahead.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast desert landscape stretches out before us, with rolling hills and clusters of palm trees swaying gently in the morning breeze. The sun rises high in the sky, casting a warm golden light across the scene. In the distance, a small group of Arabs on horseback can be seen, with a figure standing on a rocky outcropping in the center of the image. The central figure seen entirely from behind: tall build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a dynamic gesture, as if speaking to the group. The surrounding figures are depicted in simple, yet detailed, clothing and armor, their faces filled with a mix of determination and hope. Soft warm golden light, expansive and heroic mood. Medium to wide shot from a slightly elevated angle. Warm beige, golden, and deep green palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

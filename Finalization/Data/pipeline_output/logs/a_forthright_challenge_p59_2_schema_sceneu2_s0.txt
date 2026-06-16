@@ -1,0 +1,24 @@
+{
+  "scene_title": "The Prophet's Reflection",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 59",
+  "moral_lesson": "The importance of contemplation and reflection in seeking guidance",
+  "characters": [
+    {
+      "id": "1",
+      "name": "The Prophet",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    }
+  ],
+  "narrative_text": "The Prophet sat in quiet contemplation, thinking deeply about how to share his message with his relatives.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene 7th century desert landscape with endless dunes stretching towards the horizon. Late afternoon sunlight casts a warm glow over the vast expanse. In the distance, a solitary figure sits cross-legged on the sandy ground. The central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand resting on his chin in a contemplative gesture. The sandy ground beneath him is dotted with a few sparse acacia trees, their twisted branches silhouetted against the vibrant blue sky. Soft warm golden light, peaceful and contemplative mood. Medium close shot at eye level. Warm beige, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

@@ -1,0 +1,31 @@
+{
+  "scene_title": "The Prophet's Mission",
+  "era": "pre_prophetic|early_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 109",
+  "moral_lesson": "Importance of education and leadership",
+  "characters": [
+    {
+      "id": "1",
+      "name": "The central figure",
+      "role": "Prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture"
+    },
+    {
+      "id": "2",
+      "name": "Muṣʿab",
+      "role": "Sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, standing with a sense of purpose, wearing a simple off-white thobe and plain brown woolen cloak with a white cloth head covering, one hand extended to receive the scroll or letter"
+    }
+  ],
+  "narrative_text": "The Prophet called Muṣʿab to his side and entrusted him with a special mission.",
+  "compliance": {
+    "prophet_check": "FROM_BEHIND",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. The quiet corner of a 7th century mosque with plain stone walls in a warm beige color and a simple wooden doorframe partly covered by a woven palm-fiber mat. Late afternoon golden sunlight streams through the doorframe on the right, casting warm rays across the room. In the center, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture. Standing in front of the central figure, a slender man with a sense of purpose: medium build, wearing a simple off-white thobe and plain brown woolen cloak with a white cloth head covering, one hand extended to receive the scroll or letter, eyes cast downward in contemplation. Soft warm golden light, intimate and sacred mood. Medium close shot at eye level. Warm beige, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

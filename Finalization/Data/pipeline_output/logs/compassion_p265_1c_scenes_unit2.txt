@@ -1,0 +1,74 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet greets Bilal warmly as he enters the mosque.",
+    "key_visual_action": "The Prophet extends his hand for a handshake",
+    "characters_present": ["The Prophet", "Bilal"],
+    "setting": "The mosque",
+    "emotional_tone": "Friendly",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Bilal looks surprised at the Prophet's friendly approach.",
+    "key_visual_action": "Bilal's eyes widen in surprise",
+    "characters_present": ["The Prophet", "Bilal"],
+    "setting": "The mosque",
+    "emotional_tone": "Curious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet explains that kindness can bring people together.",
+    "key_visual_action": "The Prophet gestures with his hands",
+    "characters_present": ["The Prophet", "Bilal"],
+    "setting": "The mosque",
+    "emotional_tone": "Inspiring",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "Bilal looks thoughtful, considering the Prophet's words.",
+    "key_visual_action": "Bilal tilts his head",
+    "characters_present": ["The Prophet", "Bilal"],
+    "setting": "The mosque",
+    "emotional_tone": "Reflective",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 5,
+    "scene_summary": "The Prophet smiles, happy to share his wisdom with Bilal.",
+    "key_visual_action": "The Prophet smiles",
+    "characters_present": ["The Prophet", "Bilal"],
+    "setting": "The mosque",
+    "emotional_tone": "Warm",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 6,
+    "scene_summary": "Bilal nods, understanding the importance of kindness.",
+    "key_visual_action": "Bilal nods his head",
+    "characters_present": ["The Prophet", "Bilal"],
+    "setting": "The mosque",
+    "emotional_tone": "Determined",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 7,
+    "scene_summary": "The Prophet places a hand on Bilal's shoulder, encouraging him.",
+    "key_visual_action": "The Prophet places a hand on Bilal's shoulder",
+    "characters_present": ["The Prophet", "Bilal"],
+    "setting": "The mosque",
+    "emotional_tone": "Supportive",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 8,
+    "scene_summary": "Bilal leaves the mosque, feeling inspired to practice kindness.",
+    "key_visual_action": "Bilal walks out of the mosque",
+    "characters_present": ["The Prophet", "Bilal"],
+    "setting": "The mosque",
+    "emotional_tone": "Hopeful",
+    "time_of_day": "afternoon"
+  }
+]

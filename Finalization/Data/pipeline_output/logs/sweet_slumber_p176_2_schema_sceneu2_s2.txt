@@ -1,0 +1,31 @@
+{
+  "scene_number": 3,
+  "scene_summary": "ʿUmar confidently tells Abū Sufyān that the Prophet is still alive.",
+  "era": "pre_prophetic",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 176",
+  "moral_lesson": "Faith and trust in the Prophet's message",
+  "characters": [
+    {
+      "id": "umar",
+      "name": "ʿUmar",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, confident posture, wearing a light beige thobe and a simple brown woolen cloak with a white cloth head covering"
+    },
+    {
+      "id": "abu_sufyan",
+      "name": "Abū Sufyān",
+      "role": "antagonist",
+      "depiction_rule": "NO_FACE",
+      "appearance": "slender build, slightly stooped shoulders, wearing a dark grey thobe and a plain black woolen cloak with a white cloth head covering"
+    }
+  ],
+  "narrative_text": "ʿUmar confidently told Abū Sufyān that the Prophet was still alive, and Abū Sufyān looked surprised.",
+  "compliance": {
+    "prophet_check": "NO_PROPHET_PRESENT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A bustling 7th century Muslim camp scene in the late afternoon, with the sun shining down from behind, casting long shadows. In the center of the image, two figures sit facing each other on a woven palm-fiber mat, set against a backdrop of the Prophet's tent in the background. On the left, the central figure seen entirely from behind: medium build, confident upright posture, wearing a flowing white thobe with a simple brown woolen cloak draped over both shoulders and a white cloth head covering, one hand extended in a reassuring gesture, while smiling and shaking his head. On the right, a slender older man with slightly stooped shoulders, wearing a dark grey thobe and plain black woolen cloak with a white cloth head covering, sitting in a surprised posture - head tilted slightly forward, shoulders gently slumped, looking at the central figure with a mixture of surprise and concern. Soft warm golden light, lively and dynamic mood. Medium close shot at eye level. Warm beige, dark grey, and golden palette with the white thobe as a color anchor. No modern objects, historically accurate 7th century scene."

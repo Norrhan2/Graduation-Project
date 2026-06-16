@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿAmr is shown worshiping his idol, unaware of the emptiness within.",
+    "key_visual_action": "ʿAmr is shown bowing down to his idol, hands clasped in prayer.",
+    "characters_present": ["ʿAmr ibn al-Jamūḥ"],
+    "setting": "ʿAmr's home, with the idol in the background.",
+    "emotional_tone": "sadness",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "ʿAmr is shown witnessing the kindness and generosity of the young men of Salamah, which sparks a desire to learn more about their faith.",
+    "key_visual_action": "ʿAmr is shown observing the young men sharing food and smiling at each other.",
+    "characters_present": ["ʿAmr ibn al-Jamūḥ", "Young men of Salamah"],
+    "setting": "A public square in Salamah.",
+    "emotional_tone": "curiosity",
+    "time_of_day": "afternoon"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "Abū Sufyān sees the massive army approaching the city",
+    "key_visual_action": "Abū Sufyān looking out at the approaching army with a worried expression",
+    "characters_present": [
+      "Abū Sufyān"
+    ],
+    "setting": "A rooftop or high vantage point in Makkah",
+    "emotional_tone": "Concerned",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 1,
+    "scene_summary": "Abū Sufyān sees the massive army approaching the city",
+    "era": "pre_islamic_prophets",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 300",
+    "moral_lesson": "Importance of preparation and caution in the face of uncertainty",
+    "characters": [
+      {
+        "id": "Abū Sufyān",
+        "name": "Abū Sufyān",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, dignified upright posture, wearing a dark brown thobe with a white turban and a white cloth tail hanging between the shoulder blades"
+      }
+    ],
+    "narrative_text": "Abū Sufyān stood on the rooftop, gazing out at the massive army approaching the city. He felt a sense of concern wash over him as he wondered what this meant for Makkah.",
+    "compliance": {
+      "prophet_check": "NOT_APPLICABLE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "No modern objects or idols in the scene"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A high vantage point in 7th century Makkah with a flat, earthy-colored rooftop and a row of simple mud-brick buildings in the background. Late afternoon sunlight casts long shadows across the rooftops, with a gentle breeze rustling the palm trees in the distance. In the foreground, a tall, slender man with a worried expression stands at the edge of the rooftop, looking out at a massive army approaching the city in the distance. He wears a dark brown thobe with a white turban and a white cloth tail hanging between the shoulder blades, his head turned away from the viewer. Soft warm golden light, dramatic and intense mood. Medium shot from slightly above, capturing the sense of concern on the central figure's face. Warm beige, brown, and golden color palette with the dark brown thobe as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'Abū Sufyān' -> 'the central figure'"
+    ]
+  }
+}

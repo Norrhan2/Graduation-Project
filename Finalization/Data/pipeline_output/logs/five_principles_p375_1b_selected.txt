@@ -1,0 +1,46 @@
+[
+  {
+    "unit_number": 5,
+    "unit_title": "Seduction by the Evil One",
+    "unit_text": "The Evil One tries to seduce people into committing sins to lead them astray.",
+    "main_characters": [
+      "The Evil One"
+    ],
+    "event_summary": "The Evil One tries to seduce people into sin.",
+    "selection_reason": "Clear visual moment of the Evil One trying to tempt people, and a meaningful lesson about resisting temptation.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Importance of Kindness to Women",
+    "unit_text": "The Prophet stresses the importance of being kind to women, who are the weaker element in society.",
+    "main_characters": [
+      "The Prophet"
+    ],
+    "event_summary": "The Prophet emphasizes the importance of kindness to women.",
+    "selection_reason": "Meaningful lesson about treating others with kindness, and a clear visual moment of the Prophet interacting with women.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "The Prophet's Mission",
+    "unit_text": "The Prophet's message and mission are nearing their end, and he prepares his followers for his departure.",
+    "main_characters": [
+      "The Prophet"
+    ],
+    "event_summary": "The Prophet prepares his followers for his departure.",
+    "selection_reason": "Clear visual moment of the Prophet's emotional farewell, and a meaningful lesson about the importance of preparation and letting go.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "The Prophet's Pilgrimage",
+    "unit_text": "The Prophet's pilgrimage is his only performance of this religious duty, and it marks the end of his mission.",
+    "main_characters": [
+      "The Prophet"
+    ],
+    "event_summary": "The Prophet completes his pilgrimage and marks the end of his mission.",
+    "selection_reason": "Clear visual moment of the Prophet's pilgrimage, and a meaningful lesson about the importance of completing one's duties.",
+    "estimated_scenes": 3
+  }
+]

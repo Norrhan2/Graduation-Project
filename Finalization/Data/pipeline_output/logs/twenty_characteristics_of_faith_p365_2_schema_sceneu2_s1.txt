@@ -1,0 +1,32 @@
+{
+  "scene_number": 2,
+  "scene_title": "The Prophet's Praise for Suwayd's Wisdom",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 365",
+  "moral_lesson": "The importance of wisdom and knowledge",
+  "characters": [
+    {
+      "id": "prophet",
+      "name": "The Prophet",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "suwayd",
+      "name": "Suwayd ibn al- Ḥārith",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "young man with a calm and thoughtful expression, wearing a simple white thobe and a plain brown woolen cloak with a white cloth head covering"
+    }
+  ],
+  "narrative_text": "The Prophet Muhammad praised Suwayd ibn al- Ḥārith for his wisdom and added five new characteristics to their list.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene 7th century desert landscape with distant palm trees and a simple white mosque in the background. Late afternoon golden sunlight casts a warm glow across the scene. In the foreground, two figures stand facing each other. The central figure seen from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle gesture. The other figure, a young man with a calm and thoughtful expression, seen from the front: wearing a simple white thobe and a plain brown woolen cloak with a white cloth head covering, looking up at the central figure with a hint of pride and gratitude. Soft warm golden light, peaceful and reverent mood. Medium shot at eye level. Warm beige, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

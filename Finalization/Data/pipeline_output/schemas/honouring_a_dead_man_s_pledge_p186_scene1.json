@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "Khubayb is given permission to pray two rakʿahs before his execution.",
+    "key_visual_action": "Khubayb bowing down to pray",
+    "characters_present": [
+      "Khubayb ibn ʿAdiy",
+      "Ṣafwān ibn Umayyah"
+    ],
+    "setting": "Desert or a public area",
+    "emotional_tone": "Respectful",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_summary": "Khubayb is given permission to pray two rakʿahs before his execution.",
+    "era": "pre_islamic_prophets",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 186",
+    "moral_lesson": "The importance of prayer in times of adversity",
+    "characters": [
+      {
+        "id": "khubayb",
+        "name": "Khubayb ibn ʿAdiy",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, dignified upright posture, wearing a simple white thobe and a brown woolen cloak with a white cloth head covering"
+      },
+      {
+        "id": "Ṣafwān",
+        "name": "Ṣafwān ibn Umayyah",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "tall, wearing a luxurious dark-colored thobe and a gold-embroidered cloak with a white cloth head covering"
+      }
+    ],
+    "narrative_text": "Khubayb asked for permission to pray two rakʿahs before his execution. Ṣafwān gave him his permission.",
+    "compliance": {
+      "prophet_check": "NOT_PRESENT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Historically accurate depiction of Khubayb's execution."
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, arid desert landscape with sand dunes stretching into the distance, under a clear blue sky with a few scattered clouds. Late afternoon sunlight casts a warm golden glow across the scene. In the foreground, two figures stand facing each other. On the right, the man in the green cloak seen entirely from behind: medium build, dignified upright posture, wearing a simple white thobe and a brown woolen cloak with a white cloth head covering, one hand raised in a gentle gesture. On the left, a tall man with a stern expression, wearing a luxurious dark-colored thobe and a gold-embroidered cloak with a white cloth head covering, standing with his arms crossed, giving his permission for the prayer. Soft warm golden light, respectful and solemn mood. Medium shot at eye level. Warm beige, sand, and golden palette with the dark-colored thobe as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure' -> 'the man in the green cloak'"
+    ]
+  }
+}

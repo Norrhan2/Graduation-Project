@@ -1,0 +1,50 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "ʿUmar ibn al-Khaṭṭāb returns, informing the Prophet that the Quraysh refuse to withdraw.",
+    "key_visual_action": "ʿUmar ibn al-Khaṭṭāb dismounting his camel, looking down with a serious expression.",
+    "characters_present": [
+      "ʿUmar ibn al-Khaṭṭāb",
+      "The Prophet"
+    ],
+    "setting": "The same desert area as before.",
+    "emotional_tone": "Disappointed",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_summary": "ʿUmar ibn al-Khaṭṭāb returns, informing the Prophet that the Quraysh refuse to withdraw.",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 138",
+    "moral_lesson": "Perseverance in the face of adversity.",
+    "characters": [
+      {
+        "id": "umar",
+        "name": "ʿUmar ibn al-Khaṭṭāb",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall build, commanding presence, wearing a deep blue woolen cloak with a white thobe underneath, and a white cloth head covering"
+      },
+      {
+        "id": "prophet",
+        "name": "The Prophet",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      }
+    ],
+    "narrative_text": "ʿUmar ibn al-Khaṭṭāb returns from Makkah, his face filled with disappointment. He dismounts his camel and approaches the Prophet with a serious expression.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A wide open desert landscape with sandy dunes in the background and a few scattered palm trees towards the horizon. Late afternoon golden sunlight casts long shadows across the sandy terrain. In the center of the scene, a lone camel stands motionless, its rider dismounting from its back. The central figure seen from behind: tall build, commanding presence, wearing a deep blue woolen cloak with a white thobe underneath, and a white cloth head covering, looking down with a serious expression. The man in the green cloak stands facing the camel, his back to the viewer, one hand extended in a gentle gesture of reassurance. Soft warm golden light, vast and open mood. Wide shot from above, looking down at the characters. Warm beige, golden, and blue palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'prophet' -> 'the central figure'",
+      "'the man in the green cloak' -> 'the man in the green cloak' (no change needed)"
+    ]
+  }
+}

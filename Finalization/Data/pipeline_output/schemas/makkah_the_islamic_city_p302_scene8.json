@@ -1,0 +1,40 @@
+{
+  "scene_input": {
+    "scene_number": 3,
+    "scene_summary": "The Prophet enters the Ka'bah and begins to pray.",
+    "key_visual_action": "The Prophet bowing in prayer",
+    "characters_present": [
+      "The Prophet"
+    ],
+    "setting": "Inside the Ka'bah",
+    "emotional_tone": "Serenity",
+    "time_of_day": "morning"
+  },
+  "schema_output": {
+    "scene_title": "The Prophet Enters the Ka'bah to Pray",
+    "era": "pre_islamic_prophets|early_makkah",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 302",
+    "moral_lesson": "The importance of prayer and devotion to Allah",
+    "characters": [
+      {
+        "id": "1",
+        "name": "The Prophet",
+        "role": "Prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      }
+    ],
+    "narrative_text": "The Prophet Muhammad enters the Ka'bah, a sacred place of worship, and begins to pray. He bows down, showing his devotion to Allah.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. The interior of the Ka'bah, a simple 7th century structure with undecorated stone walls in a warm earthy tone and a marble floor. Early morning sunlight streams through small windows high above, casting soft rays across the room. The air is calm and peaceful. The central figure seen from behind, medium build, dignified upright posture, standing in the center of the room, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. One hand is extended in a gentle gesture, while the other is clasped together in prayer. The figure is bowed in prayer, head and neck slightly inclined forward. Soft warm golden light, serene and peaceful mood. Medium shot at eye level. Warm beige, cream, and golden palette with the deep green cloak as a color anchor. A small wooden door on the far left wall is slightly ajar, and a few strands of soft white cloth hang from the doorframe. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'central figure'"
+    ]
+  }
+}

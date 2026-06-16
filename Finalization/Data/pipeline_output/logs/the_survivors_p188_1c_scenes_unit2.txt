@@ -1,0 +1,49 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Al-Mundhir ibn Muḥammad prepares to face the aggressors",
+    "key_visual_action": "Al-Mundhir standing tall with a determined expression",
+    "characters_present": [
+      "al-Mundhir ibn Muḥammad"
+    ],
+    "setting": "A desert or battlefield",
+    "emotional_tone": "Determined",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Al-Mundhir ibn Muḥammad charges at the aggressors",
+    "key_visual_action": "Al-Mundhir running forward with his sword raised",
+    "characters_present": [
+      "al-Mundhir ibn Muḥammad",
+      "aggressors"
+    ],
+    "setting": "A desert or battlefield",
+    "emotional_tone": "Bravery",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Al-Mundhir ibn Muḥammad kills two of the aggressors",
+    "key_visual_action": "Al-Mundhir striking down two aggressors",
+    "characters_present": [
+      "al-Mundhir ibn Muḥammad",
+      "two aggressors"
+    ],
+    "setting": "A desert or battlefield",
+    "emotional_tone": "Triumphant",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 4,
+    "scene_summary": "Al-Mundhir ibn Muḥammad falls to his death",
+    "key_visual_action": "Al-Mundhir falling to the ground with a sword wound",
+    "characters_present": [
+      "al-Mundhir ibn Muḥammad",
+      "aggressors"
+    ],
+    "setting": "A desert or battlefield",
+    "emotional_tone": "Sadness",
+    "time_of_day": "afternoon"
+  }
+]

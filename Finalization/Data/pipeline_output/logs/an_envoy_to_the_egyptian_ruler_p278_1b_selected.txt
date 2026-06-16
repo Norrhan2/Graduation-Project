@@ -1,0 +1,50 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Ḥāṭib's Mission",
+    "unit_text": "Ḥāṭib ibn Abī Balta ʿ ah carried the Prophet's letter to the ruler of Egypt, al-Muqawqis, in Alexandria.",
+    "main_characters": [
+      "Ḥāṭib ibn Abī Balta ʿ ah",
+      "al-Muqawqis"
+    ],
+    "event_summary": "Ḥāṭib is sent to deliver the Prophet's letter to al-Muqawqis in Egypt.",
+    "selection_reason": "Clear visual moment of Ḥāṭib's journey and introduction to the story.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Ḥāṭib's Address to al-Muqawqis",
+    "unit_text": "Ḥāṭib delivers the Prophet's letter to al-Muqawqis, warning him of the fate of those who reject prophets.",
+    "main_characters": [
+      "Ḥāṭib ibn Abī Balta ʿ ah",
+      "al-Muqawqis"
+    ],
+    "event_summary": "Ḥāṭib delivers the Prophet's letter to al-Muqawqis, warning him of the consequences of rejecting a prophet.",
+    "selection_reason": "Meaningful lesson about the importance of accepting prophets and clear visual moment of Ḥāṭib's warning.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Al-Muqawqis' Gift and Warning",
+    "unit_text": "Al-Muqawqis gives Ḥāṭib gifts and warns him not to reveal their discussion, fearing for his authority.",
+    "main_characters": [
+      "al-Muqawqis",
+      "Ḥāṭib ibn Abī Balta ʿ ah"
+    ],
+    "event_summary": "Al-Muqawqis gives Ḥāṭib gifts and warns him not to reveal their discussion, fearing for his authority.",
+    "selection_reason": "Interesting character interaction and clear visual moment of al-Muqawqis' warning.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Ḥāṭib's Return to Madinah",
+    "unit_text": "Ḥāṭib returns to Madinah and reports his conversation with al-Muqawqis to the Prophet.",
+    "main_characters": [
+      "Ḥāṭib ibn Abī Balta ʿ ah",
+      "Muhammad"
+    ],
+    "event_summary": "Ḥāṭib returns to Madinah and reports his conversation with al-Muqawqis to the Prophet.",
+    "selection_reason": "Clear visual moment of Ḥāṭib's return and meaningful lesson about reporting important information.",
+    "estimated_scenes": 2
+  }
+]

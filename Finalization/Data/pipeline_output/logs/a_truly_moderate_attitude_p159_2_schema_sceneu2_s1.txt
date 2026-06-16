@@ -1,0 +1,24 @@
+{
+  "scene_title": "Reflection in the Desert",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 159",
+  "moral_lesson": "The importance of reflection and consideration in decision-making",
+  "characters": [
+    {
+      "id": "1",
+      "name": "The Prophet Muhammad",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    }
+  ],
+  "narrative_text": "The Prophet Muhammad pauses in the desert, thinking deeply about the consequences of battle.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast expanse of sandy desert terrain stretches out in all directions, with a small cluster of palm trees visible in the distance. Late morning sunlight casts a warm glow across the scene, with a few wispy clouds scattered across the sky. In the foreground, a lone figure stands at the center of the image - the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. The figure holds a sword in one hand, but it is slowly lowered, as if in contemplation. The air is filled with an air of calm and introspection. Soft warm morning light, serene and peaceful mood. Medium close shot at eye level. Warm beige, sandy, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

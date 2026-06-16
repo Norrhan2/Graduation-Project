@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿ Utbah ibn Rabīʿ ah offers Muhammad a deal, but Muhammad is focused on the message from God.",
+    "key_visual_action": "ʿ Utbah extending his hand with a deal, Muhammad looking up towards the sky",
+    "characters_present": ["ʿ Utbah ibn Rabīʿ ah", "Muhammad"],
+    "setting": "A desert or a marketplace",
+    "emotional_tone": "Serious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Muhammad responds to ʿ Utbah's offer with a powerful recitation from the Qur'ān.",
+    "key_visual_action": "Muhammad standing, reciting from the Qur'ān with confidence and conviction",
+    "characters_present": ["ʿ Utbah ibn Rabīʿ ah", "Muhammad"],
+    "setting": "A desert or a marketplace",
+    "emotional_tone": "Inspiring",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Muhammad prostrates himself in devotion to God after reciting from the Qur'ān.",
+    "key_visual_action": "Muhammad on his hands and knees, forehead to the ground in prostration",
+    "characters_present": ["Muhammad"],
+    "setting": "A desert or a marketplace",
+    "emotional_tone": "Humility",
+    "time_of_day": "afternoon"
+  }
+]

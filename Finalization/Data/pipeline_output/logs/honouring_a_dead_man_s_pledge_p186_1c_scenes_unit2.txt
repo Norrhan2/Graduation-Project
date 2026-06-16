@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Khubayb ibn ʿAdiy prepares to pray",
+    "key_visual_action": "Khubayb kneeling down to perform wudu",
+    "characters_present": ["Khubayb ibn ʿAdiy"],
+    "setting": "A desert or a place of execution",
+    "emotional_tone": "Serene",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Khubayb completes his two rakʿahs",
+    "key_visual_action": "Khubayb standing up after the second rakʿah, with his hands on his hips",
+    "characters_present": ["Khubayb ibn ʿAdiy"],
+    "setting": "A desert or a place of execution",
+    "emotional_tone": "Peaceful",
+    "time_of_day": "Afternoon"
+  }
+]

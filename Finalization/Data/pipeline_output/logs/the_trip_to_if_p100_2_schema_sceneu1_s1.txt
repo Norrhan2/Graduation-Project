@@ -1,0 +1,16 @@
+{
+  "scene_number": 2,
+  "scene_summary": "The Thaqīf notables refuse the Prophet's request and prepare to attack him.",
+  "era": "late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 100",
+  "moral_lesson": "The consequences of refusing the message of truth and the importance of standing firm in one's faith.",
+  "characters": [
+    {"id": "1", "name": "the central figure", "role": "prophet", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "2", "name": "Thaqīf notable", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "tall build, authoritative posture, wearing a white thobe and a brown woolen cloak with a white cloth head covering"},
+    {"id": "3", "name": "teenager", "role": "crowd", "depiction_rule": "FULL", "appearance": "slender build, youthful posture, wearing a simple white thobe and a white cloth head covering"},
+    {"id": "4", "name": "servant", "role": "supporting", "depiction_rule": "FULL", "appearance": "slender build, submissive posture, wearing a simple white thobe and a white cloth head covering"}
+  ],
+  "narrative_text": "The Thaqīf notables refused the Prophet's request for safe passage, and now they are preparing to attack him, with their teenagers and servants gathering behind them.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Bustling marketplace in 7th century Taif, with a large stone wall on the left and a row of shops with wooden doors and shutters on the right. Late afternoon sunlight casts warm shadows across the cobblestone street, with a few palm trees providing shade. In the center of the scene, a group of people are gathered, with a tall Thaqīf notable standing at the front, seen entirely from behind: tall build, authoritative posture, wearing a white thobe and a brown woolen cloak with a white cloth head covering, one hand clenched into a fist in anger. Behind him, several teenagers and servants are gathered, looking on with a mix of fear and hostility, while the Prophet Muhammad stands calmly in the background, seen from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. Soft warm golden light, tense and confrontational mood. Medium shot at eye level. Warm beige, golden, and brown palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

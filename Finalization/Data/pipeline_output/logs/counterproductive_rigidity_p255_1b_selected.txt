@@ -1,0 +1,40 @@
+[
+  {
+    "unit_number": 2,
+    "unit_title": "Abū Buṣayr's Conversion and Return",
+    "unit_text": "Abū Buṣayr, a Thaqīf man, converts to Islam and is sent back to the Quraysh, despite the Prophet's reservations.",
+    "main_characters": [
+      "Abū Buṣayr",
+      "Prophet Muhammad",
+      "Quraysh"
+    ],
+    "event_summary": "Abū Buṣayr is sent back to the Quraysh after converting to Islam, despite the Prophet's concerns.",
+    "selection_reason": "Clear visual moment of conversion and return, and meaningful lesson on faith and courage.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Abū Buṣayr's Escape",
+    "unit_text": "Abū Buṣayr kills his captor and escapes, returning to the Prophet in Madinah.",
+    "main_characters": [
+      "Abū Buṣayr",
+      "Man from the tribe of ʿĀmir",
+      "Servant"
+    ],
+    "event_summary": "Abū Buṣayr kills his captor and escapes, returning to the Prophet in Madinah.",
+    "selection_reason": "Exciting and action-packed scene with clear visual moments, teaching perseverance and bravery.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Prophet's Reaction",
+    "unit_text": "The Prophet comments on Abū Buṣayr's action, noting that he would cause a war if supported.",
+    "main_characters": [
+      "Prophet Muhammad",
+      "Abū Buṣayr"
+    ],
+    "event_summary": "The Prophet comments on Abū Buṣayr's action, noting that he would cause a war if supported.",
+    "selection_reason": "Important lesson on the consequences of actions, and a clear visual moment of the Prophet's wisdom.",
+    "estimated_scenes": 1
+  }
+]

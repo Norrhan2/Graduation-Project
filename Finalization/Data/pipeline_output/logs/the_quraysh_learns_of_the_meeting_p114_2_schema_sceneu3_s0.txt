@@ -1,0 +1,32 @@
+{
+  "scene_number": 1,
+  "scene_summary": "The Prophet Muhammad and the Muslims from Madinah gather to finalize the agreement.",
+  "era": "early_makkah",
+  "region": "madinah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 114",
+  "moral_lesson": "Unity and cooperation are key to success",
+  "characters": [
+    {
+      "id": "prophet",
+      "name": "the central figure",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "muslims",
+      "name": "the crowd",
+      "role": "supporting",
+      "depiction_rule": "NO_FACE",
+      "appearance": "various ages and builds, wearing simple white or off-white thobes with plain woolen cloaks, some with head coverings"
+    }
+  ],
+  "narrative_text": "The Prophet Muhammad stood before the crowd of Muslims from Madinah, his heart full of hope for their future together.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": "None"
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A public square in Madinah during the late 7th century, with a large open space surrounded by simple mud-brick buildings in a warm earth tone. Late afternoon sunlight casts long shadows across the square, with a few palm trees and date palms scattered about. In the center of the square, the central figure seen entirely from behind stands facing a crowd of people: various ages and builds, wearing simple white or off-white thobes with plain woolen cloaks, some with head coverings. Their faces are turned towards the central figure, hands clasped together in a gesture of unity and cooperation. The central figure's flowing white thobe and deep green woolen cloak are a striking contrast to the simple attire of the crowd. Soft warm golden light, hopeful and optimistic mood. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

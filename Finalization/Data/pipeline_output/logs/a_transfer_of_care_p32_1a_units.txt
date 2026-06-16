@@ -1,0 +1,58 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "ʿ Abd al-Muṭṭalib's Concern for Muhammad's Future",
+    "unit_text": "ʿ Abd al-Muṭṭalib realized his death was near and asked Abū Ṭālib to care for Muhammad.",
+    "main_characters": ["ʿ Abd al-Muṭṭalib", "Abū Ṭālib", "Muhammad"],
+    "event_summary": "ʿ Abd al-Muṭṭalib asks Abū Ṭālib to care for Muhammad after his death."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Muhammad's Grief over ʿ Abd al-Muṭṭalib's Death",
+    "unit_text": "Muhammad was extremely distressed to lose his grandfather and felt he had lost the kindest person in his life.",
+    "main_characters": ["Muhammad", "ʿ Abd al-Muṭṭalib"],
+    "event_summary": "Muhammad grieves over the death of his grandfather ʿ Abd al-Muṭṭalib."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Abū Ṭālib's Care for Muhammad",
+    "unit_text": "Abū Ṭālib continued to care for Muhammad until he became a man and even then showed him loving care and guidance.",
+    "main_characters": ["Abū Ṭālib", "Muhammad"],
+    "event_summary": "Abū Ṭālib provides loving care and guidance to Muhammad throughout his childhood and beyond."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Abū Ṭālib's Support for Muhammad",
+    "unit_text": "Abū Ṭālib supported Muhammad in the face of opposition from the Quraysh when he started to receive his message.",
+    "main_characters": ["Abū Ṭālib", "Muhammad"],
+    "event_summary": "Abū Ṭālib supports Muhammad in the face of opposition from the Quraysh."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "God's Blessings on Muhammad",
+    "unit_text": "While in Abū Ṭālib's care, Muhammad seemed to bring blessings to his environment, and food was plentiful when he was present.",
+    "main_characters": ["Muhammad", "Abū Ṭālib"],
+    "event_summary": "Muhammad brings blessings to his environment while in Abū Ṭālib's care."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Muhammad's Childhood and Recognition",
+    "unit_text": "Muhammad's childhood was pleasant, and he radiated happiness to those around him, but various people recognized him as the future Prophet and tried to harm him.",
+    "main_characters": ["Muhammad"],
+    "event_summary": "Muhammad's childhood is pleasant, but he is recognized as the future Prophet and faces attempts to harm him."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Muhammad's Encounter with the Christian Monk",
+    "unit_text": "Muhammad met a Christian monk, Baḥīrā, who recognized him as the last Prophet and advised Abū Ṭālib to protect him.",
+    "main_characters": ["Muhammad", "Abū Ṭālib", "Baḥīrā"],
+    "event_summary": "Muhammad meets a Christian monk who recognizes him as the last Prophet and advises Abū ṭālib to protect him."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Muhammad's Return to Makkah and His Awareness of His Uncle's Situation",
+    "unit_text": "After returning to Makkah, Muhammad became aware of his uncle's financial struggles and decided to help him.",
+    "main_characters": ["Muhammad", "Abū Ṭālib"],
+    "event_summary": "Muhammad becomes aware of his uncle's financial struggles and decides to help him."
+  }
+]

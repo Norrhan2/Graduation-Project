@@ -1,0 +1,15 @@
+{
+  "scene_number": 4,
+  "scene_summary": "Jubayr and al-Ḥārith save Saʿd from his tormentors.",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 114",
+  "moral_lesson": "Importance of standing up for one another and helping those in need.",
+  "characters": [
+    {"id": "Jubayr", "name": "Jubayr ibn Muṭʿim", "role": "sahabi", "depiction_rule": "FULL", "appearance": "lean build, wearing a light beige thobe and a worn leather belt, with a determined look on his face"},
+    {"id": "al-Ḥārith", "name": "al-Ḥārith ibn Ḥarb", "role": "sahabi", "depiction_rule": "FULL", "appearance": "slightly muscular build, wearing a dark brown thobe with a simple woolen cloak draped over his shoulders"},
+    {"id": "Saʿd", "name": "Saʿd ibn ʿUbādah", "role": "sahabi", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, wearing a cream-colored thobe with a green woolen cloak over his shoulders, and a white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "Jubayr and al-Ḥārith rushed to Saʿd's aid, pulling him to safety from his tormentors.",
+  "compliance": {"prophet_check": "NO_PROPHET", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "No explicit violence or graphic content."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A sandy and dusty 7th century desert or marketplace scene with a few scattered palm trees in the background. Late afternoon sunlight casts a warm glow over the scene, with a few clouds scattered across the sky. In the center of the image, three figures are shown in a dramatic pose. Two men, Jubayr and al-Ḥārith, are seen from the front, with Jubayr grasping the arm of the third figure, Saʿd, who is seen entirely from behind. Saʿd wears a cream-colored thobe with a green woolen cloak over his shoulders, and a white turban with a cloth tail hanging between the shoulder blades. Jubayr and al-Ḥārith wear light-colored thobes and woolen cloaks, with determined expressions on their faces. The three men are shown in motion, with Jubayr and al-Ḥārith pulling Saʿd to safety. Soft warm light, energetic and dynamic mood. Medium shot, eye level. Earthy tones with accents of green and white. No modern objects, historically accurate 7th century scene."

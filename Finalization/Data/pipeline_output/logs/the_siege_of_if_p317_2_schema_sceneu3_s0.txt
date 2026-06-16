@@ -1,0 +1,25 @@
+{
+  "scene_number": 1,
+  "scene_summary": "The Prophet stands on a mountain overlooking the city of Thaqīf, looking out at the people with concern.",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 317",
+  "moral_lesson": "The importance of compassion and care for others",
+  "characters": [
+    {
+      "id": "Prophet",
+      "name": "the central figure",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    }
+  ],
+  "narrative_text": "The Prophet looked out at the city of Thaqīf with a worried heart, seeing the people struggling with darkness and ignorance.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A rugged mountain slope in the Arabian Desert, with rocks and scrubby plants in shades of earthy brown and beige, stretching up to a rocky outcropping where the central figure stands, seen entirely from behind. The sun casts a warm golden light on the scene, with a gentle breeze rustling the leaves of nearby plants. The central figure looks out at a distant city, Thaqīf, with a small cluster of buildings and people visible in the valley below. The city is surrounded by a few palm trees and a small stream, giving a sense of life and vitality. The central figure's deep green cloak is a striking color anchor in the warm earth tones of the mountain. Soft warm golden light, a sense of stillness and contemplation. Medium shot from behind the central figure, looking out at the city. Earthy palette with the deep green cloak as a dominant color. No modern objects, historically accurate 7th century scene."
+}

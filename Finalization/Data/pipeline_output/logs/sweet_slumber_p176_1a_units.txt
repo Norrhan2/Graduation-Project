@@ -1,0 +1,51 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The Muslims Fall Asleep During Battle",
+    "unit_text": "The Muslims, while rallying towards the Prophet, were overcome by sleep. When they woke up, they felt refreshed and reassured.",
+    "main_characters": ["The Muslims", "The Prophet"],
+    "event_summary": "The Muslims experience a momentary sleep during the Battle of Uḥud, which gives them a sense of relief and reassurance."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "The Quraysh Feel a Sense of Victory",
+    "unit_text": "The Quraysh commanders feel they have achieved a victory that will erase the memories of their earlier defeat at Badr.",
+    "main_characters": ["The Quraysh commanders"],
+    "event_summary": "The Quraysh feel a sense of victory, but it's not as crushing as they had hoped for."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Abū Sufyān Searches for the Prophet's Body",
+    "unit_text": "Abū Sufyān searches for the Prophet's body on the battlefield, but can't find it, leading him to suspect that the Prophet might be dead.",
+    "main_characters": ["Abū Sufyān", "The Prophet"],
+    "event_summary": "Abū Sufyān searches for the Prophet's body, but can't find it, leading him to suspect that the Prophet might be dead."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Abū Sufyān Challenges the Muslims",
+    "unit_text": "Abū Sufyān challenges the Muslims, asking if they have killed the Prophet, and is told that the Prophet is still alive.",
+    "main_characters": ["Abū Sufyān", "ʿ Umar", "The Prophet"],
+    "event_summary": "Abū Sufyān challenges the Muslims, asking if they have killed the Prophet, and is told that the Prophet is still alive."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Abū Sufyān's Final Words",
+    "unit_text": "Abū Sufyān makes a final statement, saying that the Quraysh will meet the Muslims again in Badr next year.",
+    "main_characters": ["Abū Sufyān", "The Prophet"],
+    "event_summary": "Abū Sufyān makes a final statement, saying that the Quraysh will meet the Muslims again in Badr next year."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Prophet's Concerns",
+    "unit_text": "The Prophet is worried that the Quraysh might launch an attack on Madinah, so he sends ʿ Alī to follow them and report back.",
+    "main_characters": ["The Prophet", "ʿ Alī"],
+    "event_summary": "The Prophet is worried that the Quraysh might launch an attack on Madinah, so he sends ʿ Alī to follow them and report back."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "ʿ Alī Reports Back",
+    "unit_text": "ʿ Alī returns with the news that the Quraysh army is heading back home.",
+    "main_characters": ["ʿ Alī", "The Quraysh army"],
+    "event_summary": "ʿ Alī returns with the news that the Quraysh army is heading back home."
+  }
+]

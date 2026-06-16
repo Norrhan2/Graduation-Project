@@ -1,0 +1,47 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Thaqīf tribe is shown with a mix of emotions, unsure of what to do.",
+    "key_visual_action": "Thaqīf leader looking uncertain",
+    "characters_present": ["Thaqīf", "Prophet"],
+    "setting": "Desert landscape",
+    "emotional_tone": "Uncertainty",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet delivers a powerful message to the Thaqīf tribe.",
+    "key_visual_action": "Prophet speaking with a confident gesture",
+    "characters_present": ["Thaqīf", "Prophet"],
+    "setting": "Desert landscape",
+    "emotional_tone": "Inspiration",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Thaqīf tribe begins to discuss and debate among themselves.",
+    "key_visual_action": "Thaqīf members in a heated discussion",
+    "characters_present": ["Thaqīf"],
+    "setting": "Desert landscape",
+    "emotional_tone": "Doubt",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 4",
+    "scene_summary": "The Thaqīf leader finally makes the decision to surrender to Islam.",
+    "key_visual_action": "Thaqīf leader raising hands in surrender",
+    "characters_present": ["Thaqīf", "Prophet"],
+    "setting": "Desert landscape",
+    "emotional_tone": "Relief",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 5,
+    "scene_summary": "The Thaqīf tribe is shown embracing Islam, with the Prophet smiling in approval.",
+    "key_visual_action": "Prophet smiling and Thaqīf tribe performing salah",
+    "characters_present": ["Thaqīf", "Prophet"],
+    "setting": "Desert landscape",
+    "emotional_tone": "Joy",
+    "time_of_day": "afternoon"
+  }
+]

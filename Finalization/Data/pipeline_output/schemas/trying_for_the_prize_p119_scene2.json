@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 3,
+    "scene_summary": "The Prophet agrees to write a note of recognition for Surāqah.",
+    "key_visual_action": "The Prophet taking out a piece of paper and a pen to write",
+    "characters_present": [
+      "Surāqah ibn Mālik",
+      "The Prophet"
+    ],
+    "setting": "Desert, with a distant city in the background",
+    "emotional_tone": "Grateful and appreciative",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 3,
+    "scene_summary": "The Prophet agrees to write a note of recognition for Surāqah.",
+    "era": "pre_prophetic",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 119",
+    "moral_lesson": "Importance of recognition and gratitude",
+    "characters": [
+      {
+        "id": "surah",
+        "name": "Surāqah ibn Mālik",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "tall build, dignified posture, wearing a simple white thobe and a brown woolen cloak with a white cloth head covering"
+      },
+      {
+        "id": "muhammad",
+        "name": "The Prophet",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      }
+    ],
+    "narrative_text": "The Prophet agreed to write a note of recognition for Surāqah, who had shown great kindness and generosity.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Historically accurate depiction of a desert setting"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene desert landscape with a distant city visible in the background, its buildings made of mud-brick and stone with terracotta roofs. Late afternoon sunlight casts a golden glow across the dunes, with a few palm trees scattered in the distance. In the foreground, a man in a simple white thobe and brown woolen cloak kneels on a small rock, looking up at the central figure seen from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. The central figure has one hand extended in a gentle gesture, as if offering a gift or a promise. On the ground beside the kneeling man, a small leather satchel or pouch lies open, with a few objects spilling out. Soft warm golden light, peaceful and contemplative mood. Medium close shot at eye level. Warm beige, golden, and deep green palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'prophet' -> 'the central figure'"
+    ]
+  }
+}

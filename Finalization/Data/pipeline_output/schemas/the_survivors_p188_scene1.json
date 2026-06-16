@@ -1,0 +1,51 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "The two friends hurry back to the spot, concerned about what might have happened to their brethren.",
+    "key_visual_action": "ʿAmr ibn Umayyah and al-Mundhir ibn Muḥammad running towards the spot",
+    "characters_present": [
+      "ʿAmr ibn Umayyah",
+      "al-Mundhir ibn Muḥammad"
+    ],
+    "setting": "Desert or open plain",
+    "emotional_tone": "Concern",
+    "time_of_day": "Afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_summary": "The two friends hurry back to the spot, concerned about what might have happened to their brethren.",
+    "era": "pre_prophetic",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 188",
+    "moral_lesson": "Importance of unity and concern for one another",
+    "characters": [
+      {
+        "id": "1",
+        "name": "ʿAmr ibn Umayyah",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, athletic posture, wearing a simple white thobe and a pair of worn leather sandals, carrying a leather bag slung over his shoulder"
+      },
+      {
+        "id": "2",
+        "name": "al-Mundhir ibn Muḥammad",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "slender build, slightly stooped shoulders, wearing a light beige thobe and a pair of simple woolen socks"
+      }
+    ],
+    "narrative_text": "ʿAmr ibn Umayyah and al-Mundhir ibn Muḥammad were worried about what might have happened to their friends.",
+    "compliance": {
+      "prophet_check": "None",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast and open desert or plain stretches out before two figures seen in the distance, running towards the camera with a sense of urgency. The sun beats down upon their heads, casting a warm golden glow across the sandy terrain. In the background, the distant outline of a cluster of palm trees can be seen, swaying gently in the breeze. The two figures are dressed in simple 7th century attire, their faces obscured from view. The central figure on the left is depicted in a dynamic pose, his legs striding long and purposeful, his arms pumping in a rhythmic motion as he runs. The man on the right is shown slightly behind the central figure, his movements slightly more labored, his face seen from behind. Soft warm golden light, dynamic and energetic mood. Medium shot with a low angle, emphasizing the sense of movement and urgency. Warm beige, golden, and sandy palette with accents of deep blue for the sky. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'ʿAmr ibn Umayyah' -> 'the central figure'",
+      "'Al-Mundhir ibn Muḥammad' -> 'the man on the right'",
+      "'face obscured from view' -> 'face seen from behind'"
+    ]
+  }
+}

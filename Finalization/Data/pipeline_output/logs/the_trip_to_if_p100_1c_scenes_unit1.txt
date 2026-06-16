@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet Muhammad asks the Thaqīf notables to stop spreading the message.",
+    "key_visual_action": "Muhammad's hands raised in a pleading gesture",
+    "characters_present": ["Muhammad", "Thaqīf notables"],
+    "setting": "A marketplace in Taif",
+    "emotional_tone": "Sadness and desperation",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Thaqīf notables refuse the Prophet's request and prepare to attack him.",
+    "key_visual_action": "Thaqīf notable's fist clenched in anger, with teenagers and servants gathering behind him",
+    "characters_present": ["Muhammad", "Thaqīf notables", "teenagers", "servants"],
+    "setting": "A marketplace in Taif",
+    "emotional_tone": "Anger and hostility",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet Muhammad is chased and stoned by the crowd.",
+    "key_visual_action": "Muhammad running away, with stones and sticks flying towards him",
+    "characters_present": ["Muhammad", "teenagers", "servants"],
+    "setting": "A marketplace in Taif",
+    "emotional_tone": "Fear and chaos",
+    "time_of_day": "afternoon"
+  }
+]

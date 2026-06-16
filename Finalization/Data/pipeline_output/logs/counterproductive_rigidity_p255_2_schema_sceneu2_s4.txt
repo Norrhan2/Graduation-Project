@@ -1,0 +1,30 @@
+{
+  "scene_title": "A Warning in the Desert",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 255",
+  "moral_lesson": "The consequences of one's actions can be severe and far-reaching.",
+  "characters": [
+    {
+      "id": "1",
+      "name": "Abū Buṣayr",
+      "role": "antagonist",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, slightly stooped posture, wearing a tattered brown woolen cloak and a worn-out headscarf, holding a worn leather whip in one hand"
+    },
+    {
+      "id": "2",
+      "name": "the central figure",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "tall and dignified, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a cautionary gesture"
+    }
+  ],
+  "narrative_text": "The Prophet Muhammad warned Abū Buṣayr that his actions would lead to war. Abū Buṣayr ignored the warning and continued with his plans.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast expanse of golden desert sand stretches out in the distance, with a few rocky outcroppings and sparse desert vegetation scattered about. Late afternoon sunlight casts long shadows across the sand, with a few wispy clouds drifting lazily across the sky. In the center of the scene, two figures stand facing each other on the sand. On the right, the central figure is seen entirely from behind: tall and dignified, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a cautionary gesture. On the left, Abū Buṣayr stands with his back to the central figure, wearing a tattered brown woolen cloak and a worn-out headscarf, his face obscured by a hood. His left hand holds a worn leather whip, and his right hand is clenched into a fist. Soft warm golden light, a sense of foreboding and concern. Medium shot from slightly above. Warm beige, golden, and deep blue palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

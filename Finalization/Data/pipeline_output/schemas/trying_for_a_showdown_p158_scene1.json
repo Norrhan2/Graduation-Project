@@ -1,0 +1,48 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "A Jew mockingly sticks the Muslim woman's dress to her shoulders.",
+    "key_visual_action": "Jew sneaking up behind the Muslim woman, hand reaching for her dress.",
+    "characters_present": [
+      "Muslim woman",
+      "Jew"
+    ],
+    "setting": "Qaynuqāʿ market",
+    "emotional_tone": "shock/humiliation",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_title": "Mockery at Qaynuqāʿ market",
+    "era": "pre_prophetic|early_makkah",
+    "region": "levant_ancient",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 158",
+    "moral_lesson": "Respect and dignity for all individuals, regardless of faith",
+    "characters": [
+      {
+        "id": "1",
+        "name": "Muslim woman",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE|FULL",
+        "appearance": "young woman with dignified posture, wearing a long-sleeved, high-necked jilbab in a light blue color, khimar covering her hair, and a pair of simple sandals on her feet"
+      },
+      {
+        "id": "2",
+        "name": "Jew",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, sneaky posture, wearing a brown woolen cloak and a white turban with a cloth tail hanging between the shoulder blades, one hand reaching out to mock the Muslim woman's dress"
+      }
+    ],
+    "narrative_text": "In the Qaynuqāʿ market, a Jew mocked a Muslim woman by trying to stick her dress to her shoulders, causing her great humiliation.",
+    "compliance": {
+      "prophet_check": "NOT_PRESENT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Historically accurate depiction of the scene, with attention to the characters' clothing and postures"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Bustling Qaynuqāʿ market in the Levant region, with a mix of ancient buildings and market stalls in the background. Late afternoon sunlight casts warm rays across the scene. A young woman stands in the center, wearing a long-sleeved, high-necked jilbab in a light blue color, khimar covering her hair, and a pair of simple sandals on her feet. She looks shocked and humiliated, with her hands raised in a defensive gesture. From behind her, a medium build figure with a sneaky posture, wearing a brown woolen cloak and a white turban with a cloth tail hanging between the shoulder blades, reaches out to mock her dress. The central figure is seen entirely from behind, with one hand reaching out to stick the woman's dress to her shoulders. A crowd of people in the background, mostly seen from behind or with their faces turned away, create a sense of chaos and commotion. Soft warm golden light, lively and dynamic mood. Medium shot at eye level. Earthy, blue, and golden palette with the light blue jilbab as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'young woman' (instead of 'young girl'), 'the central figure' (instead of 'the man in the green cloak')"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Bakr sees Zunayrah being tortured by Abū Jahl",
+    "key_visual_action": "Abū Bakr covering his face in shock and sadness",
+    "characters_present": ["Abū Bakr", "Zunayrah", "Abū Jahl"],
+    "setting": "Marketplace in Makkah",
+    "emotional_tone": "sadness",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Abū Bakr decides to buy Zunayrah and free her",
+    "key_visual_action": "Abū Bakr extending his hand to Abū Jahl to buy Zunayrah",
+    "characters_present": ["Abū Bakr", "Zunayrah", "Abū Jahl"],
+    "setting": "Marketplace in Makkah",
+    "emotional_tone": "determination",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Abū Bakr sets Zunayrah free",
+    "key_visual_action": "Abū Bakr gently releasing Zunayrah's hand, with a smile on his face",
+    "characters_present": ["Abū Bakr", "Zunayrah"],
+    "setting": "Empty desert or a peaceful area",
+    "emotional_tone": "joy",
+    "time_of_day": "evening"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Quraysh surround and confront al-Mundhir ibn ʿAmr and Saʿd ibn ʿUbādah.",
+    "key_visual_action": "Quraysh warriors forming a semi-circle around the two men",
+    "characters_present": ["Quraysh", "al-Mundhir ibn ʿAmr", "Saʿd ibn ʿUbādah"],
+    "setting": "A desert street in Makkah",
+    "emotional_tone": "Tense",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Al-Mundhir ibn ʿAmr and Saʿd ibn ʿUbādah are seized by the Quraysh.",
+    "key_visual_action": "Quraysh warriors grabbing al-Mundhir and Saʿd by the arms",
+    "characters_present": ["Quraysh", "al-Mundhir ibn ʿAmr", "Saʿd ibn ʿUbādah"],
+    "setting": "A desert street in Makkah",
+    "emotional_tone": "Fearful",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Quraysh begin to question and torture al-Mundhir ibn ʿAmr and Saʿd ibn ʿUbādah.",
+    "key_visual_action": "A Quraysh warrior holding a whip, with al-Mundhir and Saʿd in the background",
+    "characters_present": ["Quraysh", "al-Mundhir ibn ʿAmr", "Saʿd ibn ʿUbādah"],
+    "setting": "A dark and dingy cell in Makkah",
+    "emotional_tone": "Painful",
+    "time_of_day": "night"
+  }
+]

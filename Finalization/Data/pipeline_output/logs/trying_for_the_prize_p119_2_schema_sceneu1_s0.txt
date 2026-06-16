@@ -1,0 +1,14 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Surāqah shouts to the Prophet, asking him to stop.",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 119",
+  "moral_lesson": "Importance of listening and responding to others' concerns.",
+  "characters": [
+    {"id": "Surāqah", "name": "Surāqah ibn Mālik", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "tall, muscular build, flowing dark brown thobe with a white turban and a brown woolen cloak with a white cloth head covering, hand extended in a dramatic gesture"},
+    {"id": "The Prophet", "name": "The Prophet", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, hand extended in a gentle gesture"}
+  ],
+  "narrative_text": "Surāqah shouted to the Prophet, 'Stop! What do you want?'",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast expanse of sandy dunes stretches out to the horizon, with a small, distant city visible in the background, its buildings a mixture of mud-brick and palm-frond architecture. Late afternoon sunlight casts long shadows across the dunes, with a warm orange glow. A lone figure stands in the foreground, seen entirely from behind: the central figure is medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, hand extended in a gentle gesture. In the distance, a taller figure with a muscular build, wearing a flowing dark brown thobe with a white turban and a brown woolen cloak with a white cloth head covering, stands with his hand extended in a dramatic gesture. Soft warm golden light, dramatic and urgent mood. Medium shot at eye level. Warm beige, golden, and orange palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

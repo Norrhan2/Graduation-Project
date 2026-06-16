@@ -1,0 +1,50 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "Baḥīrā recognizes Muhammad as the last Prophet and advises Abū Ṭālib to protect him.",
+    "key_visual_action": "Baḥīrā bowing his head in reverence",
+    "characters_present": [
+      "Baḥīrā",
+      "Abū Ṭālib"
+    ],
+    "setting": "The same desert oasis",
+    "emotional_tone": "Seriousness",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_summary": "Baḥīrā recognizes Muhammad as the last Prophet and advises Abū Ṭālib to protect him.",
+    "era": "pre_prophetic",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 32",
+    "moral_lesson": "Importance of protecting and believing in the messengers of Allah",
+    "characters": [
+      {
+        "id": "Bahira",
+        "name": "Bahira",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep blue woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "Abu_Talib",
+        "name": "Abu Talib",
+        "role": "father of Ali and uncle of Muhammad",
+        "depiction_rule": "FULL",
+        "appearance": "medium build, wearing a beige thobe and a plain brown woolen cloak with a white cloth head covering"
+      }
+    ],
+    "narrative_text": "Bahira recognized Muhammad as the last Prophet and advised Abu Talib to protect him, saying 'This is the last of the Prophets, the Seal of the Prophets.'",
+    "compliance": {
+      "prophet_check": "NOT_PRESENT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A picturesque 7th century desert oasis with palm trees and a small cluster of tents in the background. Late afternoon golden sunlight casts a warm glow across the scene. In the center, a dignified woman with long dark hair worn in a simple headscarf, dressed in a flowing white thobe with a deep blue woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, kneels on the sand with her hands clasped together in a gesture of reverence, head bowed in a sign of deep respect. Her back is turned towards the viewer. Standing behind her, a tall, robust man with a kind face, wearing a beige thobe and a plain brown woolen cloak with a white cloth head covering, looks on with a serious expression, his arms crossed over his chest. Soft warm golden light, intimate and sacred mood. Medium shot from slightly above. Earthy, sand, and golden palette with the deep blue cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'woman' instead of 'dignified woman'",
+      "'the man in the beige thobe' instead of 'a tall, robust man'"
+    ]
+  }
+}

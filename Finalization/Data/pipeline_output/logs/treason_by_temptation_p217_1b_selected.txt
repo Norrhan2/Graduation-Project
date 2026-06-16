@@ -1,0 +1,39 @@
+[
+  {
+    "unit_number": 3,
+    "unit_title": "Ḥuyayy's Attempt to Meet Ka ʿ b ibn Asad",
+    "unit_text": "Ḥuyayy ibn Akhṭab went to Ka ʿ b ibn Asad's house, but Ka ʿ b refused to open the door.",
+    "main_characters": [
+      "Ḥuyayy ibn Akhṭab",
+      "Ka ʿ b ibn Asad"
+    ],
+    "event_summary": "Ḥuyayy ibn Akhṭab went to Ka ʿ b ibn Asad's house, but Ka ʿ b refused to open the door.",
+    "selection_reason": "Clear visual moment and distinctiveness.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Ḥuyayy's Insult and Ka ʿ b's Admission",
+    "unit_text": "Ḥuyayy ibn Akhṭab insulted Ka ʿ b ibn Asad to provoke him into admitting him into his home.",
+    "main_characters": [
+      "Ḥuyayy ibn Akhṭab",
+      "Ka ʿ b ibn Asad"
+    ],
+    "event_summary": "Ḥuyayy ibn Akhṭab insulted Ka ʿ b ibn Asad to provoke him into admitting him into his home.",
+    "selection_reason": "Meaningful lesson on provocation and distinctiveness.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "Qurayẓah's Treachery Revealed",
+    "unit_text": "The Muslim delegation reported the Qurayẓah's treachery to the Prophet, who remained calm and reassured the Muslims.",
+    "main_characters": [
+      "Prophet",
+      "Sa ʿ d ibn Mu ʿādh",
+      "Sa ʿ d ibn ʿ Ubādah"
+    ],
+    "event_summary": "The Muslim delegation reported the Qurayẓah's treachery to the Prophet, who remained calm and reassured the Muslims.",
+    "selection_reason": "Clear visual moment, meaningful lesson on leadership, and distinctiveness.",
+    "estimated_scenes": 2
+  }
+]

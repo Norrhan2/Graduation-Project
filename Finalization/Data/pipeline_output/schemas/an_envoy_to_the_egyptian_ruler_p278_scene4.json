@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 3,
+    "scene_summary": "Ḥāṭib warns al-Muqawqis of the consequences of rejecting a prophet",
+    "key_visual_action": "Ḥāṭib pointing to the letter, looking stern",
+    "characters_present": [
+      "Ḥāṭib ibn Abī Balta ʿ ah",
+      "al-Muqawqis"
+    ],
+    "setting": "Egyptian throne room",
+    "emotional_tone": "authoritative",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_title": "Ḥāṭib's Warning to al-Muqawqis",
+    "era": "pre_prophetic",
+    "region": "egypt_ancient",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 278",
+    "moral_lesson": "Importance of heeding warnings and respecting prophets",
+    "characters": [
+      {
+        "id": "Ḥāṭib_ibn_Abī_Baltaʿah",
+        "name": "Ḥāṭib ibn Abī Baltaʿah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "medium build, dignified upright posture, wearing a simple white thobe and brown woolen cloak with a white cloth head covering"
+      },
+      {
+        "id": "al-Muqawqis",
+        "name": "al-Muqawqis",
+        "role": "antagonist",
+        "depiction_rule": "FULL",
+        "appearance": "sitting on a throne, wearing ornate royal clothing with gold and jewels"
+      }
+    ],
+    "narrative_text": "Ḥāṭib warned al-Muqawqis about the consequences of rejecting a prophet.",
+    "compliance": {
+      "prophet_check": "NOT_PRESENT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Egyptian throne room with intricately carved stone walls, ornate golden decorations, and a raised throne in the center. Late afternoon sunlight streams through high windows, casting a warm glow. In the center of the room, a tall, slender man with a stern expression stands facing a seated figure on the throne. The central figure of the story is seen entirely from behind: medium build, dignified upright posture, wearing a simple white thobe and brown woolen cloak with a white cloth head covering, one hand extended in a pointing gesture towards a parchment letter on a nearby wooden table. On the throne, al-Muqawqis sits with an expression of skepticism, wearing ornate royal clothing with gold and jewels. Soft warm golden light, authoritative mood. Medium close shot at eye level. Rich gold, blue, and crimson palette with accents of white and beige. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'Ḥāṭib ibn Abī Baltaʿah' -> 'The central figure of the story'",
+      "'seen entirely from behind' -> 'seen from behind' (no change needed)"
+    ]
+  }
+}

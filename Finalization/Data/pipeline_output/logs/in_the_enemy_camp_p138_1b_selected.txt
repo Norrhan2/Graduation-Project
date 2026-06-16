@@ -1,0 +1,52 @@
+[
+  {
+    "unit_number": 2,
+    "unit_title": "Quraysh Scouts the Muslim Camp",
+    "unit_text": "A group of Quraysh came to the Muslim camp, but the Prophet instructed his companions not to oppose them.",
+    "main_characters": [
+      "The Prophet",
+      "The Quraysh"
+    ],
+    "event_summary": "The Quraysh scouts the Muslim camp, but the Prophet orders his companions to remain calm.",
+    "selection_reason": "Clear visual moment of Quraysh approaching the Muslim camp and the Prophet's calm response.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Quraysh Divided",
+    "unit_text": "Some Quraysh leaders, including Al-Akhnas ibn Sharīq, advise against a confrontation, but are overruled by Abū Jahl.",
+    "main_characters": [
+      "Al-Akhnas ibn Sharīq",
+      "Abū Jahl",
+      "The Quraysh"
+    ],
+    "event_summary": "Quraysh leaders are divided on whether to confront the Prophet, but Abū Jahl prevails.",
+    "selection_reason": "Meaningful lesson on the importance of unity and decision-making, with clear visual potential of divided leaders.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Prophet's Plea",
+    "unit_text": "The Prophet sends ʿ Umar ibn al-Khaṭṭāb to ask the Quraysh to withdraw, but they refuse.",
+    "main_characters": [
+      "The Prophet",
+      "ʿ Umar ibn al-Khaṭṭāb",
+      "The Quraysh"
+    ],
+    "event_summary": "The Prophet pleads with the Quraysh to withdraw, but they refuse.",
+    "selection_reason": "Clear visual moment of the Prophet's plea and the Quraysh's refusal, with a meaningful lesson on perseverance.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "Quraysh's Grievances",
+    "unit_text": "The Quraysh's grievances against the Prophet are limited to the killing of ʿ Amr ibn al-Ḥaḍramī and the looting of his trade caravan.",
+    "main_characters": [
+      "The Quraysh",
+      "The Prophet"
+    ],
+    "event_summary": "The Quraysh's grievances against the Prophet are limited and focused on past incidents.",
+    "selection_reason": "Meaningful lesson on the importance of forgiveness and moving forward, with clear visual potential of the Prophet's response.",
+    "estimated_scenes": 1
+  }
+]

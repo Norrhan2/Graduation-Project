@@ -1,0 +1,15 @@
+{
+  "scene_number": 3,
+  "scene_summary": "Khubayb is beheaded after completing his prayer.",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 186",
+  "moral_lesson": "The importance of patience and perseverance in the face of adversity.",
+  "characters": [
+    {"id": "1", "name": "Khubayb ibn ʿAdiy", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a dark brown woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "2", "name": "Ṣafwān ibn Umayyah", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "tall build, wearing a black thobe and a black turban, a sword in his hand"},
+    {"id": "3", "name": "Abū Sufyān", "role": "supporting", "depiction_rule": "FULL", "appearance": "slender build, wearing a light brown thobe and a white turban, a look of sadness on his face"}
+  ],
+  "narrative_text": "Khubayb, a devoted companion of the Prophet Muhammad, was captured by the polytheists and brought to a desert area to be beheaded. Despite his fear, Khubayb completed his prayer before meeting his fate.",
+  "compliance": {"prophet_check": "NO_PROPHET", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "The scene is depicted in a way that is suitable for children, but the theme of beheading may be disturbing for some."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A desolate desert landscape with sandy dunes stretching as far as the eye can see, under a clear blue sky with a few wispy clouds. Late afternoon sunlight casts a warm glow over the scene. In the distance, a group of people are gathered around a central figure, seen from behind: medium build, dignified upright posture, wearing a flowing white thobe with a dark brown woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. The figure's head is bowed in prayer, and his hands are clasped together. In the foreground, a tall figure stands with a sword in his hand, his face hidden from view: tall build, wearing a black thobe and a black turban. A slender figure stands beside him, looking on with a mix of sadness and concern on his face: slender build, wearing a light brown thobe and a white turban. Soft warm golden light, a sense of solemnity and sadness pervades the scene. Medium shot, eye level. Warm beige, golden, and blue palette with the dark brown cloak as a color anchor. No modern objects, historically accurate 7th century scene."

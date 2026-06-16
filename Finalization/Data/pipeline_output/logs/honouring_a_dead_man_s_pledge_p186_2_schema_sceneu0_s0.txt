@@ -1,0 +1,31 @@
+{
+  "scene_number": 1,
+  "scene_title": "Preparing for Battle",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 186",
+  "moral_lesson": "Preparation is key to success, especially when facing challenges like war.",
+  "characters": [
+    {
+      "id": "1",
+      "name": "ʿĀṣim ibn Thābit",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "medium build, strong posture, wearing a simple white thobe and a brown woolen cloak with a red woolen sash around his waist, a scabbard on his right hip, and a sword belt being tightened by his own hands."
+    },
+    {
+      "id": "2",
+      "name": "Sulāfah bint Saʿd",
+      "role": "family_of_prophet",
+      "depiction_rule": "MODEST",
+      "appearance": "young woman, wearing a long, flowing jilbab in a soft blue color, her hair covered by a khimar, standing behind ʿĀṣim with a concerned expression on her face, one hand on his shoulder, looking up at him."
+    }
+  ],
+  "narrative_text": "ʿĀṣim ibn Thābit is getting ready for the Battle of Uḥud, tightening his sword belt with determination in his heart. His sister Sulāfah bint Saʿd stands by his side, worried about the danger he will face.",
+  "compliance": {
+    "prophet_check": "NOT APPLICABLE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A desert camp scene with a few palm trees in the background, the sounds of war drums in the distance, and the sun rising high in the morning sky. A sandy brown ground and beige-colored tents with simple wooden frames and woven palm-fiber mats on the ground. Two figures stand facing each other: ʿĀṣim ibn Thābit, seen from behind, with a medium build and strong posture, wearing a simple white thobe and a brown woolen cloak with a red woolen sash around his waist, a scabbard on his right hip, and a sword belt being tightened by his own hands; and his sister Sulāfah bint Saʿd, wearing a long, flowing jilbab in a soft blue color, her hair covered by a khimar, standing behind ʿĀṣim with a concerned expression on her face, one hand on his shoulder, looking up at him. Soft warm morning light, with the sun's rays casting a golden glow on the scene. Medium shot at eye level. Earthy tones with the blue jilbab as a color anchor. No modern objects, historically accurate 7th century scene."

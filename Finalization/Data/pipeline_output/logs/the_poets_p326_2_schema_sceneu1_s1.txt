@@ -1,0 +1,15 @@
+{
+  "scene_number": 2,
+  "scene_title": "Ḥassān Confronts ʿ Abdullāh ibn al-Ziba ʿ rā",
+  "era": "pre_islamic_prophets|ancient_prophets",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 326",
+  "moral_lesson": "importance of speaking truth to power",
+  "characters": [
+    {"id": "hassan", "name": "Ḥassān", "role": "supporting", "depiction_rule": "NO_FACE", "appearance": "medium build, confident posture, wearing a simple white thobe and a brown woolen cloak with a white cloth head covering"},
+    {"id": "abdulla", "name": "ʿ Abdullāh ibn al-Ziba ʿ rā", "role": "antagonist", "depiction_rule": "NO_FACE", "appearance": "tall, slender build, wearing a dark beige thobe and a lighter beige woolen cloak with a white cloth head covering"}
+  ],
+  "narrative_text": "Ḥassān stood before ʿ Abdullāh ibn al-Ziba ʿ rā, his voice firm and confident as he recited a line of poetry, challenging the powerful leader to confront the truth.",
+  "compliance": {"prophet_check": "NO_PROPHET_IN_SCENE", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "no potential concerns"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene and vast 7th century Arabian Desert landscape with a few palm trees swaying gently in the breeze. Late afternoon sunlight casts a warm golden glow across the scene. In the center of the composition, a tall, slender man with dark beige thobe and lighter beige woolen cloak with a white cloth head covering stands facing a medium-built man with a simple white thobe and brown woolen cloak with a white cloth head covering. The man in the white thobe points at the other man with a confident expression, his hand extended in a direct gesture. The man in the dark beige thobe looks on, his face not visible from behind. A subtle desert breeze stirs the palm fronds and carries the sound of a distant camel's call. Medium shot from a slightly elevated angle. Warm beige, golden, and turquoise palette with the dark beige and brown as color anchors. No modern objects, historically accurate 7th century scene."
+}

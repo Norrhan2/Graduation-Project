@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿ Utbah observes Muslims performing their daily prayers in secret.",
+    "key_visual_action": "ʿ Utbah watching Muslims praying in the distance, a look of curiosity on his face.",
+    "characters_present": ["ʿ Utbah ibn Rabīʿ ah", "Muslims (in the background)"],
+    "setting": "A rooftop or hill overlooking Makkah with the Kaaba in the background.",
+    "emotional_tone": "Curiosity",
+    "time_of_day": "Morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "ʿ Utbah reflects on the strength of Islam despite Quraysh's opposition.",
+    "key_visual_action": "ʿ Utbah sitting alone, looking out at the city with a thoughtful expression.",
+    "characters_present": ["ʿ Utbah ibn Rabīʿ ah"],
+    "setting": "A rooftop or a quiet area within Makkah.",
+    "emotional_tone": "Realization",
+    "time_of_day": "Afternoon"
+  }
+]

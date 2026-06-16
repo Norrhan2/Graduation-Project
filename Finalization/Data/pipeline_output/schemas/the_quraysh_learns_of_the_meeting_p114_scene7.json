@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 4,
+    "scene_summary": "The Prophet Muhammad and the Muslims from Madinah share a moment of mutual respect and admiration.",
+    "key_visual_action": "The Prophet and the Muslims from Madinah shaking hands",
+    "characters_present": [
+      "Muhammad",
+      "Muslims from Madinah"
+    ],
+    "setting": "Madinah, outdoors, in a public square",
+    "emotional_tone": "Respectful",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 4,
+    "scene_summary": "The Prophet Muhammad and the Muslims from Madinah share a moment of mutual respect and admiration.",
+    "era": "madinah_early",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 114",
+    "moral_lesson": "Importance of respect and unity among Muslims",
+    "characters": [
+      {
+        "id": "muhammad",
+        "name": "The central figure",
+        "role": "prophet",
+        "depiction_rule": "FROM_BEHIND",
+        "appearance": "Medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "muslims_from_madinah",
+        "name": "A group of adult men",
+        "role": "supporting",
+        "depiction_rule": "NO_FACE",
+        "appearance": "Dressed in a variety of off-white and beige thobes with simple head coverings, some wearing woolen cloaks, standing or sitting in a respectful posture"
+      }
+    ],
+    "narrative_text": "The Prophet Muhammad welcomed the Muslims from Madinah with open hands, showing his respect and gratitude for their trust in him.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene public square in early Madinah, with a few palm trees and a backdrop of sand-colored buildings. Late afternoon sunlight casts a warm glow on the scene. In the center, the man in the green cloak, seen entirely from behind, stands with his arms extended in a gesture of welcome. A group of adult men, dressed in a variety of off-white and beige thobes with simple head coverings, stand or sit around him, their faces turned towards the man in the green cloak with respect and admiration. Soft warm golden light, dignified and respectful mood. Medium shot at eye level. Earthy tones, beige, and off-white palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'the central figure' -> 'the man in the green cloak'"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The Quraysh's Inaction",
+    "unit_text": "The Quraysh did not want to engage the Muslims in a new battle, giving the initiative to the Muslims.",
+    "main_characters": ["The Quraysh", "The Muslims"],
+    "event_summary": "The Quraysh's inaction allowed the Muslims to take the initiative."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "The Prophet's Concerns",
+    "unit_text": "The Prophet was concerned that the Muslim state in Madinah would be seen as an easy target and wanted to take action against the Arab tribes in Dūmat al-Jandal.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet becomes aware of a potential threat from the Arab tribes in Dūmat al-Jandal."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Prophet's Intelligence",
+    "unit_text": "The Prophet's informers brought him intelligence that the Arab tribes in Dūmat al-Jandal were attacking trade caravans and threatening travelers.",
+    "main_characters": ["The Prophet", "The Arab tribes in Dūmat al-Jandal"],
+    "event_summary": "The Prophet receives intelligence about the Arab tribes' aggressive behavior."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Prophet's Response",
+    "unit_text": "The Prophet raised a force of 1,000 men and marched northwards to Dūmat al-Jandal, taking his enemies by surprise.",
+    "main_characters": ["The Prophet", "The Muslims"],
+    "event_summary": "The Prophet leads a force of 1,000 men to Dūmat al-Jandal."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Muslims' Victory",
+    "unit_text": "The Muslims swept through the Arab tribes' encampments, forcing them to flee and abandoning their cattle.",
+    "main_characters": ["The Muslims", "The Arab tribes in Dūmat al-Jandal"],
+    "event_summary": "The Muslims defeat the Arab tribes in Dūmat al-Jandal."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Prophet's Pursuit",
+    "unit_text": "The Prophet sent pursuing squads to ensure that the enemy was not regrouping, and the Muslims eventually returned to Madinah.",
+    "main_characters": ["The Prophet", "The Muslims"],
+    "event_summary": "The Prophet pursues the enemy to prevent regrouping."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "The Expedition's Significance",
+    "unit_text": "The expedition to Dūmat al-Jandal complemented earlier military activity, confirmed the Muslims' authority in the surrounding areas, and planted the fear of the Muslim state in the hearts of the Arabian tribes.",
+    "main_characters": ["The Prophet", "The Muslims", "The Arabian tribes"],
+    "event_summary": "The expedition to Dūmat al-Jandal has significant consequences for the Muslim state."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "The Byzantine Empire",
+    "unit_text": "The Prophet realized that the Byzantine Empire posed a potential threat and that it was necessary to plant the fear of the Muslim state in the hearts of the Arabian tribes to prevent them from attacking the Muslim army from behind.",
+    "main_characters": ["The Prophet", "The Byzantine Empire"],
+    "event_summary": "The Prophet becomes aware of the potential threat from the Byzantine Empire."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "The Expedition's Importance",
+    "unit_text": "The expedition to Dūmat al-Jandal gave the Muslims experience in traveling through the desert and prepared them for a potential battle against the Byzantines.",
+    "main_characters": ["The Prophet", "The Muslims"],
+    "event_summary": "The expedition to Dūmat al-Jandal provides valuable experience for the Muslims."
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "The Muslim State's Challenges",
+    "unit_text": "The Muslim state in Madinah was still in its early days and faced numerous enemies who were taking the initiative to attack the Muslims.",
+    "main_characters": ["The Prophet", "The Muslims"],
+    "event_summary": "The Muslim state faces numerous challenges and enemies."
+  }
+]

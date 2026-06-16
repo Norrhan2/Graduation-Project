@@ -1,0 +1,31 @@
+{
+  "scene_title": "A Mischievous Act at al-Lāt",
+  "era": "pre_prophetic",
+  "region": "Ṭā'if",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 349",
+  "moral_lesson": "The importance of humility and self-control",
+  "characters": [
+    {
+      "id": "al-Mughīrah ibn Shu'bah",
+      "name": "al-Mughīrah ibn Shu'bah",
+      "role": "antagonist",
+      "depiction_rule": "FULL",
+      "appearance": "young, athletic build, wearing a simple white thobe with a brown woolen cloak and a white cloth head covering, holding an axe in one hand"
+    },
+    {
+      "id": "the people of Ṭā'if",
+      "name": "the people of Ṭā'if",
+      "role": "crowd",
+      "depiction_rule": "FULL",
+      "appearance": "diverse group of people, wearing traditional 7th century garments, with some holding objects such as staffs or baskets"
+    }
+  ],
+  "narrative_text": "Al-Mughīrah ibn Shu'bah pretended to fall down after hitting the idol al-Lāt with an axe, but his trick was soon discovered.",
+  "compliance": {
+    "prophet_check": "NOT_APPLICABLE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": "The scene depicts al-Mughīrah ibn Shu'bah's mischievous act, but it does not promote or glorify such behavior."
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Exterior of the idol al-Lāt in the city of Ṭā'if, with a large stone structure adorned with intricate carvings and a thatched roof. Late afternoon sunlight casts long shadows across the scene. In the foreground, a group of people, the central figure seen from behind, wearing a flowing white thobe with a deep red woolen cloak draped over both shoulders, holding an axe in one hand and pretending to fall to the ground, with his legs splayed out to the sides. The people of Ṭā'if stand around him, looking surprised and amused. Soft warm golden light, lively and playful mood. Medium shot at eye level. Earthy, terracotta, and golden palette with the deep red cloak as a color anchor. In the background, the city of Ṭā'if with its mud-brick buildings and palm trees. No modern objects, historically accurate 7th century scene."
+}

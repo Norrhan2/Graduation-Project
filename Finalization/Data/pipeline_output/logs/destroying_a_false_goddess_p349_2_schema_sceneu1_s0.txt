@@ -1,0 +1,13 @@
+{
+  "scene_number": 1,
+  "scene_summary": "Al-Mughīrah ibn Shu'bah arrives at the site of al-Lāt's foundation.",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 349",
+  "moral_lesson": "Determination and faith in the face of opposition.",
+  "characters": [
+    {"id": "1", "name": "al-Mughīrah ibn Shu'bah", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "tall build, upright posture, wearing a brown woolen cloak and a simple white head covering, carrying a staff in one hand"}
+  ],
+  "narrative_text": "Al-Mughīrah ibn Shu'bah walked towards the site of al-Lāt's foundation, determined to destroy it. He knew it was a false idol, but he also knew it would not be easy to destroy.",
+  "compliance": {"prophet_check": "NO_PROPHET", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "No graphic violence or idol worship."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, arid desert landscape with sandy dunes stretching towards the horizon, under a bright blue morning sky with a few wispy clouds. The sun rises in the east, casting a warm golden light across the scene. In the distance, a figure can be seen walking towards a large stone or wooden structure, the site of al-Lāt's foundation. The central figure, al-Mughīrah ibn Shu'bah, is seen entirely from behind: tall build, dignified upright posture, wearing a brown woolen cloak and a simple white head covering, carrying a staff in one hand. His determination and resolve are evident in his posture and stride. Soft warm golden light, vast and open mood. Medium shot from behind, focusing on the figure's build and clothing. Warm beige, brown, and golden palette with a hint of blue for the sky. No modern objects, historically accurate pre-prophetic scene."

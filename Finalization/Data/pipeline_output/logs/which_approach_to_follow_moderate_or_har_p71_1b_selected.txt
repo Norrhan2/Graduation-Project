@@ -1,0 +1,48 @@
+[
+  {
+    "unit_number": 2,
+    "unit_title": "ʿ Utbah's Realization",
+    "unit_text": "ʿ Utbah, a leading figure in Makkah, recognized that Islam was getting stronger despite Quraysh's opposition.",
+    "main_characters": [
+      "ʿ Utbah ibn Rabīʿ ah"
+    ],
+    "event_summary": "ʿ Utbah realizes that Islam is gaining strength.",
+    "selection_reason": "Clear visual moment of ʿ Utbah's realization and meaningful lesson about perseverance.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "ʿ Utbah Meets the Prophet",
+    "unit_text": "ʿ Utbah met the Prophet and offered him wealth, position, and a throne in exchange for stopping his message.",
+    "main_characters": [
+      "ʿ Utbah ibn Rabīʿ ah",
+      "Muhammad"
+    ],
+    "event_summary": "ʿ Utbah meets the Prophet and offers him concessions.",
+    "selection_reason": "Distinctive meeting between ʿ Utbah and the Prophet, with a meaningful lesson about the importance of faith.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Prophet's Response",
+    "unit_text": "The Prophet recited the first 38 verses of Sūrah 41 of the Qur'ān, and then prostrated himself in devotion to God.",
+    "main_characters": [
+      "Muhammad",
+      "ʿ Utbah ibn Rabīʿ ah"
+    ],
+    "event_summary": "The Prophet responds to ʿ Utbah's offers with a recitation from the Qur'ān.",
+    "selection_reason": "Powerful visual moment of the Prophet's devotion and meaningful lesson about the importance of faith.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "ʿ Utbah's Change of Heart",
+    "unit_text": "ʿ Utbah returned to his people and suggested that they leave the Prophet alone, citing the potential consequences of his message.",
+    "main_characters": [
+      "ʿ Utbah ibn Rabīʿ ah"
+    ],
+    "event_summary": "ʿ Utbah changes his opinion and advises his people to leave the Prophet alone.",
+    "selection_reason": "Meaningful lesson about the importance of change and growth, with a clear visual moment of ʿ Utbah's change of heart.",
+    "estimated_scenes": 2
+  }
+]

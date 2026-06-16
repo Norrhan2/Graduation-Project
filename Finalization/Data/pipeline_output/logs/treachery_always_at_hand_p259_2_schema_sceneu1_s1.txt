@@ -1,0 +1,14 @@
+{
+  "scene_number": 2,
+  "scene_title": "'Abdullah ibn Rawahah and Usayr Meet in Khaybar",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 259",
+  "moral_lesson": "Importance of mutual respect and trust in relationships",
+  "characters": [
+    {"id": "1", "name": "'Abdullah ibn Rawahah", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "tall, dignified posture, wearing a white thobe and a red woolen cloak with a white turban"},
+    {"id": "2", "name": "Usayr ibn Rizam", "role": "supporting", "depiction_rule": "FULL", "appearance": "medium build, wearing a beige thobe and a plain brown woolen cloak with a white cloth head covering"}
+  ],
+  "narrative_text": "ʿAbdullah ibn Rawahah and Usayr ibn Rizam met in Khaybar to exchange pledges of security and safety, marking a new era of hope and cooperation.",
+  "compliance": {"prophet_check": "NOT_APPLICABLE", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "Historically accurate depiction of 7th century Arabian Desert setting"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Exterior of a 7th century Khaybar meeting area, under a clear blue morning sky with a few wispy white clouds. Two figures stand facing each other on a dusty path, shaking hands in a gesture of mutual respect and trust. In the background, the rough stone walls of a Khaybar fortification rise, with a few palm trees scattered around the area. On the left, the man in the red woolen cloak and white turban stands with a confident and friendly demeanor, his hand extended in a warm handshake. On the right, the man in the beige thobe and plain brown woolen cloak stands with a gentle and solemn expression, his eyes cast downward in a sign of respect. Soft warm natural light, optimistic and hopeful mood. Wide shot from a slight angle, capturing the handshake and the surrounding landscape. Earthy and sandy palette with accents of blue and green, reflecting the Arabian Desert environment. No modern objects, historically accurate 7th century scene."

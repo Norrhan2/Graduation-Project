@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Prophet Muhammad and the Muslims prepare to meet with other tribes.",
+    "key_visual_action": "Prophet Muhammad holding a scroll with the Quran, surrounded by Muslims with maps and flags.",
+    "characters_present": ["Prophet Muhammad", "Muslims"],
+    "setting": "Desert, near a small oasis",
+    "emotional_tone": "Hopeful",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Prophet Muhammad and the Muslims meet with the leaders of the other tribes and share the message of Islam.",
+    "key_visual_action": "Prophet Muhammad standing in front of a group of tribal leaders, holding a staff and pointing to the Quran.",
+    "characters_present": ["Prophet Muhammad", "Tribal Leaders"],
+    "setting": "A large tent in the desert",
+    "emotional_tone": "Respectful",
+    "time_of_day": "Afternoon"
+  }
+]

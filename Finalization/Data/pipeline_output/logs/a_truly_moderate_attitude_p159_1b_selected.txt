@@ -1,0 +1,49 @@
+[
+  {
+    "unit_number": 2,
+    "unit_title": "ʿAbdullāh's Insolence and Hostility towards Islam",
+    "unit_text": "ʿAbdullāh ibn Ubayy behaved insolently, made the Prophet angry, but continued to be hostile to Islam despite declaring himself a Muslim.",
+    "main_characters": [
+      "ʿAbdullāh ibn Ubayy",
+      "Muhammad"
+    ],
+    "event_summary": "ʿAbdullāh ibn Ubayy continues to be hostile to Islam despite his declaration of faith.",
+    "selection_reason": "clear visual moment of ʿAbdullāh's insolence and the Prophet's reaction",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Prophet's Decision to Avoid Confrontation",
+    "unit_text": "The Prophet decided to take a conciliatory attitude towards ʿAbdullāh, choosing to win hearts and peace rather than engaging in a confrontation.",
+    "main_characters": [
+      "Muhammad",
+      "ʿAbdullāh ibn Ubayy"
+    ],
+    "event_summary": "The Prophet chooses to avoid confrontation with ʿAbdullāh and his followers.",
+    "selection_reason": "meaningful lesson on the Prophet's approach to conflict resolution",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Prophet's Strength and Strategic Thinking",
+    "unit_text": "The Prophet was confident in his ability to win any confrontation with the hypocrites and Jews, but chose to prioritize winning the peace.",
+    "main_characters": [
+      "Muhammad"
+    ],
+    "event_summary": "The Prophet's strength and strategic thinking are highlighted.",
+    "selection_reason": "distinctive visual moment of the Prophet's confidence and strategic thinking",
+    "estimated_scenes": 1
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "The Confrontation with the Jews",
+    "unit_text": "The confrontation with the Jews was inevitable, as they had been opposing Islam and trying to sow discord among the Muslims.",
+    "main_characters": [
+      "Muhammad",
+      "Jews"
+    ],
+    "event_summary": "The confrontation with the Jews is inevitable due to their opposition to Islam.",
+    "selection_reason": "clear visual moment of the impending confrontation",
+    "estimated_scenes": 1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Ṭālib tries to convince the Prophet to abandon his message.",
+    "key_visual_action": "Abū Ṭālib placing a hand on the Prophet's shoulder",
+    "characters_present": ["Prophet Muhammad", "Abū Ṭālib"],
+    "setting": "A quiet room in the Prophet's home",
+    "emotional_tone": "Concerned",
+    "time_of_day": "evening"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet refuses to abandon his message, despite Abū Ṭālib's warnings.",
+    "key_visual_action": "The Prophet standing firm, with his hands clasped together in prayer",
+    "characters_present": ["Prophet Muhammad", "Abū Ṭālib"],
+    "setting": "The same quiet room in the Prophet's home",
+    "emotional_tone": "Determined",
+    "time_of_day": "evening"
+  }
+]

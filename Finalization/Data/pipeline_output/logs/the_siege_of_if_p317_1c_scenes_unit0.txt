@@ -1,0 +1,26 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Muslim army approaches Ṭā ’if, led by a determined leader.",
+    "key_visual_action": "Muslim leader riding a horse, leading the army",
+    "characters_present": [
+      "Muslim leader",
+      "Muslim army"
+    ],
+    "setting": "Ṭā ’if, desert landscape",
+    "emotional_tone": "Determined",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The army is met with a shower of arrows from the Thaqīf tribe.",
+    "key_visual_action": "Arrows flying towards the Muslim army",
+    "characters_present": [
+      "Muslim army",
+      "Thaqīf"
+    ],
+    "setting": "Ṭā ’if, desert landscape",
+    "emotional_tone": "Danger",
+    "time_of_day": "morning"
+  }
+]

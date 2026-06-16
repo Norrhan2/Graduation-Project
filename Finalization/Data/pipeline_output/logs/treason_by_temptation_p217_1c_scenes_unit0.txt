@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Ḥuyayy ibn Akhṭab arrives at Ka ʿ b ibn Asad's house",
+    "key_visual_action": "Ḥuyayy knocking on the door",
+    "characters_present": ["Ḥuyayy ibn Akhṭab"],
+    "setting": "Ka ʿ b ibn Asad's house",
+    "emotional_tone": "curiosity",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Ka ʿ b ibn Asad refuses to open the door",
+    "key_visual_action": "Ka ʿ b standing behind a closed door with a firm expression",
+    "characters_present": ["Ka ʿ b ibn Asad"],
+    "setting": "Ka ʿ b ibn Asad's house",
+    "emotional_tone": "firmness",
+    "time_of_day": "afternoon"
+  }
+]

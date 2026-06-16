@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet gathers his army of 1,000 men to prepare for battle.",
+    "key_visual_action": "The Prophet standing on a hill, holding a staff and looking out at his army.",
+    "characters_present": ["The Prophet", "The Muslims"],
+    "setting": "A desert landscape with hills and palm trees.",
+    "emotional_tone": "Determined",
+    "time_of_day": "Morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet gives a rousing speech to his army, preparing them for the challenges ahead.",
+    "key_visual_action": "The Prophet standing on a rock, arms outstretched and speaking to his army.",
+    "characters_present": ["The Prophet", "The Muslims"],
+    "setting": "A desert landscape with hills and palm trees.",
+    "emotional_tone": "Inspiring",
+    "time_of_day": "Morning"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet leads his army northwards to Dūmat al-Jandal, taking his enemies by surprise.",
+    "key_visual_action": "The Prophet riding a horse, leading a procession of soldiers on foot and horseback.",
+    "characters_present": ["The Prophet", "The Muslims"],
+    "setting": "A desert landscape with hills and palm trees, in the distance a city or settlement.",
+    "emotional_tone": "Confident",
+    "time_of_day": "Afternoon"
+  }
+]

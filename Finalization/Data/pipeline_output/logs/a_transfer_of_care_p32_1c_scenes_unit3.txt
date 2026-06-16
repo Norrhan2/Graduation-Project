@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Muhammad plays with his friends in the desert.",
+    "key_visual_action": "Muhammad laughing and chasing after a goat.",
+    "characters_present": ["Muhammad"],
+    "setting": "Desert near Mecca",
+    "emotional_tone": "Joyful",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Abu Lahab, Muhammad's uncle, tries to harm him by throwing a rock.",
+    "key_visual_action": "Abu Lahab throwing a rock, with Muhammad looking frightened.",
+    "characters_present": ["Muhammad", "Abu Lahab"],
+    "setting": "Desert near Mecca",
+    "emotional_tone": "Fearful",
+    "time_of_day": "Afternoon"
+  }
+]

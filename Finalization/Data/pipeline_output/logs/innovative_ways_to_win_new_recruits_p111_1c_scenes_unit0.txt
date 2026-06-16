@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Young Muslims from Salamah approach ʿAmr ibn al-Jamūḥ with a friendly smile.",
+    "key_visual_action": "Young Muslims extend their hands in a gesture of peace and friendship.",
+    "characters_present": ["ʿAmr ibn al-Jamūḥ", "Young Muslims from Salamah"],
+    "setting": "Desert landscape near the clan of Salamah",
+    "emotional_tone": "Warm and inviting",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "ʿAmr ibn al-Jamūḥ hesitantly looks at the idol behind him, unsure about joining Islam.",
+    "key_visual_action": "ʿAmr ibn al-Jamūḥ turns his head to glance at the idol, his expression uncertain.",
+    "characters_present": ["ʿAmr ibn al-Jamūḥ"],
+    "setting": "Desert landscape near the clan of Salamah",
+    "emotional_tone": "Conflicted and uncertain",
+    "time_of_day": "afternoon"
+  }
+]

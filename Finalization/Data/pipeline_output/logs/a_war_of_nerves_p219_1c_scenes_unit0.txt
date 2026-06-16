@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Prophet calls for a trusted messenger to deliver an offer to Ghaṭafān leaders.",
+    "key_visual_action": "Prophet extending his hand to call a messenger",
+    "characters_present": ["Prophet"],
+    "setting": "Madinah",
+    "emotional_tone": "determined",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Ghaṭafān leaders discuss the Prophet's offer, considering the benefits of withdrawing from the alliance.",
+    "key_visual_action": "Ghaṭafān leaders looking at each other in conversation",
+    "characters_present": ["Ghaṭafān leaders"],
+    "setting": "Ghaṭafān camp",
+    "emotional_tone": "hesitant",
+    "time_of_day": "afternoon"
+  }
+]

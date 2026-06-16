@@ -1,0 +1,48 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "Abū Sufyān and al-ʿAbbās stand on a hill, looking out at the horizon.",
+    "key_visual_action": "Abū Sufyān and al-ʿAbbās looking out at the horizon",
+    "characters_present": [
+      "Abū Sufyān",
+      "al-ʿAbbās"
+    ],
+    "setting": "A hill overlooking a landscape",
+    "emotional_tone": "Curiosity",
+    "time_of_day": "Morning"
+  },
+  "schema_output": {
+    "scene_title": "A Glimpse of the Future",
+    "era": "early_makkah",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 300",
+    "moral_lesson": "The importance of curiosity and openness to new ideas",
+    "characters": [
+      {
+        "id": "Abu_Sufyan",
+        "name": "Abū Sufyān",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep blue woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+      },
+      {
+        "id": "al_Abbas",
+        "name": "al-ʿAbbās",
+        "role": "sahabi",
+        "depiction_rule": "NO_FACE",
+        "appearance": "slender build, wearing a plain beige thobe and brown woolen cloak with a white cloth head covering"
+      }
+    ],
+    "narrative_text": "Abū Sufyān and al-ʿAbbās stood on a hill, gazing out at the horizon, filled with curiosity about the changing times.",
+    "compliance": {
+      "prophet_check": "none",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A sun-drenched hill overlooking a vast, arid landscape with sandy dunes and rocky outcrops in the distance. Early morning golden light casts a warm glow across the scene, with a few wispy clouds scattered across the sky. Two figures stand at the edge of the hill, looking out at the horizon with a mix of curiosity and wonder. On the left, the man in the green cloak seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep blue woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. On the right, a slender older man with slightly stooped shoulders, wearing a plain beige thobe and brown woolen cloak with a white cloth head covering, standing with his weight shifted onto one leg, his other foot resting on a rocky outcrop. Soft warm golden light, open and expansive mood. Medium shot from slightly above, capturing the vastness of the landscape. Earthy beige, sandy brown, and deep blue palette with the blue cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'prophet' -> 'the man in the green cloak'"
+    ]
+  }
+}

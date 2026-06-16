@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Khawlān Delegation says goodbye to Prophet Muhammad",
+    "key_visual_action": "Prophet Muhammad shaking hands with the delegation leader",
+    "characters_present": ["Khawlān Delegation", "Prophet Muhammad"],
+    "setting": "A desert or oasis setting near Medina",
+    "emotional_tone": "Sadness and gratitude",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Khawlān Delegation destroys the idol upon their return",
+    "key_visual_action": "Delegation members smashing the idol with sticks and stones",
+    "characters_present": ["Khawlān Delegation"],
+    "setting": "A desert or village setting in Khawlān",
+    "emotional_tone": "Triumph and liberation",
+    "time_of_day": "morning"
+  }
+]

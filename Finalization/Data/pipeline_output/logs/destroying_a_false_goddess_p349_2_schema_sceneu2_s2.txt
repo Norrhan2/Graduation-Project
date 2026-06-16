@@ -1,0 +1,15 @@
+{
+  "scene_number": 3,
+  "scene_summary": "Abū Mulayḥ and Qārib ibn al-Aswad declare their Islam to the Prophet, looking relieved.",
+  "era": "madinah_early",
+  "region": "madinah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 349",
+  "moral_lesson": "The importance of honesty and sincerity in declaring one's faith.",
+  "characters": [
+    {"id": "Abū Mulayḥ", "name": "Abū Mulayḥ", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a simple white thobe with a plain brown woolen cloak and a white cloth head covering, standing with his hands on his chest"},
+    {"id": "Qārib ibn al-Aswad", "name": "Qārib ibn al-Aswad", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "slender build, wearing a simple white thobe with a plain brown woolen cloak and a white cloth head covering, standing with his hands on his chest"},
+    {"id": "Prophet", "name": "the central figure", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "Two important people from the Quraysh tribe came to visit the Prophet. They were happy to finally have the chance to join the Muslims and promised to be honest and true.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Interior of a modest 7th century Medina home with unpainted mud-brick walls in warm earth tones and a packed-earth floor partly covered by a woven palm-fiber mat. Late afternoon golden sunlight streams through an open wooden doorway on the right, casting warm rays across the room. In the center of the room, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. On either side of the central figure stand two slender older men with slightly stooped shoulders, wearing simple white thobes and plain brown woolen cloaks with white cloth head coverings. Both men stand with their hands pressed firmly to their chests and their eyes cast downward in a humble gesture, looking relieved and hopeful. Soft warm golden light, intimate and sacred mood. Medium shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

@@ -1,0 +1,49 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "The six Khazrajis, moved by the Prophet's words, raise their hands in a gesture of acceptance.",
+    "key_visual_action": "Khazrajis raising their hands in a gesture of acceptance",
+    "characters_present": [
+      "Prophet",
+      "Khazraj"
+    ],
+    "setting": "Medina, a marketplace or public square",
+    "emotional_tone": "excited and hopeful",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_title": "The Khazrajis Accept the Prophet's Message",
+    "era": "ancient_prophets|pre_makkah",
+    "region": "madinah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 109",
+    "moral_lesson": "The importance of listening to the Prophet's words and accepting his message",
+    "characters": [
+      {
+        "id": "khazraj",
+        "name": "The Khazraj",
+        "role": "crowd",
+        "depiction_rule": "NO_FACE|FROM_BEHIND|SILHOUETTE|FULL",
+        "appearance": "tall, slender men, wearing simple white thobes with plain brown woolen cloaks and white cloth head coverings, each with a hand raised in a gesture of acceptance"
+      },
+      {
+        "id": "the_prophet",
+        "name": "the central figure",
+        "role": "prophet",
+        "depiction_rule": "NO_FACE|FROM_BEHIND",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture"
+      }
+    ],
+    "narrative_text": "The Prophet spoke to the Khazrajis with words of hope and guidance. Moved by his message, they raised their hands in a gesture of acceptance.",
+    "compliance": {
+      "prophet_check": "COMPLIANT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A bustling 7th century Medina marketplace or public square with a packed-earth floor and simple clay buildings in the background. Late afternoon golden sunlight casts warm rays across the scene. In the center, a group of six tall, slender men with their backs to the viewer, wearing simple white thobes with plain brown woolen cloaks and white cloth head coverings, each with a hand raised in a gesture of acceptance. To their right, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture. Soft warm golden light, lively and hopeful mood. Medium wide shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": [
+      "'prophet' -> 'the central figure'"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "scene_title": "The Prophet receives news of the Arab tribes' attack on trade caravans",
+  "era": "madinah_early",
+  "region": "madinah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 199",
+  "moral_lesson": "The importance of staying informed and prepared for challenges",
+  "characters": [
+    {
+      "id": "1",
+      "name": "The Prophet",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "2",
+      "name": "The informers",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "tall build, wearing a simple white thobe and a plain brown woolen cloak with a white cloth head covering"
+    }
+  ],
+  "narrative_text": "The Prophet learned that the Arab tribes had attacked the trade caravans, and he knew that Medina was not prepared to defend itself. He called upon the believers to stay strong and united.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Interior of a modest 7th century Madinah home with unpainted mud-brick walls in warm earth tones and a packed-earth floor partly covered by a woven palm-fiber mat. Late afternoon golden sunlight streams through an open wooden doorway on the right, casting warm rays across the room. In the corner sits a clay water jug, and a ceramic oil lamp rests on a low wooden shelf giving a soft glow. Two figures sit facing each other on the mat. On the left, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle reassuring gesture. On the right, two men seen from behind: tall build, wearing simple white thobes and plain brown woolen cloaks with white cloth head coverings, kneeling down and bowing their heads in submission, overcome with a sense of seriousness and urgency. Soft warm golden light, intimate and sacred mood. Medium close shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

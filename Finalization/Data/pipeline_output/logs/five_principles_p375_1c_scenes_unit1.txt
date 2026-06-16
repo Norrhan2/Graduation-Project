@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet is surrounded by women who are seeking his guidance and blessings.",
+    "key_visual_action": "The Prophet smiling and extending his hand in a gesture of welcome",
+    "characters_present": ["The Prophet", "Women seeking guidance"],
+    "setting": "A mosque or a public gathering space",
+    "emotional_tone": "Warm and inclusive",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet is teaching the women about the importance of kindness and respect towards each other.",
+    "key_visual_action": "The Prophet pointing to a woman with a gentle gesture, emphasizing her importance",
+    "characters_present": ["The Prophet", "Women listening intently"],
+    "setting": "A mosque or a public gathering space",
+    "emotional_tone": "Serious and respectful",
+    "time_of_day": "Afternoon"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet announces his message to the people of Makkah.",
+    "key_visual_action": "The Prophet standing on a mountain, with the city of Makkah in the background, holding a scroll and speaking loudly.",
+    "characters_present": ["The Prophet"],
+    "setting": "Mountain overlooking Makkah",
+    "emotional_tone": "Determined",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The people of Makkah are shocked and confused by the Prophet's message.",
+    "key_visual_action": "A group of people in the crowd looking at each other with confused expressions, while one person points at the Prophet.",
+    "characters_present": ["The people of Makkah"],
+    "setting": "City square in Makkah",
+    "emotional_tone": "Confused",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The people of Makkah react strongly to the Prophet's call for change, with some mocking and others threatening.",
+    "key_visual_action": "A person mocking the Prophet, while another person in the background is shown threatening him with a scowl.",
+    "characters_present": ["The people of Makkah"],
+    "setting": "City square in Makkah",
+    "emotional_tone": "Angry",
+    "time_of_day": "Afternoon"
+  }
+]

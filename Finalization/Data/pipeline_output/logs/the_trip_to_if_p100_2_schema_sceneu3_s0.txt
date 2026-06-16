@@ -1,0 +1,14 @@
+{
+  "scene_number": 1,
+  "scene_title": "ʿAddās Listens to the Prophet's Words",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 100",
+  "moral_lesson": "The importance of listening and showing interest in Islamic teachings",
+  "characters": [
+    {"id": "1", "name": "ʿAddās", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "medium build, dignified upright posture, wearing a beige thobe and a plain brown woolen cloak with a white cloth head covering, hair covered by the head covering"},
+    {"id": "2", "name": "Muhammad", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "ʿAddās was a companion of the Prophet Muhammad. He often listened to the Prophet's words with great interest.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast open desert area with a few palm trees in the distance, under a clear blue afternoon sky. The sun shines brightly overhead, casting a warm glow across the scene. In the center of the image, two figures sit facing each other on a woven mat. On the left, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, leaning forward slightly with one hand extended in a gentle gesture. On the right, a slender older man with slightly stooped shoulders, wearing a beige thobe and plain brown woolen cloak with a white cloth head covering, sitting in a posture of great interest - head tilted slightly forward, eyes wide with curiosity, one hand pressed gently to his chest. Soft warm golden light, intimate and sacred mood. Medium close shot at eye level. Warm beige, sandy, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

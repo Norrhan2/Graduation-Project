@@ -1,0 +1,47 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "Al-Muqawqis warns Ḥāṭib to keep their discussion a secret.",
+    "key_visual_action": "al-Muqawqis places a finger to his lips, signaling Ḥāṭib to be silent",
+    "characters_present": [
+      "al-Muqawqis",
+      "Ḥāṭib ibn Abī Balta ʿ ah"
+    ],
+    "setting": "Al-Muqawqis' throne room",
+    "emotional_tone": "caution",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_number": 2,
+    "scene_summary": "Al-Muqawqis warns Ḥāṭib to keep their discussion a secret.",
+    "era": "pre_prophetic",
+    "region": "abyssinia",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 278",
+    "moral_lesson": "Importance of discretion and confidentiality",
+    "characters": [
+      {
+        "id": "al-Muqawqis",
+        "name": "Al-Muqawqis",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "medium build, dignified upright posture, wearing a long-sleeved off-white linen robe with intricate golden embroidery, a matching golden crown or diadem adorning his head, a long golden chain with a pendant visible at his neck, and a pair of ornate golden earrings"
+      },
+      {
+        "id": "Ḥāṭib ibn Abī Balta ʿ ah",
+        "name": "Ḥāṭib ibn Abī Balta ʿ ah",
+        "role": "sahabi",
+        "depiction_rule": "FULL",
+        "appearance": "slender build, slightly stooped shoulders, wearing a plain white linen robe with a simple golden belt, a plain white cloth head covering, and a pair of simple leather sandals"
+      }
+    ],
+    "narrative_text": "Al-Muqawqis cautioned Ḥāṭib to keep their discussion a secret, and Ḥāṭib promised to be discreet.",
+    "compliance": {
+      "prophet_check": "NON_APPLICABLE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Historically accurate depiction of Abyssinian royal attire"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Interior of Al-Muqawqis' throne room in the 7th century Christian Kingdom of Abyssinia, with intricately carved wooden pillars and a high, vaulted ceiling adorned with colorful tapestries and golden ornaments. Late afternoon sunlight streams through large windows on the far wall, casting warm rays across the room. Al-Muqawqis sits on his throne, a majestic golden chair with cushions, wearing a long-sleeved off-white linen robe with intricate golden embroidery, a matching golden crown or diadem adorning his head, a long golden chain with a pendant visible at his neck, and a pair of ornate golden earrings. Ḥāṭib ibn Abī Balta ʿ ah stands before him, wearing a plain white linen robe with a simple golden belt, a plain white cloth head covering, and a pair of simple leather sandals. Al-Muqawqis places a finger to his lips, signaling Ḥāṭib to be silent, while Ḥāṭib looks on with a mixture of caution and understanding. Soft warm golden light, regal and dignified mood. Medium close shot at eye level. Warm beige, golden, and crimson palette with the golden throne and ornaments as color anchors. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": []
+  }
+}

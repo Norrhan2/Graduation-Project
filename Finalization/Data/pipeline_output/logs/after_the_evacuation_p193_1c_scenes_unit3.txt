@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Muslims prepare for battle against the Jews of al-Naḍīr.",
+    "key_visual_action": "Muslim warriors drawing swords, readying for battle",
+    "characters_present": ["Muslims"],
+    "setting": "Desert landscape near al-Naḍīr",
+    "emotional_tone": "Determined",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Muslims emerge victorious, defeating the Jews of al-Naḍīr.",
+    "key_visual_action": "Muslim warriors standing triumphant, surrounded by defeated enemies",
+    "characters_present": ["Muslims", "Jews of al-Naḍīr"],
+    "setting": "Desert landscape near al-Naḍīr",
+    "emotional_tone": "Triumphant",
+    "time_of_day": "afternoon"
+  }
+]

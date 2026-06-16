@@ -1,0 +1,49 @@
+[
+  {
+    "unit_number": 2,
+    "unit_title": "Returning to find the aftermath",
+    "unit_text": "They suspected that something serious had happened when they saw a large number of birds concentrating on the spot where they had left their people. They realized that something must have happened to attract the birds. They hurried back to find out.",
+    "main_characters": [
+      "ʿAmr ibn Umayyah",
+      "al-Mundhir ibn Muḥammad"
+    ],
+    "event_summary": "The two Muslims return to find their brethren dead and blood everywhere.",
+    "selection_reason": "Clear visual moment of discovery and reaction to the aftermath.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Al-Mundhir's decision to fight",
+    "unit_text": "One of the two men, ʿAmr ibn Umayyah of the Muhājirīn, expressed his view to his Anṣārī brother, al-Mundhir ibn Muḥammad, that the best thing they could do was to go back home and tell the Prophet what had happened. The Anṣārī man said: “I would not spare myself a battle in which al-Mundhir ibn ʿAmr [a friend of his] has been killed. I certainly would not like to be told by others how he met his death.”",
+    "main_characters": [
+      "ʿAmr ibn Umayyah",
+      "al-Mundhir ibn Muḥammad"
+    ],
+    "event_summary": "Al-Mundhir decides to fight the aggressors in revenge for his friend.",
+    "selection_reason": "Meaningful lesson on courage and loyalty.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Al-Mundhir's single-handed fight",
+    "unit_text": "He then attacked the aggressors and fought them single-handedly, killing two of their men before he was killed.",
+    "main_characters": [
+      "al-Mundhir ibn Muḥammad"
+    ],
+    "event_summary": "Al-Mundhir fights and kills two of the aggressors before being killed.",
+    "selection_reason": "Clear visual moment of bravery and sacrifice.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "The Prophet's reaction",
+    "unit_text": "When ʿAmr arrived in Madinah he told the Prophet what had happened to his followers. The Prophet was sad, outraged and hurt at what had happened.",
+    "main_characters": [
+      "ʿAmr ibn Umayyah",
+      "The Prophet"
+    ],
+    "event_summary": "ʿAmr ibn Umayyah reports the incident to the Prophet, who is saddened and outraged.",
+    "selection_reason": "Important lesson on empathy and compassion.",
+    "estimated_scenes": 2
+  }
+]

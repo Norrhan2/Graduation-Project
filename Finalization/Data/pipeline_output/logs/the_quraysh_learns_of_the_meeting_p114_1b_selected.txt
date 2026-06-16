@@ -1,0 +1,52 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The Quraysh Discover the Meeting",
+    "unit_text": "The Quraysh discover the meeting between the Prophet and the Ansar in ʿAqabah, and a loud voice shouts out the news.",
+    "main_characters": [
+      "Muhammad",
+      "Ansar"
+    ],
+    "event_summary": "The Quraysh discover the secret meeting between the Prophet and the Ansar.",
+    "selection_reason": "Clear visual moment of discovery and reaction.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Quraysh Confirm Their Suspicions",
+    "unit_text": "The Quraysh confirm their suspicions when they seize two men, al-Mundhir ibn ʿAmr and Saʿd ibn ʿUbādah, who are among the 12 leaders of the Muslim group.",
+    "main_characters": [
+      "Quraysh",
+      "al-Mundhir ibn ʿAmr",
+      "Saʿd ibn ʿUbādah"
+    ],
+    "event_summary": "The Quraysh confirm their suspicions when they seize two men from the Muslim group.",
+    "selection_reason": "Tense and dramatic moment of capture and torture.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Jubayr and al-Ḥārith Save Saʿd",
+    "unit_text": "Jubayr and al-Ḥārith save Saʿd from his tormentors after they are told that he is being tortured.",
+    "main_characters": [
+      "Jubayr ibn Muṭʿim",
+      "al-Ḥārith ibn Ḥarb",
+      "Saʿd ibn ʿUbādah"
+    ],
+    "event_summary": "Jubayr and al-Ḥārith save Saʿd from his tormentors.",
+    "selection_reason": "Heroic and uplifting moment of rescue.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "The Covenant is Concluded",
+    "unit_text": "The agreement between the Muslims from Madinah and the Prophet is concluded and sealed, marking the beginning of a new stage in the history of Islam.",
+    "main_characters": [
+      "Muhammad",
+      "Muslims from Madinah"
+    ],
+    "event_summary": "The agreement between the Muslims from Madinah and the Prophet is concluded.",
+    "selection_reason": "Important and celebratory moment of agreement and new beginnings.",
+    "estimated_scenes": 1
+  }
+]

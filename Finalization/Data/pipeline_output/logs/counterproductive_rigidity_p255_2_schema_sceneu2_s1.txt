@@ -1,0 +1,13 @@
+{
+  "scene_title": "The Prophet's Concerned Reaction",
+  "era": "late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 255",
+  "moral_lesson": "Understanding the concerns of others and responding with empathy",
+  "characters": [
+    {"id": "abu_busr", "name": "Abū Buṣayr", "role": "sahabi", "depiction_rule": "NO_FACE", "appearance": "tall, slender build, dark brown thobe with intricate white embroidery, white cloth head covering"},
+    {"id": "prophet_muhammad", "name": "the central figure", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "Abū Buṣayr spoke words that made the Prophet Muhammad concerned, and he reached out to place a reassuring hand on Abū Buṣayr's shoulder.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": ""},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene 7th century desert landscape with endless dunes of golden sand stretching towards the horizon. Late afternoon sunlight casts a warm glow across the scene, with the sun hidden behind a cluster of palm trees in the distance. A lone figure stands on a rocky outcropping, seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, extending a gentle hand towards a companion standing slightly below. The companion, a tall slender man with dark brown skin and a dark brown thobe with intricate white embroidery, wears a white cloth head covering, his head slightly bowed and his shoulders relaxed in a thoughtful posture. Soft warm golden light, peaceful and contemplative mood. Medium shot from slightly above, capturing the two figures amidst the vast desert landscape. Earthy tones of sand, stone, and sky, with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

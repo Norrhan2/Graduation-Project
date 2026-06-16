@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Abū Sufyān rushes onto the battlefield, searching for the Prophet's body.",
+    "key_visual_action": "Abū Sufyān running forward with a worried expression",
+    "characters_present": ["Abū Sufyān"],
+    "setting": "Battlefield",
+    "emotional_tone": "Anxious",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Abū Sufyān searches through the bodies, but can't find the Prophet's body, leading to a worried expression.",
+    "key_visual_action": "Abū Sufyān looking down at the bodies with a worried expression",
+    "characters_present": ["Abū Sufyān"],
+    "setting": "Battlefield",
+    "emotional_tone": "Concerned",
+    "time_of_day": "Afternoon"
+  }
+]

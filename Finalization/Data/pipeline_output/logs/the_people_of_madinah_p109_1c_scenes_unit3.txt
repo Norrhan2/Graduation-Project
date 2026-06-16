@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet calls Muṣʿab aside for a private conversation.",
+    "key_visual_action": "The Prophet extending his hand to Muṣʿab, inviting him to come closer.",
+    "characters_present": ["Prophet", "Muṣʿab"],
+    "setting": "A quiet corner of the mosque",
+    "emotional_tone": "Serious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet gives Muṣʿab his mission: to educate and lead the new Muslims in Madinah.",
+    "key_visual_action": "The Prophet handing Muṣʿab a scroll or a letter with his mission.",
+    "characters_present": ["Prophet", "Muṣʿab"],
+    "setting": "The same quiet corner of the mosque",
+    "emotional_tone": "Determined",
+    "time_of_day": "afternoon"
+  }
+]

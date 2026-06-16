@@ -1,0 +1,37 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The Importance of Poets in Arabia",
+    "unit_text": "Poets held a position of distinction in Arabia due to their ability to advocate their tribe's cause through eloquent poetry.",
+    "main_characters": [],
+    "event_summary": "Poets played a significant role in Arabian society due to their ability to promote their tribe's interests."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "The Role of Poets in the War between Islam and Idolatry",
+    "unit_text": "Poets on both sides used their poetry to abuse and insult each other, with the unbelievers targeting the Prophet and his companions.",
+    "main_characters": ["Prophet", "companions"],
+    "event_summary": "Poets played a significant role in the war between Islam and idolatry, using their poetry to abuse and insult each other."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Response of Poets to Islam",
+    "unit_text": "Many poets responded favorably to the call of Islam, while others were hesitant due to their role as mouthpieces for the unbelievers.",
+    "main_characters": [],
+    "event_summary": "Poets had a mixed response to the call of Islam, with some accepting it and others struggling with their loyalty to their pagan beliefs."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Dilemma of Poets after the Collapse of the Quraysh",
+    "unit_text": "The collapse of the Quraysh presented poets with a dilemma, as they could not suddenly switch allegiance and many fled.",
+    "main_characters": [],
+    "event_summary": "The collapse of the Quraysh created a dilemma for poets, who struggled with their loyalty to their tribe and their pagan beliefs."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "ʿ Abdullāh ibn al-Ziba ʿ rā's Repentance",
+    "unit_text": "ʿ Abdullāh ibn al-Ziba ʿ rā fled to Najrān, but was attacked by Ḥassān with a line of poetry, leading him to repent and accept Islam.",
+    "main_characters": ["ʿ Abdullāh ibn al-Ziba ʿ rā", "Ḥassān"],
+    "event_summary": "ʿ Abdullāh ibn al-Ziba ʿ rā repented and accepted Islam after being attacked by Ḥassān with a line of poetry."
+  }
+]

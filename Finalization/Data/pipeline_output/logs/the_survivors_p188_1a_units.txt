@@ -1,0 +1,72 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Two Muslims sent to graze cattle",
+    "unit_text": "Two men from among the Muslims had been sent earlier with their cattle to graze. They went quite a long way and did not witness the horrible events of the day.",
+    "main_characters": ["ʿAmr ibn Umayyah", "al-Mundhir ibn Muḥammad"],
+    "event_summary": "Two Muslims are sent to graze cattle in a distant area."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "Returning to find the aftermath",
+    "unit_text": "They suspected that something serious had happened when they saw a large number of birds concentrating on the spot where they had left their people. They realized that something must have happened to attract the birds. They hurried back to find out.",
+    "main_characters": ["ʿAmr ibn Umayyah", "al-Mundhir ibn Muḥammad"],
+    "event_summary": "The two Muslims return to find their brethren dead and blood everywhere."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Al-Mundhir's decision to fight",
+    "unit_text": "One of the two men, ʿAmr ibn Umayyah of the Muhājirīn, expressed his view to his Anṣārī brother, al-Mundhir ibn Muḥammad, that the best thing they could do was to go back home and tell the Prophet what had happened. The Anṣārī man said: “I would not spare myself a battle in which al-Mundhir ibn ʿAmr [a friend of his] has been killed. I certainly would not like to be told by others how he met his death.”",
+    "main_characters": ["ʿAmr ibn Umayyah", "al-Mundhir ibn Muḥammad"],
+    "event_summary": "Al-Mundhir decides to fight the aggressors in revenge for his friend."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Al-Mundhir's single-handed fight",
+    "unit_text": "He then attacked the aggressors and fought them single-handedly, killing two of their men before he was killed.",
+    "main_characters": ["al-Mundhir ibn Muḥammad"],
+    "event_summary": "Al-Mundhir fights and kills two of the aggressors before being killed."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "ʿAmr ibn Umayyah taken prisoner",
+    "unit_text": "ʿAmr ibn Umayyah was left alone and, realizing that it was futile for him to try to fight such a large force on his own, he allowed himself to be taken prisoner.",
+    "main_characters": ["ʿAmr ibn Umayyah"],
+    "event_summary": "ʿAmr ibn Umayyah is taken prisoner after realizing he cannot fight alone."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "ʿAmr ibn Umayyah's release",
+    "unit_text": "When he told ʿĀmir ibn al-Ṭufayl that he belonged to the Muḍar tribe, he was set free.",
+    "main_characters": ["ʿAmr ibn Umayyah", "ʿĀmir ibn al-Ṭufayl"],
+    "event_summary": "ʿAmr ibn Umayyah is released after revealing his tribe."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "ʿAmr ibn Umayyah's revenge",
+    "unit_text": "ʿAmr ibn Umayyah headed towards Madinah. When he arrived at a place called Qarqarah he stopped to rest. Two men from the ʿĀmir tribe came and joined him in the shady place where he was resting. These two men had been to see the Prophet and were carrying a pass from him. Unaware of this fact, ʿAmr decided to kill the two men when he learnt of their tribal affiliation. He waited until they fell asleep, whereupon he carried out his intention.",
+    "main_characters": ["ʿAmr ibn Umayyah"],
+    "event_summary": "ʿAmr ibn Umayyah kills two men from the ʿĀmir tribe in revenge."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "The Prophet's reaction",
+    "unit_text": "When ʿAmr arrived in Madinah he told the Prophet what had happened to his followers. The Prophet was sad, outraged and hurt at what had happened.",
+    "main_characters": ["ʿAmr ibn Umayyah", "The Prophet"],
+    "event_summary": "ʿAmr ibn Umayyah reports the incident to the Prophet, who is saddened and outraged."
+  },
+  {
+    "unit_number": 9,
+    "unit_title": "The Prophet's prayer",
+    "unit_text": "He said: “This is the result of Abū Barā’s advice. I was unwilling to send them and I feared the consequences.” Perhaps the Prophet never felt as much sorrow as he felt for his companions who were killed in this incident.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet attributes the incident to Abū Barā's advice and expresses his sorrow."
+  },
+  {
+    "unit_number": 10,
+    "unit_title": "The Prophet's daily prayers",
+    "unit_text": "This is perhaps because it was nothing less than murder in cold blood, coupled with treachery. In his sorrow, the Prophet prayed God to punish the clans which took part in the killing of his companions. He did so every day for 15 days during his Fajr prayers.",
+    "main_characters": ["The Prophet"],
+    "event_summary": "The Prophet prays for 15 days to punish the clans responsible for the killings."
+  }
+]

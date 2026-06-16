@@ -1,0 +1,23 @@
+{
+  "scene_title": "Muhammad's Devotion",
+  "era": "pre_prophetic|early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 71",
+  "moral_lesson": "The importance of humility in devotion to God",
+  "characters": [
+    {
+      "id": "Muhammad",
+      "name": "The Man in the White Thobe",
+      "role": "Prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a white turban, one hand extended in a gentle gesture"
+    }
+  ],
+  "narrative_text": "Muhammad recites from the Qur'ān and then offers thanks to God with a humble heart.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": "None"
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene desert or marketplace scene with sandy dunes or a sandy floor, and sandy-colored walls in the background. Late afternoon warm sunlight casts long shadows across the scene. In the center, the Man in the White Thobe, seen from behind, with a flowing white thobe and a white turban, one hand extended in a gentle gesture, his other hand on the ground in front of him in preparation for prostration. The central figure's posture is calm and focused, with his head slightly bowed in reverence. Soft warm golden light, peaceful and serene mood. Medium close shot at eye level. Warm beige, cream, and golden palette with the white thobe as a color anchor. In the distance, a few palm trees or other desert plants, but no modern objects, historically accurate 7th century scene."

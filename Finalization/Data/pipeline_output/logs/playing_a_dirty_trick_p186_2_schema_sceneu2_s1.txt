@@ -1,0 +1,25 @@
+{
+  "scene_number": 2,
+  "scene_summary": "The Muslim group arrives at the spring al-Rajīʿ, unaware of the impending danger.",
+  "era": "early_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 186",
+  "moral_lesson": "The importance of being vigilant and aware of one's surroundings.",
+  "characters": [
+    {
+      "id": "Muslims",
+      "name": "The Muslim group",
+      "role": "supporting",
+      "depiction_rule": "FULL",
+      "appearance": "modestly dressed, a mix of men and women with varying ages and builds, all with faces, laughing and smiling"
+    }
+  ],
+  "narrative_text": "The Muslim group arrives at the spring al-Rajīʿ, feeling happy and carefree after their journey. They start to drink from the cool water and enjoy each other's company.",
+  "compliance": {
+    "prophet_check": "NO_PROPHET",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene and idyllic scene at the spring al-Rajīʿ, set amidst the vast expanse of the Arabian Desert, with towering sand dunes stretching out into the distance. Late afternoon sunlight casts a warm golden glow across the scene, with a few palm trees and some scrubby bushes adding color and texture. In the foreground, a group of Muslims are gathered around a natural spring, laughing and smiling as they drink from the cool water. The group is a mix of men and women, dressed in simple yet practical clothing, including jilbabs and khimars for the women, and loose-fitting thobes for the men. Some of the group members are sitting on rocks or the ground, while others are standing, all with their faces visible and expressions of joy. Soft warm golden light, carefree and joyful mood. Medium shot at eye level. Warm beige, golden, and turquoise palette with the desert sands as a dominant color. No modern objects, historically accurate 7th century scene."
+}

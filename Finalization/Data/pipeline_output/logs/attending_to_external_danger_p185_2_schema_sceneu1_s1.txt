@@ -1,0 +1,32 @@
+{
+  "scene_number": 2,
+  "scene_summary": "The Muslim force sneaks up on the Asad tribe",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 185",
+  "moral_lesson": "Importance of patience and strategy in achieving goals",
+  "characters": [
+    {
+      "id": "muslim_warrrior_1",
+      "name": "Muslim warrior",
+      "role": "supporting",
+      "depiction_rule": "FROM_BEHIND|SILHOUETTE",
+      "appearance": "medium build, tall, dark brown hair, dark brown beard, dark brown cloak with a white turban, peeking out from behind a rock"
+    },
+    {
+      "id": "asad_tribe_member",
+      "name": "Asad tribe member",
+      "role": "antagonist",
+      "depiction_rule": "NO_FACE",
+      "appearance": "slender build, dark brown hair, dark brown beard, dark brown cloak, seen from behind, walking towards the rock"
+    }
+  ],
+  "narrative_text": "The Muslim force was sneaking up on the Asad tribe in a desert landscape. They hid behind rocks and peeked out to see the tribe.",
+  "compliance": {
+    "prophet_check": "NOT_APPLICABLE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast desert landscape with rocky outcrops and sparse palm trees in the distance, bathed in warm morning sunlight. The air is calm and still, with a sense of anticipation. In the foreground, a group of six Muslim warriors, each seen from behind, hiding behind a row of rocks. They are dressed in dark brown cloaks and white turbans, their faces hidden. One warrior, slightly taller than the others, peeks out from behind a rock, his eyes scanning the horizon. In the background, a group of Asad tribe members, seen from behind, walk towards the rock, unaware of the Muslim warriors hiding in the distance. The atmosphere is tense and stealthy, with a sense of impending action. Soft warm golden light, vast and expansive mood. Medium wide shot from a low angle. Warm beige, sandy, and golden palette with dark brown and white accents. No modern objects, historically accurate 7th century scene."
+}

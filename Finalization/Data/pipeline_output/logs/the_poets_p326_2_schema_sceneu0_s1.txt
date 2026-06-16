@@ -1,0 +1,15 @@
+{
+  "scene_number": 2,
+  "scene_summary": "A poet from the unbelievers stands in front of the Prophet and his companions, reciting a poem filled with insults.",
+  "era": "pre_prophetic|early_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 326",
+  "moral_lesson": "The importance of perseverance in the face of adversity and the Prophet's call to patience and forgiveness.",
+  "characters": [
+    {"id": 1, "name": "the unbeliever poet", "role": "antagonist", "depiction_rule": "NO_FACE|FROM_BEHIND", "appearance": "medium build, slender, wearing a long off-white robe with intricate embroidery, a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a dramatic gesture"},
+    {"id": 2, "name": "the central figure", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders, a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a gentle gesture"},
+    {"id": 3, "name": "companions", "role": "supporting", "depiction_rule": "NO_FACE|FROM_BEHIND", "appearance": "medium build, slightly stooped shoulders, wearing a simple off-white thobe and plain brown woolen cloak, one hand placed on the hip, the other gesturing in a calming manner"}
+  ],
+  "narrative_text": "A poet from the unbelievers stood in front of the Prophet and his companions, reciting a poem filled with insults. The Prophet remained calm, while his companions grew angry. How did the Prophet handle the situation?",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "Historical accuracy ensured"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A large public square in 7th century Mecca with a packed-earth floor and a few scattered palm trees. Late afternoon sunlight casts long shadows across the square. In the center stands a tall, slender man in a long off-white robe with intricate embroidery, wearing a white turban with a cloth tail hanging between the shoulder blades, pointing a finger at the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders, a white turban with a cloth tail hanging between the shoulder blades. Behind the central figure, several men are seated on the ground, some with their faces hidden behind their hands, others gesturing in anger. Soft warm golden light, tense and confrontational mood. Medium shot from slightly above. Earthy tones and deep green cloak as dominant colors. No modern objects, historically accurate 7th century scene."

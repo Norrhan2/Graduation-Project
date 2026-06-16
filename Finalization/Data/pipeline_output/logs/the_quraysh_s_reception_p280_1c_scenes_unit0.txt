@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet Muhammad and his Companions enter the city of Makkah.",
+    "key_visual_action": "The Prophet Muhammad riding a camel, with Companions following behind.",
+    "characters_present": ["Prophet Muhammad", "Companions"],
+    "setting": "City of Makkah",
+    "emotional_tone": "Serene",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Quraysh nobles see the Prophet Muhammad and his Companions and look away in anger.",
+    "key_visual_action": "Quraysh nobles covering their faces, with one of them gesturing in disgust.",
+    "characters_present": ["Quraysh Nobles", "Prophet Muhammad", "Companions"],
+    "setting": "City of Makkah",
+    "emotional_tone": "Anger",
+    "time_of_day": "Afternoon"
+  }
+]

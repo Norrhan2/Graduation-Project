@@ -1,0 +1,15 @@
+{
+  "scene_number": 4,
+  "scene_title": "The Unaware People of Thaqīf",
+  "era": "late_makkah",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 317",
+  "moral_lesson": "The importance of faith and the unawareness of those who do not believe.",
+  "characters": [
+    {"id": "thaqif", "name": "The people of Thaqīf", "role": "antagonist", "depiction_rule": "FULL", "appearance": "modestly dressed men and women of varying ages and occupations, going about their daily lives"},
+    {"id": "prophet", "name": "The central figure", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "The people of Thaqīf were unaware of the Prophet's prayer, but the Prophet's faith remained strong.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "No graphic violence or idols."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene mountain overlooking a small 7th century Arabian Desert town of Thaqīf, with the blue sky above and the sun shining in the afternoon. In the foreground, the central figure seen from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, standing in prayer. In the background, a group of people of varying ages and occupations: men in white thobes and head coverings, women in long robes and headscarves, some carrying baskets or walking with staffs, going about their daily lives, unaware of the Prophet's prayer. Soft warm golden light with a hint of blue to represent the sky. Medium shot from a slightly elevated angle. Cool and serene color palette with the deep green cloak as a color anchor and the blue sky as an accent. No modern objects, historically accurate 7th century scene."
+}

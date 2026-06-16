@@ -1,0 +1,50 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Peace Agreement Benefits",
+    "unit_text": "The Muslims enjoyed a period of calm after the peace agreement, no longer worrying about the Quraysh.",
+    "main_characters": [
+      "Prophet Muhammad",
+      "Quraysh"
+    ],
+    "event_summary": "The Muslims experienced a period of calm after the peace agreement.",
+    "selection_reason": "Clear visual moment of Muslims enjoying peace",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Quraysh's Defeat",
+    "unit_text": "The Quraysh had to climb down and seek peace, recognizing the legitimacy of the Muslim state.",
+    "main_characters": [
+      "Prophet Muhammad",
+      "Quraysh"
+    ],
+    "event_summary": "The Quraysh sought peace and recognized the Muslim state.",
+    "selection_reason": "Clear visual moment of Quraysh's defeat and recognition of Muslim state",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "Establishing Contacts",
+    "unit_text": "The Muslims were able to establish contacts with other tribes and explain the principles of Islam.",
+    "main_characters": [
+      "Prophet Muhammad",
+      "Muslims"
+    ],
+    "event_summary": "The Muslims established contacts with other tribes and explained Islam.",
+    "selection_reason": "Meaningful lesson on spreading Islam and establishing connections with others",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Rapid Growth",
+    "unit_text": "The number of Muslims multiplied rapidly, with the Prophet able to raise an army of 10,000 two years later.",
+    "main_characters": [
+      "Prophet Muhammad",
+      "Muslims"
+    ],
+    "event_summary": "The number of Muslims grew rapidly.",
+    "selection_reason": "Clear visual moment of rapid growth and significant increase in Muslim numbers",
+    "estimated_scenes": 2
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Surāqah tells his tribe that he has seen the Prophet's group chasing a stray camel.",
+    "key_visual_action": "Surāqah pointing towards a distant camel",
+    "characters_present": ["Surāqah ibn Mālik", "The Prophet's tribe"],
+    "setting": "Desert landscape",
+    "emotional_tone": "Suspense",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The tribe starts to chase the camel, distracted from their original plan to join Surāqah in chasing the Prophet.",
+    "key_visual_action": "Tribe members running after the camel",
+    "characters_present": ["The Prophet's tribe"],
+    "setting": "Desert landscape",
+    "emotional_tone": "Excitement",
+    "time_of_day": "afternoon"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "scene_title": "A Night of Prayer in Jerusalem",
+  "era": "ancient_prophets",
+  "region": "levant_ancient",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 104",
+  "moral_lesson": "Importance of prayer and unity with the prophets",
+  "characters": [
+    {
+      "id": "1",
+      "name": "the central figure",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, standing upright, wearing a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "2",
+      "name": "Abraham",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "slender build, wearing a long brown robe with a white turban and a staff in his hand"
+    },
+    {
+      "id": "3",
+      "name": "Moses",
+      "role": "prophet",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "tall build, wearing a simple white robe with a blue turban and a staff in his hand"
+    },
+    {
+      "id": "4",
+      "name": "other prophets",
+      "role": "crowd",
+      "depiction_rule": "NO_FACE",
+      "appearance": "various builds and clothing, standing in a circle around the central figure"
+    }
+  ],
+  "narrative_text": "In a holy city, a group of prophets gather to pray together under the night sky.",
+  "compliance": {
+    "prophet_check": "COMPLIANT",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Exterior of a 7th century Jerusalem mosque, with a large stone dome and minaret in the background. The night sky is filled with stars and a crescent moon. The central figure seen entirely from behind, stands in a circle of prophets, including Abraham and Moses, in a holy city. The prophets are all standing in a circle, hands clasped, and eyes closed in prayer. The central figure wears a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. Abraham wears a long brown robe with a white turban and a staff in his hand, while Moses wears a simple white robe with a blue turban and a staff in his hand. The other prophets wear various clothing and have their faces turned away. Soft warm golden light from the stars and the moon casts a peaceful and spiritual glow. Wide shot from above, capturing the circle of prophets and the Jerusalem mosque in the background. Cool blues and purples of the night sky, with warm golden light and deep green as accent colors. No modern objects, historically accurate 7th century scene."
+}

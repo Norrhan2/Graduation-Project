@@ -1,0 +1,14 @@
+{
+  "scene_number": 2,
+  "scene_title": "Muhammad's Formal Declaration",
+  "era": "pre_prophetic|early_makkah",
+  "region": "makkah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 54",
+  "moral_lesson": "Importance of family and community",
+  "characters": [
+    {"id": "muhammad", "name": "The central figure", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"},
+    {"id": "zayd", "name": "Zayd ibn Harithah", "role": "family_of_prophet", "depiction_rule": "NO_FACE", "appearance": "young boy, dressed in a simple white thobe"}
+  ],
+  "narrative_text": "Muhammad stood in the marketplace and said, 'This is my son Zayd.' The people of the Quraysh smiled and nodded in agreement.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "Historically accurate representation of the event."},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Bustling 7th century Makkah marketplace with a sandy floor and a few stalls selling goods. Late afternoon golden sunlight casts warm rays across the scene. In the center, a large crowd of people from the Quraysh tribe gather around a central figure, the man in the deep green cloak, seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. One arm extends upwards, holding up a young boy in a simple white thobe, Zayd ibn Harithah. The crowd's faces are a mix of smiles and gentle nods as they acknowledge Muhammad's declaration. Soft warm golden light, lively and joyful mood. Medium shot at eye level. Warm sand, cream, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

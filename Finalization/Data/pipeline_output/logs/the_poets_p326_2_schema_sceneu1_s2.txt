@@ -1,0 +1,31 @@
+{
+  "scene_number": 3,
+  "scene_title": "A Moment of Repentance",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah|madinah_early|madinah_late",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 326",
+  "moral_lesson": "The importance of listening to wise words and allowing oneself to be guided towards righteousness",
+  "characters": [
+    {
+      "id": "hassan",
+      "name": "Ḥassān",
+      "role": "sahabi",
+      "depiction_rule": "NO_FACE",
+      "appearance": "tall build, dignified upright posture, wearing a flowing white thobe with a deep blue woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"
+    },
+    {
+      "id": "abdullah_ibn_al_zibara",
+      "name": "ʿ Abdullāh ibn al-Ziba ʿ rā",
+      "role": "supporting",
+      "depiction_rule": "FROM_BEHIND",
+      "appearance": "medium build, slightly slouched posture, wearing a plain brown woolen cloak with a white cloth head covering, with tears in his eyes, looking down in contemplation"
+    }
+  ],
+  "narrative_text": "Ḥassān shared wise words that touched ʿ Abdullāh ibn al-Ziba ʿ rā's heart, leading him to think deeply about his actions.",
+  "compliance": {
+    "prophet_check": "FALSE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A serene 7th century Arabian desert landscape with a few palm trees swaying gently in the breeze. Late afternoon sunlight casts long shadows across the sandy ground, and a few wispy clouds drift lazily across the sky. Two figures stand facing each other, one seen from behind: medium build, slightly slouched posture, wearing a plain brown woolen cloak with a white cloth head covering, with tears in his eyes, looking down in contemplation. The other, Ḥassān, stands in a dignified upright posture, wearing a flowing white thobe with a deep blue woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. Ḥassān's face is not visible, but his presence is felt through his confident posture. Soft warm golden light, peaceful and contemplative mood. Medium shot at eye level. Warm beige, sandy, and blue palette with the deep blue cloak as a color anchor. No modern objects, historically accurate 7th century scene."

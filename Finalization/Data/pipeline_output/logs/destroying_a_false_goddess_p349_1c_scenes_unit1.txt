@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Al-Mughīrah ibn Shu'bah arrives at the site of al-Lāt's foundation.",
+    "key_visual_action": "al-Mughīrah ibn Shu'bah walking towards the foundation",
+    "characters_present": ["al-Mughīrah ibn Shu'bah"],
+    "setting": "Desert or a sandy area",
+    "emotional_tone": "Determined",
+    "time_of_day": "morning"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Al-Mughīrah ibn Shu'bah digs up the foundation of al-Lāt, causing chaos.",
+    "key_visual_action": "al-Mughīrah ibn Shu'bah digging with a shovel, earth flying up",
+    "characters_present": ["al-Mughīrah ibn Shu'bah", "key-keeper of the place"],
+    "setting": "Desert or a sandy area",
+    "emotional_tone": "Excitement and chaos",
+    "time_of_day": "morning"
+  }
+]

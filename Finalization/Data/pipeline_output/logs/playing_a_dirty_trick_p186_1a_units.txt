@@ -1,0 +1,58 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "The Hudhayl's Anger",
+    "unit_text": "The Hudhayl were enraged at the assassination of their leader and realized they couldn't avenge themselves against the Muslims in Madinah.",
+    "main_characters": ["Hudhayl"],
+    "event_summary": "The Hudhayl are angry about the assassination of their leader."
+  },
+  {
+    "unit_number": 2,
+    "unit_title": "The Delegation to the Prophet",
+    "unit_text": "The Hudhayl sent a delegation to the Prophet, claiming their tribesmen wanted to learn about Islam and possibly embrace it.",
+    "main_characters": ["Hudhayl", "Prophet"],
+    "event_summary": "The Hudhayl send a delegation to the Prophet, pretending to be interested in Islam."
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "The Prophet Sends Companions",
+    "unit_text": "The Prophet sent six companions, including Marthad ibn Abī Marthad as their leader, to explain Islam to the Hudhayl.",
+    "main_characters": ["Prophet", "Marthad ibn Abī Marthad", "Hudhayl"],
+    "event_summary": "The Prophet sends six companions to teach the Hudhayl about Islam."
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "The Betrayal at al-Rajīʿ",
+    "unit_text": "The delegation secretly sent the Hudhayl to arrest the Muslim group at a spring called al-Rajīʿ, where they were taken by surprise.",
+    "main_characters": ["Hudhayl", "Muslims"],
+    "event_summary": "The Hudhayl betray the Muslim group at al-Rajīʿ."
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The First Three Muslims Killed",
+    "unit_text": "Marthad, Khālid, and ʿĀṣim refused to accept the Hudhayl's pledge and fought back, but were killed.",
+    "main_characters": ["Marthad", "Khālid", "ʿĀṣim", "Hudhayl"],
+    "event_summary": "The first three Muslims are killed for refusing to accept the Hudhayl's pledge."
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "The Other Three Muslims Captured",
+    "unit_text": "The other three Muslims, Khubayb, Zaid, and ʿ Abdullāh, were inclined to accept the offer and laid down their arms, but were taken prisoner.",
+    "main_characters": ["Khubayb", "Zaid", "ʿ Abdullāh", "Hudhayl"],
+    "event_summary": "The other three Muslims are captured after accepting the Hudhayl's offer."
+  },
+  {
+    "unit_number": 7,
+    "unit_title": "ʿ Abdullāh's Death",
+    "unit_text": "ʿ Abdullāh ibn Ṭāriq realized the Hudhayl's treachery and tried to escape, but was killed.",
+    "main_characters": ["ʿ Abdullāh ibn Ṭāriq", "Hudhayl"],
+    "event_summary": "ʿ Abdullāh is killed for trying to escape from the Hudhayl."
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "The Remaining Two Muslims Guarded",
+    "unit_text": "The other two Muslims were kept under guard by the Hudhayl.",
+    "main_characters": ["Hudhayl", "Muslims"],
+    "event_summary": "The remaining two Muslims are kept under guard by the Hudhayl."
+  }
+]

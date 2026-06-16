@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "Muhammad meets with Ḥārithah and Kaʿb to discuss Zayd's future",
+    "key_visual_action": "Muhammad gesturing with his hands, looking concerned",
+    "characters_present": ["Muhammad", "Ḥārithah", "Kaʿb"],
+    "setting": "A quiet room in the mosque",
+    "emotional_tone": "Serious",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Muhammad proposes the choice to Zayd",
+    "key_visual_action": "Muhammad holding Zayd's hands, looking directly at him",
+    "characters_present": ["Muhammad", "Zayd"],
+    "setting": "A quiet room in the mosque",
+    "emotional_tone": "Empathetic",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Zayd looks uncertain, weighing his options",
+    "key_visual_action": "Zayd looking down, biting his lip",
+    "characters_present": ["Zayd"],
+    "setting": "A quiet room in the mosque",
+    "emotional_tone": "Anxious",
+    "time_of_day": "afternoon"
+  }
+]

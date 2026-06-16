@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet arrives at Zamzam, thirsty and in need of water.",
+    "key_visual_action": "The Prophet bending down to drink from the Zamzam well",
+    "characters_present": ["The Prophet"],
+    "setting": "Zamzam well, Mecca",
+    "emotional_tone": "Relief",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet renews his ablutions, with water dripping from his face and hands.",
+    "key_visual_action": "Water droplets falling from the Prophet's face and hands",
+    "characters_present": ["The Prophet"],
+    "setting": "Zamzam well, Mecca",
+    "emotional_tone": "Renewal",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "The Prophet's face and hands are surrounded by Muslims competing to gather water from them.",
+    "key_visual_action": "A Muslim child holding a cloth to catch water from the Prophet's face",
+    "characters_present": ["The Prophet", "Muslims"],
+    "setting": "Zamzam well, Mecca",
+    "emotional_tone": "Excitement",
+    "time_of_day": "afternoon"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The Prophet Muhammad is shown with a thoughtful expression, considering his next move.",
+    "key_visual_action": "Muhammad's hand on his chin, deep in thought",
+    "characters_present": ["Muhammad"],
+    "setting": "A quiet, private space in Medina",
+    "emotional_tone": "contemplative",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "ʿAbdullāh ibn Ubayy and his followers are shown in the background, looking angry and aggressive.",
+    "key_visual_action": "ʿAbdullāh pointing his finger at Muhammad, with a scowl on his face",
+    "characters_present": ["ʿAbdullāh ibn Ubayy", "followers"],
+    "setting": "The streets of Medina, with a crowd of people in the background",
+    "emotional_tone": "tense",
+    "time_of_day": "afternoon"
+  }
+]

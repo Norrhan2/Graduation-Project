@@ -1,0 +1,50 @@
+[
+  {
+    "unit_number": 2,
+    "unit_title": "Persuading ʿAmr ibn al-Jamūḥ",
+    "unit_text": "Young Muslims from the clan of Salamah tried to persuade ʿAmr ibn al-Jamūḥ to join Islam, but he was hesitant due to his age and attachment to his idol.",
+    "main_characters": [
+      "ʿAmr ibn al-Jamūḥ",
+      "Young Muslims from Salamah"
+    ],
+    "event_summary": "Young Muslims from Salamah tried to persuade ʿAmr ibn al-Jamūḥ to convert to Islam.",
+    "selection_reason": "Clear visual moment of persuasion and interaction between characters.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 3,
+    "unit_title": "Targeting ʿAmr's Idol",
+    "unit_text": "The young men of Salamah decided to target ʿAmr's idol by stealing and destroying it, hoping to make ʿAmr realize its uselessness.",
+    "main_characters": [
+      "Young men of Salamah",
+      "ʿAmr ibn al-Jamūḥ"
+    ],
+    "event_summary": "The young men of Salamah targeted ʿAmr's idol to make him see its uselessness.",
+    "selection_reason": "Action-packed scene with a clear goal and consequences.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 5,
+    "unit_title": "The Final Destruction of the Idol",
+    "unit_text": "The young men of Salamah took ʿAmr's idol, tied it to a dead dog, and threw it into a well, making ʿAmr realize its uselessness.",
+    "main_characters": [
+      "Young men of Salamah",
+      "ʿAmr ibn al-Jamūḥ"
+    ],
+    "event_summary": "The young men of Salamah finally destroyed ʿAmr's idol, making him see its uselessness.",
+    "selection_reason": "Visual and dramatic moment of the idol's destruction.",
+    "estimated_scenes": 3
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "ʿAmr's Conversion",
+    "unit_text": "ʿAmr accepted Islam after realizing the uselessness of his idol and was convinced by the message of Islam.",
+    "main_characters": [
+      "ʿAmr ibn al-Jamūḥ",
+      "Young men of Salamah"
+    ],
+    "event_summary": "ʿAmr ibn al-Jamūḥ accepted Islam after realizing the uselessness of his idol.",
+    "selection_reason": "Emotional and meaningful moment of conversion.",
+    "estimated_scenes": 2
+  }
+]

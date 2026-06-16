@@ -1,0 +1,15 @@
+{
+  "scene_number": 5,
+  "scene_title": "ʿ Abdullāh ibn Anīs' Gratitude",
+  "era": "madinah_early",
+  "region": "medinah",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 185",
+  "moral_lesson": "Gratitude towards the Prophet and Allah",
+  "characters": [
+    {"id": "1", "name": "ʿ Abdullāh ibn Anīs", "role": "sahabi", "depiction_rule": "FULL", "appearance": "tall, slender build, slightly stooped shoulders, off-white thobe, plain brown woolen cloak, white cloth head covering"},
+    {"id": "2", "name": "the central figure", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, flowing white thobe, deep green woolen cloak draped over both shoulders, white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "ʿ Abdullāh ibn Anīs looked up at the Prophet with a grateful heart, feeling blessed to have received guidance from him.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "None"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. The interior of the Prophet's Mosque in Medina during the afternoon, with warm sunlight streaming through a series of arched windows above the prayer hall. The room is filled with a soft, golden light that casts a warm glow on the scene. ʿ Abdullāh ibn Anīs sits on a simple wooden bench, his eyes fixed on the central figure seen entirely from behind, dressed in a flowing white thobe with a deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. ʿ Abdullāh ibn Anīs' face is filled with a look of deep gratitude, his eyes shining with appreciation. The central figure is seen in a dignified posture, one hand extended in a gentle gesture. The atmosphere is peaceful and serene, filled with a sense of devotion and gratitude. Medium close shot at eye level. Warm beige, golden, and cream palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

@@ -1,0 +1,38 @@
+{
+  "scene_input": {
+    "scene_number": 2,
+    "scene_summary": "Ka ʿ b ibn Asad refuses to open the door",
+    "key_visual_action": "Ka ʿ b standing behind a closed door with a firm expression",
+    "characters_present": [
+      "Ka ʿ b ibn Asad"
+    ],
+    "setting": "Ka ʿ b ibn Asad's house",
+    "emotional_tone": "firmness",
+    "time_of_day": "afternoon"
+  },
+  "schema_output": {
+    "scene_title": "Ka ʿ b ibn Asad's Firm Decision",
+    "era": "pre_islamic_prophets",
+    "region": "makkah",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 217",
+    "moral_lesson": "Standing firm in one's beliefs and decisions",
+    "characters": [
+      {
+        "id": "1",
+        "name": "Ka ʿ b ibn Asad",
+        "role": "antagonist",
+        "depiction_rule": "NO_FACE",
+        "appearance": "medium build, dignified upright posture, wearing a flowing white thobe and a plain brown woolen cloak with a white cloth head covering"
+      }
+    ],
+    "narrative_text": "Ka ʿ b ibn Asad stood firm, refusing to open the door to the Messenger of Allah.",
+    "compliance": {
+      "prophet_check": "NO_PROPHET_PRESENT",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": ""
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Exterior of a modest 7th century Makkah home with unpainted mud-brick walls in warm earth tones and a packed-earth floor in front of a closed wooden door. Late afternoon golden sunlight casts long shadows across the door and the surrounding area. In the center of the image, a man stands behind the closed door, seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe and a plain brown woolen cloak with a white cloth head covering. The man's expression is firm and resolute. Soft warm golden light, with long shadows and a sense of determination. Medium shot from slightly above, looking down on the figure. Warm beige, brown, and golden palette with the white thobe as a color anchor. No modern objects, historically accurate 7th century scene.",
+    "_safety_changes": []
+  }
+}

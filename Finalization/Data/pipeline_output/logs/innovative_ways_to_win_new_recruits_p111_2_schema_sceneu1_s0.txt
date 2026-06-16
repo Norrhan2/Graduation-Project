@@ -1,0 +1,13 @@
+{
+  "scene_title": "Secret Meeting in the Cave",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 111",
+  "moral_lesson": "Importance of planning and unity in secret",
+  "characters": [
+    {"id": "1", "name": "Young men of Salamah", "role": "supporting", "depiction_rule": "NO_FACE", "appearance": "medium build, youthful energy, simple white thobes with brown woolen cloaks draped over shoulders, cloth head coverings"}
+  ],
+  "narrative_text": "The young men of Salamah gathered in secret to plan their action, determined to follow the teachings of the Messenger.",
+  "compliance": {"prophet_check": "NOT_PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "No potential issues"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A hidden cave or secret meeting place, perhaps an ancient rocky overhang in the Arabian Desert, with rough stone walls and a sandy floor. Flickering torchlight and the faint glow of a crescent moon cast an eerie night ambiance. The air is thick with the scent of damp earth and the sound of distant crickets. A group of young men from the tribe of Salamah, all seen from behind to respect modesty, gather around a makeshift map or parchment spread out on a flat rock, their faces intent and focused. Each wears a simple white thobe with a brown woolen cloak draped over their shoulders, and a cloth head covering. One hand gestures, pointing to the map as they discuss their plan. The dominant colors are the soft blues and grays of the night sky, with the warm glow of the torches and the moon casting an inviting atmosphere. Medium shot from slightly above, capturing the sense of unity and determination among the young men. No modern objects, historically accurate 7th century scene."
+}

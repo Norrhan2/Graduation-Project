@@ -1,0 +1,24 @@
+{
+  "scene_title": "The Earth's Marvels",
+  "era": "pre_islamic_prophets",
+  "region": "other",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 104",
+  "moral_lesson": "Appreciation and wonder for God's creation",
+  "characters": [
+    {
+      "id": "god",
+      "name": "God",
+      "role": "God",
+      "depiction_rule": "FROM_BEHIND|SILHOUETTE",
+      "appearance": "a majestic hand, with outstretched fingers and thumb, emerging from a swirling vortex of clouds"
+    }
+  ],
+  "narrative_text": "God created the Earth with great care, filling it with wonders and beauty.",
+  "compliance": {
+    "prophet_check": "NOT_APPLICABLE",
+    "modesty_check": "COMPLIANT",
+    "child_safe": "APPROPRIATE",
+    "notes": ""
+  },
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A breathtaking, dreamlike depiction of the Earth from space, with the curvature of the planet visible in the distance. The atmosphere glows with soft, ethereal light, and swirling clouds of white and light blue drift across the surface. In the background, a subtle hand gesture from the central figure seen entirely from behind: majestic, with long fingers and thumb extended, emerging from the clouds. The hand is partially obscured by the Earth's atmosphere, giving a sense of mystery and awe. The Earth's surface below is depicted in warm, inviting colors, with oceans, mountains, and forests blending together in a harmonious whole. A sense of peace and serenity pervades the scene, with a gentle sense of movement and energy. Medium shot from a low angle, looking up at the Earth. Warm blue, green, and yellow palette with accents of creamy white and soft gray. No modern objects, historically accurate depiction of the Earth from space, with a nod to the creator's hand in the background."
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "unit_number": 1,
+    "unit_title": "Prophet divides spoils of war among Muhājirīn",
+    "unit_text": "The Prophet divided the spoils of war from the Jews of al-Naḍīr only among the Muhājirīn, excluding the Anṣār.",
+    "main_characters": [
+      "Prophet",
+      "Muhājirīn",
+      "Anṣār"
+    ],
+    "event_summary": "The Prophet divides the spoils of war among the Muhājirīn, excluding the Anṣār.",
+    "selection_reason": "Clear visual moment of the Prophet dividing spoils, meaningful lesson on fairness and distribution.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 4,
+    "unit_title": "Prophet consults Anṣār on fay' distribution",
+    "unit_text": "The Prophet consulted the Anṣār on how to distribute the fay' gained from the Jews of al-Naḍīr.",
+    "main_characters": [
+      "Prophet",
+      "Anṣār"
+    ],
+    "event_summary": "The Prophet consults the Anṣār on the distribution of the fay'.",
+    "selection_reason": "Visual moment of consultation, teaches importance of seeking advice and collaboration.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 6,
+    "unit_title": "Two poor Anṣār receive a share of fay'",
+    "unit_text": "The two poor Anṣār, Sahl ibn Ḥanīf and Abū Dujānah, received a share of the fay' due to their poverty.",
+    "main_characters": [
+      "Prophet",
+      "Sahl ibn Ḥanīf",
+      "Abū Dujānah"
+    ],
+    "event_summary": "The two poor Anṣār receive a share of the fay'.",
+    "selection_reason": "Heartwarming moment of kindness and generosity, teaches importance of helping those in need.",
+    "estimated_scenes": 2
+  },
+  {
+    "unit_number": 8,
+    "unit_title": "Boost to Muslim morale",
+    "unit_text": "The victory over the Jews of al-Naḍīr boosted the Muslims' morale and made them a major force to be reckoned with in Arabia.",
+    "main_characters": [
+      "Muslims",
+      "Jews of al-Naḍīr"
+    ],
+    "event_summary": "The victory over the Jews of al-Naḍīr boosts the Muslims' morale.",
+    "selection_reason": "Exciting visual moment of victory, teaches importance of perseverance and teamwork.",
+    "estimated_scenes": 2
+  }
+]

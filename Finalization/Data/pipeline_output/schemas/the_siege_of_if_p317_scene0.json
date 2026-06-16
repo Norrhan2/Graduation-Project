@@ -1,0 +1,46 @@
+{
+  "scene_input": {
+    "scene_number": 1,
+    "scene_summary": "The Muslim army approaches Ṭā ’if, led by a determined leader.",
+    "key_visual_action": "Muslim leader riding a horse, leading the army",
+    "characters_present": [
+      "Muslim leader",
+      "Muslim army"
+    ],
+    "setting": "Ṭā ’if, desert landscape",
+    "emotional_tone": "Determined",
+    "time_of_day": "morning"
+  },
+  "schema_output": {
+    "scene_title": "The Approach to Ṭā ’if",
+    "era": "pre_prophetic",
+    "region": "arabian_desert",
+    "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 317",
+    "moral_lesson": "Perseverance and determination in the face of adversity",
+    "characters": [
+      {
+        "id": "leader",
+        "name": "The Determined Leader",
+        "role": "leader",
+        "depiction_rule": "NO_FACE|FROM_BEHIND",
+        "appearance": "tall build, dignified upright posture, wearing a flowing white thobe, a deep green woolen cloak draped over both shoulders, a white turban with a cloth tail hanging between the shoulder blades, mounted on a strong-looking horse with a flowing mane and tail"
+      },
+      {
+        "id": "soldier",
+        "name": "Member of the Muslim Army",
+        "role": "supporting",
+        "depiction_rule": "NO_FACE|FROM_BEHIND|SILHOUETTE|FULL",
+        "appearance": "various builds and ages, dressed in simple yet practical clothing, some carrying spears or shields"
+      }
+    ],
+    "narrative_text": "The Muslim army approaches Ṭā ’if, led by a brave and determined leader who will not be deterred from achieving their goal.",
+    "compliance": {
+      "prophet_check": "NOT_APPLICABLE",
+      "modesty_check": "COMPLIANT",
+      "child_safe": "APPROPRIATE",
+      "notes": "Historically accurate depiction of a 7th century desert landscape"
+    },
+    "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, open desert landscape with towering sand dunes stretching towards the horizon, under a clear blue morning sky with a few wispy clouds. In the distance, a large army of horsemen and foot soldiers approaches, their dark silhouettes against the bright sky. The central figure, the determined leader, rides at the front of the army, seen entirely from behind: tall build, dignified upright posture, wearing a flowing white thobe, a deep green woolen cloak draped over both shoulders, a white turban with a cloth tail hanging between the shoulder blades. The leader's horse is strong and proud, with a flowing mane and tail. The sun rises high in the sky, casting long shadows behind the figures. Soft warm morning light, vast and majestic mood. Medium wide shot from a low angle. Warm beige, blue, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century desert scene.",
+    "_safety_changes": []
+  }
+}

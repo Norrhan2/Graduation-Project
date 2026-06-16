@@ -1,0 +1,14 @@
+{
+  "scene_number": 2,
+  "scene_summary": "Surāqah promises not to harm the Prophet and asks for a note of recognition.",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 119",
+  "moral_lesson": "Importance of keeping promises and seeking recognition",
+  "characters": [
+    {"id": "Surāqah", "name": "Surāqah ibn Mālik", "role": "antagonist", "depiction_rule": "FULL", "appearance": "tall, muscular build, rugged clothing, dark beard"},
+    {"id": "The Prophet", "name": "The central figure", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "Surāqah ibn Mālik, a fierce warrior, met the Prophet in the desert and, moved by his words, promised not to harm him. He asked the Prophet to write a note of recognition, which the Prophet did, marking the beginning of Surāqah's journey towards Islam.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "No graphic violence or idols"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, sun-baked Arabian Desert landscape with a distant city visible on the horizon, its buildings and minarets rising from the dunes like mirages. Late afternoon sunlight casts a warm golden glow across the scene, with a few scattered palm trees and rocky outcroppings adding texture and depth. In the foreground, a lone figure stands with his hands held out in a gesture of surrender, dressed in rugged, earth-toned clothing and a dark beard framing his face. His eyes are cast downward, and a look of genuine remorse etches his features. Behind him, the central figure is seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, holding a small piece of parchment and a reed pen. Soft warm golden light, hopeful and relieved mood. Medium close shot at eye level. Warm beige, golden, and sand palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."

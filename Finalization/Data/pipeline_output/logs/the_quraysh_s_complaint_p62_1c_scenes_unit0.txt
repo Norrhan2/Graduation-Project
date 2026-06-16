@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The delegation of influential Makkans arrives at Abū Ṭālib's house.",
+    "key_visual_action": "Abū Ṭālib's surprised expression as he opens the door",
+    "characters_present": ["Abū Ṭālib", "ʿ Utbah", "Shaybah", "Abū Sufyān"],
+    "setting": "Abū Ṭālib's house",
+    "emotional_tone": "Surprise",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The delegation approaches Abū Ṭālib, complaining about the Prophet's behavior.",
+    "key_visual_action": "ʿ Utbah's angry gesture as he speaks to Abū Ṭālib",
+    "characters_present": ["Abū Ṭālib", "ʿ Utbah", "Shaybah", "Abū Sufyān"],
+    "setting": "Abū Ṭālib's courtyard",
+    "emotional_tone": "Anger",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "Abū Ṭālib stands firm, defending the Prophet's actions.",
+    "key_visual_action": "Abū Ṭālib's confident stance with his hands on his hips",
+    "characters_present": ["Abū Ṭālib", "ʿ Utbah", "Shaybah", "Abū Sufyān"],
+    "setting": "Abū Ṭālib's courtyard",
+    "emotional_tone": "Confidence",
+    "time_of_day": "afternoon"
+  }
+]

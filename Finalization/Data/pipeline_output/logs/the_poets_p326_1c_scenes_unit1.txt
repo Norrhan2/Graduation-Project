@@ -1,0 +1,29 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "ʿ Abdullāh ibn al-Ziba ʿ rā flees to Najrān, escaping his past",
+    "key_visual_action": "running away from a background of destruction",
+    "characters_present": ["ʿ Abdullāh ibn al-Ziba ʿ rā"],
+    "setting": "desert landscape with ruins in the background",
+    "emotional_tone": "fearful",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "Ḥassān confronts ʿ Abdullāh ibn al-Ziba ʿ rā with a line of poetry, challenging him",
+    "key_visual_action": "Ḥassān pointing at ʿ Abdullāh ibn al-Ziba ʿ rā with a confident expression",
+    "characters_present": ["Ḥassān", "ʿ Abdullāh ibn al-Ziba ʿ rā"],
+    "setting": "open desert with a few palm trees",
+    "emotional_tone": "intense",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 3,
+    "scene_summary": "ʿ Abdullāh ibn al-Ziba ʿ rā is moved to repentance by Ḥassān's words",
+    "key_visual_action": "ʿ Abdullāh ibn al-Ziba ʿ rā with tears in his eyes, looking down in contemplation",
+    "characters_present": ["Ḥassān", "ʿ Abdullāh ibn al-Ziba ʿ rā"],
+    "setting": "open desert with a few palm trees",
+    "emotional_tone": "reflective",
+    "time_of_day": "afternoon"
+  }
+]

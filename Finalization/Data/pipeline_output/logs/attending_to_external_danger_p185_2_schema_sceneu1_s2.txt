@@ -1,0 +1,15 @@
+{
+  "scene_number": 3,
+  "scene_summary": "The Muslim force attacks the Asad tribe by surprise",
+  "era": "pre_prophetic",
+  "region": "arabian_desert",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 185",
+  "moral_lesson": "Surprise attacks can have unintended consequences",
+  "characters": [
+    {"id": "muslim_warrior", "name": "Muslim warrior", "role": "supporting", "depiction_rule": "NO_FACE", "appearance": "medium build, muscular, wearing a simple brown woolen cloak and a white turban with a cloth tail hanging between the shoulder blades, carrying a sword and shield"},
+    {"id": "asad_tribe_member", "name": "Asad tribe member", "role": "supporting", "depiction_rule": "NO_FACE", "appearance": "tall build, slender, wearing a simple white thobe and a plain brown woolen cloak with a white cloth head covering, looking shocked and frightened"}
+  ],
+  "narrative_text": "The Muslim force, led by the central figure, attacked the Asad tribe by surprise. The Asad tribe was caught off guard and did not know how to react.",
+  "compliance": {"prophet_check": "NOT_PRESENT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "None"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast desert landscape with sparse palm trees and jagged rocks in the background. Late morning sunlight casts a warm glow, with the sun high in the sky. In the foreground, a group of Muslim warriors, dressed in simple brown woolen cloaks and white turbans with cloth tails, charge forward with swords raised high, their faces hidden from view. The central figure, seen entirely from behind, leads the charge, wearing a distinctive deep green woolen cloak draped over both shoulders. In the distance, the Asad tribe members, dressed in simple white thobes and plain brown woolen cloaks with white cloth head coverings, look on in shock and fear, their faces visible but not detailed. Soft warm golden light, exciting and dynamic mood. Wide-angle shot from a low angle, emphasizing the Muslim warriors' charge. Warm beige, sandy, and golden palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "scene_number": 1,
+    "scene_summary": "The delegation of Azd Suwayd ibn al- Ḥārith approaches the Prophet's home.",
+    "key_visual_action": "Suwayd ibn al- Ḥārith leading the group, looking towards the Prophet's home.",
+    "characters_present": ["Suwayd ibn al- Ḥārith", "The Prophet"],
+    "setting": "Prophet's home in Medina",
+    "emotional_tone": "Curiosity",
+    "time_of_day": "afternoon"
+  },
+  {
+    "scene_number": 2,
+    "scene_summary": "The Prophet welcomes the delegation with a smile.",
+    "key_visual_action": "The Prophet extending his hand in a gesture of welcome.",
+    "characters_present": ["Suwayd ibn al- Ḥārith", "The Prophet"],
+    "setting": "Prophet's home in Medina",
+    "emotional_tone": "Friendliness",
+    "time_of_day": "afternoon"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "scene_number": 2,
+  "scene_summary": "Marthad, Khālid, and ʿĀṣim refuse to pledge allegiance and prepare to fight back.",
+  "era": "pre_islamic_prophets|ancient_prophets|pre_prophetic|early_makkah|late_makkah",
+  "region": "arabian_desert|levant_ancient",
+  "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 186",
+  "moral_lesson": "Standing up for what you believe in, even if it's difficult.",
+  "characters": [
+    {"id": "marthad", "name": "Marthad", "role": "antagonist", "depiction_rule": "FULL", "appearance": "tall build, strong posture, wearing a beige thobe and a light tan head cloth, with a determined expression"},
+    {"id": "khalid", "name": "Khālid", "role": "antagonist", "depiction_rule": "FULL", "appearance": "muscular build, broad shoulders, wearing a dark brown thobe and a red and white striped head cloth, with a resolute expression"},
+    {"id": "asim", "name": "ʿĀṣim", "role": "antagonist", "depiction_rule": "FULL", "appearance": "lean build, agile posture, wearing a light blue thobe and a white head cloth, with a fierce determination in his eyes"},
+    {"id": "the central figure", "name": "Prophet Muhammad", "role": "prophet", "depiction_rule": "FROM_BEHIND", "appearance": "medium build, dignified posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades"}
+  ],
+  "narrative_text": "Marthad, Khālid, and ʿĀṣim stood firm, their fists clenched and their faces set in determination. They refused to pledge allegiance to the Prophet and were prepared to fight back.",
+  "compliance": {"prophet_check": "COMPLIANT", "modesty_check": "COMPLIANT", "child_safe": "APPROPRIATE", "notes": "None"},
+  "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A vast, open desert plain stretches out before us, with sandy dunes rising and falling in gentle waves. The late afternoon sun beats down relentlessly, casting a warm golden glow over the scene. In the distance, a group of three men stand shoulder to shoulder, their faces set in determined expressions. Marthad, a tall and strong-built man, wears a beige thobe and a light tan head cloth, his fists clenched at his sides. Khālid, a muscular and broad-shouldered man, wears a dark brown thobe and a red and white striped head cloth, his eyes blazing with resolve. ʿĀṣim, a lean and agile man, wears a light blue thobe and a white head cloth, his face set in a fierce determination. Behind them, the central figure seen entirely from behind: medium build, dignified upright posture, wearing a flowing white thobe with a distinctive deep green woolen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, one hand extended in a calm and authoritative gesture. The sandy dunes rise up behind them, casting long shadows in the fading light. Soft warm golden light, dramatic and intense mood. Medium shot at eye level. Warm beige, golden, and blue palette with the deep green cloak as a color anchor. No modern objects, historically accurate 7th century scene."
