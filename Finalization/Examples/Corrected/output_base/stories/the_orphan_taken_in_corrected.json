@@ -1,0 +1,205 @@
+{
+  "passage_id": "the_orphan_taken_in",
+  "display_title": "A Transfer of Care",
+  "source": "Adil Salahi, Muhammad: Man and Prophet, p. 32",
+  "story_context": {
+    "story_title": "A Loving Home for Muhammad",
+    "introduction": "When Muhammad was a little boy, he had already lost his mother and father. He lived with his grandfather, Abd al-Muttalib, who loved him dearly. But his grandfather was very old. This is the story of how Muhammad was cared for with great love.",
+    "conclusion": "Muhammad grew up safe and loved in the home of his uncle Abu Talib. Even when others turned against him years later, Abu Talib stood by his side. Their love for each other never faded.",
+    "moral_lesson": "Caring for orphans and family members in need is one of the kindest things a person can do.",
+    "reading_age": "6-10",
+    "key_figures": [
+      "Muhammad",
+      "Abd al-Muttalib",
+      "Abu Talib"
+    ]
+  },
+  "units": null,
+  "panels": [
+    {
+      "panel_number": 1,
+      "unit_title": "A grandfather's worry",
+      "narrative_text": "Muhammad's grandfather, Abd al-Muttalib, was growing very old. He knew he did not have long to live, and he worried about who would care for his beloved grandson.",
+      "moral_lesson": "Thinking ahead with love for those we care for.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Inside a modest 7th century Makkah home with mud-brick walls in warm earth tones, an old man with a long white beard, Abd al-Muttalib, sits on a low cushioned bench looking thoughtful and concerned. Soft afternoon light falls through a small high window. Warm sand and amber palette, gentle and tender mood. Medium shot at eye level. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abd_al_muttalib",
+          "name": "Abd al-Muttalib",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a very old man with a long white beard, deeply lined kind face, wearing layered cream and tan robes with a brown cloak and a white head cloth, frail but dignified"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND or NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "the_orphan_taken_in_corrected_panel_1.png"
+    },
+    {
+      "panel_number": 2,
+      "unit_title": "A promise to care",
+      "narrative_text": "Abd al-Muttalib called his son Abu Talib to him. He asked Abu Talib to look after Muhammad, his young nephew, after he was gone. Abu Talib promised he would.",
+      "moral_lesson": "Keeping a promise to care for family.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Inside the same warm Makkah home, the very old Abd al-Muttalib sits and gently holds the hand of Abu Talib, a middle-aged man with a short greying beard and kind face, who leans in attentively. Between them stands a small boy of about eight seen from behind, in a simple cream tunic. Soft golden light, a moment of trust and family love. Medium shot. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abd_al_muttalib",
+          "name": "Abd al-Muttalib",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a very old man with a long white beard, deeply lined kind face, wearing layered cream and tan robes with a brown cloak and a white head cloth, frail but dignified"
+        },
+        {
+          "id": "abu_talib",
+          "name": "Abu Talib",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a middle-aged man with a short greying beard, warm caring face, wearing a sand-colored thobe with a darker brown cloak and a white turban, dignified and gentle"
+        },
+        {
+          "id": "muhammad_child",
+          "name": "Muhammad (as a boy)",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a young boy of about eight years, seen only from behind or with face turned away, slight build, wearing a simple cream-colored tunic with a small brown cloak, dark hair, never showing facial features"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND or NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "the_orphan_taken_in_corrected_panel_2.png"
+    },
+    {
+      "panel_number": 3,
+      "unit_title": "A boy's grief",
+      "narrative_text": "Soon after, Abd al-Muttalib passed away. Muhammad was only eight years old. He was very sad to lose his grandfather, who had been so kind to him.",
+      "moral_lesson": "It is natural to grieve for those we love.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A young boy of about eight, seen from behind with head bowed, stands quietly in a simple Makkah courtyard at dusk. His small shoulders are lowered in sadness. Warm fading light, soft purple and amber sky, a gentle and tender mood of quiet grief, nothing frightening. Wide shot showing the lonely small figure. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "muhammad_child",
+          "name": "Muhammad (as a boy)",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a young boy of about eight years, seen only from behind or with face turned away, slight build, wearing a simple cream-colored tunic with a small brown cloak, dark hair, never showing facial features"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND or NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "the_orphan_taken_in_corrected_panel_3.png"
+    },
+    {
+      "panel_number": 4,
+      "unit_title": "Welcomed with love",
+      "narrative_text": "Abu Talib took Muhammad into his home and cared for him like his own child. Even though Abu Talib was not rich and had a large family, he gave Muhammad all his love.",
+      "moral_lesson": "A caring home matters more than a wealthy one.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Inside Abu Talib's modest home, the warm-faced Abu Talib gently places a hand on the shoulder of a young boy seen from behind, welcoming him. Several other children sit nearby on a woven palm mat. Warm candlelight fills the cozy room, plates of simple food on a low table. Loving, secure mood. Medium shot. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abu_talib",
+          "name": "Abu Talib",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a middle-aged man with a short greying beard, warm caring face, wearing a sand-colored thobe with a darker brown cloak and a white turban, dignified and gentle"
+        },
+        {
+          "id": "muhammad_child",
+          "name": "Muhammad (as a boy)",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a young boy of about eight years, seen only from behind or with face turned away, slight build, wearing a simple cream-colored tunic with a small brown cloak, dark hair, never showing facial features"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND or NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "the_orphan_taken_in_corrected_panel_4.png"
+    },
+    {
+      "panel_number": 5,
+      "unit_title": "Blessings at the table",
+      "narrative_text": "Abu Talib noticed something special. Whenever Muhammad ate with the family, there always seemed to be enough food for everyone. He would tell his children to wait for Muhammad before eating.",
+      "moral_lesson": "Gratitude and blessing in sharing a meal.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A warm domestic scene in Abu Talib's 7th century Makkah home: the family gathers around a low wooden table set with earthenware bowls of dates, bread and milk. Abu Talib smiles warmly as a boy seen from behind takes his place among the children on the woven mat. Soft golden lamplight, plentiful food, joyful and cozy mood. Warm amber and cream palette. Medium wide shot. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abu_talib",
+          "name": "Abu Talib",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a middle-aged man with a short greying beard, warm caring face, wearing a sand-colored thobe with a darker brown cloak and a white turban, dignified and gentle"
+        },
+        {
+          "id": "muhammad_child",
+          "name": "Muhammad (as a boy)",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a young boy of about eight years, seen only from behind or with face turned away, slight build, wearing a simple cream-colored tunic with a small brown cloak, dark hair, never showing facial features"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND or NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "the_orphan_taken_in_corrected_panel_5.png"
+    },
+    {
+      "panel_number": 6,
+      "unit_title": "Standing by him always",
+      "narrative_text": "Muhammad grew into a man in Abu Talib's care. Years later, when Muhammad began to share God's message, Abu Talib stood by his side and protected him, even when powerful people opposed him.",
+      "moral_lesson": "Loyalty means standing by those we love in hard times.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. In a public square in Makkah, Abu Talib, now older with more grey in his beard, stands protectively beside the central figure seen from behind in a deep green cloak. Abu Talib's posture is firm and brave, facing the viewer. Behind them, mud-brick buildings and a few onlookers. Warm daylight, dignified and steadfast mood. Medium shot. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abu_talib",
+          "name": "Abu Talib",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a middle-aged man with a short greying beard, warm caring face, wearing a sand-colored thobe with a darker brown cloak and a white turban, dignified and gentle"
+        },
+        {
+          "id": "muhammad",
+          "name": "the central figure",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a dignified man seen only from behind, medium build, upright posture, wearing a flowing white thobe with a deep green woolen cloak over both shoulders and a white turban with a cloth tail between the shoulder blades, never showing facial features"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND or NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "early_makkah",
+      "region": "makkah",
+      "image_file": "the_orphan_taken_in_corrected_panel_6.png"
+    }
+  ]
+}
