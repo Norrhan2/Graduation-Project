@@ -31,32 +31,21 @@
       "unit_number": 2,
       "unit_title": "Abū Bakr Helps the Prophet",
       "unit_text": "Later he was to play an important role in helping the Prophet and Abū Bakr to emigrate from Makkah to Madinah.",
-      "main_characters": [
-        "Abū Bakr",
-        "The Prophet"
-      ],
+      "main_characters": ["Abū Bakr", "The Prophet"],
       "event_summary": "Abū Bakr helped the Prophet and himself to emigrate from Makkah to Madinah."
     },
     {
       "unit_number": 3,
       "unit_title": "Abū Bakr's Action with Zunayrah",
       "unit_text": "Zunayrah was a slave who belonged to the Makhzūm clan. As such, it was left to Abū Jahl to torture her. He gave her so much of his venom that she lost her sight.",
-      "main_characters": [
-        "Abū Bakr",
-        "Zunayrah",
-        "Abū Jahl"
-      ],
+      "main_characters": ["Abū Bakr", "Zunayrah", "Abū Jahl"],
       "event_summary": "Abū Bakr rescued Zunayrah from torture and set her free."
     },
     {
       "unit_number": 4,
       "unit_title": "Abū Bakr Rescues Al-Nahdiyah and Her Daughter",
       "unit_text": "A woman called al-Nahdiyah and her daughter were slaves belonging to a woman from the clan of ʿ Abd al-Dār. Both became Muslims and their mistress ordered them to be tortured.",
-      "main_characters": [
-        "Abū Bakr",
-        "al-Nahdiyah",
-        "Her Daughter"
-      ],
+      "main_characters": ["Abū Bakr", "al-Nahdiyah", "Her Daughter"],
       "event_summary": "Abū Bakr bought al-Nahdiyah and her daughter from their mistress and set them free."
     },
     {
@@ -74,40 +63,28 @@
       "unit_number": 6,
       "unit_title": "Abū Bakr Frees Another Slave",
       "unit_text": "He did the same with a woman slave who belonged to the clan of ʿ Adiy, in which ʿ Umar ibn al-Khaṭṭāb was the tormentor of Muslims as he was still an unbeliever then.",
-      "main_characters": [
-        "Abū Bakr",
-        "ʿ Umar ibn al-Khaṭṭāb"
-      ],
+      "main_characters": ["Abū Bakr", "ʿ Umar ibn al-Khaṭṭāb"],
       "event_summary": "Abū Bakr bought a slave from the clan of ʿ Adiy and set her free."
     },
     {
       "unit_number": 7,
       "unit_title": "Abū Bakr's Father Disapproves",
       "unit_text": "His father, who was not a Muslim, could not understand his action. He said to him: “Son, I see that you are setting free weak slaves. If you want to do this, why don’t you set free some strong men slaves who will be able to protect you?”",
-      "main_characters": [
-        "Abū Bakr",
-        "His Father"
-      ],
+      "main_characters": ["Abū Bakr", "His Father"],
       "event_summary": "Abū Bakr's father disapproved of his actions."
     },
     {
       "unit_number": 8,
       "unit_title": "Abū Bakr's Exemplary Action",
       "unit_text": "Abū Bakr’s action demonstrated the new bond that was established among the followers of the new religion. There was another aspect to what he did: it emphasized that the followers of the new religion were all equal, slaves and masters alike.",
-      "main_characters": [
-        "Abū Bakr"
-      ],
+      "main_characters": ["Abū Bakr"],
       "event_summary": "Abū Bakr's actions showed the equality of followers in the new religion."
     },
     {
       "unit_number": 9,
       "unit_title": "ʿ Umar's Praise for Abū Bakr",
       "unit_text": "Much later, when ʿ Umar became one of the leading figures among the Muslims, he stated this fact in the clearest of terms when he said of Abū Bakr and what he did for Bilāl: “Abū Bakr is our master, and he has freed our master.”",
-      "main_characters": [
-        "Abū Bakr",
-        "ʿ Umar",
-        "Bilāl"
-      ],
+      "main_characters": ["Abū Bakr", "ʿ Umar", "Bilāl"],
       "event_summary": "ʿ Umar praised Abū Bakr for his actions."
     }
   ],
@@ -119,9 +96,7 @@
         "scene_number": 1,
         "scene_summary": "Abu Bakr learns about 'Amir ibn Fuhayrah's enslavement",
         "key_visual_action": "Abu Bakr reading a message or hearing news",
-        "characters_present": [
-          "Abu Bakr"
-        ],
+        "characters_present": ["Abu Bakr"],
         "setting": "Abu Bakr's home or a public gathering place",
         "emotional_tone": "concerned",
         "time_of_day": "daytime"
@@ -205,7 +180,7 @@
         },
         {
           "id": "al_hafayl_ibn_abdulla",
-          "name": "al-Tufayl ibn Abdullah",
+          "name": "al-Hafayl ibn Abdullah",
           "role": "antagonist",
           "depiction_rule": "NO_FACE",
           "appearance": "medium build, wearing a simple brown thobe with a plain white turban"
@@ -213,7 +188,7 @@
         {
           "id": "'amir_ibn_fuhayrah",
           "name": "Amir ibn Fuhayrah",
-          "role": "antagonist",
+          "role": "sahabi",
           "depiction_rule": "NO_FACE",
           "appearance": "young medium build, wearing a plain brown thobe with a plain white cloth tail hanging between the shoulder blades"
         }
@@ -249,7 +224,7 @@
           {
             "id": "'amir_ibn_fuhayrah",
             "name": "'Amir ibn Fuhayrah",
-            "role": "antagonist",
+            "role": "sahabi",
             "depiction_rule": "NO_FACE",
             "appearance": "young medium build, wearing a plain brown thobe with a plain white cloth tail hanging between the shoulder blades"
           }
@@ -278,10 +253,7 @@
         "scene_number": 4,
         "scene_summary": "Abu Bakr sets 'Amir ibn Fuhayrah free",
         "key_visual_action": "Abu Bakr releasing 'Amir ibn Fuhayrah from a rope or a chain",
-        "characters_present": [
-          "Abu Bakr",
-          "'Amir ibn Fuhayrah"
-        ],
+        "characters_present": ["Abu Bakr", "'Amir ibn Fuhayrah"],
         "setting": "a public place, such as a square or a park",
         "emotional_tone": "triumphant",
         "time_of_day": "daytime"
@@ -300,7 +272,7 @@
         {
           "id": "2",
           "name": "Amir ibn Fuhayrah",
-          "role": "antagonist",
+          "role": "sahabi",
           "depiction_rule": "NO_FACE",
           "appearance": "slender build, wearing a simple brown woolen cloak with a white cloth head covering"
         }
@@ -329,7 +301,7 @@
           {
             "id": "2",
             "name": "'Amir ibn Fuhayrah",
-            "role": "antagonist",
+            "role": "sahabi",
             "depiction_rule": "NO_FACE",
             "appearance": "slender build, wearing a simple brown woolen cloak with a white cloth head covering"
           }
@@ -358,10 +330,7 @@
         "scene_number": 5,
         "scene_summary": "Abu Bakr and 'Amir ibn Fuhayrah become friends",
         "key_visual_action": "Abu Bakr and 'Amir ibn Fuhayrah shaking hands or smiling together",
-        "characters_present": [
-          "Abu Bakr",
-          "'Amir ibn Fuhayrah"
-        ],
+        "characters_present": ["Abu Bakr", "'Amir ibn Fuhayrah"],
         "setting": "Abu Bakr's home or a public gathering place",
         "emotional_tone": "warm",
         "time_of_day": "daytime"
@@ -438,10 +407,7 @@
         "scene_number": 2,
         "scene_summary": "Abu Bakr learns about the revelation and decides to help the Prophet.",
         "key_visual_action": "Abu Bakr looking concerned and talking to the Prophet.",
-        "characters_present": [
-          "Abu Bakr",
-          "The Prophet"
-        ],
+        "characters_present": ["Abu Bakr", "The Prophet"],
         "setting": "A house in Makkah",
         "emotional_tone": "Concern",
         "time_of_day": "Day"
@@ -503,9 +469,7 @@
           "notes": "The scene is set in a humble domestic environment, emphasizing the personal and intimate nature of the relationship between Abu Bakr and the Prophet."
         },
         "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. The setting is a simple house in Makkah with a few furnishings and objects. Abu Bakr is shown looking concerned and talking to the central figure, who is seen from behind wearing a deep green woolen cloak. The composition is a gentle close-up shot, emphasizing the emotional tone of the scene. The color palette is predominantly soft blues and whites with accents of deep green.",
-        "_safety_changes": [
-          "'prophet' -> 'the central figure'"
-        ]
+        "_safety_changes": ["'prophet' -> 'the central figure'"]
       }
     },
     {
@@ -515,11 +479,7 @@
         "scene_number": 5,
         "scene_summary": "Abu Bakr and the Prophet finally arrive in Madinah and are welcomed by the people.",
         "key_visual_action": "Abu Bakr and the Prophet riding camels, with a group of people waving and smiling in the background.",
-        "characters_present": [
-          "Abu Bakr",
-          "The Prophet",
-          "People of Madinah"
-        ],
+        "characters_present": ["Abu Bakr", "The Prophet", "People of Madinah"],
         "setting": "A street in Madinah",
         "emotional_tone": "Joy",
         "time_of_day": "Day"
@@ -609,10 +569,7 @@
         "scene_number": 4,
         "scene_summary": "Abu Bakr frees Zunayrah from her chains",
         "key_visual_action": "Abu Bakr breaking the chains",
-        "characters_present": [
-          "Abu Bakr",
-          "Zunayrah"
-        ],
+        "characters_present": ["Abu Bakr", "Zunayrah"],
         "setting": "Desert, near Makhzum clan",
         "emotional_tone": "Joy and relief",
         "time_of_day": "Day"
@@ -642,11 +599,11 @@
         "child_safe": "compliant",
         "notes": "none"
       },
-      "era": "pre_prophetic",
+      "era": "early_makkah",
       "region": "arabian_desert",
       "full_schema": {
         "scene_title": "Abu Bakr frees Zunayrah",
-        "era": "pre_prophetic",
+        "era": "early_makkah",
         "region": "arabian_desert",
         "source_reference": "Adil Salahi, Muhammad: Man and Prophet, p. 255",
         "moral_lesson": "The importance of compassion and freedom",
