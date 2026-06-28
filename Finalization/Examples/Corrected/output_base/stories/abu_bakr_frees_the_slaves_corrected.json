@@ -1,0 +1,206 @@
+{
+  "passage_id": "abu_bakr_frees_the_slaves",
+  "display_title": "Abu Bakr's Noble Heart",
+  "source": "Adil Salahi, Muhammad: Man and Prophet, p. 65",
+  "story_context": {
+    "story_title": "Abu Bakr's Noble Heart",
+    "introduction": "In the early days of Islam, some people who believed in God were treated very cruelly because of their faith. Many of them were slaves who had no one to protect them. But one kind and wealthy man named Abu Bakr decided to help them.",
+    "conclusion": "Abu Bakr freed seven slaves who were being hurt for believing in God. He did not do it for thanks or protection. He did it only to please God. His kindness showed that in Islam, every person is equal and precious.",
+    "moral_lesson": "True kindness means helping those in need without expecting anything in return.",
+    "reading_age": "7-11",
+    "key_figures": [
+      "Abu Bakr",
+      "Amir ibn Fuhayrah",
+      "Zunayrah",
+      "Bilal"
+    ]
+  },
+  "units": null,
+  "panels": [
+    {
+      "panel_number": 1,
+      "unit_title": "A man who wanted to help",
+      "narrative_text": "Abu Bakr was a kind and respected man in Makkah. It made him very sad to see people being hurt simply because they believed in God. He decided he would do something to help them.",
+      "moral_lesson": "Noticing the suffering of others and choosing to act.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. In a sunlit Makkah courtyard, Abu Bakr, a slender man with a thin greying beard in a white thobe and tan cloak, stands with a thoughtful, compassionate expression, one hand over his heart. Warm morning light, mud-brick homes behind him. Gentle, determined mood. Medium shot at eye level. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abu_bakr",
+          "name": "Abu Bakr",
+          "role": "sahabi",
+          "depiction_rule": "FULL",
+          "appearance": "a slender man in his forties with a thin greying beard, gentle determined face, wearing a clean white thobe with a light tan cloak and a white turban"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "early_makkah",
+      "region": "makkah",
+      "image_file": "abu_bakr_frees_the_slaves_corrected_panel_1.png"
+    },
+    {
+      "panel_number": 2,
+      "unit_title": "Freeing Amir the shepherd",
+      "narrative_text": "The first person Abu Bakr helped was Amir ibn Fuhayrah, a gentle shepherd who was being mistreated for his faith. Abu Bakr paid his master and set him free. Amir later helped the Prophet on his great journey to Madinah.",
+      "moral_lesson": "Helping others find freedom and dignity.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. In a Makkah marketplace of mud-brick buildings and palm trees, Abu Bakr gently rests a hand on the shoulder of Amir, a humble young shepherd in a plain brown tunic, who looks up with relief and gratitude. Warm sunlight, hopeful mood. Two figures clearly shown, faces visible. Medium shot. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abu_bakr",
+          "name": "Abu Bakr",
+          "role": "sahabi",
+          "depiction_rule": "FULL",
+          "appearance": "a slender man in his forties with a thin greying beard, gentle determined face, wearing a clean white thobe with a light tan cloak and a white turban"
+        },
+        {
+          "id": "amir",
+          "name": "Amir ibn Fuhayrah",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a young shepherd man with a humble kind face, simple short beard, wearing a plain brown tunic"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "early_makkah",
+      "region": "makkah",
+      "image_file": "abu_bakr_frees_the_slaves_corrected_panel_2.png"
+    },
+    {
+      "panel_number": 3,
+      "unit_title": "Zunayrah's faith",
+      "narrative_text": "A slave woman named Zunayrah was treated so harshly that she lost her sight. Her tormentor mocked her, but she trusted that God could help her. The next morning, her sight returned. Abu Bakr hurried to set her free.",
+      "moral_lesson": "Patience and trust in God through hardship.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. In a quiet Makkah street, Abu Bakr stands respectfully beside Zunayrah, a woman fully and modestly dressed in a long earth-toned gown and head covering, her expression calm and hopeful as warm golden morning light falls gently on her face. Tender, uplifting mood. Medium shot, faces visible, nothing frightening. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abu_bakr",
+          "name": "Abu Bakr",
+          "role": "sahabi",
+          "depiction_rule": "FULL",
+          "appearance": "a slender man in his forties with a thin greying beard, gentle determined face, wearing a clean white thobe with a light tan cloak and a white turban"
+        },
+        {
+          "id": "zunayrah",
+          "name": "Zunayrah",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a woman fully and modestly dressed in a long flowing earth-toned gown and a head covering (khimar) covering her hair completely, dignified patient expression"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "early_makkah",
+      "region": "makkah",
+      "image_file": "abu_bakr_frees_the_slaves_corrected_panel_3.png"
+    },
+    {
+      "panel_number": 4,
+      "unit_title": "The flour and the freedom",
+      "narrative_text": "Abu Bakr freed another woman, al-Nahdiyah, and her daughter. When their mistress said she would never free them, Abu Bakr paid for them himself. He freed seven people in all who were suffering for their faith.",
+      "moral_lesson": "Generosity that asks for nothing back.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Inside a modest home, Abu Bakr hands a small pouch to an older woman while two modestly dressed women in long gowns and head coverings stand nearby with relieved, grateful faces. A bowl of flour rests on a low table. Warm lamplight, kind and hopeful mood. Medium shot. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abu_bakr",
+          "name": "Abu Bakr",
+          "role": "sahabi",
+          "depiction_rule": "FULL",
+          "appearance": "a slender man in his forties with a thin greying beard, gentle determined face, wearing a clean white thobe with a light tan cloak and a white turban"
+        },
+        {
+          "id": "nahdiyah",
+          "name": "al-Nahdiyah",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a woman fully and modestly dressed in a long grey-blue gown and head covering, gentle relieved expression"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "early_makkah",
+      "region": "makkah",
+      "image_file": "abu_bakr_frees_the_slaves_corrected_panel_4.png"
+    },
+    {
+      "panel_number": 5,
+      "unit_title": "Only for God's reward",
+      "narrative_text": "Abu Bakr's father did not understand. He asked, 'Why free weak slaves instead of strong men who could protect you?' Abu Bakr smiled and answered that he wanted only one thing: to be rewarded by God.",
+      "moral_lesson": "Doing good purely to please God.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Inside Abu Bakr's home, an elderly man with a long white beard and a puzzled expression speaks with Abu Bakr, who answers calmly with a gentle smile and an open, sincere gesture. Soft golden lamplight, warm and thoughtful mood. Two figures, faces visible. Medium close shot. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abu_bakr",
+          "name": "Abu Bakr",
+          "role": "sahabi",
+          "depiction_rule": "FULL",
+          "appearance": "a slender man in his forties with a thin greying beard, gentle determined face, wearing a clean white thobe with a light tan cloak and a white turban"
+        },
+        {
+          "id": "abu_quhafa",
+          "name": "Abu Bakr's father",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "an elderly man with a long white beard and a puzzled expression, wearing tan and grey robes with a head cloth"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "early_makkah",
+      "region": "makkah",
+      "image_file": "abu_bakr_frees_the_slaves_corrected_panel_5.png"
+    },
+    {
+      "panel_number": 6,
+      "unit_title": "Master of us all",
+      "narrative_text": "Among those Abu Bakr freed was Bilal, who would become a beloved companion of the Prophet. Years later, people would say of Abu Bakr: he is our master, and he freed our master.",
+      "moral_lesson": "Every person is equal and precious before God.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. In warm daylight, Abu Bakr stands beside Bilal, a tall strong African man with a noble calm face in a simple off-white tunic, both standing with dignity as equals. Behind them, the warm mud-brick city of Makkah. Uplifting, respectful mood, golden light. Medium shot, faces visible. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abu_bakr",
+          "name": "Abu Bakr",
+          "role": "sahabi",
+          "depiction_rule": "FULL",
+          "appearance": "a slender man in his forties with a thin greying beard, gentle determined face, wearing a clean white thobe with a light tan cloak and a white turban"
+        },
+        {
+          "id": "bilal",
+          "name": "Bilal",
+          "role": "sahabi",
+          "depiction_rule": "FULL",
+          "appearance": "a tall strong African man with a noble calm face, short black hair, wearing a simple off-white tunic"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "early_makkah",
+      "region": "makkah",
+      "image_file": "abu_bakr_frees_the_slaves_corrected_panel_6.png"
+    }
+  ]
+}

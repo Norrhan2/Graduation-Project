@@ -1,0 +1,227 @@
+{
+  "passage_id": "zayd_the_first_muslim_man",
+  "display_title": "The First Muslim Man",
+  "source": "Adil Salahi, Muhammad: Man and Prophet, p. 54",
+  "story_context": {
+    "story_title": "Zayd's Choice",
+    "introduction": "Long ago, a young boy named Zayd was taken far from his family and made a slave. His journey led him to the household of Muhammad, before he became a Prophet. There, Zayd would face a choice that would change his life forever.",
+    "conclusion": "When given the chance to return to his family, Zayd chose to stay with Muhammad, because of the kindness and goodness he had seen in him. Muhammad treated him not as a slave but as a beloved son. Zayd later became the first grown man to believe in Islam.",
+    "moral_lesson": "Kindness and love can create bonds stronger than anything else, and goodness is recognized by the heart.",
+    "reading_age": "8-12",
+    "key_figures": [
+      "Zayd",
+      "the central figure (Muhammad)",
+      "Harithah",
+      "Khadijah"
+    ]
+  },
+  "units": null,
+  "panels": [
+    {
+      "panel_number": 1,
+      "unit_title": "A boy taken from home",
+      "narrative_text": "When Zayd was a young boy, he was taken from his mother during a journey and sold far away from his family. His father searched for him with a broken heart, but could not find him.",
+      "moral_lesson": "Compassion for those separated from their families.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. On a dusty Arabian road at dawn, a young boy of about eight with a worried face in a simple tan tunic looks back over his shoulder toward distant hills. Soft muted morning colors, a gentle and sympathetic mood, nothing violent or frightening. Wide shot conveying distance from home. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "zayd_boy",
+          "name": "Zayd (as a boy)",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a boy of about eight with a gentle frightened then hopeful face, dark hair, wearing a simple tan tunic"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "zayd_the_first_muslim_man_corrected_panel_1.png"
+    },
+    {
+      "panel_number": 2,
+      "unit_title": "A new home",
+      "narrative_text": "Zayd was brought to Makkah, where the noble lady Khadijah chose him. When she married Muhammad, she gave Zayd to him. Muhammad was so kind that he soon set Zayd free and treated him like family.",
+      "moral_lesson": "Treating others with dignity and kindness.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Inside a warm, comfortable Makkah home, the noble lady Khadijah, fully and modestly dressed in a fine deep-green gown and head covering, gently presents a young boy to the central figure seen from behind in a green cloak. Warm golden light, welcoming and kind mood. Medium shot; the central figure shown only from behind. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "khadijah",
+          "name": "Khadijah",
+          "role": "family_of_prophet",
+          "depiction_rule": "FULL",
+          "appearance": "a dignified woman fully and modestly dressed in a fine deep-green gown and head covering completely covering her hair, kind noble expression"
+        },
+        {
+          "id": "muhammad",
+          "name": "the central figure",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a dignified young man seen only from behind, medium build, upright posture, wearing a flowing white thobe with a deep green woolen cloak over both shoulders and a white turban, never showing facial features"
+        },
+        {
+          "id": "zayd_boy",
+          "name": "Zayd (as a boy)",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a boy of about eight with a gentle frightened then hopeful face, dark hair, wearing a simple tan tunic"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "zayd_the_first_muslim_man_corrected_panel_2.png"
+    },
+    {
+      "panel_number": 3,
+      "unit_title": "A father's search ends",
+      "narrative_text": "Years passed, and Zayd grew into a young man. One day his father, Harithah, finally discovered where Zayd was. Full of hope, he traveled to Makkah and begged to buy back his son.",
+      "moral_lesson": "The deep love of a parent for a child.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. In a Makkah courtyard, a travel-worn middle-aged man, Harithah, with a hopeful earnest face speaks with the central figure seen from behind in a green cloak, his hands open in heartfelt appeal. Warm daylight, emotional and hopeful mood. Medium shot; central figure from behind only, Harithah's face visible. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "harithah",
+          "name": "Harithah (Zayd's father)",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a middle-aged man with a worn hopeful face and short beard, wearing travel-worn brown and grey robes with a head cloth"
+        },
+        {
+          "id": "muhammad",
+          "name": "the central figure",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a dignified young man seen only from behind, medium build, upright posture, wearing a flowing white thobe with a deep green woolen cloak over both shoulders and a white turban, never showing facial features"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "zayd_the_first_muslim_man_corrected_panel_3.png"
+    },
+    {
+      "panel_number": 4,
+      "unit_title": "The fair choice",
+      "narrative_text": "Muhammad offered something fair. He called Zayd and said, 'If you wish, go with your father. If you wish, stay with me. The choice is yours.' Everyone waited to hear what Zayd would say.",
+      "moral_lesson": "Respecting others' freedom to choose.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Inside a calm Makkah home, the central figure seen from behind in a green cloak gestures gently toward a young man, Zayd, who stands thoughtfully between him and his hopeful father Harithah. Soft warm light, a moment of important decision, gentle mood. Medium wide shot; central figure from behind only, the two men's faces visible. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "muhammad",
+          "name": "the central figure",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a dignified young man seen only from behind, medium build, upright posture, wearing a flowing white thobe with a deep green woolen cloak over both shoulders and a white turban, never showing facial features"
+        },
+        {
+          "id": "zayd",
+          "name": "Zayd",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a young man with a kind earnest face, short dark beard, wearing a clean cream tunic with a brown sash"
+        },
+        {
+          "id": "harithah",
+          "name": "Harithah (Zayd's father)",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a middle-aged man with a worn hopeful face and short beard, wearing travel-worn brown and grey robes with a head cloth"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "zayd_the_first_muslim_man_corrected_panel_4.png"
+    },
+    {
+      "panel_number": 5,
+      "unit_title": "I will stay",
+      "narrative_text": "Without hesitation, Zayd said, 'I will stay with you.' He explained that he had seen such goodness in Muhammad that he could never leave him. His father was moved, and was glad his son was in such kind hands.",
+      "moral_lesson": "Goodness and kindness are recognized by the heart.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. In warm golden light, a young man, Zayd, stands with a calm certain expression and a hand over his heart, beside the central figure seen from behind in a green cloak. His father Harithah looks on with bittersweet understanding. Touching, heartfelt mood, soft amber palette. Medium shot; central figure from behind only. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "zayd",
+          "name": "Zayd",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a young man with a kind earnest face, short dark beard, wearing a clean cream tunic with a brown sash"
+        },
+        {
+          "id": "muhammad",
+          "name": "the central figure",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a dignified young man seen only from behind, medium build, upright posture, wearing a flowing white thobe with a deep green woolen cloak over both shoulders and a white turban, never showing facial features"
+        },
+        {
+          "id": "harithah",
+          "name": "Harithah (Zayd's father)",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a middle-aged man with a worn hopeful face and short beard, wearing travel-worn brown and grey robes with a head cloth"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "zayd_the_first_muslim_man_corrected_panel_5.png"
+    },
+    {
+      "panel_number": 6,
+      "unit_title": "Like a son",
+      "narrative_text": "Muhammad took Zayd by the hand and announced before the people that Zayd would be like his own son. From that day, Zayd was loved deeply, and he later became the first grown man to follow Islam.",
+      "moral_lesson": "Love can make a family out of any two hearts.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Near the Kaaba in old Makkah, the central figure seen from behind in a green cloak holds the hand of the young man Zayd, raising it warmly before a small gathering of onlookers. Bright warm daylight, joyful and dignified mood, the simple stone Kaaba in the background. Wide shot; central figure from behind only, Zayd's face visible and happy. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "muhammad",
+          "name": "the central figure",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a dignified young man seen only from behind, medium build, upright posture, wearing a flowing white thobe with a deep green woolen cloak over both shoulders and a white turban, never showing facial features"
+        },
+        {
+          "id": "zayd",
+          "name": "Zayd",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a young man with a kind earnest face, short dark beard, wearing a clean cream tunic with a brown sash"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "zayd_the_first_muslim_man_corrected_panel_6.png"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "passage_id": "the_orphan_taken_in",
+  "display_title": "A Transfer of Care",
+  "source": "Adil Salahi, Muhammad: Man and Prophet, p. 32",
+  "story_context": {
+    "story_title": "A Loving Home for Muhammad",
+    "introduction": "When Muhammad was a little boy, he had already lost his mother and father. He lived with his grandfather, Abd al-Muttalib, who loved him dearly. But his grandfather was very old. This is the story of how Muhammad was cared for with great love.",
+    "conclusion": "Muhammad grew up safe and loved in the home of his uncle Abu Talib. Even when others turned against him years later, Abu Talib stood by his side. Their love for each other never faded.",
+    "moral_lesson": "Caring for orphans and family members in need is one of the kindest things a person can do.",
+    "reading_age": "6-10",
+    "key_figures": [
+      "Muhammad",
+      "Abd al-Muttalib",
+      "Abu Talib"
+    ]
+  },
+  "units": null,
+  "panels": [
+    {
+      "panel_number": 1,
+      "unit_title": "A grandfather's worry",
+      "narrative_text": "Muhammad's grandfather, Abd al-Muttalib, was growing very old. He knew he did not have long to live, and he worried about who would care for his beloved grandson.",
+      "moral_lesson": "Thinking ahead with love for those we care for.",
+      "image_prompt": "Children's watercolor storybook illustration in a soft, warm, hand-painted style for ages 6-12, with gentle brushstrokes, rounded forms and a tender picture-book quality. The scene is set inside a modest 7th century Makkah home with thick unpainted mud-brick walls in warm sandy-brown tones and a packed-earth floor partly covered by a woven palm-fibre mat in muted ochre. A tall clay water jar stands in one corner and a simple unlit clay oil lamp rests on a low wooden shelf. A small high window lets a soft shaft of warm afternoon sunlight fall gently across the room. Seated on a low cushioned bench is Abd al-Muttalib, a very old man with a long flowing white beard and a deeply lined, kind and dignified face, wearing layered cream and tan robes with a soft brown woollen cloak over his shoulders and a white cloth wound about his head. One weathered hand rests on his knee, the other touches his chest, and his expression is thoughtful and quietly concerned as he gazes toward the light, lost in loving worry about the future. The mood is tender and reflective. Soft warm golden lighting enters from the window on the right, casting gentle long shadows and a serene glow across the walls. The composition is a calm medium shot at eye level, the elderly figure centred and framed by the simple room around him. The colour palette is built from warm sand, cream, soft amber and gentle brown, grounded by the muted ochre mat, giving an overall feeling of warmth, safety and gentle age. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abd_al_muttalib",
+          "name": "Abd al-Muttalib",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a very old man with a long white beard, deeply lined kind face, wearing layered cream and tan robes with a brown cloak and a white head cloth, frail but dignified"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND or NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "the_orphan_taken_in_corrected_1_panel_1.png"
+    },
+    {
+      "panel_number": 2,
+      "unit_title": "A promise to care",
+      "narrative_text": "Abd al-Muttalib called his son Abu Talib to him. He asked Abu Talib to look after Muhammad, his young nephew, after he was gone. Abu Talib promised he would.",
+      "moral_lesson": "Keeping a promise to care for family.",
+      "image_prompt": "Children's watercolor storybook illustration in a soft, warm, hand-painted style for ages 6-12, with gentle brushstrokes, rounded forms and a tender picture-book quality. The scene is set inside the same warm 7th century Makkah home of mud-brick walls and a woven ochre floor mat, softly lit by a small window and a clay oil lamp. Three figures share a tender moment of trust. Seated on a low cushioned bench is the very old Abd al-Muttalib, with his long white beard, deeply lined gentle face and layered cream and tan robes with a brown cloak and white head cloth; he leans forward and gently clasps his son's hand. Standing beside him is Abu Talib, a middle-aged man with a neatly trimmed short greying beard and a warm, caring expression, wearing a sand-coloured thobe with a darker brown cloak over one shoulder and a white turban, listening attentively with a hand placed respectfully over his heart. Between them stands a small boy of about eight, seen only from behind with his face turned fully away and never visible, slight of build with dark hair, wearing a simple cream tunic and a small brown cloak. The gesture between grandfather and uncle is one of solemn, loving promise. Soft golden lamplight and a gentle wash of daylight fill the room, creating an intimate atmosphere. The composition is a balanced medium shot at eye level, the three figures forming a close family triangle. The colour palette uses warm cream, amber and soft brown with quiet touches of deep green in the shadows, evoking tenderness, family bonds and a sacred trust passed gently from one generation to the next. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abd_al_muttalib",
+          "name": "Abd al-Muttalib",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a very old man with a long white beard, deeply lined kind face, wearing layered cream and tan robes with a brown cloak and a white head cloth, frail but dignified"
+        },
+        {
+          "id": "abu_talib",
+          "name": "Abu Talib",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a middle-aged man with a short greying beard, warm caring face, wearing a sand-colored thobe with a darker brown cloak and a white turban, dignified and gentle"
+        },
+        {
+          "id": "muhammad_child",
+          "name": "Muhammad (as a boy)",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a young boy of about eight years, seen only from behind or with face turned away, slight build, wearing a simple cream-colored tunic with a small brown cloak, dark hair, never showing facial features"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND or NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "the_orphan_taken_in_corrected_1_panel_2.png"
+    },
+    {
+      "panel_number": 3,
+      "unit_title": "A boy's grief",
+      "narrative_text": "Soon after, Abd al-Muttalib passed away. Muhammad was only eight years old. He was very sad to lose his grandfather, who had been so kind to him.",
+      "moral_lesson": "It is natural to grieve for those we love.",
+      "image_prompt": "Children's watercolor storybook illustration in a soft, warm, hand-painted style for ages 6-12, with gentle brushstrokes, rounded forms and a tender picture-book quality. The scene is set in a quiet courtyard of a 7th century Makkah home at dusk, enclosed by low mud-brick walls in warm earth tones, with a single slender date palm rising against a softly glowing sky and a clay water jar resting beside the wall. A small boy of about eight stands alone near the centre, seen only from behind with his head gently bowed and his face never visible, his small shoulders lowered in quiet sadness; he wears a simple cream tunic with a little brown cloak, and his dark hair catches the last warm light of the day. A few fallen palm leaves lie on the swept earth floor around him. The mood is one of gentle, dignified grief, tender and safe rather than frightening, capturing a child's sorrow at losing someone dear. The lighting is the soft amber and rose glow of sunset fading into cool lavender at the edges of the sky, casting one long gentle shadow from the small figure across the ground. The composition is a wide shot that emphasises the lonely smallness of the child within the calm open space. The colour palette blends warm amber, soft rose, dusty sand and gentle lavender, with the boy's cream tunic glowing softly at the centre, creating an atmosphere of quiet loss held safely within a warm and tender world. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "muhammad_child",
+          "name": "Muhammad (as a boy)",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a young boy of about eight years, seen only from behind or with face turned away, slight build, wearing a simple cream-colored tunic with a small brown cloak, dark hair, never showing facial features"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND or NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "the_orphan_taken_in_corrected_1_panel_3.png"
+    },
+    {
+      "panel_number": 4,
+      "unit_title": "Welcomed with love",
+      "narrative_text": "Abu Talib took Muhammad into his home and cared for him like his own child. Even though Abu Talib was not rich and had a large family, he gave Muhammad all his love.",
+      "moral_lesson": "A caring home matters more than a wealthy one.",
+      "image_prompt": "Children's watercolor storybook illustration in a soft, warm, hand-painted style for ages 6-12, with gentle brushstrokes, rounded forms and a tender picture-book quality. The scene is set inside Abu Talib's modest 7th century Makkah home, a warm and welcoming family space with mud-brick walls in soft sandy tones, a woven palm mat across the floor and a low wooden table holding earthenware bowls of dates and bread. Abu Talib, a middle-aged man with a short greying beard and a kind, gentle face, wears a sand-coloured thobe with a brown cloak and white turban; he leans down and rests a caring hand on the shoulder of a young boy seen only from behind, whose face is never shown, dressed in a simple cream tunic with a small brown cloak. Several other children of varied ages sit nearby on the mat, smiling and welcoming, dressed in modest tunics of soft brown, tan and faded blue. The atmosphere is cosy, secure and full of love, showing a child being warmly welcomed into a caring home. Warm candlelight and a soft glow from a small window fill the space with golden light, casting gentle flickering shadows on the walls. The composition is a balanced medium shot at eye level, with Abu Talib's welcoming gesture at the heart of the frame. The colour palette is warm and inviting, built from amber, cream, soft brown and gentle gold with small touches of faded blue among the children's clothes, conveying belonging, comfort and the quiet generosity of a humble household. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abu_talib",
+          "name": "Abu Talib",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a middle-aged man with a short greying beard, warm caring face, wearing a sand-colored thobe with a darker brown cloak and a white turban, dignified and gentle"
+        },
+        {
+          "id": "muhammad_child",
+          "name": "Muhammad (as a boy)",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a young boy of about eight years, seen only from behind or with face turned away, slight build, wearing a simple cream-colored tunic with a small brown cloak, dark hair, never showing facial features"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND or NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "the_orphan_taken_in_corrected_1_panel_4.png"
+    },
+    {
+      "panel_number": 5,
+      "unit_title": "Blessings at the table",
+      "narrative_text": "Abu Talib noticed something special. Whenever Muhammad ate with the family, there always seemed to be enough food for everyone. He would tell his children to wait for Muhammad before eating.",
+      "moral_lesson": "Gratitude and blessing in sharing a meal.",
+      "image_prompt": "Children's watercolor storybook illustration in a soft, warm, hand-painted style for ages 6-12, with gentle brushstrokes, rounded forms and a tender picture-book quality. The scene is set inside Abu Talib's warm 7th century Makkah home as the family gathers for a shared meal. The room has mud-brick walls in warm sandy tones, a woven ochre floor mat, and a low wooden table at the centre set with earthenware bowls and platters of dates, flatbread and cups of milk. Abu Talib, a middle-aged man with a short greying beard and a warm smiling face, wears a sand-coloured thobe, brown cloak and white turban; he gestures welcomingly as a boy seen only from behind, his face never visible, in a simple cream tunic, takes his place among the children seated on the mat. The other children, in modest tunics of brown, tan and soft blue, look happy and content with their bowls full before them. The mood is joyful, cosy and grateful, capturing the quiet blessing of plentiful food shared in a loving home. Soft golden lamplight glows from a clay oil lamp on the table while a gentle wash of warm daylight enters from a small window, filling the room with an inviting amber light. The composition is a medium-wide shot at eye level, the laden table and gathered family filling the warm frame. The colour palette is rich with warm amber, cream, golden brown and soft ochre with touches of gentle blue, evoking abundance, gratitude, togetherness and the simple happiness of a family meal. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abu_talib",
+          "name": "Abu Talib",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a middle-aged man with a short greying beard, warm caring face, wearing a sand-colored thobe with a darker brown cloak and a white turban, dignified and gentle"
+        },
+        {
+          "id": "muhammad_child",
+          "name": "Muhammad (as a boy)",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a young boy of about eight years, seen only from behind or with face turned away, slight build, wearing a simple cream-colored tunic with a small brown cloak, dark hair, never showing facial features"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND or NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "the_orphan_taken_in_corrected_1_panel_5.png"
+    },
+    {
+      "panel_number": 6,
+      "unit_title": "Standing by him always",
+      "narrative_text": "Muhammad grew into a man in Abu Talib's care. Years later, when Muhammad began to share God's message, Abu Talib stood by his side and protected him, even when powerful people opposed him.",
+      "moral_lesson": "Loyalty means standing by those we love in hard times.",
+      "image_prompt": "Children's watercolor storybook illustration in a soft, warm, hand-painted style for ages 6-12, with gentle brushstrokes, rounded forms and a tender picture-book quality. The scene is set in a sunlit public square of 7th century Makkah, surrounded by flat-roofed mud-brick buildings and a few slender date palms, with the simple stone structures of the old city in the background and a scattering of onlookers in modest robes watching from a distance. In the foreground stand two figures side by side. The first is the central figure, seen only from behind with his face never visible, of medium build and dignified upright posture, wearing a flowing white thobe with a deep green woollen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades; he stands calm and steady. Beside him stands Abu Talib, now older with more grey in his beard and a brave, steadfast expression, wearing a sand-coloured thobe with a brown cloak and a white turban, his posture firm and protective as he faces outward toward the onlookers, one arm slightly raised as if shielding his companion. The mood is one of courage, loyalty and quiet dignity, showing an uncle standing by his nephew in the face of opposition. The lighting is bright warm daylight with a high golden sun, casting crisp gentle shadows on the dusty ground. The composition is a medium shot at eye level, the two upright figures forming a strong protective pairing at the centre of the frame. The colour palette combines warm sand, cream, dusty brown and clear sky-blue, anchored by the deep green cloak as the single focal colour, conveying steadfast love, protection and dignified resolve. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "abu_talib",
+          "name": "Abu Talib",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a middle-aged man with a short greying beard, warm caring face, wearing a sand-colored thobe with a darker brown cloak and a white turban, dignified and gentle"
+        },
+        {
+          "id": "muhammad",
+          "name": "the central figure",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a dignified man seen only from behind, medium build, upright posture, wearing a flowing white thobe with a deep green woolen cloak over both shoulders and a white turban with a cloth tail between the shoulder blades, never showing facial features"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND or NOT_APPLICABLE",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "early_makkah",
+      "region": "makkah",
+      "image_file": "the_orphan_taken_in_corrected_1_panel_6.png"
+    }
+  ]
+}

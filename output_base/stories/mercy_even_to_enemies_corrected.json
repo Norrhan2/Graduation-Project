@@ -1,0 +1,194 @@
+{
+  "passage_id": "mercy_even_to_enemies",
+  "display_title": "Compassion",
+  "source": "Adil Salahi, Muhammad: Man and Prophet, p. 265",
+  "story_context": {
+    "story_title": "Kindness, Even to Those Who Oppose Us",
+    "introduction": "After a difficult battle, the Prophet Muhammad taught his companions an important lesson about mercy. Even toward people who had been their enemies, he showed that kindness and gentleness always matter.",
+    "conclusion": "The Prophet showed that being kind is important even toward those who have opposed us. He believed gentle treatment could turn enemies into friends. This is one of the most beautiful lessons of mercy.",
+    "moral_lesson": "We should be gentle and merciful to everyone, even those who have been unkind to us.",
+    "reading_age": "8-12",
+    "key_figures": [
+      "the Prophet Muhammad",
+      "Bilal",
+      "Safiyyah"
+    ]
+  },
+  "units": null,
+  "panels": [
+    {
+      "panel_number": 1,
+      "unit_title": "A journey after the battle",
+      "narrative_text": "After the battle of Khaybar, Bilal, a companion of the Prophet, was guiding two young women along a road. One was Safiyyah, whom the Prophet would later marry, and the other was her cousin.",
+      "moral_lesson": "Caring for the safety of those in our charge.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. On a calm desert road in soft afternoon light, a tall dignified African man, Bilal, in an off-white tunic walks ahead, leading two young women fully and modestly dressed in long flowing gowns and head coverings. Gentle warm light, palm trees in the distance, quiet mood. Wide shot, faces visible, peaceful. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "bilal",
+          "name": "Bilal",
+          "role": "sahabi",
+          "depiction_rule": "FULL",
+          "appearance": "a tall strong African man with a noble calm face, short black hair, wearing a simple off-white tunic"
+        },
+        {
+          "id": "safiyyah",
+          "name": "Safiyyah",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a young woman fully and modestly dressed in a long deep-blue gown and head covering covering her hair completely, gentle dignified expression"
+        },
+        {
+          "id": "cousin",
+          "name": "Safiyyah's cousin",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a young woman fully and modestly dressed in a long maroon gown and head covering, sensitive expression"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected; no graphic content"
+      },
+      "era": "madinah_late",
+      "region": "madinah",
+      "image_file": "mercy_even_to_enemies_corrected_panel_1.png"
+    },
+    {
+      "panel_number": 2,
+      "unit_title": "The sorrowful path",
+      "narrative_text": "Bilal chose a path that passed close by the place where those who had died in the battle were being buried. He thought it might be a useful sight, but he did not think about how it would feel.",
+      "moral_lesson": "Thinking about how our choices affect others' feelings.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. A quiet desert landscape at golden hour with a distant burial area shown only as gentle covered mounds far in the background, respectful and not graphic. In the foreground, Bilal leads the two modestly dressed women along a sandy path. Soft amber light, solemn but gentle mood. Wide shot, nothing frightening. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "bilal",
+          "name": "Bilal",
+          "role": "sahabi",
+          "depiction_rule": "FULL",
+          "appearance": "a tall strong African man with a noble calm face, short black hair, wearing a simple off-white tunic"
+        },
+        {
+          "id": "safiyyah",
+          "name": "Safiyyah",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a young woman fully and modestly dressed in a long deep-blue gown and head covering covering her hair completely, gentle dignified expression"
+        },
+        {
+          "id": "cousin",
+          "name": "Safiyyah's cousin",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a young woman fully and modestly dressed in a long maroon gown and head covering, sensitive expression"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected; no graphic content"
+      },
+      "era": "madinah_late",
+      "region": "madinah",
+      "image_file": "mercy_even_to_enemies_corrected_panel_2.png"
+    },
+    {
+      "panel_number": 3,
+      "unit_title": "Tears of grief",
+      "narrative_text": "When Safiyyah's cousin saw the place, she became very upset and began to weep, for these had been her own people.",
+      "moral_lesson": "Grief deserves gentleness and understanding.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. In warm soft light, a young woman in a long maroon gown and head covering raises her hands to her face in sorrow with tears on her cheeks, while Safiyyah in a deep-blue gown gently comforts her. A quiet sandy path, distant palm trees. Tender, compassionate mood. Medium shot, faces visible, emotional but not frightening. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "safiyyah",
+          "name": "Safiyyah",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a young woman fully and modestly dressed in a long deep-blue gown and head covering covering her hair completely, gentle dignified expression"
+        },
+        {
+          "id": "cousin",
+          "name": "Safiyyah's cousin",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a young woman fully and modestly dressed in a long maroon gown and head covering, sensitive expression"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected; no graphic content"
+      },
+      "era": "madinah_late",
+      "region": "madinah",
+      "image_file": "mercy_even_to_enemies_corrected_panel_3.png"
+    },
+    {
+      "panel_number": 4,
+      "unit_title": "The Prophet's gentle reproach",
+      "narrative_text": "When the Prophet heard what had happened, he was unhappy with Bilal. He said gently but firmly, 'Have you no mercy, Bilal? You took these young women past their grieving dead.'",
+      "moral_lesson": "Even good people are reminded to be merciful.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. Inside a calm Madinah dwelling with soft daylight, the central figure seen from behind in a deep green cloak speaks to Bilal, who stands with head lowered respectfully, listening. The mood is gentle correction, not anger. Warm earth tones, quiet atmosphere. Medium shot; central figure shown only from behind, Bilal's face visible and thoughtful. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "muhammad",
+          "name": "the central figure",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a dignified man seen only from behind, medium build, upright posture, wearing a flowing white thobe with a deep green woolen cloak over both shoulders and a white turban, never showing facial features"
+        },
+        {
+          "id": "bilal",
+          "name": "Bilal",
+          "role": "sahabi",
+          "depiction_rule": "FULL",
+          "appearance": "a tall strong African man with a noble calm face, short black hair, wearing a simple off-white tunic"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected; no graphic content"
+      },
+      "era": "madinah_late",
+      "region": "madinah",
+      "image_file": "mercy_even_to_enemies_corrected_panel_4.png"
+    },
+    {
+      "panel_number": 5,
+      "unit_title": "A lesson of mercy",
+      "narrative_text": "Bilal felt sorry and apologized, promising he would never do such a thing again. The Prophet taught that even toward those who had been enemies, kindness and mercy must always come first.",
+      "moral_lesson": "Mercy toward everyone, even former enemies, is the way of the Prophet.",
+      "image_prompt": "Children's watercolor storybook illustration, soft warm hand-painted style for ages 6-12. In warm gentle light inside the Madinah home, Bilal stands with one hand over his heart in a sincere gesture of apology, his expression humble. The central figure seen from behind in the green cloak stands calmly, a sense of forgiveness and warmth. Soft golden light, peaceful uplifting mood. Medium shot; central figure from behind only, Bilal's face visible. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "muhammad",
+          "name": "the central figure",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a dignified man seen only from behind, medium build, upright posture, wearing a flowing white thobe with a deep green woolen cloak over both shoulders and a white turban, never showing facial features"
+        },
+        {
+          "id": "bilal",
+          "name": "Bilal",
+          "role": "sahabi",
+          "depiction_rule": "FULL",
+          "appearance": "a tall strong African man with a noble calm face, short black hair, wearing a simple off-white tunic"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected; no graphic content"
+      },
+      "era": "madinah_late",
+      "region": "madinah",
+      "image_file": "mercy_even_to_enemies_corrected_panel_5.png"
+    }
+  ]
+}
