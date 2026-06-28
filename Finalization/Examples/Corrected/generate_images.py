@@ -42,6 +42,7 @@ os.environ["FAL_KEY"] = FAL_KEY
 # Folder containing your input JSON files (all 8 of them).
 # '.' means the same folder as this script. Change if your JSONs are elsewhere,
 # e.g. INPUT_DIR = r"C:\Users\moham\Desktop\tariikhna\stories"
+
 INPUT_DIR = r"C:\Users\Norhan Yasser\Graduation-Project\Finalization\Examples\Corrected\input_stories"
 
 # Where to write the two output sets
@@ -49,6 +50,8 @@ BASE_OUT = "output_base"
 # V1_OUT = "output_v1"
 
 MODEL = "fal-ai/nano-banana"      # FLUX dev as requested  // changed to nano-banana 
+
+
 IMAGE_SIZE = "landscape_4_3"   # comic panel shape
 
 # ============================================================
@@ -141,12 +144,14 @@ def main():
         return
 
     base_files = [f for f in all_files if not is_v1(os.path.basename(f))]
+
     # v1_files = [f for f in all_files if is_v1(os.path.basename(f))]
 
     print(f"Found {len(all_files)} JSON files in '{INPUT_DIR}/'")
     print(f"\nBASE set ({len(base_files)}) -> {BASE_OUT}/")
     for f in sorted(base_files):
         print(f"  {os.path.basename(f)}")
+
     # print(f"\nV1 set ({len(v1_files)}) -> {V1_OUT}/")
     #for f in sorted(v1_files):
      #   print(f"  {os.path.basename(f)}")
@@ -158,6 +163,10 @@ def main():
 
     print("\n\nAll done!")
     print(f"Images and updated JSONs are in '{BASE_OUT}/'.")
+
+
+    print("\n\nAll done!")
+    print(f"Images and updated JSONs are in '{BASE_OUT}/' ")
 
 
 if __name__ == "__main__":
