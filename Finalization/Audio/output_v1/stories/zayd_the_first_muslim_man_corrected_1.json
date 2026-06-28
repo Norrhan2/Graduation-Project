@@ -1,0 +1,235 @@
+{
+  "passage_id": "zayd_the_first_muslim_man",
+  "display_title": "The First Muslim Man",
+  "source": "Adil Salahi, Muhammad: Man and Prophet, p. 54",
+  "story_context": {
+    "story_title": "Zayd's Choice",
+    "introduction": "Long ago, a young boy named Zayd was taken far from his family and made a slave. His journey led him to the household of Muhammad, before he became a Prophet. There, Zayd would face a choice that would change his life forever.",
+    "conclusion": "When given the chance to return to his family, Zayd chose to stay with Muhammad, because of the kindness and goodness he had seen in him. Muhammad treated him not as a slave but as a beloved son. Zayd later became the first grown man to believe in Islam.",
+    "moral_lesson": "Kindness and love can create bonds stronger than anything else, and goodness is recognized by the heart.",
+    "reading_age": "8-12",
+    "key_figures": [
+      "Zayd",
+      "the central figure (Muhammad)",
+      "Harithah",
+      "Khadijah"
+    ],
+    "introduction_audio": "zayd_the_first_muslim_man_corrected_1_introduction.mp3",
+    "conclusion_audio": "zayd_the_first_muslim_man_corrected_1_conclusion.mp3"
+  },
+  "units": null,
+  "panels": [
+    {
+      "panel_number": 1,
+      "unit_title": "A boy taken from home",
+      "narrative_text": "When Zayd was a young boy, he was taken from his mother during a journey and sold far away from his family. His father searched for him with a broken heart, but could not find him.",
+      "moral_lesson": "Compassion for those separated from their families.",
+      "image_prompt": "Children's watercolor storybook illustration in a soft, warm, hand-painted style for ages 6-12, with gentle brushstrokes, rounded forms and a tender picture-book quality. The scene is set on a dusty open road in 7th century Arabia at dawn, soft sand dunes rolling toward distant pale hills under a wide gentle sky tinged with early rose and gold. A young boy of about eight, with a worried, tender face and dark hair, wearing a simple tan tunic with a small cloth belt, stands near the centre and looks back over his shoulder toward the distant hills, longing for the home and family he has been taken from. A few sparse desert shrubs and a lone distant date palm dot the landscape. The mood is sympathetic and gentle, conveying separation and longing without anything violent or frightening. The lighting is the soft muted glow of early morning, pale gold and rose washing across the dunes, casting a long gentle shadow from the small figure. The composition is a wide shot that emphasises the great distance between the boy and his far-off home, his small form set against the vast quiet land. The colour palette blends soft pale gold, dusty rose, warm sand and gentle muted blue, conveying tenderness, distance and quiet hope held within a child's heart. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "zayd_boy",
+          "name": "Zayd (as a boy)",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a boy of about eight with a gentle frightened then hopeful face, dark hair, wearing a simple tan tunic"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "zayd_the_first_muslim_man_corrected_1_panel_1.png",
+      "audio_file": "zayd_the_first_muslim_man_corrected_1_panel_1.mp3"
+    },
+    {
+      "panel_number": 2,
+      "unit_title": "A new home",
+      "narrative_text": "Zayd was brought to Makkah, where the noble lady Khadijah chose him. When she married Muhammad, she gave Zayd to him. Muhammad was so kind that he soon set Zayd free and treated him like family.",
+      "moral_lesson": "Treating others with dignity and kindness.",
+      "image_prompt": "Children's watercolor storybook illustration in a soft, warm, hand-painted style for ages 6-12, with gentle brushstrokes, rounded forms and a tender picture-book quality. The scene is set inside a warm and comfortable 7th century Makkah home with smooth mud-brick walls in soft sandy tones, fine woven rugs in muted red and ochre on the floor, a low table and a hanging cloth, lit gently by a small window. The noble lady Khadijah, fully and modestly dressed in a fine deep-green gown with a head covering completely covering her hair and a kind, noble expression, gently presents a young boy to the central figure, seen only from behind with his face never visible, of medium build and dignified upright posture, wearing a flowing white thobe with a deep green woollen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. The boy of about eight, with dark hair and a simple tan tunic, stands between them seen partly from the side, looking up with cautious hope. The mood is warm, welcoming and kind, capturing a child entering a home where he will be loved. Soft golden light from the window fills the room, casting a gentle glow and soft shadows. The composition is a balanced medium shot at eye level, the three figures forming a gentle welcoming group with the central figure shown only from behind. The colour palette blends warm cream, soft amber and gentle sand, anchored by Khadijah's deep-green gown and the central figure's matching green cloak, conveying nobility, warmth and the beginning of a loving bond. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "khadijah",
+          "name": "Khadijah",
+          "role": "family_of_prophet",
+          "depiction_rule": "FULL",
+          "appearance": "a dignified woman fully and modestly dressed in a fine deep-green gown and head covering completely covering her hair, kind noble expression"
+        },
+        {
+          "id": "muhammad",
+          "name": "the central figure",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a dignified young man seen only from behind, medium build, upright posture, wearing a flowing white thobe with a deep green woolen cloak over both shoulders and a white turban, never showing facial features"
+        },
+        {
+          "id": "zayd_boy",
+          "name": "Zayd (as a boy)",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a boy of about eight with a gentle frightened then hopeful face, dark hair, wearing a simple tan tunic"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "zayd_the_first_muslim_man_corrected_1_panel_2.png",
+      "audio_file": "zayd_the_first_muslim_man_corrected_1_panel_2.mp3"
+    },
+    {
+      "panel_number": 3,
+      "unit_title": "A father's search ends",
+      "narrative_text": "Years passed, and Zayd grew into a young man. One day his father, Harithah, finally discovered where Zayd was. Full of hope, he traveled to Makkah and begged to buy back his son.",
+      "moral_lesson": "The deep love of a parent for a child.",
+      "image_prompt": "Children's watercolor storybook illustration in a soft, warm, hand-painted style for ages 6-12, with gentle brushstrokes, rounded forms and a tender picture-book quality. The scene is set in a sunlit courtyard of a 7th century Makkah home, enclosed by warm mud-brick walls with a slender date palm and a clay water jar against the wall. A travel-worn middle-aged man, Harithah, with a hopeful earnest face and a short beard, wearing dusty brown and grey travelling robes with a white head cloth, stands with his hands open in a heartfelt, pleading appeal as he speaks with the central figure, seen only from behind with his face never visible, of medium build and dignified upright posture, wearing a flowing white thobe with a deep green woollen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades. The dusty ground and warm walls glow in the daylight around them. The mood is emotional and hopeful, capturing a father's long search for his lost son finally reaching its goal. Warm daylight bathes the courtyard, casting soft gentle shadows. The composition is a medium shot at eye level, the two men facing each other, the central figure shown only from behind while Harithah's earnest face is clearly visible. The colour palette blends warm sand, cream, dusty brown and soft amber, anchored by the deep green cloak, conveying hope, longing and a father's enduring love. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "harithah",
+          "name": "Harithah (Zayd's father)",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a middle-aged man with a worn hopeful face and short beard, wearing travel-worn brown and grey robes with a head cloth"
+        },
+        {
+          "id": "muhammad",
+          "name": "the central figure",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a dignified young man seen only from behind, medium build, upright posture, wearing a flowing white thobe with a deep green woolen cloak over both shoulders and a white turban, never showing facial features"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "zayd_the_first_muslim_man_corrected_1_panel_3.png",
+      "audio_file": "zayd_the_first_muslim_man_corrected_1_panel_3.mp3"
+    },
+    {
+      "panel_number": 4,
+      "unit_title": "The fair choice",
+      "narrative_text": "Muhammad offered something fair. He called Zayd and said, 'If you wish, go with your father. If you wish, stay with me. The choice is yours.' Everyone waited to hear what Zayd would say.",
+      "moral_lesson": "Respecting others' freedom to choose.",
+      "image_prompt": "Children's watercolor storybook illustration in a soft, warm, hand-painted style for ages 6-12, with gentle brushstrokes, rounded forms and a tender picture-book quality. The scene is set inside a calm, simple 7th century Makkah home with warm mud-brick walls, a woven palm mat on the floor and a soft cloth hanging on one wall, gently lit by a small window. Three figures form a quiet, important moment. the central figure, seen only from behind with his face never visible, of medium build and dignified upright posture, wearing a flowing white thobe with a deep green woollen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades gestures gently toward a young man, Zayd, who stands thoughtfully at the centre with a kind earnest face, short dark beard and a clean cream tunic with a brown sash, considering a great choice. To the other side stands his hopeful father Harithah in dusty brown travelling robes and white head cloth, watching anxiously. The mood is gentle and weighty, capturing a moment of free and important decision. Soft warm light from the window fills the room, casting gentle shadows and a serene atmosphere. The composition is a medium-wide shot at eye level, the young man framed between the central figure and his father, with the central figure shown only from behind and the two men's faces clearly visible. The colour palette blends warm cream, soft amber, dusty brown and gentle sand, anchored by the deep green cloak, conveying thoughtfulness, fairness and the quiet tension of a life-changing choice. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "muhammad",
+          "name": "the central figure",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a dignified young man seen only from behind, medium build, upright posture, wearing a flowing white thobe with a deep green woolen cloak over both shoulders and a white turban, never showing facial features"
+        },
+        {
+          "id": "zayd",
+          "name": "Zayd",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a young man with a kind earnest face, short dark beard, wearing a clean cream tunic with a brown sash"
+        },
+        {
+          "id": "harithah",
+          "name": "Harithah (Zayd's father)",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a middle-aged man with a worn hopeful face and short beard, wearing travel-worn brown and grey robes with a head cloth"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "zayd_the_first_muslim_man_corrected_1_panel_4.png",
+      "audio_file": "zayd_the_first_muslim_man_corrected_1_panel_4.mp3"
+    },
+    {
+      "panel_number": 5,
+      "unit_title": "I will stay",
+      "narrative_text": "Without hesitation, Zayd said, 'I will stay with you.' He explained that he had seen such goodness in Muhammad that he could never leave him. His father was moved, and was glad his son was in such kind hands.",
+      "moral_lesson": "Goodness and kindness are recognized by the heart.",
+      "image_prompt": "Children's watercolor storybook illustration in a soft, warm, hand-painted style for ages 6-12, with gentle brushstrokes, rounded forms and a tender picture-book quality. The scene is set inside the same calm 7th century Makkah home, warm mud-brick walls glowing in soft golden light, a woven mat on the floor. A young man, Zayd, with a kind earnest face, short dark beard and a clean cream tunic with a brown sash, stands with a calm, certain expression and one hand placed sincerely over his heart, having made his choice to stay. Beside him stands the central figure, seen only from behind with his face never visible, of medium build and dignified upright posture, wearing a flowing white thobe with a deep green woollen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades, a sense of warmth and quiet joy in his posture. To the side, Zayd's father Harithah, in dusty brown robes and white head cloth, looks on with a bittersweet, understanding expression. The mood is touching and heartfelt, capturing loyalty born of love and kindness recognised by the heart. Soft warm golden light fills the room, casting gentle shadows and a tender glow. The composition is a medium shot at eye level, Zayd at the centre with his hand on his heart, the central figure shown only from behind and the others' faces visible. The colour palette blends warm amber, cream, soft brown and gentle gold, anchored by the deep green cloak, conveying devotion, warmth and a moving moment of chosen belonging. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "zayd",
+          "name": "Zayd",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a young man with a kind earnest face, short dark beard, wearing a clean cream tunic with a brown sash"
+        },
+        {
+          "id": "muhammad",
+          "name": "the central figure",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a dignified young man seen only from behind, medium build, upright posture, wearing a flowing white thobe with a deep green woolen cloak over both shoulders and a white turban, never showing facial features"
+        },
+        {
+          "id": "harithah",
+          "name": "Harithah (Zayd's father)",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a middle-aged man with a worn hopeful face and short beard, wearing travel-worn brown and grey robes with a head cloth"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "zayd_the_first_muslim_man_corrected_1_panel_5.png",
+      "audio_file": "zayd_the_first_muslim_man_corrected_1_panel_5.mp3"
+    },
+    {
+      "panel_number": 6,
+      "unit_title": "Like a son",
+      "narrative_text": "Muhammad took Zayd by the hand and announced before the people that Zayd would be like his own son. From that day, Zayd was loved deeply, and he later became the first grown man to follow Islam.",
+      "moral_lesson": "Love can make a family out of any two hearts.",
+      "image_prompt": "Children's watercolor storybook illustration in a soft, warm, hand-painted style for ages 6-12, with gentle brushstrokes, rounded forms and a tender picture-book quality. The scene is set near the simple cube-shaped stone Kaaba in old 7th century Makkah, the plain dark stone structure rising in an open dusty courtyard ringed by low mud-brick buildings, with a small gathering of modestly dressed onlookers in soft brown, tan and cream robes watching nearby. the central figure, seen only from behind with his face never visible, of medium build and dignified upright posture, wearing a flowing white thobe with a deep green woollen cloak draped over both shoulders and a white turban with a cloth tail hanging between the shoulder blades holds the hand of the young man Zayd and raises it warmly before the small gathering, presenting him with evident affection. Zayd, with a kind happy face, short dark beard and a clean cream tunic with a brown sash, stands tall beside him, his face glad and moved. The mood is joyful and dignified, celebrating love that makes a family of two hearts. Bright warm daylight with a high golden sun lights the open courtyard, casting soft gentle shadows on the dusty ground. The composition is a wide shot at eye level, the two central figures raised hands at the heart of the frame, the central figure shown only from behind and Zayd's happy face clearly visible. The colour palette blends warm sand, cream, golden brown and soft ochre, anchored by the deep green cloak, conveying joy, dignity, belonging and public love. No modern objects, historically accurate 7th century scene.",
+      "characters": [
+        {
+          "id": "muhammad",
+          "name": "the central figure",
+          "role": "prophet",
+          "depiction_rule": "FROM_BEHIND",
+          "appearance": "a dignified young man seen only from behind, medium build, upright posture, wearing a flowing white thobe with a deep green woolen cloak over both shoulders and a white turban, never showing facial features"
+        },
+        {
+          "id": "zayd",
+          "name": "Zayd",
+          "role": "supporting",
+          "depiction_rule": "FULL",
+          "appearance": "a young man with a kind earnest face, short dark beard, wearing a clean cream tunic with a brown sash"
+        }
+      ],
+      "compliance": {
+        "prophet_check": "FROM_BEHIND",
+        "modesty_check": "COMPLIANT",
+        "child_safe": "APPROPRIATE",
+        "notes": "Reviewed and corrected for historical accuracy"
+      },
+      "era": "pre_prophetic",
+      "region": "makkah",
+      "image_file": "zayd_the_first_muslim_man_corrected_1_panel_6.png",
+      "audio_file": "zayd_the_first_muslim_man_corrected_1_panel_6.mp3"
+    }
+  ]
+}
