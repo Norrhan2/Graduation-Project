@@ -1,42 +1,48 @@
 # Tariikhna (تاريخنا — "Our History")
 
 Authentic Islamic historical narratives, retold as gentle, historically-corrected
-**illustrated storybooks for children**. A FastAPI backend serves the story data
-and illustrations; a Streamlit frontend presents them as a readable storybook.
+**illustrated storybooks for children**. A Streamlit app presents them as a
+readable storybook.
+
+The story data and images are committed to the repo, so the Streamlit app reads
+them **directly** by default (no server required) — that's what makes the free
+single-service deploy possible. A FastAPI backend is also included for those who
+want a separate API; the app uses it automatically when `TARIIKHNA_API_URL` is
+set. See [DEPLOY.md](DEPLOY.md).
 
 ---
 
 ## What's inside
 
 ```
-tariikhna/
-├── backend/                     FastAPI + SQLModel + SQLite
+(repo root)
+├── backend/                     FastAPI + SQLModel + SQLite (optional API)
 │   ├── app/
 │   │   ├── main.py              app + CORS + /media static mount
 │   │   ├── models/db_models.py  Story + Scene (panel) tables
-│   │   ├── routers/library.py   read-only storybook API (used by the frontend)
+│   │   ├── routers/library.py   read-only storybook API
 │   │   ├── routers/stories.py   generation-pipeline endpoints (unchanged)
 │   │   └── routers/scenes.py    generation-pipeline endpoints (unchanged)
 │   ├── import_storybook.py      ⭐ loads the corrected stories into the DB
-│   ├── media/stories/{base,v1}/ illustrations served at /media/...
-│   └── tariikhna.db             SQLite database (the imported content)
+│   ├── media/stories/{base,v1}/ illustrations (committed)
+│   └── tariikhna.db             SQLite database (the imported content, committed)
 └── frontend/                    Streamlit multipage app
     ├── streamlit_app.py         Home page
     ├── pages/1_📚_Stories.py     Library (grid of story cards)
     ├── pages/2_📖_Read_Story.py  Reader (scene image beside narrative text)
-    └── storybook_api.py         shared API client + styling
+    ├── local_store.py           reads the bundled DB + images (default, no server)
+    └── storybook_api.py         data access: auto-selects local vs API mode
 ```
 
 ## The data
 
-The content comes from `Finalization/Examples/Corrected/`:
+The content comes from the `Graduation-Project` repo — illustrations from
+`output_base/images/` and narration from `Finalization/Audio/output_base/`:
 
 - **4 stories**, each a sequence of panels (scenes) with a `narrative_text`,
-  `unit_title`, and per-scene `moral_lesson`.
-- Each scene has **two illustration variants**: `base` (`output_base/images`) and
-  `v1` (`output_v1/images`, richer prompts). The narrative is identical between
-  them — only the artwork differs — so the Reader offers a **Storybook / Detailed**
-  toggle to switch illustration sets.
+  `unit_title`, and per-scene `moral_lesson`, plus one illustration each.
+- Each scene, plus the intro and conclusion, also has **narration audio** (MP3).
+  The Reader shows a 🔊 player so children can listen to the text.
 
 | Story | Slug | Scenes | Ages |
 |-------|------|--------|------|
@@ -45,36 +51,55 @@ The content comes from `Finalization/Examples/Corrected/`:
 | A Transfer of Care | `the_orphan_taken_in` | 6 | 6–10 |
 | The First Muslim Man | `zayd_the_first_muslim_man` | 6 | 8–12 |
 
-The importer copies the illustrations into `backend/media/`, so the backend is
-**self-contained** and does not depend on the `Finalization/` folder at runtime.
+The importer copies the illustrations and audio into `backend/media/`, so the app
+is **self-contained** and does not depend on the `Finalization/` folder at runtime.
 
 ---
 
 ## Setup & run (local)
 
-From the `tariikhna/` folder:
+From the repo root:
 
 ```bash
-# 1. one-time: create a virtualenv and install deps
+# one-time: create a virtualenv and install deps
 py -V:3.10 -m venv .venv
-.venv/Scripts/python -m pip install -r backend/requirements.txt -r frontend/requirements.txt
+.venv/Scripts/python -m pip install -r frontend/requirements.txt
 
-# 2. one-time: import the corrected stories into the database
-cd backend
-../.venv/Scripts/python import_storybook.py
-#   (custom source: ../.venv/Scripts/python import_storybook.py --source "C:/path/to/Corrected")
-
-# 3. run the backend  (terminal 1, from backend/)
-../.venv/Scripts/python -m uvicorn app.main:app --reload
-#   API docs:   http://127.0.0.1:8000/docs
-
-# 4. run the frontend (terminal 2, from frontend/)
+# run the app — that's all you need (reads the bundled DB + images directly)
+cd frontend
 ../.venv/Scripts/python -m streamlit run streamlit_app.py
-#   App:        http://localhost:8501
+#   App: http://localhost:8501
 ```
 
-The frontend reads `TARIIKHNA_API_URL` (default `http://127.0.0.1:8000`) to find
-the backend, so you can point it at a deployed API without code changes.
+**Optional — run the FastAPI backend too** (only if you want the API instead of
+direct DB reads):
+
+```bash
+.venv/Scripts/python -m pip install -r backend/requirements.txt
+
+# terminal 1: the backend
+cd backend && ../.venv/Scripts/python -m uvicorn app.main:app --reload   # :8000/docs
+
+# terminal 2: point the frontend at it
+cd frontend
+TARIIKHNA_API_URL=http://127.0.0.1:8000 ../.venv/Scripts/python -m streamlit run streamlit_app.py
+```
+
+**Re-import the stories** (only if the source changes — the data is already
+committed in `backend/tariikhna.db` + `backend/media/`). With the default layout
+(the `Graduation-Project` repo sitting next to this one) no args are needed:
+
+```bash
+cd backend
+../.venv/Scripts/python import_storybook.py
+# or pass explicit folders:
+#   --images "<path>/Graduation-Project/output_base/images"
+#   --stories "<path>/Graduation-Project/Finalization/Audio/output_base/stories"
+#   --audio  "<path>/Graduation-Project/Finalization/Audio/output_base/audio"
+```
+
+The data source is chosen automatically: `TARIIKHNA_API_URL` set → API mode;
+otherwise the bundled database → local mode.
 
 ---
 
